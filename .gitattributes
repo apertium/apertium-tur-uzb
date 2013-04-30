@@ -5,4 +5,5 @@
 /apertium-tur-uzb.tur.twol -text
 /apertium-tur-uzb.uzb.lexc -text
 /apertium-tur-uzb.uzb.twol -text
+/lol -text
 /update-morphs.bash -text
