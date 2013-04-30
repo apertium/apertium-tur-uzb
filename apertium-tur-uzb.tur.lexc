@@ -1,0 +1,2082 @@
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!   M O R P H O L O G I C A L · T R A N S D U C E R · F O R · TURKISH     !!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+! See http://wiki.apertium.org/wiki/Turkic_lexicon
+
+Multichar_Symbols
+! Followed http://wiki.apertium.org/wiki/Turkic_languages
+
+! Part of speech categories
+%<n%>          ! Noun                       
+%<np%>         ! Proper noun                
+%<adj%>        ! Adjective                  
+%<num%>        ! Numeral                    
+%<prn%>        ! Pronoun                    
+%<det%>        ! Determiner                 
+%<v%>          ! Verb                       
+%<vaux%>       ! Auxilary verb              
+%<adv%>        ! Adverb                     
+%<post%>       ! Postposition               
+%<postadv%>    ! Postadverb                 
+%<cnjcoo%>     ! Co-ordinating conjunction  
+%<cnjsub%>     ! Sub-ordinating conjunction 
+%<cnjadv%>     ! Adverbial conjunction      
+%<part%>       ! Particle                   
+%<ij%>         ! Interjection               
+%<abbr%>       ! Abbreviation               
+%<cop%>        ! Copula                     
+%<qst%>        ! Question particle
+%<title%>      ! Personal/professional titles
+!%<ideo%>       ! Ideophone                  
+
+! Proper noun types
+%<top%>            
+%<ant%>            
+%<cog%>            
+%<org%>            
+%<al%>             
+
+%<p1%>
+%<p2%>
+%<p3%>
+
+!! gender of anthroponyms 
+%<m%>              ! Masculine    
+%<f%>              ! Feminine     
+
+! "Syntactic" tags. Attributive use of non-adjectives etc. !!!!! NOT SURE I WANT THIS !!!!
+%<attr%>           ! Attributive
+%<subst%>          ! Substantive
+%<advl%>           ! Adverbial
+
+! Number ! Сан ! Число
+%<sg%>             ! Singular  
+%<pl%>             ! Plural    
+%<sp%>             ! Singular/Plural (used for formal personal pronoun)
+
+! Possessives 
+%<px1sg%>          ! First person singular
+%<px2sg%>          ! Second person singular
+%<px3sp%>          ! Third person singular/plural
+%<px1pl%>          ! First person plural
+%<px2pl%>          ! Second person singular
+%<px%>             ! General possessive           ! NOT SURE I WANT THIS
+                   ! - Bu hangi kapı ? Evinki ya da barakanınkı ?
+                   !   "which door is that?  the house's or the shed's?"
+
+! Cases ! "Case is a lie!" (quot.)
+
+%<nom%>            
+%<gen%>            
+%<dat%>            
+%<acc%>            
+%<abl%>            
+%<loc%>            
+%<ins%>            ! Instrumental=comitative 
+
+
+! Pronoun types ! Алмашлык төрләре ! Виды местоимений
+%<pers%>           ! Personal
+! Pronoun and determiner types
+%<dem%>            ! Demonstrative
+%<ind%>            ! Indefinite
+%<itg%>            ! Interrogative
+%<qnt%>            ! Quantifier
+%<neg%>            ! Negative    ! NOTE: also used to denote negation in verbs ! what do you mean firespeaker??
+%<ref%>            ! Reflexive
+
+!! Numeral types
+%<ord%>            ! Ordinal
+%<coll%>           ! Collective
+%<dist%>           ! Distibutive
+
+! Tense, aspect, mood
+%<imp%>            ! Imperative
+%<cond%>           ! Conditional  ! Шарт  ! Условное  !! -с{A}
+%<caus%>           ! Causative
+%<pass%>           ! Passive
+%<coop%>           ! Cooperative
+
+%<pres%>           ! -{A}
+%<past%>           ! -{D}{I} 
+%<evi%>            ! -m{I}s 
+%<fut%>		   ! -{A}C{A}{K}
+%<pcont%>          ! 
+
+%<ger1%>           !
+%<ger2%>           !
+%<ger3%>           !
+%<ger4%>           !
+%<ger5%>           !
+%<ger6%>           !
+
+%{A%}              ! Becomes 'a' or 'e' 
+%{I%}              ! Becomes 'i', 'ı' 'ü", or "u"
+%{D%}		   ! Becomes "d" or "t" - fistikci sahap
+%{L%}              ! 
+
+
+%{n%}		   ! Becomes "n" after a vowel, otherwise null
+%{y%}		   ! Becomes "y" after a vowel, otherwise null
+%{s%}		   ! Becomes "s" after a vowel, otherwise null
+%{i%}		   ! Becomes as "i" after a consonant, otherwise null
+%{pN%}		   ! Becomes "n" before dat abl loc and after 3p poss, otherwise null
+%{e%}
+%{a%}
+
+%{fö%}             ! Enforce rounded front harmony
+%{fi%}             ! Enforce unrounded front harmony
+
+%{p%}              ! Last consonant unvoiced (Cnsdev)
+%{b%}              ! Last consonant voiced
+
+%{o%}              ! Back round
+%{ı%}              ! Back unround
+%{ö%}              ! Front round
+%{ii%}             ! Front unround
+
+%{u%}              ! Harmonising "deletion/insertion vowel"
+
+%{v%}              ! Apply voicing rules
+
+%>
+%+
+% 
+%~
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!                       M O R P H O T A C T I C S                         !!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON Root
+
+ModalParticles ; 
+Copula ; 
+Conjunctions ; 
+Titles ; 
+Postpositions ; 
+Postadverbs ;
+Pronouns ; 
+Determiners ; 
+Numerals ; 
+Nouns ; 
+ProperNouns ;
+Adjectives ; 
+Adverbs ; 
+Verbs ; 
+Interjections ; 
+Abbreviations ; 
+Punctuation ; 
+Digits ;  ! Use/Circ
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!
+!!!!                            N U M E R A L S 
+!!!!
+!!!! WARNING: This section should not be modified without consultation. 
+!!!!          Test cases are in dev/numerals.
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+LEXICON SQRD
+! This lexicon includes common ways of writing squared, cubed etc.
+
+²%<num%>:2 # ;  ! Dir/LR
+³%<num%>:3 # ;  ! Dir/LR
+²%<num%>:² # ;
+³%<num%>:³ # ;
+%<num%>: # ;
+
+LEXICON NUM-DIGIT
+
+%<num%>: # ;
+%<num%>%<subst%>%<nom%>: # ;
+%<num%>%<subst%>:%' SUBST-NONOM ;
+%<num%>%<subst%>: SUBST-NONOM ; ! Dir/LR
+
+%<num%>%<ord%>:%'%{i%}nc%{I%} # ;
+%<num%>%<ord%>%<subst%>%<nom%>:%'%{I%}nc%{I%} # ;
+%<num%>%<ord%>%<subst%>:%'%{I%}nc%{i%} SUBST-NONOM ;
+
+!%<num%>%<coll%>%<advl%>:%-%{A%}у # ;
+!%<num%>%<coll%>%<nom%>:%-%{A%}у # ;
+!%<num%>%<coll%>:%-%{A%}у SUBST-NONOM ;
+
+!%<num%>%<percent%>:%% # ;
+!%<num%>%<percent%>%<subst%>%<nom%>:%% # ;
+!%<num%>%<percent%>%<subst%>:%%{а%}%{з%}%- SUBST-NONOM ;
+
+
+!°С%<num%>:°С # ;
+!°С%<num%>%<subst%>%<nom%>:°С # ;
+!°С%<num%>%<subst%>:°С%{а%}%{с%}%- SUBST-NONOM ;
+!°С%<num%>%<subst%>:°С%{э%}%{с%}%- SUBST-NONOM ; ! Dir/LR
+!°С%<num%>:ºС # ; ! Dir/LR
+!°С%<num%>%<subst%>%<nom%>:ºС # ; ! Dir/LR
+!°С%<num%>%<subst%>:ºС%{а%}%{с%}%- SUBST-NONOM ; ! Dir/LR
+!°С%<num%>%<subst%>:ºС%{э%}%{с%}%- SUBST-NONOM ; ! Dir/LR
+!°С%<num%>:С # ; ! Dir/LR
+!°С%<num%>%<subst%>%<nom%>:С # ; ! Dir/LR
+!°С%<num%>%<subst%>:С%{а%}%{с%}%- SUBST-NONOM ; ! Dir/LR
+!°С%<num%>%<subst%>:С%{э%}%{с%}%- SUBST-NONOM ; ! Dir/LR
+
+! Measurement units
+
+km:km SQRD ;
+mm:mm SQRD ;
+sm:sm SQRD ;
+m:m SQRD ;
+
+LEXICON LASTDIGIT
+
+1:1%{ii%}%{b%}           NUM-DIGIT ; ! "bir"
+2:2%{ii%}                NUM-DIGIT ; ! "iki"
+3:3%{ö%}%{p%}           NUM-DIGIT ; ! "üç"
+4:4%{ö%}%{p%}           NUM-DIGIT ; ! "dört"
+5:5%{ii%}%{p%}           NUM-DIGIT ; ! "beş"
+6:6%{ı%}                NUM-DIGIT ; ! "altı"
+7:7%{ii%}                NUM-DIGIT ; ! "yedi"
+8:8%{ii%}%{b%}           NUM-DIGIT ; ! "sekiz"
+9:9%{o%}%{b%}           NUM-DIGIT ; ! "dokuz"
+
+LEXICON LASTDIGIT-REST
+
+1%0:1%0%{o%}%{b%}       NUM-DIGIT ; ! "on"
+2%0:2%0%{ii%}            NUM-DIGIT ; ! "yirmi"
+3%0:3%0%{o%}%{b%}       NUM-DIGIT ; ! "otuz"
+4%0:4%0%{ı%}%{p%}       NUM-DIGIT ; ! "kırk"
+5%0:5%0%{ii%}            NUM-DIGIT ; ! "elli"
+6%0:6%0%{ı%}%{p%}       NUM-DIGIT ; ! "altmış"
+7%0:7%0%{ii%}%{p%}       NUM-DIGIT ; ! "yetmiş"
+8%0:8%0%{ii%}%{b%}       NUM-DIGIT ; ! "seksen"
+9%0:9%0%{ı%}%{b%}       NUM-DIGIT ; ! "doksan"
+
+LEXICON POWERS
+%0%0:%0%0%{ö%}%{b%}     NUM-DIGIT ; ! "yüz"
+%0%0%0:%0%0%0%{ii%}%{b%} NUM-DIGIT ; ! "bin"
+
+LEXICON LOOP
+
+%,:%, DIGITLEX ;
+%.:%. DIGITLEX ;
+%,:%, LASTDIGIT ;
+%.:%. LASTDIGIT ;
+%,:%, LASTDIGIT-REST ;
+%.:%. LASTDIGIT-REST ;
+%,:%, POWERS ;
+%.:%. POWERS ;
+      DIGITLEX ;
+      LASTDIGIT ;
+      LASTDIGIT-REST ;
+      POWERS ;
+
+LEXICON DIGITLEX
+
+%0:%0 LOOP ;
+1:1   LOOP ;
+2:2   LOOP ;
+3:3   LOOP ;
+4:4   LOOP ;
+5:5   LOOP ;
+6:6   LOOP ;
+7:7   LOOP ;
+8:8   LOOP ;
+9:9   LOOP ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!       N U M E R A L     L E X I C O N     E N D S     H E R E 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!! Clitics 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON CLIT
+
+%+mı%<qst%>:% m%{I%} PERS3 ; 
+# ;  !! This is the end of word marker.
+
+LEXICON CLIT-NOPERS
+
+%+mı%<qst%>:% m%{I%} # ; 
+# ;  !! This is the end of word marker.
+
+LEXICON COPULA-LOCATIVE 
+
+!this is the copula which can go after nouns in locative cases and after adjectives. "to be in sometihng" "to be something"
+
+%<cop%>%<pres%>: PERS-COP-PRES ; 
+
+
+LEXICON V-PERS-COP
+
+%+i%<cop%>%<pres%>: V-PERS-COP-G2-NOSG3-FINAL ;
+%+i%<cop%>%<past%>:%>{D%}%{I%} PERS3 ;
+
+LEXICON V-NOPERS-COP
+
+%+i%<cop%>%<pres%>: V-PERS-COP-G2-NOSG3-FINAL ;
+%+i%<cop%>%<past%>:%>{D%}%{I%} PERS3 ;
+
+LEXICON CLIT-GENERAL    ! Includes personal copula suffixes, therefore appears only
+                        ! after nominal parts of speech (and only after some cases).
+                        ! FIXME: to be checked whether leads to any overgeneration
+CLIT ;
+V-PERS-COP ;
+
+LEXICON CLIT-NOPERS
+
+CLIT-NOPERS ;
+V-NOPERS-COP ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!! Personal suffixes
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+!!! FIXME: Move from VERBS here.
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON ATTR ! Adjective inflection
+
+CLIT ;
+# ;
+
+LEXICON ATTR-SUBST
+
+%<attr%>: CLIT ;
+%<subst%>: CASE ;
+%<subst%>%<pl%>:%>%{L%}%{A%}r CASE ;
+
+!!!!!!!!!!!!!!!!!!!!!!     NOMINAL INFLECTION (N-INFL-COMMON)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON CASE-NONOM
+
+%<gen%>:%>%{n%}%{I%}n CLIT ;      
+%<dat%>:%>%{y%}%{A%} CLIT ;   
+%<acc%>:%>%{y%}%{I%} CLIT ;
+%<loc%>:%>%{D%}%{A%} CLIT-GENERAL ;   
+%<abl%>:%>%{D%}%{A%}n CLIT-GENERAL ;  
+%<ins%>:%>%{y%}l%{A%} CLIT-GENERAL ;     
+
+LEXICON GENPOSS-ETC-NONOM
+
+%<px%>:%>%{n%}%{I%}ki%{pN%} CASE-NONOM ;
+%<loc%>:%>%{D%}%{A%}ki ATTR-SUBST ;
+
+CASE-NONOM ;
+
+LEXICON CASE-ETC-NONOM
+
+CASE-NONOM ;
+GENPOSS-ETC-NONOM ;
+
+LEXICON N-INFL-COMMON-NONOM
+
+POSS-REAL ;
+CASE-ETC-NONOM ;
+!ABE-ETC ;
+ 
+LEXICON CASE 
+
+%<nom%>: CLIT-GENERAL ;               
+%<gen%>:%>%{n%}%{I%}n CLIT ;      
+%<dat%>:%>%{y%}%{A%} CLIT ;   
+%<acc%>:%>%{y%}%{I%} CLIT ;
+%<loc%>:%>%{D%}%{A%} CLIT-GENERAL ;   
+%<abl%>:%>%{D%}%{A%}n CLIT-GENERAL ;  
+%<ins%>:%>%{y%}l%{A%} CLIT-GENERAL ;     
+
+!!!! POSSESSIVES
+
+LEXICON GENPOSS-ETC 
+
+%<px%>:%>%{n%}%{I%}ki%{pN%} CASE ;
+%<loc%>:%>%{D%}%{A%}ki ATTR-SUBST ;
+
+CASE ;
+
+LEXICON CASE-ETC
+
+CASE ;
+GENPOSS-ETC ;
+  
+LEXICON POSS-REAL
+
+%<px1sg%>:%>%{i%}m CASE-ETC ;                
+%<px2sg%>:%>%{i%}n CASE-ETC ;                 
+%<px3sp%>:%>%{s%}%{I%}%{pN%} CASE-ETC ; 
+%<px1pl%>:%>%{i%}m%{I%}z CASE-ETC ;           
+%<px2pl%>:%>%{i%}n%{I%}z CASE-ETC ;      
+%<px3pl%>:%>l%{A%}r%{I%}%{pN%} CASE-ETC ;  
+
+LEXICON N-INFL-COMMON
+
+POSS-REAL ;
+CASE-ETC ;
+!ABE-ETC ;
+
+LEXICON SUBST-NONOM
+
+N-INFL-COMMON-NONOM ; 
+%<pl%>:%>l%{A%}r N-INFL-COMMON ;
+
+LEXICON SUBST
+
+N-INFL-COMMON ; 
+%<pl%>:%>l%{A%}r N-INFL-COMMON ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!! Noun paradigms
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON N1 ! Generic noun paradigm.
+           ! e.g. ev, kitap, ...
+
+%<n%>: SUBST ; 
+%<n%>%<attr%>: # ;  
+%<n%>%<abe%>:%>s%{I%}z # ;
+%<n%>%<abe%>%<subst%>:%>s%{I%}z SUBST ;
+
+LEXICON N2 ! Compound nouns with compulsory possession. 
+           ! e.g. dikiş makinası, dikiş makinaları, ...
+
+%<n%>: POSS-REAL ; 
+%<n%>%<pl%>:%>l%{A%}r POSS-REAL ; 
+
+LEXICON N3 ! Nationalities which can form language, etc.
+           ! e.g. turk, turkçe
+
+%<n%>: SUBST ; 
+
+LEXICON N4 ! Nouns with usage as postpositions. 
+           ! We separate these in case they have some different morphotactics.
+           ! e.g. arka: arkasına, iç: içinde
+
+%<n%>: SUBST ; 
+
+LEXICON N5
+
+%<n%>%<nom%>: # ;
+%<n%>:%' N-INFL-COMMON-NONOM ;
+%<n%>%<attr%>: # ;
+
+LEXICON N6 ! Languages which aren't nationalities
+           ! e.g. 
+
+%<n%>: SUBST ; 
+%<n%>%<attr%>: # ;
+%<n%>%<advl%>: # ;
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NP1-TOP
+
+%<np%>%<top%>%<nom%>: # ;
+%<np%>%<top%>:%' N-INFL-COMMON-NONOM ;
+%<np%>%<top%>%<attr%>: # ;
+
+LEXICON NP2-TOP
+
+%<np%>%<top%>%<px3sp%>%<nom%>: # ;
+%<np%>%<top%>%<px3sp%>:%'%{pN%} CASE-ETC-NONOM ;
+
+LEXICON NP3-TOP
+
+%<np%>%<top%>%<pl%>%<px3sp%>%<nom%>: # ;
+%<np%>%<top%>%<pl%>%<px3sp%>:%'%{pN%} CASE-ETC-NONOM ;
+
+LEXICON NP4-TOP
+
+%<np%>%<top%>%<pl%>%<nom%>: # ;
+%<np%>%<top%>%<pl%>:%' N-INFL-COMMON-NONOM ;
+
+
+LEXICON NP1-ORG
+
+%<np%>%<org%>%<nom%>: # ;
+%<np%>%<org%>:%' N-INFL-COMMON-NONOM ;
+%<np%>%<org%>%<attr%>: # ;
+
+LEXICON NP2-ORG
+
+%<np%>%<org%>%<px3sp%>%<nom%>: # ;
+%<np%>%<org%>%<px3sp%>:%'%{pN%} N-INFL-COMMON-NONOM ;
+
+
+LEXICON NP1-ANT-M
+
+%<np%>%<ant%>%<m%>%<nom%>: # ;
+%<np%>%<ant%>%<m%>:%' N-INFL-COMMON-NONOM ;
+%<np%>%<ant%>%<m%>%<attr%>: # ;
+
+LEXICON NP1-ANT-F
+
+%<np%>%<ant%>%<f%>%<nom%>: # ;
+%<np%>%<ant%>%<f%>:%' N-INFL-COMMON-NONOM ;
+%<np%>%<ant%>%<f%>%<attr%>: # ;
+
+LEXICON NP1-COG-MF
+
+%<np%>%<cog%>%<mf%>%<nom%>: # ;
+%<np%>%<cog%>%<mf%>:%' N-INFL-COMMON-NONOM ;
+%<np%>%<cog%>%<mf%>%<attr%>: # ;
+
+
+
+LEXICON NP1-AL
+
+%<np%>%<al%>%<nom%>: # ;
+%<np%>%<al%>:%' N-INFL-COMMON-NONOM ;
+%<np%>%<al%>%<attr%>: # ;
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON PRON-PERS
+
+ben%<prn%>%<pers%>%<p1%>%<sg%>%<nom%>:ben CLIT ; 
+ben%<prn%>%<pers%>%<p1%>%<sg%>%<gen%>:benim CLIT ; 
+ben%<prn%>%<pers%>%<p1%>%<sg%>%<dat%>:bana CLIT ; 
+ben%<prn%>%<pers%>%<p1%>%<sg%>%<acc%>:beni CLIT ; 
+ben%<prn%>%<pers%>%<p1%>%<sg%>%<loc%>:bende CLIT ; 
+ben%<prn%>%<pers%>%<p1%>%<sg%>%<abl%>:benden CLIT ; 
+ben%<prn%>%<pers%>%<p1%>%<sg%>%<px%>:benimki CASE ; 
+ben%<prn%>%<pers%>%<p1%>%<sg%>%<loc%>:bendeki ATTR-SUBST ; 
+ben%<prn%>%<pers%>%<p1%>%<sg%>%<adv%>:bence CLIT ; 
+ben%<prn%>%<pers%>%<p1%>%<sg%>%<com%>:benimle # ; 
+
+
+sen%<prn%>%<pers%>%<p2%>%<sg%>%<nom%>:sen CLIT ; 
+sen%<prn%>%<pers%>%<p2%>%<sg%>%<gen%>:senin CLIT ; 
+sen%<prn%>%<pers%>%<p2%>%<sg%>%<dat%>:sana CLIT ; 
+sen%<prn%>%<pers%>%<p2%>%<sg%>%<acc%>:seni CLIT ; 
+sen%<prn%>%<pers%>%<p2%>%<sg%>%<loc%>:sende CLIT ; 
+sen%<prn%>%<pers%>%<p2%>%<sg%>%<abl%>:senden CLIT ; 
+sen%<prn%>%<pers%>%<p2%>%<sg%>%<px%>:seninki CASE ; 
+sen%<prn%>%<pers%>%<p2%>%<sg%>%<loc%>:sendeki ATTR-SUBST ; 
+sen%<prn%>%<pers%>%<p2%>%<sg%>%<adv%>:sence CLIT ; 
+sen%<prn%>%<pers%>%<p1%>%<sg%>%<com%>:seninle # ; 
+
+
+o%<prn%>%<pers%>%<p3%>%<sg%>%<nom%>:o CLIT ; 
+o%<prn%>%<pers%>%<p3%>%<sg%>%<gen%>:onun CLIT ; 
+o%<prn%>%<pers%>%<p3%>%<sg%>%<dat%>:ona CLIT ; 
+o%<prn%>%<pers%>%<p3%>%<sg%>%<acc%>:onu CLIT ; 
+o%<prn%>%<pers%>%<p3%>%<sg%>%<loc%>:onda CLIT ; 
+o%<prn%>%<pers%>%<p3%>%<sg%>%<abl%>:ondan CLIT ; 
+o%<prn%>%<pers%>%<p3%>%<sg%>%<px%>:onunki CASE ; 
+o%<prn%>%<pers%>%<p3%>%<sg%>%<loc%>:ondeki ATTR-SUBST ; 
+o%<prn%>%<pers%>%<p3%>%<sg%>%<adv%>:once CLIT ; 
+o%<prn%>%<pers%>%<p1%>%<sg%>%<com%>:onunla # ; 
+
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<nom%>:biz CLIT ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<gen%>:bizim CLIT ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<dat%>:bize CLIT ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<acc%>:bizi CLIT ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<loc%>:bizde CLIT ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<abl%>:bizdiz CLIT ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<px%>:bizimki CASE ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<loc%>:bizdeki ATTR-SUBST ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<adv%>:bizce CLIT ; 
+biz%<prn%>%<pers%>%<p1%>%<sg%>%<com%>:bizimle # ; 
+
+
+siz%<prn%>%<pers%>%<p2%>%<pl%>%<nom%>:siz CLIT ; 
+siz%<prn%>%<pers%>%<p2%>%<pl%>%<gen%>:sizin CLIT ; 
+siz%<prn%>%<pers%>%<p2%>%<pl%>%<dat%>:size CLIT ; 
+siz%<prn%>%<pers%>%<p2%>%<pl%>%<acc%>:sizi CLIT ; 
+siz%<prn%>%<pers%>%<p2%>%<pl%>%<loc%>:sizde CLIT ; 
+siz%<prn%>%<pers%>%<p2%>%<pl%>%<abl%>:sizdiz CLIT ; 
+siz%<prn%>%<pers%>%<p2%>%<pl%>%<px%>:sizinki CASE ; 
+siz%<prn%>%<pers%>%<p2%>%<pl%>%<loc%>:sizdeki ATTR-SUBST ; 
+siz%<prn%>%<pers%>%<p2%>%<pl%>%<adv%>:sizce CLIT ; 
+siz%<prn%>%<pers%>%<p1%>%<sg%>%<com%>:sizinle # ; 
+
+
+onlar%<prn%>%<pers%>%<p3%>%<pl%>%<nom%>:onlar CLIT ; 
+onlar%<prn%>%<pers%>%<p3%>%<pl%>%<gen%>:onların CLIT ; 
+onlar%<prn%>%<pers%>%<p3%>%<pl%>%<dat%>:onlara CLIT ; 
+onlar%<prn%>%<pers%>%<p3%>%<pl%>%<acc%>:onları CLIT ; 
+onlar%<prn%>%<pers%>%<p3%>%<pl%>%<loc%>:onlarda CLIT ; 
+onlar%<prn%>%<pers%>%<p3%>%<pl%>%<abl%>:onlardan CLIT ; 
+onlar%<prn%>%<pers%>%<p3%>%<pl%>%<px%>:onlarınki CASE ; 
+onlar%<prn%>%<pers%>%<p3%>%<pl%>%<loc%>:onlardeki ATTR-SUBST ; 
+onlar%<prn%>%<pers%>%<p3%>%<pl%>%<adv%>:onlarca CLIT ; 
+onlar%<prn%>%<pers%>%<p1%>%<sg%>%<com%>:onlarınla # ; 
+
+
+LEXICON PRON-DEM-BU
+
+%<prn%>%<dem%>%<nom%>: CLIT-GENERAL ;
+%<prn%>%<dem%>%<gen%>:nun CLIT ;
+%<prn%>%<dem%>%<dat%>:na CLIT ;
+%<prn%>%<dem%>%<acc%>:nu CLIT ;
+%<prn%>%<dem%>%<abl%>:ndan CLIT-GENERAL ;
+%<prn%>%<dem%>%<loc%>:nda CLIT-GENERAL ;
+%<prn%>%<dem%>%<px%>:nuki%{pN%} CASE ;
+%<prn%>%<dem%>%<loc%>%<attr%>:ndaki ATTR-SUBST ;
+%<prn%>%<dem%>%<com%>:nunla # ;
+%<prn%>%<dem%>%<px3sp%>:nu%{pN%} CASE ;
+%<prn%>%<dem%>%<pl%>:nlar CASE-ETC ;
+%<prn%>%<dem%>%<pl%>%<px3sp%>:nları%{pN%} CASE ;
+
+LEXICON PRON-ITG-NERE
+
+%<prn%>%<itg%>%<gen%>:%>nin # ;
+%<prn%>%<itg%>%<dat%>:%>ye #  ;
+%<prn%>%<itg%>%<acc%>:%>yi # ;
+%<prn%>%<itg%>%<abl%>:%>den # ;
+%<prn%>%<itg%>%<loc%>:%>de # ;
+%<prn%>%<itg%>%<px%>:%>si CASE ;
+%<prn%>%<itg%>%<loc%>:%>deki ATTR-SUBST ;
+
+LEXICON PRON-IND
+
+%<prn%>%<ind%>: N-INFL-COMMON ; ! FIXME: Check contlex
+
+LEXICON PRON-ITG-INFL
+
+%<prn%>%<itg%>: SUBST ;
+
+LEXICON PRON-ITG 
+
+ne:ne PRON-ITG-INFL ; ! "what"
+neyi:neyi PRON-ITG-INFL ; ! "what"
+niye:niye PRON-ITG-INFL ; ! "what"
+kim:kim PRON-ITG-INFL ; ! "who"
+hangi:hangi PRON-ITG-INFL ; ! "which"
+
+nere:nere PRON-ITG-NERE ; ! ""
+
+LEXICON PRON-QNT
+
+%<prn%>%<qnt%>: N-INFL-COMMON ; ! FIXME: Check contlex
+
+LEXICON PRON-NEG
+
+%<prn%>%<neg%>: CASE ;
+
+LEXICON PRON-REF-ADV
+
+CASE-ETC ;
+%<adv%>:ç%{A%} CLIT ;
+
+LEXICON PRON-REF
+
+! FIXME:
+! Listing all forms here because of overgeneration with *өздерім,
+! *өздеріміз, *өзіңдер etc while linking to POSS-REAL. This was the idea.
+! Now they are handled more like personal pronouns (the same tags in the same
+! order), so they should pass transfer without any trouble.
+!-----
+! A remaining problem with reflexive pronoun is that it takes personal copula
+! suffixes "selectively": e.g. prn.refl.px1sg would take only cop.px1sg
+! (prn.ref.px3sp seems to take all of them though).
+! A little bit of overgeneration won't hurt anyone :), but I think that odd
+! forms could be filtered out somehow later. Don't know how to do it./04Aug, IS/
+
+! FIXME DISCUSS Write full forms for the lower side and put only PRON-DEF in the
+! Root Lexicon
+
+
+%<prn%>%<ref%>%<p1%>%<sg%>:%>%{I%}m PRON-REF-ADV ;
+%<prn%>%<ref%>%<p2%>%<sg%>:%>%{I%}n PRON-REF-ADV ;
+%<prn%>%<ref%>%<p3%>%<sg%>:%>%{s%}%{I%}%{pN%} PRON-REF-ADV ;
+%<prn%>%<ref%>%<p1%>%<pl%>:%>%{I%}m%{I%}z PRON-REF-ADV ;
+%<prn%>%<ref%>%<p2%>%<pl%>:%>%{I%}n%{I%}z PRON-REF-ADV ;
+%<prn%>%<ref%>%<p3%>%<pl%>:%>l%{A%}r%>%{I%}%{pN%} PRON-REF-ADV ;
+%<prn%>%<ref%>: # ;
+
+LEXICON PRON-ADV 
+
+%<prn%>%<adv%>: CASE-NONOM ; 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!	CONJUNCTIONS, CAUSE EVEN SENTENCES AND WORDS WANNA BE TOGETHER !!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON CA
+
+%<cnjadv%>: # ;
+
+LEXICON CS 
+
+%<cnjsub%>: # ;
+
+LEXICON CC 
+
+%<cnjcoo%>: # ;
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!! Numeral paradigms
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON NUM
+
+%<num%>: # ;                                        ! Beş evi görüyorum.
+%<num%>%<ord%>:%>%{i%}nc%{I%} # ;                   ! Beşinci evi görüyorum.
+%<num%>%<ord%>%<subst%>:%>%{i%}nc%{I%} SUBST ;      ! Beşinciyi görüyorum.
+%<num%>%<subst%>: SUBST ;                           ! Beşi görüyorum.
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!! Adverb paradigms
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON ADV1
+
+%<adv%>: # ; ! this is for when the adverb is used as an adverb
+%<adv%>%<subst%>: SUBST ;
+%<adv%>%<attr%>: # ;
+
+LEXICON ADV2
+
+%<adv%>: # ;
+%<adv%>%<attr%>: # ;
+
+LEXICON ADV3
+
+%<adv%>: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!! Adjective paradigms
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON A1
+
+%<adj%>: # ; 
+%<adj%>%<subst%>: SUBST ;
+%<adj%>%<advl%>: # ;
+
+LEXICON A2
+
+%<adj%>: # ;
+%<adj%>%<subst%>: SUBST ;
+
+LEXICON A3
+
+%<adj%>: # ;
+%<adj%>%<advl%>: # ;
+
+LEXICON A4
+
+%<adj%>: CLIT-NOPERS ; ! FIXME: Check for overgeneration e.g. vardiyim
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!! Verb paradigms
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+!!!!!!!COPULA SUFFIXES!!!!!!
+
+
+LEXICON PERS-COP-PRES
+
+%<p1%>%<sg%>:%>%{y%}%{I%}m  # ;
+%<p2%>%<sg%>:%>s%{I%}n  # ;
+%<p3%>%<sg%>:%>%{D%}%{I%}r  # ;
+%<p3%>%<frm%>%<sg%>:%>{D%}%{I%}r  # ;
+%<p1%>%<pl%>:%>%{y%}%{I%}z  # ;
+%<p2%>%<pl%>:%>s%{I%}n%{I%}z  # ;
+%<p3%>%<pl%>:%>l%{A%}r  # ;
+
+
+
+LEXICON V-PERS-COP-G2-NOSG3-FINAL
+
+%<p1%>%<sg%>:%>%{y%}%{I%}m  # ;
+%<p2%>%<sg%>:%>s%{I%}n  # ;
+!%<p3%>%<sg%>:%>  # ;
+%<p3%>%<frm%>%<sg%>:%>{D%}%{I%}r  # ;
+%<p1%>%<pl%>:%>%{y%}%{I%}z  # ;
+%<p2%>%<pl%>:%>s%{I%}n%{I%}z  # ;
+%<p3%>%<pl%>:%>l%{A%}r  # ;
+
+
+LEXICON PERS1-NO3PL 
+
+%<p1%>%<sg%>:%>%{I%}m  CLIT ;
+%<p2%>%<sg%>:%>s%{I%}n  CLIT ;
+%<p3%>%<sg%>:%>  CLIT ;
+%<p3%>%<frm%>%<sg%>:%>{D%}%{I%}r  CLIT ;
+%<p1%>%<pl%>:%>%{y%}%{I%}z  CLIT ;
+%<p2%>%<pl%>:%>s%{I%}n%{I%}z  CLIT ;
+
+LEXICON PERS1  !!!USED FOR CONT, FUT, AOR, EVID
+
+%<p3%>%<pl%>:%>l%{A%}r  CLIT ;
+%<p3%>%<pl%>%<frm%>:%>l%{A%}r%{D%}%{I%}r   CLIT ;
+PERS1-NO3PL ;
+
+LEXICON PERS2  !!!USED FOR PAST and CONDITIONAL
+
+%<p1%>%<sg%>:%>m  CLIT ;
+%<p2%>%<sg%>:%>n  CLIT ;
+%<p3%>%<sg%>:%>  CLIT ;
+%<p3%>%<frm%>%<sg%>:%>{D%}%{I%}r  CLIT ;
+%<p1%>%<pl%>:%>k  CLIT ;
+%<p2%>%<pl%>:%>%{i%}n%{I%}z  CLIT ;
+%<p3%>%<pl%>:%>l%{A%}r  CLIT ;
+
+LEXICON PERS2-NO3PL 
+
+%<p1%>%<sg%>:%>m  # ;
+%<p2%>%<sg%>:%>n  # ;
+%<p3%>%<sg%>:%>  # ;
+%<p3%>%<frm%>%<sg%>:%>{D%}%{I%}r  CLIT ;
+%<p1%>%<pl%>:%>k  # ;
+%<p2%>%<pl%>:%>%{i%}n%{I%}z  # ;
+
+LEXICON PERS3  !!!USED FOR NECESSITATIVE
+
+%<p1%>%<sg%>:%>%{y%}%{I%}m  CLIT ;
+%<p2%>%<sg%>:%>s%{I%}n  CLIT ;
+%<p3%>%<sg%>:%>  CLIT ;
+%<p3%>%<frm%>%<sg%>:%>{D%}%{I%}r  CLIT ;
+%<p1%>%<pl%>:%>%{y%}%{I%}z  CLIT ;
+%<p2%>%<pl%>:%>s%{I%}n%{I%}z  CLIT ;
+%<p3%>%<pl%>:%>l%{A%}r  CLIT ;
+
+LEXICON PERS3-PAST
+%<p1%>%<sg%>:%>%{y%}d%{I%}m # ;                
+%<p2%>%<sg%>:%>%{y%}d%{I%}n # ;                
+%<p3%>%<sg%>:%>%{y%}d%{I%} # ;
+%<p1%>%<pl%>:%>%{y%}d%{I%}k # ;                
+%<p2%>%<pl%>:%>%{y%}d%{I%}n%{I%}z # ;                
+%<p3%>%<pl%>:%>%{y%}d%{I%}l%{A%}r # ;  
+
+LEXICON PERS4  !!!USED FOR IMPERATIVE
+%<p2%>%<sg%>:%>  # ;
+%<p2%>%<frm%>:%>y%{I%}n # ;
+%<p2%>%<pl%>:%>s%{A%}n%{A%}  # ;
+
+LEXICON PERS5  !!!USED FOR negative aorist and abil
+%<p1%>%<sg%>:%>m%{A%}m  CLIT ;
+%<p2%>%<sg%>:%>m%{A%}zs%{I%}n  CLIT ;
+%<p3%>%<sg%>:%>m%{A%}z CLIT ;
+%<p3%>%<frm%>%<sg%>:%>m%{A%}z%{D%}%{I%}r  CLIT ;
+%<p1%>%<pl%>:%>m%{A%}y%{I%}z  CLIT ;
+%<p2%>%<pl%>:%>m%{A%}zs%{I%}n%{I%}z  CLIT ;
+%<p3%>%<pl%>:%>m%{A%}zl%{A%}r  CLIT ;
+
+LEXICON PERS6 !!! USED By Exhortative
+
+%<p1%>%<sg%>:%>%{y%}%{A%}y%{I%}m  CLIT ;
+%<p1%>%<pl%>:%>%{y%}%{A%}l%{I%}m  CLIT ;
+
+LEXICON KEN !!! ADVERBIAL FORM 
+
+%<ken%>:%>ken # ;
+
+
+
+LEXICON REC-DIR-AR
+
+%<rec%>:%>%{i%}ş CAUS-DIR-AR ;
+%<rec%>:%>%{i%}ş NECE ;
+CAUS-DIR-AR ;
+NECE ;
+
+LEXICON REC-T-AR
+
+%<rec%>:%>%{i%}ş CAUS-DIR-AR ;
+%<rec%>:%>%{i%}ş NECE ;
+CAUS-T-AR ;
+NECE ;
+
+LEXICON REC-T-AR
+
+%<rec%>:%>%{i%}ş CAUS-DIR-IR ;
+%<rec%>:%>%{i%}ş NECE ;
+CAUS-T-IR ;
+NECE ;
+
+LEXICON REF-DIR-AR
+%<ref%>:%>%{i%}n CAUS-DIR-AR ;
+%<ref%>:%>%{i%}n NECE ;
+CAUS-DIR-AR ;
+NECE ;
+
+LEXICON REF-T-AR
+%<ref%>:%>%{i%}n CAUS-T-AR ;
+%<ref%>:%>%{i%}n NECE ;
+CAUS-T-AR ;
+NECE ;
+
+LEXICON REF-T-IR
+%<ref%>:%>%{i%}n CAUS-T-IR ;
+%<ref%>:%>%{i%}n NECE ;
+CAUS-T-IR ;
+NECE ;
+
+
+LEXICON IV-REC-DIR-AR
+
+%<rec%>:%>%{i%}ş IV-CAUS-DIR-AR ;
+%<rec%>:%>%{i%}ş NECE ;
+IV-CAUS-DIR-AR ;
+NECE ;
+
+LEXICON IV-REF-DIR-AR
+%<ref%>:%>%{i%}n IV-CAUS-DIR-AR ;
+%<ref%>:%>%{i%}n NECE ;
+IV-CAUS-DIR-AR ;
+NECE ;
+
+
+LEXICON PASS-DIR-AR
+
+%<pass%>:%>%{i%}%{L%} NECE ;
+%<pass%>:%>%{i%}%{L%} NON-FINITE ;
+%<pass%>:%>%{i%}%{L%} GERUND ;
+%<pass%>:%>%{i%}%{L%} ABIL-AR ;
+%<pass%>:%>%{i%}%{L%} NEG ;
+%<pass%>:%>%{i%}%{L%} AOR-IR ;
+%<pass%>:%>%{i%}%{L%} AOR-IR-CONDITIONAL ;
+%<pass%>:%>%{i%}%{L%} FINITE-VERBS-IR ;
+
+
+CAUS-DIR-AR ;
+NECE ;
+NON-FINITE ;
+GERUND ;
+ABIL-AR ;
+NEG ;
+AOR-AR ;
+AOR-AR-CONDITIONAL ;
+
+LEXICON PASS-T-AR
+
+%<pass%>:%>%{i%}%{L%} NECE ;
+%<pass%>:%>%{i%}%{L%} NON-FINITE ;
+%<pass%>:%>%{i%}%{L%} GERUND ;
+%<pass%>:%>%{i%}%{L%} ABIL-AR ;
+%<pass%>:%>%{i%}%{L%} NEG ;
+%<pass%>:%>%{i%}%{L%} AOR-AR ;
+%<pass%>:%>%{i%}%{L%} AOR-IR-CONDITIONAL ;
+%<pass%>:%>%{i%}%{L%} FINITE-VERBS-IR ;
+
+CAUS-T-AR ;
+NECE ;
+NON-FINITE ;
+GERUND ;
+ABIL-AR ;
+NEG ;
+AOR-AR ;
+AOR-AR-CONDITIONAL ;
+
+LEXICON PASS-T-IR
+
+%<pass%>:%>%{i%}%{L%} NECE ;
+%<pass%>:%>%{i%}%{L%} NON-FINITE ;
+%<pass%>:%>%{i%}%{L%} GERUND ;
+%<pass%>:%>%{i%}%{L%} ABIL-IR ;
+%<pass%>:%>%{i%}%{L%} NEG ;
+%<pass%>:%>%{i%}%{L%} AOR-IR ;
+%<pass%>:%>%{i%}%{L%} AOR-IR-CONDITIONAL ;
+%<pass%>:%>%{i%}%{L%} FINITE-VERBS-IR ;
+
+CAUS-T-IR ;
+NECE ;
+NON-FINITE ;
+GERUND ;
+ABIL-IR ;
+NEG ;
+AOR-IR ;
+AOR-IR-CONDITIONAL ;
+
+
+LEXICON REC-DIR-IR
+
+%<rec%>:%>%{i%}ş CAUS-DIR-IR ;
+%<rec%>:%>%{i%}ş NECE ;
+CAUS-DIR-IR ;
+NECE ;
+
+LEXICON REF-DIR-IR
+%<ref%>:%>%{i%}n CAUS-DIR-IR ;
+%<ref%>:%>%{i%}n NECE ;
+CAUS-DIR-IR ;
+NECE ;
+
+LEXICON IV-REC-DIR-IR
+
+%<rec%>:%>%{i%}ş IV-CAUS-DIR-IR ;
+%<rec%>:%>%{i%}ş NECE ;
+IV-CAUS-DIR-IR ;
+NECE ;
+
+LEXICON IV-REF-DIR-IR
+%<ref%>:%>%{i%}n IV-CAUS-DIR-IR ;
+%<ref%>:%>%{i%}n NECE ;
+IV-CAUS-DIR-IR ;
+NECE ;
+
+LEXICON PASS-DIR-IR
+
+%<pass%>:%>%{i%}%{L%} NECE ;
+%<pass%>:%>%{i%}%{L%} NON-FINITE ;
+%<pass%>:%>%{i%}%{L%} FINITE-VERBS-IR ;
+
+%<pass%>:%>%{i%}%{L%} GERUND ;
+%<pass%>:%>%{i%}%{L%} ABIL-IR ;
+%<pass%>:%>%{i%}%{L%} NEG ;
+%<pass%>:%>%{i%}%{L%} AOR-IR ;
+%<pass%>:%>%{i%}%{L%} AOR-IR-CONDITIONAL ;
+
+AOR-IR-CONDITIONAL ;
+CAUS-DIR-IR ;
+NECE ;
+NON-FINITE ;
+GERUND ;
+ABIL-IR ;
+NEG ;
+AOR-IR ;
+
+LEXICON CAUS-DIR-IR
+%<caus%>:%>%{D%}%{I%}r NEG ;
+%<caus%>:%>%{D%}%{I%}r FINITE-VERBS-IR ;
+%<caus%>:%>%{D%}%{I%}r ABIL-IR ;
+%<caus%>:%>%{D%}%{I%}r NECE ;
+%<caus%>:%>%{D%}%{I%}r NON-FINITE ;
+%<caus%>:%>%{D%}%{I%}r PASS-DIR-IR ;
+PASS-DIR-IR ;
+NEG ;
+FINITE-VERBS-IR ;
+ABIL-IR ;
+NECE ;
+NON-FINITE ;
+
+LEXICON CAUS-IR-AR
+
+%<caus%>:%>%{i%}r NEG ;
+%<caus%>:%>%{i%}r FINITE-VERBS-AR ;
+%<caus%>:%>%{i%}r ABIL-IR ;
+%<caus%>:%>%{i%}r NECE ;
+%<caus%>:%>%{i%}r NON-FINITE ;
+%<caus%>:%>%{i%}r PASS-DIR-IR ;
+PASS-DIR-IR ;
+NEG ;
+FINITE-VERBS-AR ;
+ABIL-IR ;
+NECE ;
+NON-FINITE ;
+
+
+
+LEXICON IV-CAUS-DIR-IR
+%<caus%>:%>%{D%}%{I%}r NEG ;
+%<caus%>:%>%{D%}%{I%}r FINITE-VERBS-IR ;
+%<caus%>:%>%{D%}%{I%}r ABIL-IR ;
+%<caus%>:%>%{D%}%{I%}r NECE ;
+%<caus%>:%>%{D%}%{I%}r NON-FINITE ;
+%<caus%>:%>%{D%}%{I%}r PASS-DIR-IR ;
+
+NEG ;
+FINITE-VERBS-IR ;
+ABIL-IR ;
+NECE ;
+NON-FINITE ;
+
+LEXICON CAUS-DIR-AR
+%<caus%>:%>%{D%}%{I%}r NEG ;
+%<caus%>:%>%{D%}%{I%}r FINITE-VERBS-IR ;
+%<caus%>:%>%{D%}%{I%}r ABIL-IR ;
+%<caus%>:%>%{D%}%{I%}r NECE ;
+%<caus%>:%>%{D%}%{I%}r NON-FINITE ;
+%<caus%>:%>%{D%}%{I%}r PASS-DIR-AR ;
+NEG ;
+FINITE-VERBS-AR ;
+ABIL-AR ;
+NECE ;
+NON-FINITE ;
+PASS-DIR-AR ;
+
+LEXICON IV-CAUS-DIR-AR
+%<caus%>:%>%{D%}%{I%}r NEG ;
+%<caus%>:%>%{D%}%{I%}r FINITE-VERBS-IR ;
+%<caus%>:%>%{D%}%{I%}r ABIL-IR ;
+%<caus%>:%>%{D%}%{I%}r NECE ;
+%<caus%>:%>%{D%}%{I%}r NON-FINITE ;
+%<caus%>:%>%{D%}%{I%}r PASS-DIR-AR ;
+NEG ;
+FINITE-VERBS-AR ;
+ABIL-AR ;
+NECE ;
+NON-FINITE ;
+
+
+LEXICON CAUS-T-AR
+%<caus%>:%>t NEG ;
+%<caus%>:%>t FINITE-VERBS-IR ;
+%<caus%>:%>t ABIL-IR ;
+%<caus%>:%>t NECE ;
+%<caus%>:%>t NON-FINITE ;
+NEG ;
+FINITE-VERBS-AR ;
+ABIL-IR ;
+NECE ;
+NON-FINITE ;
+
+LEXICON CAUS-T-IR
+%<caus%>:%>t NEG ;
+%<caus%>:%>t FINITE-VERBS-IR ;
+%<caus%>:%>t ABIL-IR ;
+%<caus%>:%>t NECE ;
+%<caus%>:%>t NON-FINITE ;
+%<caus%>:%>t PASS-T-IR ;
+NEG ;
+FINITE-VERBS-IR ;
+ABIL-IR ;
+NECE ;
+NON-FINITE ;
+
+LEXICON IMPERFECTIVE
+%<imper%>:%>m%{A%}kt%{A%} PERS3 ;
+%<imperp%>:%>m%{A%}kt%{A%} PERS3-PAST ;
+
+
+LEXICON NEG
+%<neg%>:%>m%{a%} REGULAR-NEGATIVE ;
+
+LEXICON AOR-AR
+%<aor%>:%>%{A%}r PERS1 ;
+%<neg%>%<aor%>:%> PERS5;
+%<aor%>:%>%{A%}r KEN ;
+%<neg%>%<aor%>:%>m%{A%}z KEN ;
+
+LEXICON AOR-IR
+%<aor%>:%>%{i%}r PERS1 ;
+%<neg%>%<aor%>:%> PERS5;
+%<aor%>:%>%{i%}r KEN ;
+%<neg%>%<aor%>:%>m%{A%}z KEN;
+
+LEXICON AOR-IR-CONDITIONAL
+%<aorcond%>:%>%{i%}rs%{A%} PERS2-NO3PL  ;
+%<aorcond%>%<p3%>%<pl%>:%>%{i%}r%>l%{A%}r%>%s%{A%} # ; 
+%<neg%>%<aorcond%>:%>m%{A%}z%>s%{A%} PERS2-NO3PL ;
+%<neg%>%<aorcond%>%<p3%>%<pl%>:%>m%{A%}z%>l%{A%}r%>s%{A%} # ;
+
+LEXICON AOR-AR-CONDITIONAL
+%<aorcond%>:%>%{A%}rs%{A%} PERS2-NO3PL  ;
+%<aorcond%>%<p3%>%<pl%>:%>%{A%}r%>l%{A%}r%>s%{A%} # ; 
+%<neg%>%<aorcond%>:%>m%{A%}z%>s%{A%} PERS2-NO3PL ;
+%<neg%>%<aorcond%>%<p3%>%<pl%>:%>m%{A%}z%>l%{A%}r%>s%{A%} # ;
+
+
+
+
+LEXICON ABIL-AR
+%<abil%>:%>%{y%}%{A%}bil FINITE-VERBS-IR ;
+%<neg%>%<abil%>:%>%{y%}%{A%}m%{a%} FINITE-VERBS-IR ;
+%<abil%>:%>%{y%}%{A%}bil GERUND ;
+%<neg%>%<abil%>:%>%{y%}%{A%}m%{A%} GERUND ;
+%<abil%>:%>%{y%}%{A%}bil NON-FINITE ;
+%<neg%>%<abil%>:%>%{A%} NON-FINITE ;
+%<neg%>%<abil%>:%>%{y%}%{A%} PERS5 ;
+NON-FINITE ;
+
+GERUND ;
+
+LEXICON ABIL-AR-CONDITIONAL
+
+%<abil%>%<cond%>:%>%{A%}bilse PERS2  ;
+%<neg%>%<abil%>%<cond%>:%>%{y%}%{A%}m%{A%}z%>s%{A%} PERS2-NO3PL ;
+%<neg%>%<abil%>%<cond%>%<p3%>%<pl%>:%>%{y%}%{A%}m%{A%}z%>l%{A%}r%>s%{A%} # ;
+
+LEXICON ABIL-IR
+%<abil%>:%>%{y%}%{A%}bil FINITE-VERBS-IR ;
+%<neg%>%<abil%>:%>%{y%}%{A%}m%{a%} FINITE-VERBS-IR ;
+%<abil%>:%>%{y%}%{A%}bil GERUND ;
+%<neg%>%<abil%>:%>%{y%}%{A%}m%{A%} GERUND ;
+%<abil%>:%>%{y%}%{A%}bil NON-FINITE ;
+%<neg%>%<abil%>:%>%{y%}%{A%}m%{A%} NON-FINITE ;
+%<neg%>%<abil%>:%>%{y%}%{A%} PERS5 ;
+NON-FINITE ;
+FINITE-VERBS-IR ;
+GERUND ;
+
+LEXICON PRESENT-CONTINUOUS
+
+%<pcont%>:%>%{I%}yor PERS1 ;
+%<pcont%>:%>%{I%}yor KEN ;
+
+LEXICON PAST-CONTINUOUS
+
+%<pastcnt%>:%>%{I%}yord%{I%} PERS2-NO3PL ;
+%<pastcnt%>%<p3%>%<pl%>:%>%{I%}yord%{I%}%>l%{A%}r # ; ! Dir/LR
+%<pastcnt%>%<p3%>%<pl%>:%>%{I%}yor%>l%{A%}r%>d%{I%} # ; 
+
+LEXICON CONDITIONAL-CONTINUOUS
+
+%<condcnt%>:%>%{I%}yors%{A%} PERS2 ;
+
+LEXICON EVIDENTIAL-CONTINUOUS 
+
+%<evidcnt%>:%>%{I%}yorm%{I%}ş PERS1-NO3PL ;
+%<evidcnt%>%<p3%>%<pl%>:%>%{I%}yorm%{I%}ş%>d%{I%}%>l%{A%}r # ; ! Dir/LR
+%<evidcnt%>%<p3%>%<pl%>:%>%{I%}yorm%{I%}ş%>l%{A%}r%>%d%{I%} # ; 
+
+LEXICON FUTURE
+
+%<fut%>:%>%{y%}%{A%}c%{A%}k PERS1 ;
+
+LEXICON FUTURE-PERFECT
+
+%<futp%>:%>%{y%}%{A%}c%{A%}kt%{I%} PERS2-NO3PL ;
+%<futp%>%<p3%>%<pl%>:%>%{y%}%{A%}c%{A%}k%>l%{A%}r%>d%{I%}  # ; ! Dir/LR
+
+
+LEXICON FUTURE-EVIDENTIAL
+
+%<fute%>:%>%{y%}%{A%}c%{A%}km%{I%}ş PERS1 ;
+%<fute%>:%>%{y%}%{A%}c%{A%}km%{I%}ş CONDITIONAL ;
+
+
+LEXICON FUTURE-CONDITIONAL
+
+%<futc%>:%>%{y%}%{A%}c%{A%}ks%{A%} PERS2 ;
+
+LEXICON PAST
+
+%<past%>:%>%{D%}%{I%} PERS2 ;
+
+LEXICON PAST-CONDITIONAL
+
+%<pastc%>:%>d%{I%}ys%{A%} PERS2 ;
+
+LEXICON EVIDENTIAL-PAST
+
+%<evid%>:%>m%{I%}ş PERS1 ;
+%<evid%>:%>m%{I%}ş KEN ;
+
+
+LEXICON DOUBLE-EVIDENTIAL
+
+%<evid2%>:%>m%{I%}şm%{I%}ş PERS1 ;
+%<neg%>%<evid2%>:%>m%{A%}m%{I%}şm%{I%}ş PERS1 ;
+
+LEXICON EVIDENTIAL-PERFECT
+
+%<evidp%>:%>m%{I%}şt%{I%} PERS2 ;
+
+LEXICON AORIST-AR-PERFECT
+
+%<aorp%>:%>%{A%}rd%{I%} PERS2-NO3PL  ;
+%<aorp%>%<p3%>%<pl%>:%>%{A%}r%>l%{A%}r%>d%{I%} # ; 
+%<neg%>%<aorp%>:%>m%{A%}zd%{I%} PERS2-NO3PL ;
+%<neg%>%<aorp%>:%>m%{A%}zl%{A%}rd%{I%} PERS2 ;
+
+LEXICON AORIST-IR-PERFECT
+
+%<aorp%>:%>%{i%}rd%{I%} PERS2-NO3PL  ;
+%<aorp%>%<p3%>%<pl%>:%>%{i%}r%>l%{A%}r%>d%{I%} # ; 
+%<neg%>%<aorp%>:%>m%{A%}zd%{I%} PERS2-NO3PL ;
+%<neg%>%<aorp%>:%>m%{A%}zl%{A%}rd%{I%} PERS2 ;
+
+LEXICON EVIDENTIAL-CONDITIONAL
+
+%<evidc%>:%>m%{I%}şs%{A%} PERS2 ;
+
+LEXICON CONDITIONAL
+
+%<cond%>:%>s%{A%} PERS2 ;
+
+LEXICON CONDITIONAL-PAST
+
+%<condp%>:%>s%{A%}yd%{I%} PERS2 ;
+
+LEXICON CONDITIONAL-EVIDENTIAL
+
+%<conde%>:%>s%{A%}ym%{I%}ş PERS1 ;
+
+LEXICON NECE
+
+%<nece%>:%>m%{A%}l%{I%} PERS3 ;             ! prc, + copula
+%<necepast%>:%>m%{A%}l%{I%} PERS3-PAST ;
+
+LEXICON JUSSIVE
+
+%<juss%>%<p3%>%<sg%>:%>s%{I%}n # ;
+%<juss%>%<p3%>%<pl%>:%>s%{I%}nl%{A%}r # ;
+
+LEXICON IMPERATIVE
+
+%<imp%>:%> PERS4 ;
+
+LEXICON EXHORTATIVE
+
+%<exh%>:%> PERS6 ;
+
+LEXICON GERUND
+
+%<ger1%>:%>m%{A%} SUBST ;
+%<ger2%>:%>%{D%}%{I%}k%{v%} SUBST ;
+%<ger3%>:%>%{I%}ş SUBST ;
+%<ger4%>:%>%{y%}%{A%}c%{A%}k%{v%} SUBST ;
+%<ger5%>:%>%{y%}%{A%}n SUBST ;
+%<ger6%>:%>m%{A%}k%{v%} SUBST ;
+
+LEXICON NON-FINITE
+
+%<inf%>:%>m%{A%}k # ;
+
+
+
+%<prc1%>:%>%{y%}%{A%}n ATTR ;
+
+%<gna1%>:%>%{y%}%{A%}r%{A%}k # ;
+%<gna2%>:%>%{y%}%{I%}p # ;
+
+LEXICON CONDITIONAL
+
+%<cond%>:%>s%{A%} PERS2 ;
+
+
+LEXICON FINITE-VERBS-AR
+
+AOR-AR ;
+AORIST-AR-PERFECT ;
+AOR-AR-CONDITIONAL ;
+IMPERATIVE ;
+CONDITIONAL-CONTINUOUS ;
+CONDITIONAL-EVIDENTIAL ;
+CONDITIONAL-PAST ; 
+EVIDENTIAL-CONDITIONAL ;
+EVIDENTIAL-CONTINUOUS ;
+EVIDENTIAL-PAST ;
+EVIDENTIAL-PERFECT ;
+FUTURE ;
+FUTURE-CONDITIONAL ;
+FUTURE-PERFECT ;
+IMPERFECTIVE ;
+PAST ;
+PAST-CONDITIONAL ;
+PAST-CONTINUOUS ;
+PRESENT-CONTINUOUS ;
+FUTURE-EVIDENTIAL ;
+CONDITIONAL;
+
+LEXICON FINITE-VERBS-IR
+
+AOR-IR ;
+AORIST-IR-PERFECT ;
+AOR-IR-CONDITIONAL ;
+IMPERATIVE ;
+CONDITIONAL-CONTINUOUS ;
+CONDITIONAL-EVIDENTIAL ;
+CONDITIONAL-PAST ; 
+EVIDENTIAL-CONDITIONAL ;
+EVIDENTIAL-CONTINUOUS ;
+EVIDENTIAL-PAST ;
+EVIDENTIAL-PERFECT ;
+FUTURE ;
+FUTURE-CONDITIONAL ;
+FUTURE-PERFECT ;
+IMPERFECTIVE ;
+PAST ;
+PAST-CONDITIONAL ;
+PAST-CONTINUOUS ;
+PRESENT-CONTINUOUS ;
+FUTURE-EVIDENTIAL ;
+CONDITIONAL;
+
+LEXICON REGULAR-NEGATIVE 
+
+NECE ;
+CONDITIONAL ;
+NON-FINITE ;
+GERUND ;
+IMPERATIVE ;
+CONDITIONAL-CONTINUOUS ;
+CONDITIONAL-EVIDENTIAL ;
+CONDITIONAL-PAST ; 
+EVIDENTIAL-CONDITIONAL ;
+EVIDENTIAL-CONTINUOUS ;
+EVIDENTIAL-PAST ;
+EVIDENTIAL-PERFECT ;
+FUTURE ;
+FUTURE-CONDITIONAL ;
+FUTURE-EVIDENTIAL ;
+FUTURE-PERFECT ;
+IMPERFECTIVE ;
+PAST ;
+PAST-CONDITIONAL ;
+PAST-CONTINUOUS ;
+PRESENT-CONTINUOUS ;
+
+
+LEXICON V-TV-DIR-IR
+! Ex. al>mak - al>ır>ım - al>dır>mak
+
+%<v%>%<tv%>: CAUS-DIR-IR ;
+%<v%>%<tv%>: AOR-IR ;
+
+%<v%>%<tv%>: REC-DIR-IR ;
+%<v%>%<tv%>: PASS-DIR-IR ;
+%<v%>%<tv%>: REF-DIR-IR ;
+
+%<v%>%<tv%>: ABIL-IR ;
+
+%<v%>%<tv%>: FINITE-VERBS-IR ;
+
+%<v%>%<tv%>: NEG ;
+%<v%>%<tv%>: NECE ;
+%<v%>%<tv%>: CONDITIONAL ;
+%<v%>%<tv%>: NON-FINITE ;
+%<v%>%<tv%>: GERUND ;
+%<v%>%<tv%>: IMPERATIVE ;
+%<v%>%<tv%>: CONDITIONAL-CONTINUOUS ;
+%<v%>%<tv%>: CONDITIONAL-EVIDENTIAL ;
+%<v%>%<tv%>: CONDITIONAL-PAST ; 
+%<v%>%<tv%>: EVIDENTIAL-CONDITIONAL ;
+%<v%>%<tv%>: EVIDENTIAL-CONTINUOUS ;
+%<v%>%<tv%>: EVIDENTIAL-PAST ;
+%<v%>%<tv%>: EVIDENTIAL-PERFECT ;
+%<v%>%<tv%>: FUTURE ;
+%<v%>%<tv%>: FUTURE-CONDITIONAL ;
+%<v%>%<tv%>: FUTURE-PERFECT ;
+%<v%>%<tv%>: IMPERFECTIVE ;
+%<v%>%<tv%>: PAST ;
+%<v%>%<tv%>: PAST-CONDITIONAL ;
+%<v%>%<tv%>: PAST-CONTINUOUS ;
+%<v%>%<tv%>: PRESENT-CONTINUOUS ;
+%<v%>%<tv%>: FUTURE-EVIDENTIAL ;
+%<v%>%<tv%>: AOR-IR-CONDITIONAL ;
+%<v%>%<tv%>: AORIST-IR-PERFECT ;
+%<v%>%<tv%>: EXHORTATIVE ;
+%<v%>%<tv%>: JUSSIVE ;
+%<v%>%<tv%>: DOUBLE-EVIDENTIAL;
+
+
+
+LEXICON V-TV-IR-AR
+
+
+%<v%>%<tv%>: CAUS-IR-AR ;
+%<v%>%<tv%>: AOR-IR ;
+
+%<v%>%<tv%>: REC-DIR-IR ;
+%<v%>%<tv%>: PASS-DIR-IR ;
+%<v%>%<tv%>: REF-DIR-IR ;
+
+%<v%>%<tv%>: ABIL-IR ;
+
+%<v%>%<tv%>: FINITE-VERBS-IR ;
+
+%<v%>%<tv%>: NEG ;
+%<v%>%<tv%>: NECE ;
+%<v%>%<tv%>: CONDITIONAL ;
+%<v%>%<tv%>: NON-FINITE ;
+%<v%>%<tv%>: GERUND ;
+%<v%>%<tv%>: IMPERATIVE ;
+%<v%>%<tv%>: CONDITIONAL-CONTINUOUS ;
+%<v%>%<tv%>: CONDITIONAL-EVIDENTIAL ;
+%<v%>%<tv%>: CONDITIONAL-PAST ; 
+%<v%>%<tv%>: EVIDENTIAL-CONDITIONAL ;
+%<v%>%<tv%>: EVIDENTIAL-CONTINUOUS ;
+%<v%>%<tv%>: EVIDENTIAL-PAST ;
+%<v%>%<tv%>: EVIDENTIAL-PERFECT ;
+%<v%>%<tv%>: FUTURE ;
+%<v%>%<tv%>: FUTURE-CONDITIONAL ;
+%<v%>%<tv%>: FUTURE-PERFECT ;
+%<v%>%<tv%>: IMPERFECTIVE ;
+%<v%>%<tv%>: PAST ;
+%<v%>%<tv%>: PAST-CONDITIONAL ;
+%<v%>%<tv%>: PAST-CONTINUOUS ;
+%<v%>%<tv%>: PRESENT-CONTINUOUS ;
+%<v%>%<tv%>: FUTURE-EVIDENTIAL ;
+%<v%>%<tv%>: AOR-IR-CONDITIONAL ;
+%<v%>%<tv%>: AORIST-IR-PERFECT ;
+%<v%>%<tv%>: EXHORTATIVE ;
+%<v%>%<tv%>: JUSSIVE ;
+%<v%>%<tv%>: DOUBLE-EVIDENTIAL;
+
+
+LEXICON V-IV-DIR-IR
+
+%<v%>%<iv%>: IV-CAUS-DIR-IR ;
+%<v%>%<iv%>: AOR-IR ;
+%<v%>%<iv%>: IV-REC-DIR-IR ;
+%<v%>%<iv%>: IV-REF-DIR-IR ;
+%<v%>%<iv%>: ABIL-IR ;
+%<v%>%<iv%>: FINITE-VERBS-IR ;
+%<v%>%<iv%>: NEG ;
+%<v%>%<iv%>: NECE ;
+%<v%>%<iv%>: CONDITIONAL ;
+%<v%>%<iv%>: NON-FINITE ;
+%<v%>%<iv%>: GERUND ;
+%<v%>%<iv%>: IMPERATIVE ;
+%<v%>%<iv%>: CONDITIONAL-CONTINUOUS ;
+%<v%>%<iv%>: CONDITIONAL-EVIDENTIAL ;
+%<v%>%<iv%>: CONDITIONAL-PAST ; 
+%<v%>%<iv%>: EVIDENTIAL-CONDITIONAL ;
+%<v%>%<iv%>: EVIDENTIAL-CONTINUOUS ;
+%<v%>%<iv%>: EVIDENTIAL-PAST ;
+%<v%>%<iv%>: EVIDENTIAL-PERFECT ;
+%<v%>%<iv%>: FUTURE ;
+%<v%>%<iv%>: FUTURE-CONDITIONAL ;
+%<v%>%<iv%>: FUTURE-PERFECT ;
+%<v%>%<iv%>: IMPERFECTIVE ;
+%<v%>%<iv%>: PAST ;
+%<v%>%<iv%>: PAST-CONDITIONAL ;
+%<v%>%<iv%>: PAST-CONTINUOUS ;
+%<v%>%<iv%>: PRESENT-CONTINUOUS ;
+%<v%>%<iv%>: FUTURE-EVIDENTIAL ;
+%<v%>%<iv%>: AOR-IR-CONDITIONAL ;
+%<v%>%<iv%>: AORIST-IR-PERFECT ;
+%<v%>%<iv%>: EXHORTATIVE ;
+%<v%>%<iv%>: JUSSIVE ;
+%<v%>%<iv%>: DOUBLE-EVIDENTIAL;
+
+
+
+LEXICON V-TV-DIR-AR 
+! Ex. yap>mak - yap>ar>ım - yap>dır>mak
+
+%<v%>%<tv%>: CAUS-DIR-AR ;
+%<v%>%<tv%>: AOR-AR ;
+%<v%>%<tv%>: REC-DIR-AR ;
+%<v%>%<tv%>: PASS-DIR-AR ;
+%<v%>%<tv%>: REF-DIR-AR ;
+%<v%>%<tv%>: AOR-AR-CONDITIONAL ;
+%<v%>%<tv%>: ABIL-AR ;
+%<v%>%<tv%>: FINITE-VERBS-AR ;
+%<v%>%<tv%>: NEG ;
+%<v%>%<tv%>: NECE ;
+%<v%>%<tv%>: CONDITIONAL ;
+%<v%>%<tv%>: NON-FINITE ;
+%<v%>%<tv%>: GERUND ;
+%<v%>%<tv%>: IMPERATIVE ;
+%<v%>%<tv%>: CONDITIONAL-CONTINUOUS ;
+%<v%>%<tv%>: CONDITIONAL-EVIDENTIAL ;
+%<v%>%<tv%>: CONDITIONAL-PAST ; 
+%<v%>%<tv%>: EVIDENTIAL-CONDITIONAL ;
+%<v%>%<tv%>: EVIDENTIAL-CONTINUOUS ;
+%<v%>%<tv%>: EVIDENTIAL-PAST ;
+%<v%>%<tv%>: EVIDENTIAL-PERFECT ;
+%<v%>%<tv%>: FUTURE ;
+%<v%>%<tv%>: FUTURE-CONDITIONAL ;    
+%<v%>%<tv%>: FUTURE-PERFECT ;
+%<v%>%<tv%>: IMPERFECTIVE ;
+%<v%>%<tv%>: PAST ;
+%<v%>%<tv%>: PAST-CONDITIONAL ;
+%<v%>%<tv%>: PAST-CONTINUOUS ;
+%<v%>%<tv%>: PRESENT-CONTINUOUS ;
+%<v%>%<tv%>: FUTURE-EVIDENTIAL ;
+%<v%>%<tv%>: EXHORTATIVE ;
+%<v%>%<tv%>: JUSSIVE ;
+%<v%>%<tv%>: AORIST-AR-PERFECT ;
+%<v%>%<tv%>: ABIL-AR-CONDITIONAL;
+%<v%>%<tv%>: DOUBLE-EVIDENTIAL;
+
+
+LEXICON V-TV-T-AR 
+
+%<v%>%<tv%>: CAUS-T-AR ;
+%<v%>%<tv%>: AOR-AR ;
+%<v%>%<tv%>: REC-T-AR ;
+%<v%>%<tv%>: PASS-T-AR ;
+%<v%>%<tv%>: REF-T-AR ;
+%<v%>%<tv%>: AOR-AR-CONDITIONAL ;
+%<v%>%<tv%>: ABIL-AR ;
+%<v%>%<tv%>: FINITE-VERBS-AR ;
+%<v%>%<tv%>: NEG ;
+%<v%>%<tv%>: NECE ;
+%<v%>%<tv%>: CONDITIONAL ;
+%<v%>%<tv%>: NON-FINITE ;
+%<v%>%<tv%>: GERUND ;
+%<v%>%<tv%>: IMPERATIVE ;
+%<v%>%<tv%>: CONDITIONAL-CONTINUOUS ;
+%<v%>%<tv%>: CONDITIONAL-EVIDENTIAL ;
+%<v%>%<tv%>: CONDITIONAL-PAST ; 
+%<v%>%<tv%>: EVIDENTIAL-CONDITIONAL ;
+%<v%>%<tv%>: EVIDENTIAL-CONTINUOUS ;
+%<v%>%<tv%>: EVIDENTIAL-PAST ;
+%<v%>%<tv%>: EVIDENTIAL-PERFECT ;
+%<v%>%<tv%>: FUTURE ;
+%<v%>%<tv%>: FUTURE-CONDITIONAL ;
+%<v%>%<tv%>: FUTURE-PERFECT ;
+%<v%>%<tv%>: IMPERFECTIVE ;
+%<v%>%<tv%>: PAST ;
+%<v%>%<tv%>: PAST-CONDITIONAL ;
+%<v%>%<tv%>: PAST-CONTINUOUS ;
+%<v%>%<tv%>: PRESENT-CONTINUOUS ;
+%<v%>%<tv%>: FUTURE-EVIDENTIAL ;
+%<v%>%<tv%>: EXHORTATIVE ;
+%<v%>%<tv%>: JUSSIVE ;
+%<v%>%<tv%>: AORIST-AR-PERFECT ;
+%<v%>%<tv%>: ABIL-AR-CONDITIONAL;
+%<v%>%<tv%>: DOUBLE-EVIDENTIAL;
+
+
+LEXICON V-IV-T-IR 
+
+%<v%>%<iv%>: CAUS-T-IR ;
+%<v%>%<iv%>: AOR-IR;
+%<v%>%<iv%>: REC-T-IR ;
+%<v%>%<iv%>: REF-T-IR ;
+%<v%>%<iv%>: AOR-IR-CONDITIONAL ;
+%<v%>%<iv%>: ABIL-IR ;
+%<v%>%<iv%>: FINITE-VERBS-IR ;
+%<v%>%<iv%>: NEG ;
+%<v%>%<iv%>: NECE ;
+%<v%>%<iv%>: CONDITIONAL ;
+%<v%>%<iv%>: NON-FINITE ;
+%<v%>%<iv%>: GERUND ;
+%<v%>%<iv%>: IMPERATIVE ;
+%<v%>%<iv%>: CONDITIONAL-CONTINUOUS ;
+%<v%>%<iv%>: CONDITIONAL-EVIDENTIAL ;
+%<v%>%<iv%>: CONDITIONAL-PAST ; 
+%<v%>%<iv%>: EVIDENTIAL-CONDITIONAL ;
+%<v%>%<iv%>: EVIDENTIAL-CONTINUOUS ;
+%<v%>%<iv%>: EVIDENTIAL-PAST ;
+%<v%>%<iv%>: EVIDENTIAL-PERFECT ;
+%<v%>%<iv%>: FUTURE ;
+%<v%>%<iv%>: FUTURE-CONDITIONAL ;
+%<v%>%<iv%>: FUTURE-PERFECT ;
+%<v%>%<iv%>: IMPERFECTIVE ;
+%<v%>%<iv%>: PAST ;
+%<v%>%<iv%>: PAST-CONDITIONAL ;
+%<v%>%<iv%>: PAST-CONTINUOUS ;
+%<v%>%<iv%>: PRESENT-CONTINUOUS ;
+%<v%>%<iv%>: FUTURE-EVIDENTIAL ;
+%<v%>%<iv%>: EXHORTATIVE ;
+%<v%>%<iv%>: JUSSIVE ;
+%<v%>%<iv%>: AORIST-AR-PERFECT ;
+%<v%>%<iv%>: ABIL-AR-CONDITIONAL;
+%<v%>%<iv%>: DOUBLE-EVIDENTIAL;
+
+
+
+
+LEXICON V-TV-T-IR 
+
+%<v%>%<tv%>: CAUS-T-IR ;
+%<v%>%<tv%>: AOR-IR;
+%<v%>%<tv%>: REC-T-IR ;
+%<v%>%<tv%>: PASS-T-IR ;
+%<v%>%<tv%>: REF-T-IR ;
+%<v%>%<tv%>: AOR-IR-CONDITIONAL ;
+%<v%>%<tv%>: ABIL-IR ;
+%<v%>%<tv%>: FINITE-VERBS-IR ;
+%<v%>%<tv%>: NEG ;
+%<v%>%<tv%>: NECE ;
+%<v%>%<tv%>: CONDITIONAL ;
+%<v%>%<tv%>: NON-FINITE ;
+%<v%>%<tv%>: GERUND ;
+%<v%>%<tv%>: IMPERATIVE ;
+%<v%>%<tv%>: CONDITIONAL-CONTINUOUS ;
+%<v%>%<tv%>: CONDITIONAL-EVIDENTIAL ;
+%<v%>%<tv%>: CONDITIONAL-PAST ; 
+%<v%>%<tv%>: EVIDENTIAL-CONDITIONAL ;
+%<v%>%<tv%>: EVIDENTIAL-CONTINUOUS ;
+%<v%>%<tv%>: EVIDENTIAL-PAST ;
+%<v%>%<tv%>: EVIDENTIAL-PERFECT ;
+%<v%>%<tv%>: FUTURE ;
+%<v%>%<tv%>: FUTURE-CONDITIONAL ;
+%<v%>%<tv%>: FUTURE-PERFECT ;
+%<v%>%<tv%>: IMPERFECTIVE ;
+%<v%>%<tv%>: PAST ;
+%<v%>%<tv%>: PAST-CONDITIONAL ;
+%<v%>%<tv%>: PAST-CONTINUOUS ;
+%<v%>%<tv%>: PRESENT-CONTINUOUS ;
+%<v%>%<tv%>: FUTURE-EVIDENTIAL ;
+%<v%>%<tv%>: EXHORTATIVE ;
+%<v%>%<tv%>: JUSSIVE ;
+%<v%>%<tv%>: AORIST-AR-PERFECT ;
+%<v%>%<tv%>: ABIL-AR-CONDITIONAL;
+%<v%>%<tv%>: DOUBLE-EVIDENTIAL;
+
+
+
+LEXICON V-IV-DIR-AR 
+
+%<v%>%<iv%>: IV-CAUS-DIR-IR ;
+%<v%>%<iv%>: AOR-AR ;
+%<v%>%<iv%>: IV-REC-DIR-AR ;
+%<v%>%<iv%>: IV-REF-DIR-AR ;
+%<v%>%<iv%>: AOR-AR-CONDITIONAL ;
+%<v%>%<iv%>: ABIL-AR ;
+%<v%>%<iv%>: FINITE-VERBS-AR ;
+%<v%>%<iv%>: NEG ;
+%<v%>%<iv%>: NECE ;
+%<v%>%<iv%>: CONDITIONAL ;
+%<v%>%<iv%>: NON-FINITE ;
+%<v%>%<iv%>: GERUND ;
+%<v%>%<iv%>: IMPERATIVE ;
+%<v%>%<iv%>: CONDITIONAL-CONTINUOUS ;
+%<v%>%<iv%>: CONDITIONAL-EVIDENTIAL ;
+%<v%>%<iv%>: CONDITIONAL-PAST ; 
+%<v%>%<iv%>: EVIDENTIAL-CONDITIONAL ;
+%<v%>%<iv%>: EVIDENTIAL-CONTINUOUS ;
+%<v%>%<iv%>: EVIDENTIAL-PAST ;
+%<v%>%<iv%>: EVIDENTIAL-PERFECT ;
+%<v%>%<iv%>: FUTURE ;
+%<v%>%<iv%>: FUTURE-CONDITIONAL ;
+%<v%>%<iv%>: FUTURE-PERFECT ;
+%<v%>%<iv%>: IMPERFECTIVE ;
+%<v%>%<iv%>: PAST ;
+%<v%>%<iv%>: PAST-CONDITIONAL ;
+%<v%>%<iv%>: PAST-CONTINUOUS ;
+%<v%>%<iv%>: PRESENT-CONTINUOUS ;
+%<v%>%<iv%>: FUTURE-EVIDENTIAL ;
+%<v%>%<iv%>: EXHORTATIVE ;
+%<v%>%<iv%>: JUSSIVE ;
+%<v%>%<iv%>: AORIST-AR-PERFECT ;
+%<v%>%<iv%>: ABIL-AR-CONDITIONAL ;
+%<v%>%<iv%>: DOUBLE-EVIDENTIAL ;
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON INTERJ
+
+%<ij%>: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON POST
+
+%<post%>: # ;
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON DET-DEM
+
+%<det%>%<dem%>: # ;
+
+LEXICON DET-QNT
+
+%<det%>%<qnt%>: # ;
+
+LEXICON DET-IND
+
+%<det%>%<ind%>: # ;
+
+LEXICON DET-ITG
+
+%<det%>%<itg%>: # ;
+
+LEXICON DET-NEG
+
+%<det%>%<neg%>: # ;
+
+LEXICON DET-REF
+
+%<det%>%<ref%>: # ;
+
+LEXICON TIT 
+
+%<title%>: # ; 
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!! Stem lexica
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON Postpositions
+
+
+LEXICON  Conjunctions
+
+ve:ve CC ; ! "and"
+ama:ama CC ; ! "but"
+ile:İle CC ; ! "and" ! Dir/LR
+ile:ile CC ; ! "and"
+ya:ya CC ; ! "either/or"
+ye:ye CC ; ! "either/or"
+veya:veya CC ; ! "either/or"
+ne:ne CC ; ! "neither/nor"
+da:da CC ; ! ""
+da:de CC ; ! "" ! Dir/LR
+fakat:fakat CC ; ! ""
+ya% da:ya% da CC ; ! ""
+ya da:ya da CC ; 
+ama:ama CC ; 
+ancak:ancak CC ; 
+ve:ve CC ; 
+çünkü:çünkü CC ; 
+fakat:fakat CC ; 
+ha:ha CC ; 
+hem:hem CC ; 
+ila:ila CC ; 
+lakin:lakin CC ; 
+ne:ne CC ; 
+veya:veya CC ; 
+veyahut:veyahut CC ; 
+ya:ya CC ; 
+için:için CC ; 
+ha:ha CC ; 
+kah:kah CC ; 
+ne:ne CC ; 
+
+ki:ki CS ; 
+diye:diye CS ; 
+olarak:olarak CS ; 
+gibi:gibi CS ; 
+eğer:eğer CS ; 
+şayet:şayet CS ; 
+nedeniyle:nedeniyle CS ; 
+
+nispeten:nispeten CA ; 
+adeta:adeta CA ; 
+aksine:aksine CA ; 
+ancak:ancak CA ; 
+bari:bari CA ; 
+belki:belki CA ; 
+bilakis:bilakis CA ; 
+bile:bile CA ; 
+çünkü:çünkü CA ; 
+dahası:dahası CA ; 
+demek:demek CA ; 
+dolayısıyla:dolayısıyla CA ; 
+fakat:fakat CA ; 
+halbuki:halbuki CA ; 
+hani:hani CA ; 
+hatta:hatta CA ; 
+hele:hele CA ; 
+işte:işte CA ; 
+ister:ister CA ; 
+keşke:keşke CA ; 
+keza:keza CA ; 
+ki:ki CA ; 
+kısacası:kısacası CA ; 
+lakin:lakin CA ; 
+mamafih:mamafih CA ; 
+meğer:meğer CA ; 
+meğerki:meğerki CA ; 
+meğerse:meğerse CA ; 
+mesela:mesela CA ; 
+nasılsa:nasılsa CA ; 
+neyse:neyse CA ; 
+nitekim:nitekim CA ; 
+olsun:olsun CA ; 
+örneğin:örneğin CA ; 
+öyleyse:öyleyse CA ; 
+oysa:oysa CA ; 
+oysa ki:oysa ki CA ; 
+oysaki:oysaki CA ; 
+peki:peki CA ; 
+sonra:sonra CA ; 
+sözgelişi:sözgelişi CA ; 
+tersine:tersine CA ; 
+üstelik:üstelik CA ; 
+velhasıl:velhasıl CA ; 
+veya:veya CA ; 
+veyahut:veyahut CA ; 
+ya:ya CA ; 
+günkü:günkü CA ; 
+
+yalnız:yalnız CA ; 
+yani:yani CA ; 
+yeter:yeter CA ; 
+yok:yok CA ; 
+zaten:zaten CA ; 
+zira:zira CA ; 
+tabii% ki:tabii% ki CA ; 
+hiç% olmazsa:hiç% olmazsa CA ; 
+yok% mu:yok% mu CA ; 
+var% ya:var% ya CA ; 
+ne% de% olsa:ne% de% olsa CA ; 
+o% halde:o% halde CA ; 
+yeter% ki:yeter% ki CA ; 
+bunun% üzerine:bunun% üzerine CA ; 
+demek% ki:demek% ki CA ; 
+daha% doğrusu:daha% doğrusu CA ; 
+şöyle% ki:şöyle% ki CA ; 
+başka% bir% deyişle:başka% bir% deyişle CA ; 
+nasıl% ki:nasıl% ki CA ; 
+ne% var% ki:ne% var% ki CA ; 
+ya% da:ya% da CA ; 
+bundan% dolayı:bundan% dolayı CA ; 
+yoksa:yoksa CA ; 
+
+LEXICON Pronouns
+
+PRON-PERS ; 
+
+PRON-ITG ; 
+
+bu:bu PRON-DEM-BU ; ! "this"
+şu:şu PRON-DEM-BU ; ! "this"
+o:o PRON-DEM-BU ; ! "this"
+
+başka:başka PRON-IND ; ! "other"
+
+
+hiçbir% şey:hiçbirşey PRON-NEG ; ! "nothing" ! Dir/LR
+hiçbir% şey:hiç% birşey PRON-NEG ; ! "nothing" ! Dir/LR
+hiçbir% şey:hiçbir% şey PRON-NEG ; ! "nothing"
+hiç% kimse:hiç% kimse PRON-NEG ; ! "nobody"
+herkes:herkes PRON-QNT ; ! "everybody"
+kimse:kimse PRON-QNT ; ! "nobody"
+birisi:birisi PRON-QNT ; ! "somebody"
+bazıları:bazıları PRON-QNT ; ! "some of them"
+
+birbirine:birbirine PRON-REF ; ! "each other" @@@@ CHeCK
+öz:öz PRON-REF ; ! "self"
+kendi:kendi PRON-REF ; ! "self"
+
+ora:ora PRON-ADV ; 
+bura:bura PRON-ADV ; 
+şura:şura PRON-ADV ; 
+
+LEXICON Determiners
+
+bu:bu DET-DEM ; ! "this"
+şu:şu DET-DEM ; ! "this"
+o:o DET-DEM ; ! "this"
+
+hep:hep DET-QNT ; ! "all" @@@@ TAKES CASES
+hepsi:hepsi DET-QNT ; ! "all"
+bütün:bütün DET-QNT ; ! "every"
+
+bir:bir DET-IND ; ! "a, one"
+birkaç:birkaç DET-IND ; ! "some"
+
+hiç% bir:hiç% bir DET-NEG ; ! ""
+
+birkaç% tane:birkaç% tane DET-QNT ; ! "some units"
+birtakım:birtakım DET-QNT ; ! "several"
+birçok:birçok DET-QNT ; ! "a lot of"
+biraz:biraz DET-QNT ; ! "a bit"
+bir% miktar:bir% miktar DET-QNT ; ! "some measures"
+bazı:bazı DET-QNT ; ! "some"
+kimi:kimi DET-QNT ; ! "some (people)"
+bir% kısım:bir% kısım DET-QNT ; ! "some"
+bu% kadar:bu% kadar DET-QNT ; ! "this much"
+şu% kadar:şu% kadar DET-QNT ; ! "that much"
+o% kadar:o% kadar DET-QNT ; ! "this much"
+çok:çok DET-QNT ; ! "many"
+çoğu:çoğu DET-QNT ; ! "many" 
+!az:az DET-QNT ; ! "a little"
+!fazla:fazla DET-QNT ; ! "a lot"
+hiçbir:hiçbir DET-QNT ; ! "nothing"
+her:her DET-DEM ; ! "every"
+bütün:bütün DET-DEM ; ! "the whole"
+tüm:tüm DET-DEM ; ! "the whole"
+aynı:aynı DET-DEM ; ! "the same"
+öteki:öteki DET-DEM ; ! "the other"
+öbür:öbür DET-DEM ; !  "the other"
+tek:tek DET-IND ; ! "a" 
+herhangi:herhangi DET-IND ; ! "any"
+herhangi% bir:herhangi% bir DET-IND ; ! "anyone"
+ne% kadar:ne% kadar DET-ITG ; ! "how much"
+
+
+!!!!TO BE REVIEWED !!!!
+
+binlerce:binlerce DET-QNT ; ! "thousands of"
+yüzlerce:yüzlerce DET-QNT ; ! "hundreds of"
+düzinelerce:düzinelerce DET-QNT ; ! "dozens of"
+milyonlarca:milyonlarca DET-QNT ; ! "millions of"
+
+
+
+birer:birer DET-QNT ; ! "one each"
+tümü:tümü DET-QNT ; ! "all of"
+
+
+
+LEXICON Numerals
+
+sıfır:sıfır NUM ; ! "zero"
+bir:bir NUM ; ! "one"
+iki:İki NUM ; ! "two" ! Dir/LR
+iki:iki NUM ; ! "two"
+üç:üç NUM ; ! "three"
+dört:dört%{v%} NUM ; ! "four"
+beş:beş NUM ; ! "five"
+altı:altı NUM ; ! "six"
+yedi:yedi NUM ; ! "seven"
+sekiz:sekiz NUM ; ! "eight"
+dokuz:dokuz NUM ; ! "nine"
+on:on NUM ; ! "ten"
+
+yüz:yüz NUM ; ! "hundred"
+bin:bin NUM ; ! "thousand"
+milyon:milyon NUM ; ! "million"
+milyar:milyar NUM ; ! "milliard"
+bilyon:bilyon NUM ; ! "billion"
+trilyon:trilyon NUM ; ! "trillion"
+katrilyon:katrilyon NUM ; ! ""
+buçuk:buçuk NUM ; ! "half"
+
+LEXICON Titles
+
+Profesör:Profesör TIT ; ! ""
+Dr:Dr TIT ; ! ""
+
+
+LEXICON Nouns
+
+ev:ev N1 ; ! "house"
+
+LEXICON ProperNouns
+
+
+LEXICON Adjectives
+
+
+LEXICON Adverbs 
+
+
+LEXICON Verbs 
+
+
+LEXICON Interjections 
+
+evet:evet INTERJ ; ! "yes"
+hayır:hayır INTERJ ; ! "no"
+
+
+LEXICON Punctuation
+
+.%<sent%>:. # ;
+..%<sent%>:.. # ;
+...%<sent%>:... # ;
+%;%<sent%>:%; # ;
+%:%<sent%>:%: # ;
+%!%<sent%>:%! # ;
+%-%<guio%>:%- # ;
+%—%<guio%>:%— # ;
+,%<cm%>:, # ;
+%?%<sent%>:%? # ; 
+%'%<apos%>:%' # ;
+%"%<sent%>:%" # ;
+%«%<lquot%>:%« # ;
+%»%<rquot%>:%» # ;
+%”%<rquot%>:%” # ;
+%“%<lquot%>:%“ # ;
+%(%<lpar%>:%( # ;
+%]%<rpar%>:%] # ;
+%[%<lpar%>:%[ # ;
+%)%<rpar%>:%) # ;
+\%<sent%>:\ # ;
+/%<sent%>:/ # ;
+
+!==============!
+ LEXICON Digits ! Use/Circ
+!==============!
+
+
+%0:%0 NUM ;  ! Use/Circ
+№:№ DIGITLEX ;  ! Use/Circ
+DIGITLEX ; ! Use/Circ
+LASTDIGIT ; ! Use/Circ
+LASTDIGIT-REST ; ! Use/Circ
+
+! FIXME: We probably need a flag diacritic here, or an alternative '<percent>' lexicon
+%%:%% DIGITLEX ;  ! Use/Circ
+
