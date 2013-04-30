@@ -1,0 +1,31 @@
+<dictionary>
+  <alphabet/>
+
+  <sdefs>
+    <sdef n="n"       c="Noun"/>
+    <sdef n="adv"     c="Adverb"/>
+    <sdef n="np"      c="Proper noun"/>
+    <sdef n="post"    c="Postposition"/>
+    <sdef n="cnjcoo"  c="Co-ordinating conjunction"/>
+
+  </sdefs>
+
+  <section id="main" type="standard">
+    <!-- SECTION: Conjunctions -->
+
+    <e><p><l>ve<s n="cnjcoo"/></l><r>ve<s n="cnjcoo"/></r></p></e>
+
+    <!-- SECTION: Nouns -->
+
+    <e><p><l>ev<s n="n"/></l><r>uy<s n="n"/></r></p></e>
+    <e><p><l>ev<s n="n"/></l><r>hovli<s n="n"/></r></p></e>
+
+    <!-- SECTION: Proper nouns -->
+
+
+    <!-- SECTION: Adverbs -->
+
+
+    <!-- SECTION: Punctuation -->
+  </section>
+</dictionary>
