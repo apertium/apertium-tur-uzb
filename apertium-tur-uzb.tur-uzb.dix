@@ -13,12 +13,15 @@
   <section id="main" type="standard">
     <!-- SECTION: Conjunctions -->
 
-    <e><p><l>ve<s n="cnjcoo"/></l><r>ve<s n="cnjcoo"/></r></p></e>
+    <e><p><l>ve<s n="cnjcoo"/></l><r>va<s n="cnjcoo"/></r></p></e>
 
     <!-- SECTION: Nouns -->
 
     <e><p><l>ev<s n="n"/></l><r>uy<s n="n"/></r></p></e>
-    <e><p><l>ev<s n="n"/></l><r>hovli<s n="n"/></r></p></e>
+    <e><p><l>kedi<s n="n"/></l><r>mushuk<s n="n"/></r></p></e>
+    <e><p><l>hava<s n="n"/></l><r>hava<s n="n"/></r></p></e>
+    
+
 
     <!-- SECTION: Proper nouns -->
 
