@@ -2,6 +2,24 @@
 Multichar_Symbols
 
 %<n%>          ! Noun
+%<cnjcoo%>     ! Co-ordinating conjunction  
+
+! Cases ! "Case is a lie!" (quot.)
+
+%<nom%>            
+%<gen%>            
+%<dat%>            
+%<acc%>            
+%<abl%>            
+%<loc%>            
+%<ins%>            ! Instrumental=comitative 
+
+!!!! JAWOHL TWOL!!!!
+
+
+%{s%}		   ! Becomes "s" after a vowel, otherwise null
+%{i%}		   ! Becomes as "i" after a consonant, otherwise null
+
 
 
 
@@ -10,10 +28,57 @@ LEXICON Root
 Nouns ; 
 
 
-LEXICON N1
+LEXICON N1 ! Lexicon used for general nouns with no particularities. It takes PLURAL*-POSSESSIVE*-CASE in this order
 
-%<n%>: # ;
+%<n%>: SUBST ;
+
+LEXICON SUBST
+
+N-INFL-COMMON ; 
+%<pl%>:%>lar N-INFL-COMMON ;
+
+LEXICON N-INFL-COMMON
+
+POSS-REAL ;
+CASE-ETC ;
+
+LEXICON POSS-REAL
+
+%<px1sg%>:%>im CASE-ETC ;                
+%<px2sg%>:%>in CASE-ETC ;                 
+%<px3sp%>:%>i CASE-ETC ; 
+%<px1pl%>:%>lolmao CASE-ETC ;           
+%<px2pl%>:%>lol CASE-ETC ;      
+%<px3pl%>:%>laring CASE-ETC ;  
+
+LEXICON CASE-ETC
+
+CASE ;
+GENPOSS-ETC ;
+
+LEXICON CASE 
+
+%<nom%>: # ;               
+%<gen%>:%>ning # ;      
+%<dat%>:%>ga # ;   
+%<acc%>:%>ni # ;
+%<loc%>:%>da # ;   
+%<abl%>:%>dan # ;  
+! %<ins%>:%>ins # ;   
 
 LEXICON Nouns
 
+
+bog%'cha:bog%'cha N1 ; ! "garden
+daraxt:daraxt N1 ; ! "tree"
+havo:havo N1 ; ! "weather"
+it:it N1 ; ! "dog"
+mushuk:mushuk N1 ; ! "cat" 
+o%'g%'il% bola:o'%g%'il% bola N1 ; ! "boy"
+o%'yin:o%'yin N1 ; ! "game"
+qiz% bola:qiz% bola N1 ; ! "girl"
+qo%'l:qo%'l N1 ; ! "hand"
 uy:uy N1 ; ! "house"
+
+
+
