@@ -78,14 +78,14 @@ then
   AC_MSG_ERROR([You don't have apertium-lrx-comp installed.])
 fi
 
-AC_PATH_PROG(LRXPROC, apertium-lrx-proc, no)
+AC_PATH_PROG(LRXPROC, lrx-proc, no)
 if test x$ac_cv_path_LRXPROC = x
 then
-  AC_MSG_ERROR([You don't have apertium-lrx-proc installed.])
+  AC_MSG_ERROR([You don't have lrx-proc installed.])
 fi
 if test x$ac_cv_path_LRXPROC = xno
 then
-  AC_MSG_ERROR([You don't have apertium-lrx-proc installed.])
+  AC_MSG_ERROR([You don't have lrx-proc installed.])
 fi
 
 
