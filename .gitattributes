@@ -16,7 +16,6 @@
 /apertium-tur-uzb.uzb.twol -text
 /autogen.sh -text
 /configure.ac -text
-/lol -text
 /modes.xml -text
 /tur-uzb.prob -text svneol=unset#unset
 /update-morphs.bash -text
