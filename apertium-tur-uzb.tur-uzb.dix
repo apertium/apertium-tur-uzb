@@ -36,6 +36,16 @@
     <e><p><l>vicdana<s n="n"/></l><r>vijdan<s n="n"/></r></p></e>
     <e><p><l>akıl<s n="n"/></l><r>aql<s n="n"/></r></p></e>
     
+    <!-- SECTION: Pronouns -->
+
+	<e c="  0"><p><l>ben<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/></l><r>men<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/></r></p></e>
+	<e c="  0"><p><l>sen<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/></l><r>sen<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/></r></p></e>
+	<e c="  0"><p><l>o<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/></l><r>u<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/></r></p></e>
+	<e c="  0"><p><l>biz<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/></l><r>biz<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/></r></p></e>
+	<e c="  0"><p><l>siz<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/></l><r>sizlar<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/></r></p></e>
+	<e c="  0"><p><l>onlar<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></l><r>ular<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></r></p></e>
+
+    
      <!-- SECTION: Verbs -->
 
  	<e c="  0"><p><l>yaz<s n="v"/><s n="iv"/></l><r>yoz<s n="v"/><s n="iv"/></r></p></e>
