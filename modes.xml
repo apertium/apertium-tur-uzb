@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modes>
+  <mode name="tur-uzb" install="yes">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="tur-uzb.automorf.hfst"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="tur-uzb.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="tur-uzb.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="tur-uzb.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="tur-uzb.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-tur-uzb.tur-uzb.t1x"/>
+        <file name="tur-uzb.t1x.bin"/>
+      </program>
+      <program name="hfst-proc $1">
+        <file name="tur-uzb.autogen.hfst"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="tur-uzb-debug" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="tur-uzb.automorf.hfst"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="tur-uzb.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="tur-uzb.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="tur-uzb.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="tur-uzb.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-tur-uzb.tur-uzb.t1x"/>
+        <file name="tur-uzb.t1x.bin"/>
+      </program>
+      <program name="hfst-proc -d">
+        <file name="tur-uzb.autogen.hfst"/>
+      </program>
+    </pipeline>
+  </mode>
+ 
+  
+  <mode name="tur-uzb-morph" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="tur-uzb.automorf.hfst"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="tur-uzb-tagger" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="tur-uzb.automorf.hfst"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="tur-uzb.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="tur-uzb.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+    </pipeline>
+  </mode>
+
+  <mode name="tur-uzb-biltrans" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="tur-uzb.automorf.hfst"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="tur-uzb.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="tur-uzb.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="tur-uzb.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="tur-uzb-lextor" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="tur-uzb.automorf.hfst"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="tur-uzb.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="tur-uzb.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="tur-uzb.autobil.bin"/>
+      </program>
+      <program name="lrx-proc -t">
+        <file name="tur-uzb.autolex.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
+  <mode name="tur-uzb-transfer" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="tur-uzb.automorf.hfst"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="tur-uzb.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="tur-uzb.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="tur-uzb.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="tur-uzb.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-tur-uzb.tur-uzb.t1x"/>
+        <file name="tur-uzb.t1x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <!-- == Uzbek to Turkish == -->
+
+  <mode name="uzb-tur" install="yes">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="uzb-tur.automorf.hfst"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="uzb-tur.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="uzb-tur.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="uzb-tur.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="uzb-tur.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-tur-uzb.uzb-tur.t1x"/>
+        <file name="uzb-tur.t1x.bin"/>
+      </program>
+      <program name="hfst-proc $1">
+        <file name="uzb-tur.autogen.hfst"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="uzb-tur-debug" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="uzb-tur.automorf.hfst"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="uzb-tur.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="uzb-tur.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="uzb-tur.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="uzb-tur.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-tur-uzb.uzb-tur.t1x"/>
+        <file name="uzb-tur.t1x.bin"/>
+      </program>
+      <program name="hfst-proc -d">
+        <file name="uzb-tur.autogen.hfst"/>
+      </program>
+    </pipeline>
+  </mode>
+  
+  <mode name="uzb-tur-morph" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="uzb-tur.automorf.hfst"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="uzb-tur-tagger" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="uzb-tur.automorf.hfst"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="uzb-tur.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="uzb-tur.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+    </pipeline>
+  </mode>
+
+  <mode name="uzb-tur-biltrans" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="uzb-tur.automorf.hfst"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="uzb-tur.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="uzb-tur.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="uzb-tur.autobil.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="uzb-tur-lextor" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="uzb-tur.automorf.hfst"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="uzb-tur.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="uzb-tur.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="uzb-tur.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="uzb-tur.autolex.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="uzb-tur-transfer" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="uzb-tur.automorf.hfst"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="uzb-tur.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="uzb-tur.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="uzb-tur.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="uzb-tur.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-tur-uzb.uzb-tur.t1x"/>
+        <file name="uzb-tur.t1x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+
+</modes>
+
+

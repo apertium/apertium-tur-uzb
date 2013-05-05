@@ -1,9 +1,23 @@
 * text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/ChangeLog -text
+/Makefile.am -text
+/NEWS -text
+/README -text
 /apertium-tur-uzb.tur-uzb.dix -text
 /apertium-tur-uzb.tur-uzb.rlx -text
 /apertium-tur-uzb.tur.lexc -text
 /apertium-tur-uzb.tur.twol -text
+/apertium-tur-uzb.uzb-tur.lrx -text
+/apertium-tur-uzb.uzb-tur.rlx -text
+/apertium-tur-uzb.uzb-tur.t1x -text
 /apertium-tur-uzb.uzb.lexc -text
 /apertium-tur-uzb.uzb.twol -text
+/autogen.sh -text
+/configure.ac -text
 /lol -text
+/modes.xml -text
+/tur-uzb.prob -text svneol=unset#unset
 /update-morphs.bash -text
+/uzb-tur.prob -text svneol=unset#unset
