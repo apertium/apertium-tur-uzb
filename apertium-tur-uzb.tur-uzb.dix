@@ -7,9 +7,25 @@
     <sdef n="adv"     c="Adverb"/>
     <sdef n="np"      c="Proper noun"/>
     <sdef n="post"    c="Postposition"/>
-    <sdef n="cnjcoo"  c="Co-ordinating conjunction"/>
+     <sdef n="prn"    c="pronoun"/>
+     <sdef n="cnjcoo"  c="Co-ordinating conjunction"/>
     <sdef n="v"       c="Verb"/>
+         <sdef n="tv"    c="transitive"/>
+
+     <sdef n="iv"    c="intransitive"/>
+
     
+    
+         <sdef n="sg"    c="singular"/>
+     <sdef n="pl"    c="plural"/>
+
+     <sdef n="pers"    c="persona"/>
+          <sdef n="p1"    c="pronoun"/>
+     <sdef n="p2"    c="pronoun"/>
+     <sdef n="p3"    c="pronoun"/>
+   
+
+
     
 
   </sdefs>
