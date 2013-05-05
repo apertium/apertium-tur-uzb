@@ -42,14 +42,14 @@ LEXICON N-INFL-COMMON
 POSS-REAL ;
 CASE-ETC ;
 
-LEXICON POSS-REAL
+LEXICON POSS-REAL 
 
-%<px1sg%>:%>im CASE-ETC ;                
-%<px2sg%>:%>in CASE-ETC ;                 
-%<px3sp%>:%>i CASE-ETC ; 
-%<px1pl%>:%>lolmao CASE-ETC ;           
-%<px2pl%>:%>lol CASE-ETC ;      
-%<px3pl%>:%>laring CASE-ETC ;  
+%<px1sg%>:%>%{i%}m CASE-ETC ;                
+%<px2sg%>:%>%{i%}ng CASE-ETC ;                 
+%<px3sp%>:%>%{s%}i{pN%} CASE-ETC ; 
+%<px1pl%>:%>%{i%}miz CASE-ETC ;           
+%<px2pl%>:%>%{i%}ngiz CASE-ETC ;      
+%<px3pl%>:%>%{s%}i{pN%} CASE-ETC ; 
 
 LEXICON CASE-ETC
 
