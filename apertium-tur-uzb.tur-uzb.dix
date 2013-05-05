@@ -3,14 +3,24 @@
 
   <sdefs>
     <sdef n="n"       c="Noun"/>
+    <sdef n="adj"       c="Adjective"/>
     <sdef n="adv"     c="Adverb"/>
     <sdef n="np"      c="Proper noun"/>
     <sdef n="post"    c="Postposition"/>
     <sdef n="cnjcoo"  c="Co-ordinating conjunction"/>
+    <sdef n="v"       c="Verb"/>
+    
+    
 
   </sdefs>
 
   <section id="main" type="standard">
+  
+      <!-- SECTION: Adjectives -->
+      
+   <e c="  0"><p><l>hür<s n="adj"/></l><r>erkin<s n="adj"/></r></p></e>
+
+
     <!-- SECTION: Conjunctions -->
 
     <e><p><l>ve<s n="cnjcoo"/></l><r>va<s n="cnjcoo"/></r></p></e>
@@ -25,7 +35,11 @@
     <e><p><l>insan<s n="n"/></l><r>odam<s n="n"/></r></p></e>
     <e><p><l>vicdana<s n="n"/></l><r>vijdan<s n="n"/></r></p></e>
     <e><p><l>akıl<s n="n"/></l><r>aql<s n="n"/></r></p></e>
- 
+    
+     <!-- SECTION: Verbs -->
+
+ 	<e c="  0"><p><l>gel<s n="v"/><s n="iv"/></l><r>qel<s n="v"/><s n="iv"/></r></p></e>
+
 
 
     
