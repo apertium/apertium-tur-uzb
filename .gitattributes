@@ -6,7 +6,9 @@
 /NEWS -text
 /README -text
 /apertium-tur-uzb.tur-uzb.dix -text
+/apertium-tur-uzb.tur-uzb.lrx -text
 /apertium-tur-uzb.tur-uzb.rlx -text
+/apertium-tur-uzb.tur-uzb.t1x -text
 /apertium-tur-uzb.tur.lexc -text
 /apertium-tur-uzb.tur.twol -text
 /apertium-tur-uzb.uzb-tur.lrx -text
