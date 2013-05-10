@@ -21,16 +21,27 @@ Multichar_Symbols
 %{i%}		   ! Becomes as "i" after a consonant, otherwise null
 
 
+!!!!!! MISC!!!!
+
+%<top%> ! TOPONYMS
+
+
 
 
 LEXICON Root
 
 Nouns ; 
 
+!!!!!!!!!!!!!!NOUNS!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 LEXICON N1 ! Lexicon used for general nouns with no particularities. It takes PLURAL*-POSSESSIVE*-CASE in this order
 
 %<n%>: SUBST ;
+
+LEXICON NP-TOP
+
+%<np%>%<top%>: SUBST ;
+
 
 LEXICON SUBST
 
@@ -86,5 +97,10 @@ aql:aql N1 ; ! "mind"
 san'%at:san%'at N1 ; ! "art"
 festival:festival N1 ; ! "festival"
 
+
+
+!!!!!! TOPONYMS !!!!!!!
+
+O%'zbekiston:O%'zbekiston NP-TOP ; !
 
 
