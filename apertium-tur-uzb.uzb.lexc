@@ -33,9 +33,14 @@ LEXICON Root
 Nouns ; 
 Postpositions ; 
 Adjectives ; 
+Determinatives ; 
 
 
 !!!!!!!!!!ADJECTIVE PARADIGM!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON DET-IND
+
+%<det%>%<ind%>: # ;
 
 
 LEXICON A1
@@ -171,3 +176,7 @@ to%'la:to%'la A2 ; ! "full"
 zamonaviy:zamonaviy A2 ; ! "modern"
 qobiliyatli:qobiliyatli A2 ; ! "capable"
 yosh:yosh A2 ; ! "young"
+
+Lexicon Determinatives
+
+bir:bir DET-IND ; ! "a"

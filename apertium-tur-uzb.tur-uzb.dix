@@ -40,6 +40,8 @@
    <e c="  0"><p><l>modern<s n="adj"/></l><r>zamonaviy<s n="adj"/></r></p></e>
    <e c="  0"><p><l>kabiliyetli<s n="adj"/></l><r>qobiliyatli<s n="adj"/></r></p></e>
    <e c="  0"><p><l>genç<s n="adj"/></l><r>yosh<s n="adj"/></r></p></e>
+   <e c="  0"><p><l>güzel<s n="adj"/></l><r>nafis<s n="adj"/></r></p></e>
+
 
    
    <!-- SECTION: Adverbs -->
@@ -89,6 +91,10 @@
 
 
 
+
+    <!-- SECTION: Postposition -->
+
+<e><p><l>ile<s n="post"/></l><r>bilan<s n="post"/></r></p></e>
 
 
 
