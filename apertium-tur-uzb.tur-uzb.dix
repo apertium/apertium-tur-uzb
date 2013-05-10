@@ -3,24 +3,29 @@
 
   <sdefs>
     <sdef n="n"       c="Noun"/>
-    <sdef n="adj"       c="Adjective"/>
+    <sdef n="adj"     c="Adjective"/>
     <sdef n="adv"     c="Adverb"/>
     <sdef n="np"      c="Proper noun"/>
     <sdef n="post"    c="Postposition"/>
-     <sdef n="prn"    c="pronoun"/>
-     <sdef n="cnjcoo"  c="Co-ordinating conjunction"/>
+    <sdef n="prn"    c="pronoun"/>
+    <sdef n="cnjcoo" c="Co-ordinating conjunction"/>
     <sdef n="v"       c="Verb"/>
-    <sdef n="tv"    c="transitive"/>
+    <sdef n="tv"      c="transitive"/>
+    <sdef n="iv"    c="intransitive"/>
+    
+    <sdef n="det"    c="determinative"/>
+    <sdef n="ind"    c="indeterminate"/>
 
-     <sdef n="iv"    c="intransitive"/>
+
+
 
     
     
-         <sdef n="sg"    c="singular"/>
+     <sdef n="sg"    c="singular"/>
      <sdef n="pl"    c="plural"/>
 
      <sdef n="pers"    c="persona"/>
-          <sdef n="p1"    c="pronoun"/>
+     <sdef n="p1"    c="pronoun"/>
      <sdef n="p2"    c="pronoun"/>
      <sdef n="p3"    c="pronoun"/>
    
@@ -31,6 +36,8 @@
   </sdefs>
 
   <section id="main" type="standard">
+  
+      
   
       <!-- SECTION: Adjectives -->
       
@@ -54,6 +61,11 @@
     <!-- SECTION: Conjunctions -->
 
     <e><p><l>ve<s n="cnjcoo"/></l><r>va<s n="cnjcoo"/></r></p></e>
+    
+    <!-- SECTION: Determinatives -->
+    
+<e><p><l>bir<s n="det"/><s n="ind"/></l><r>bir<s n="det"/><s n="ind"/></r></p></e>
+
 
     <!-- SECTION: Nouns -->
 
