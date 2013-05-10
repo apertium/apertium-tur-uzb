@@ -10,7 +10,7 @@
      <sdef n="prn"    c="pronoun"/>
      <sdef n="cnjcoo"  c="Co-ordinating conjunction"/>
     <sdef n="v"       c="Verb"/>
-         <sdef n="tv"    c="transitive"/>
+    <sdef n="tv"    c="transitive"/>
 
      <sdef n="iv"    c="intransitive"/>
 
@@ -76,7 +76,28 @@
     <e><p><l>mükafat<s n="n"/></l><r>mukofot<s n="n"/></r></p></e>
     <e><p><l>tasvir<s n="n"/></l><r>tasvir<s n="n"/></r></p></e>
     <e><p><l>festival<s n="n"/></l><r>festival<s n="n"/></r></p></e>
+    <e><p><l>yil<s n="n"/></l><r>yil<s n="n"/></r></p></e>
+    <e><p><l>seviye<s n="n"/></l><r>saviya<s n="n"/></r></p></e>
+    <e><p><l>başkent<s n="n"/></l><r>poytaxt<s n="n"/></r></p></e>
+    <e><p><l>forum<s n="n"/></l><r>forum<s n="n"/></r></p></e>
 
+
+
+
+    
+    
+    <!-- SECTION: Prop - nounsTOP -->
+    
+    
+        <e><p><l>Özbekistan<s n="np"/></l><r>O'zbekiston<s n="np"/></r></p></e>
+        <e><p><l>Taşkent<s n="np"/></l><r>Toshkent<s n="np"/></r></p></e>
+        
+        
+
+
+    <!-- SECTION: Prop - nounsNOMMASC -->
+
+        <e><p><l>Takdir<s n="np"/></l><r>Taqdr<s n="np"/></r></p></e>
 
 
 

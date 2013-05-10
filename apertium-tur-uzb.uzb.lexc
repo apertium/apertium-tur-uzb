@@ -31,6 +31,12 @@ Multichar_Symbols
 LEXICON Root
 
 Nouns ; 
+Postpositions ; 
+
+
+LEXICON POST
+
+%<post%>: # ;
 
 !!!!!!!!!!!!!!NOUNS!!!!!!!!!!!!!!!!!!!!!!!!!!
 
@@ -41,6 +47,19 @@ LEXICON N1 ! Lexicon used for general nouns with no particularities. It takes PL
 LEXICON NP-TOP
 
 %<np%>%<top%>: SUBST ;
+
+LEXICON NP1-ANT-M
+
+%<np%>%<ant%>%<m%>: SUBST;
+
+
+LEXICON NP1-ANT-F
+
+%<np%>%<ant%>%<f%>: SUBST ;
+
+LEXICON NP1-COG-MF
+
+%<np%>%<cog%>%<mf%>: SUBST ; 
 
 
 LEXICON SUBST
@@ -96,11 +115,30 @@ vijdan:vijdan N1 ; ! "conscience"
 aql:aql N1 ; ! "mind"
 san'%at:san%'at N1 ; ! "art"
 festival:festival N1 ; ! "festival"
-
-
+hafta:hafta N1 ; ! "week"
+tasvir:tasvir N1 ; ! "representation"
+mukofot:mukofot N1 ; ! "reward"
+inson:inson N1 ; ! "human being"
+amal:amal N1 ; ! "experience"
+taxta:taxta N1 ; ! "board"
+akademiya:akademiya N1 ; ! "academy"
+madaniyat:madaniyat N1 ; ! "civilization"
+maqasad:maqasad N1 ; ! "objective/target"
+mintaqa:mintaqa N1 ; ! ""
+yil:yil N1 ; ! "year"
+saviya:saviya N1 ; ! "level"
+poytaxt:poytaxt N1 ; ! "capital city"
 
 !!!!!! TOPONYMS !!!!!!!
 
-O%'zbekiston:O%'zbekiston NP-TOP ; !
+O%'zbekiston:O%'zbekiston NP-TOP ; ! ""
+Toshkent:Toshkent NP-TOP ; ! ""
 
+Taqdr:Taqdr NP1-ANT-M ; ! ""
+
+Hujjati:Hujjati NP1-COG-MF ; ! ""
+
+Lexicon Postpositions 
+
+bilan:bilan POST ; ! ""
 
