@@ -1,6 +1,7 @@
 Alphabet
 A B C D E F G H I J K L M N O P Q R S T U V W Y Z 
 a b c d e f g h i j k l m n o p q r s t u v w y z
+%{s%}:0 %{i%}:0
 %>:0 %  ; 
 
 Sets
@@ -11,3 +12,6 @@ Rules
 
 "Remove morpheme boundary"
 %>:0 <=> _ ;
+
+"Restore {s}"
+%{s%}:s <=> :Vow _ ;
