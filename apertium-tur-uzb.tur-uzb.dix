@@ -61,6 +61,8 @@
     <!-- SECTION: Conjunctions -->
 
     <e><p><l>ve<s n="cnjcoo"/></l><r>va<s n="cnjcoo"/></r></p></e>
+        <e><p><l>ise<s n="cnjcoo"/></l><r>esa<s n="cnjcoo"/></r></p></e>
+
     
     <!-- SECTION: Determinatives -->
     
@@ -100,6 +102,8 @@
     <e><p><l>arka<s n="n"/></l><r>orqa<s n="n"/></r></p></e>
     <e><p><l>sertifika<s n="n"/></l><r>sertifika<s n="n"/></r></p></e>
     <e><p><l>gösteri<s n="n"/></l><r>tomosha<s n="n"/></r></p></e>
+    <e><p><l>dans<s n="n"/></l><r>raqs<s n="n"/></r></p></e>
+
 
 
 

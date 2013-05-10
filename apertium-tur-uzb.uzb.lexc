@@ -43,6 +43,14 @@ LEXICON DET-IND
 
 %<det%>%<ind%>: # ;
 
+LEXICON DET-DEM
+
+%<det%>%<dem%>: # ;
+
+LEXICON DET-QNT
+
+%<det%>%<qnt%>: # ;
+
 LEXICON CC 
 
 %<cnjcoo%>: # ;
@@ -102,10 +110,10 @@ LEXICON POSS-REAL
 
 %<px1sg%>:%>%{i%}m CASE-ETC ;                
 %<px2sg%>:%>%{i%}ng CASE-ETC ;                 
-%<px3sp%>:%>%{s%}i{pN%} CASE-ETC ; 
+%<px3sp%>:%>%{s%}i CASE-ETC ; 
 %<px1pl%>:%>%{i%}miz CASE-ETC ;           
 %<px2pl%>:%>%{i%}ngiz CASE-ETC ;      
-%<px3pl%>:%>%{s%}i{pN%} CASE-ETC ; 
+%<px3pl%>:%>%{s%}i CASE-ETC ; 
 
 LEXICON CASE-ETC
 
@@ -159,6 +167,24 @@ san%'atkor:san%'atkor N1 ; ! "artist"
 sertifika:sertifika N1 ; ! "certificate"
 tomosha:tomosha N1 ; ! "show"
 nasil:nasil N1 ; ! "generation"
+tajriba:tajriba N1 ; ! "experience"
+raqs:raqs N1 ; ! "dance"
+namoyish:namoyish N1 ; ! "show"
+o%'rin:o%'rin N1 ; ! "place"
+ochilish:ochilish N1 ; ! "opening"
+marosim:marosim N1 ; ! "ceremony"
+sevor:sevor N1 ; ! "lover" "fan" 
+tuproq:tuproq N1 ; ! "land"
+suv:suv N1 ; ! "water"
+asar:asar N1 ; ! "work" "art"
+naqsh:naqsh N1 ; ! "engraving"
+xayol:xayol N1 ; ! "dream imagination"
+dunyo:dunyo N1 ; ! "world"
+siluet:siluet N1 ; ! "silhouette"
+rasm:rasm N1 ; ! "picture"
+gilam:gilam N1 ; ! "rag"
+haykal:haykal N1 ; ! "statue"
+
 
 !!!!!! TOPONYMS !!!!!!!
 
@@ -172,6 +198,7 @@ Hujjati:Hujjati NP1-COG-MF ; ! ""
 Lexicon Postpositions 
 
 bilan:bilan POST ; ! ""
+uchun:uchun POST ; ! ""
 
 LEXICON Adjectives
 
@@ -182,11 +209,20 @@ zamonaviy:zamonaviy A2 ; ! "modern"
 qobiliyatli:qobiliyatli A2 ; ! "capable"
 yosh:yosh A2 ; ! "young"
 an%'anaviy:an%'anaviy A2 ; ! "traditional"
+muhtasham:muhtasham A1 ; ! "wonderful" "amazing"
+chiroyli:chiroyli A2 ; ! "nice"
+
 
 Lexicon Determinatives
 
 bir:bir DET-IND ; ! "a"
+barcha:barcha DET-DEM ; ! "every"
+yuzlab:yuzlab DET-QNT ; ! "hundreds"
+ko%'plab:ko%'plab DET-QNT ; ! "hundreds"
+
 
 Lexicon Conjunctions 
 
 va:va CC ; ! "and"
+esa:esa CC ; ! "whereas"
+ham:ham CC ; "and.. and" "too"

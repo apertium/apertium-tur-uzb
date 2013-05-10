@@ -1,6 +1,8 @@
 Alphabet
-A B C D E F G H I J K L M N O P Q R S T U V W Y Z 
-a b c d e f g h i j k l m n o p q r s t u v w y z
+A B C D E F G H I J K L M N O P Q R S T U V W Y Z X
+a b c d e f g h i j k l m n o p q r s t u v w y z x
+
+
 %{s%}:0 %{i%}:0
 %>:0 %  ; 
 

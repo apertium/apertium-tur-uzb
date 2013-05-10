@@ -1868,6 +1868,7 @@ için:için CC ;
 ha:ha CC ; 
 kah:kah CC ; 
 ne:ne CC ; 
+ise:ise CC ; ! "though"
 
 ki:ki CS ; 
 diye:diye CS ; 
@@ -2071,7 +2072,7 @@ LEXICON Nouns
 
 !!!NEW!!!
 
-
+sertifika:sertifika N1 ; ! "certificate"
 süt:süt N1 ; ! " milke"
 beraat:beraat N1 ; ! "exoneration"
 saha:saha N1 ; ! "field"
