@@ -38,6 +38,10 @@
    <e c="  0"><p><l>yeni<s n="adj"/></l><r>yangi<s n="adj"/></r></p></e>
    <e c="  0"><p><l>geleneksel<s n="adj"/></l><r>an’anaviy<s n="adj"/></r></p></e>
    <e c="  0"><p><l>modern<s n="adj"/></l><r>zamonaviy<s n="adj"/></r></p></e>
+   
+   <!-- SECTION: Adverbs -->
+
+      <e c="  0"><p><l>hür<s n="adv"/></l><r>erkin<s n="adv"/></r></p></e>
 
 
 
@@ -63,6 +67,17 @@
     <e><p><l>akademi<s n="n"/></l><r>akademya<s n="n"/></r></p></e>
     <e><p><l>sanatcı<s n="n"/></l><r>san’atkor<s n="n"/></r></p></e>
     <e><p><l>hedef<s n="n"/></l><r>maqasad<s n="n"/></r></p></e>
+    <e><p><l>tecrübe<s n="n"/></l><r>tajriba<s n="n"/></r></p></e>
+    <e><p><l>bölge<s n="n"/></l><r>mintaqa<s n="n"/></r></p></e>
+    <e><p><l>heykel<s n="n"/></l><r>haykal<s n="n"/></r></p></e>
+    <e><p><l>tahta<s n="n"/></l><r>taxta<s n="n"/></r></p></e>
+    <e><p><l>etki<s n="n"/></l><r>amal<s n="n"/></r></p></e>
+    <e><p><l>insan<s n="n"/></l><r>inson<s n="n"/></r></p></e>
+    <e><p><l>mükafat<s n="n"/></l><r>mukofot<s n="n"/></r></p></e>
+    <e><p><l>tasvir<s n="n"/></l><r>tasvir<s n="n"/></r></p></e>
+   
+
+
 
 
 
