@@ -34,6 +34,7 @@ Nouns ;
 Postpositions ; 
 Adjectives ; 
 Determinatives ; 
+Conjunctions ; 
 
 
 !!!!!!!!!!ADJECTIVE PARADIGM!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -42,6 +43,9 @@ LEXICON DET-IND
 
 %<det%>%<ind%>: # ;
 
+LEXICON CC 
+
+%<cnjcoo%>: # ;
 
 LEXICON A1
 
@@ -154,6 +158,7 @@ orqa:orqa N1 ; ! "the behind"
 san%'atkor:san%'atkor N1 ; ! "artist"
 sertifika:sertifika N1 ; ! "certificate"
 tomosha:tomosha N1 ; ! "show"
+nasil:nasil N1 ; ! "generation"
 
 !!!!!! TOPONYMS !!!!!!!
 
@@ -176,7 +181,12 @@ to%'la:to%'la A2 ; ! "full"
 zamonaviy:zamonaviy A2 ; ! "modern"
 qobiliyatli:qobiliyatli A2 ; ! "capable"
 yosh:yosh A2 ; ! "young"
+an%'anaviy:an%'anaviy A2 ; ! "traditional"
 
 Lexicon Determinatives
 
 bir:bir DET-IND ; ! "a"
+
+Lexicon Conjunctions 
+
+va:va CC ; ! "and"
