@@ -38,6 +38,9 @@
    <e c="  0"><p><l>yeni<s n="adj"/></l><r>yangi<s n="adj"/></r></p></e>
    <e c="  0"><p><l>geleneksel<s n="adj"/></l><r>an'anaviy<s n="adj"/></r></p></e>
    <e c="  0"><p><l>modern<s n="adj"/></l><r>zamonaviy<s n="adj"/></r></p></e>
+   <e c="  0"><p><l>kabiliyetli<s n="adj"/></l><r>qobiliyatli<s n="adj"/></r></p></e>
+   <e c="  0"><p><l>genç<s n="adj"/></l><r>yosh<s n="adj"/></r></p></e>
+
    
    <!-- SECTION: Adverbs -->
 
@@ -80,6 +83,12 @@
     <e><p><l>seviye<s n="n"/></l><r>saviya<s n="n"/></r></p></e>
     <e><p><l>başkent<s n="n"/></l><r>poytaxt<s n="n"/></r></p></e>
     <e><p><l>forum<s n="n"/></l><r>forum<s n="n"/></r></p></e>
+    <e><p><l>arka<s n="n"/></l><r>orqa<s n="n"/></r></p></e>
+    <e><p><l>sertifika<s n="n"/></l><r>sertifika<s n="n"/></r></p></e>
+    <e><p><l>gösteri<s n="n"/></l><r>tomosha<s n="n"/></r></p></e>
+
+
+
 
 
 

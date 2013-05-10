@@ -145,6 +145,10 @@ mintaqa:mintaqa N1 ; ! ""
 yil:yil N1 ; ! "year"
 saviya:saviya N1 ; ! "level"
 poytaxt:poytaxt N1 ; ! "capital city"
+orqa:orqa N1 ; ! "the behind"
+san%'atkor:san%'atkor N1 ; ! "artist"
+sertifika:sertifika N1 ; ! "certificate"
+tomosha:tomosha N1 ; ! "show"
 
 !!!!!! TOPONYMS !!!!!!!
 
@@ -164,3 +168,6 @@ LEXICON Adjectives
 yangi:yangi A1 ; ! "new"
 nafis:nafis A1 ; ! "fine"
 to%'la:to%'la A2 ; ! "full"
+zamonaviy:zamonaviy A2 ; ! "modern"
+qobiliyatli:qobiliyatli A2 ; ! "capable"
+yosh:yosh A2 ; ! "young"
