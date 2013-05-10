@@ -32,6 +32,23 @@ LEXICON Root
 
 Nouns ; 
 Postpositions ; 
+Adjectives ; 
+
+
+!!!!!!!!!!ADJECTIVE PARADIGM!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+LEXICON A1
+
+%<adj%>: # ; 
+%<adj%>%<subst%>: SUBST ;
+%<adj%>%<advl%>: # ;
+
+LEXICON A2 
+
+
+%<adj%>: # ; 
+%<adj%>%<subst%>: SUBST ;
 
 
 LEXICON POST
@@ -142,3 +159,8 @@ Lexicon Postpositions
 
 bilan:bilan POST ; ! ""
 
+LEXICON Adjectives
+
+yangi:yangi A1 ; ! "new"
+nafis:nafis A1 ; ! "fine"
+to%'la:to%'la A2 ; ! "full"
