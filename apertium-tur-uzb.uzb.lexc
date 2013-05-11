@@ -191,6 +191,8 @@ loy:loy N1 ; ! "clay"
 qobiliyat:qobiliyat N1 ; ! "capability"
 tomon:tomon N1 ; ! "side"
 forum:forum N1 ; ! "forum" 
+vakolatxona:vakolatxona N1 ; ! "representive office"
+
 
 
 !!!!!! TOPONYMS !!!!!!!
@@ -225,6 +227,7 @@ Lexicon Determinatives
 bir:bir DET-IND ; ! "a"
 barcha:barcha DET-DEM ; ! "every"
 yuzlab:yuzlab DET-QNT ; ! "hundreds"
+minglab:minglab DET-QNT ; ! "thousands"
 ko%'plab:ko%'plab DET-QNT ; ! "hundreds"
 
 
