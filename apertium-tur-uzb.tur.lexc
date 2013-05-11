@@ -2259,6 +2259,7 @@ sandalye:sandalye N1 ; ! "chair"
 başbakan:başbakan N1 ; ! "Prime minister"
 üyelik:üyelik%{v%} N1 ; ! "membership"
 suikast:suikast N1 ; ! "assassination"
+yil:yil N1 ; ! "year"
 
 
 
@@ -7349,7 +7350,7 @@ aklama:aklama N1 ; ! "exoneration"
 yaşam:yaşam N1 ; ! "life"
 stand:stand N1 ; ! "stand"
 gemi:gemi N1 ; ! "boat"
-
+sever:sever N1 ; ! "fan"
 
 
 
@@ -7470,6 +7471,7 @@ cm:cm N1 ;  ! "cm"
 şekil:şek%{u%}l N1 ; ! "shape"
 burun:bur%{u%}n N1 ; ! "nose"
 şehir:şeh%{u%}r N1 ; ! "city"
+sanatcı:sanatcı N1 ; ! "artist"
  
 
 
@@ -10977,6 +10979,7 @@ LEXICON Adjectives
 
 !!!!!!!!!!!!!!LAST UPDATE!!!!!!!!!!!!!!!!!!!!!
 
+kabiliyetli:kabiliyetli A4 ; ! "capable"
 dolaylı:dolaylı A4 ; ! "indirect"
 sorunlu:sorunlu A4 ; ! "problematic"
 ölçekli:ölçekli A4 ; ! "scaled"

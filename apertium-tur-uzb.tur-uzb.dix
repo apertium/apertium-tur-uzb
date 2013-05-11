@@ -48,7 +48,8 @@
    <e c="  0"><p><l>kabiliyetli<s n="adj"/></l><r>qobiliyatli<s n="adj"/></r></p></e>
    <e c="  0"><p><l>genç<s n="adj"/></l><r>yosh<s n="adj"/></r></p></e>
    <e c="  0"><p><l>güzel<s n="adj"/></l><r>nafis<s n="adj"/></r></p></e>
-
+   <e c="  0"><p><l>dolu<s n="adj"/></l><r>to'la<s n="adj"/></r></p></e>
+  
 
    
    <!-- SECTION: Adverbs -->
@@ -61,7 +62,8 @@
     <!-- SECTION: Conjunctions -->
 
     <e><p><l>ve<s n="cnjcoo"/></l><r>va<s n="cnjcoo"/></r></p></e>
-        <e><p><l>ise<s n="cnjcoo"/></l><r>esa<s n="cnjcoo"/></r></p></e>
+    <e><p><l>ise<s n="cnjcoo"/></l><r>esa<s n="cnjcoo"/></r></p></e>
+        
 
     
     <!-- SECTION: Determinatives -->
@@ -83,7 +85,7 @@
     <e><p><l>hafta<s n="n"/></l><r>hafta<s n="n"/></r></p></e>
     <e><p><l>medeniyet<s n="n"/></l><r>madaniyat<s n="n"/></r></p></e>
     <e><p><l>forum<s n="n"/></l><r>forum<s n="n"/></r></p></e>
-    <e><p><l>akademi<s n="n"/></l><r>akademya<s n="n"/></r></p></e>
+    <e><p><l>akademi<s n="n"/></l><r>akademiya<s n="n"/></r></p></e>
     <e><p><l>sanatcı<s n="n"/></l><r>san'atkor<s n="n"/></r></p></e>
     <e><p><l>hedef<s n="n"/></l><r>maqasad<s n="n"/></r></p></e>
     <e><p><l>tecrübe<s n="n"/></l><r>tajriba<s n="n"/></r></p></e>
@@ -103,6 +105,10 @@
     <e><p><l>sertifika<s n="n"/></l><r>sertifika<s n="n"/></r></p></e>
     <e><p><l>gösteri<s n="n"/></l><r>tomosha<s n="n"/></r></p></e>
     <e><p><l>dans<s n="n"/></l><r>raqs<s n="n"/></r></p></e>
+    <e><p><l>taraf<s n="n"/></l><r>tomon<s n="n"/></r></p></e>
+    <e><p><l>sever<s n="n"/></l><r>sevor<s n="n"/></r></p></e>
+
+
 
 
 
