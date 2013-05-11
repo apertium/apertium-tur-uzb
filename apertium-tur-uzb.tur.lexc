@@ -2072,6 +2072,8 @@ LEXICON Nouns
 
 !!!NEW!!!
 
+silüet:silüet N1 ; ! "silhouheuhtuehtee"
+
 sertifika:sertifika N1 ; ! "certificate"
 süt:süt N1 ; ! " milke"
 beraat:beraat N1 ; ! "exoneration"
@@ -6841,6 +6843,7 @@ sektör:sektör N1 ; ! "sector"
 statü:statü N1 ; ! "status" ! FIXME: Check
 boykot:boykot N1 ; ! "boycot"
 program:program N1 ; ! "program"
+tecrübe:tecrübe N1 ; ! "experience"
 sistem:sistem N1 ; ! "system"
 televizyon:televizyon N1 ; ! "television"
 üniversite:üniversite N1 ; ! "university"
@@ -11072,6 +11075,7 @@ ikili:ikili A4 ; ! "dual"
 belli:belli A4 ; ! "evident"
 iyi:İyi A1 ; ! "good" ! Dir/LR
 iyi:iyi A1 ; ! "good"
+muhteşem:muhteşem A1 ; ! 'wonderful'
 tüzel:tüzel A4 ; ! "corporate"
 yeni:yeni A1 ; ! "new"
 büyük:büyük A1 ; ! "big"

@@ -13,8 +13,13 @@
     <sdef n="tv"      c="transitive"/>
     <sdef n="iv"    c="intransitive"/>
     
+    
     <sdef n="det"    c="determinative"/>
     <sdef n="ind"    c="indeterminate"/>
+    <sdef n="dem"    c="demonstrative"/>
+    <sdef n="qnt"    c="quantitative"/>
+
+
 
 
 
@@ -49,6 +54,9 @@
    <e c="  0"><p><l>genç<s n="adj"/></l><r>yosh<s n="adj"/></r></p></e>
    <e c="  0"><p><l>güzel<s n="adj"/></l><r>nafis<s n="adj"/></r></p></e>
    <e c="  0"><p><l>dolu<s n="adj"/></l><r>to'la<s n="adj"/></r></p></e>
+   <e c="  0"><p><l>muhteşem<s n="adj"/></l><r>muhtasham<s n="adj"/></r></p></e>
+   <e c="  0"><p><l>güzel<s n="adj"/></l><r>chiroyli<s n="adj"/></r></p></e>
+
   
 
    
@@ -69,6 +77,12 @@
     <!-- SECTION: Determinatives -->
     
 <e><p><l>bir<s n="det"/><s n="ind"/></l><r>bir<s n="det"/><s n="ind"/></r></p></e>
+
+<e><p><l>her<s n="det"/><s n="dem"/></l><r>barcha<s n="det"/><s n="dem"/></r></p></e>
+
+<e><p><l>yüzlerce<s n="det"/><s n="qnt"/></l><r>yuzlab<s n="det"/><s n="qnt"/></r></p></e>
+<e><p><l>birçok<s n="det"/><s n="qnt"/></l><r>ko'plab<s n="det"/><s n="qnt"/></r></p></e>
+
 
 
     <!-- SECTION: Nouns -->
@@ -107,6 +121,30 @@
     <e><p><l>dans<s n="n"/></l><r>raqs<s n="n"/></r></p></e>
     <e><p><l>taraf<s n="n"/></l><r>tomon<s n="n"/></r></p></e>
     <e><p><l>sever<s n="n"/></l><r>sevor<s n="n"/></r></p></e>
+    <e><p><l>resim<s n="n"/></l><r>rasm<s n="n"/></r></p></e>
+    <e><p><l>dünya<s n="n"/></l><r>dunyo<s n="n"/></r></p></e>
+    <e><p><l>hayal<s n="n"/></l><r>xayol<s n="n"/></r></p></e>
+    <e><p><l>silüet<s n="n"/></l><r>siluet<s n="n"/></r></p></e>
+    <e><p><l>yer<s n="n"/></l><r>o'rin<s n="n"/></r></p></e>
+    <e><p><l>açılış<s n="n"/></l><r>ochilish<s n="n"/></r></p></e>
+    <e><p><l>merasim<s n="n"/></l><r>marosim<s n="n"/></r></p></e>
+    <e><p><l>nesil<s n="n"/></l><r>nasil<s n="n"/></r></p></e> 
+    <e><p><l>gösteri<s n="n"/></l><r>namoyish<s n="n"/></r></p></e> 
+    <e><p><l>yetenek<s n="n"/></l><r>qobiliyat<s n="n"/></r></p></e> 
+    <e><p><l>toprak<s n="n"/></l><r>tuproq<s n="n"/></r></p></e> 
+    <e><p><l>su<s n="n"/></l><r>suv<s n="n"/></r></p></e> 
+    <e><p><l>eser<s n="n"/></l><r>asar<s n="n"/></r></p></e> 
+    <e><p><l>nakış<s n="n"/></l><r>naqsh<s n="n"/></r></p></e>     
+    <e><p><l>kilim<s n="n"/></l><r>gilam<s n="n"/></r></p></e> 
+    <e><p><l>kil<s n="n"/></l><r>loy<s n="n"/></r></p></e> 
+
+
+
+
+
+
+
+
 
 
 
@@ -117,6 +155,7 @@
     <!-- SECTION: Postposition -->
 
 <e><p><l>ile<s n="post"/></l><r>bilan<s n="post"/></r></p></e>
+<e><p><l>için<s n="post"/></l><r>uchun<s n="post"/></r></p></e>
 
 
 

@@ -37,7 +37,10 @@ Determinatives ;
 Conjunctions ; 
 
 
-!!!!!!!!!!ADJECTIVE PARADIGM!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON ADV3
+
+%<adv%>: # ;
+
 
 LEXICON DET-IND
 
@@ -229,4 +232,5 @@ Lexicon Conjunctions
 
 va:va CC ; ! "and"
 esa:esa CC ; ! "whereas"
-ham:ham CC ; "and.. and" "too"
+
+ham:ham ADV3 ; "and.. and" "too"
