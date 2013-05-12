@@ -70,6 +70,10 @@ LEXICON A2
 %<adj%>: # ; 
 %<adj%>%<subst%>: SUBST ;
 
+LEXICON PRON-REF
+
+%<prn%>%<ref%>: # ;
+
 
 LEXICON POST
 
@@ -237,7 +241,12 @@ chiroyli:chiroyli A2 ; ! "nice"
 kelgusi:kelgusi A2 ; ! "next"
 yaqin:yaqin A2 ; ! "next"
 xalqaro:xalqaro A2 ; ! "international"
+rangli:rangli A2 ; ! "colored"
+qiziqish:qiziqish A2 ; ! "concerned, interested, curious"
+ma%'noli:ma%'noli A2 ; ! "meaningful"
+turli:turli A2 ; ! ""
 
+o'z:o'z PRON-REF ; ! "self"
 
 
 
@@ -257,5 +266,5 @@ Lexicon Conjunctions
 va:va CC ; ! "and"
 esa:esa CC ; ! "whereas"
 
-ham:ham ADV3 ; ! "and.. and" "too"
+ham:ham CC ; ! "and.. and" "too"
 eng:eng ADV3 ; ! "the most"
