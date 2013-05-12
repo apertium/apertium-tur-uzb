@@ -98,6 +98,12 @@ LEXICON NP1-COG-MF
 
 %<np%>%<cog%>%<mf%>: SUBST ; 
 
+LEXICON NP1-ORG
+
+%<np%>%<org%>%<nom%>: # ;
+%<np%>%<org%>: N-INFL-COMMON-NONOM ;
+%<np%>%<org%>%<attr%>: # ;
+
 
 LEXICON SUBST
 
@@ -169,7 +175,7 @@ orqa:orqa N1 ; ! "the behind"
 san%'atkor:san%'atkor N1 ; ! "artist"
 sertifika:sertifika N1 ; ! "certificate"
 tomosha:tomosha N1 ; ! "show"
-nasil:nasil N1 ; ! "generation"
+nasl:nasl N1 ; ! "generation"
 tajriba:tajriba N1 ; ! "experience"
 raqs:raqs N1 ; ! "dance"
 namoyish:namoyish N1 ; ! "show"
@@ -194,6 +200,11 @@ forum:forum N1 ; ! "forum"
 vakolatxona:vakolatxona N1 ; ! "representive office"
 hissa:hissa N1 ; ! "share, part"
 to%'siq:to%'siq N1 ; ! "barrier/obstacle"
+o%'ymakorlik:o%'ymakorlik N1 ; ! "profession"
+
+
+
+TRT:TRT NP1-ORG ; ! "TRT"
 
 
 
@@ -225,6 +236,7 @@ muhtasham:muhtasham A1 ; ! "wonderful" "amazing"
 chiroyli:chiroyli A2 ; ! "nice"
 kelgusi:kelgusi A2 ; ! "next"
 yaqin:yaqin A2 ; ! "next"
+xalqaro:xalqaro A2 ; ! "international"
 
 
 
@@ -236,6 +248,8 @@ barcha:barcha DET-DEM ; ! "every"
 yuzlab:yuzlab DET-QNT ; ! "hundreds"
 minglab:minglab DET-QNT ; ! "thousands"
 ko%'plab:ko%'plab DET-QNT ; ! "hundreds"
+Ayrimlar:Ayrimlar DET-DEM ; ! "some other"
+
 
 
 Lexicon Conjunctions 
