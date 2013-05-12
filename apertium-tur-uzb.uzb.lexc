@@ -192,6 +192,9 @@ qobiliyat:qobiliyat N1 ; ! "capability"
 tomon:tomon N1 ; ! "side"
 forum:forum N1 ; ! "forum" 
 vakolatxona:vakolatxona N1 ; ! "representive office"
+hissa:hissa N1 ; ! "share, part"
+to%'siq:to%'siq N1 ; ! "barrier/obstacle"
+
 
 
 
@@ -220,6 +223,7 @@ yosh:yosh A2 ; ! "young"
 an%'anaviy:an%'anaviy A2 ; ! "traditional"
 muhtasham:muhtasham A1 ; ! "wonderful" "amazing"
 chiroyli:chiroyli A2 ; ! "nice"
+kelgusi:kelgusi A2 ; ! "next"
 
 
 Lexicon Determinatives
@@ -236,4 +240,5 @@ Lexicon Conjunctions
 va:va CC ; ! "and"
 esa:esa CC ; ! "whereas"
 
-ham:ham ADV3 ; "and.. and" "too"
+ham:ham ADV3 ; ! "and.. and" "too"
+eng:eng ADV3 ; ! "the most"
