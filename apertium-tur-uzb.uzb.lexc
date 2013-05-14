@@ -205,7 +205,13 @@ vakolatxona:vakolatxona N1 ; ! "representive office"
 hissa:hissa N1 ; ! "share, part"
 to%'siq:to%'siq N1 ; ! "barrier/obstacle"
 o%'ymakorlik:o%'ymakorlik N1 ; ! "profession"
-
+terror:terror N1 ; ! "terror"
+hujum:hujum N1 ; ! "attack"
+aholi:aholi N1 ; ! "population"
+prezident:prezident N1 ; ! "president"
+maktub:maktub N1 ; ! "letter"
+matbout:matbout ; ! "press"
+hukumat:hukumat ; ! "government"
 
 
 TRT:TRT NP1-ORG ; ! "TRT"
@@ -217,6 +223,10 @@ TRT:TRT NP1-ORG ; ! "TRT"
 
 O%'zbekiston:O%'zbekiston NP-TOP ; ! ""
 Toshkent:Toshkent NP-TOP ; ! ""
+Turkmaniston:Turkmaniston NP-TOP ; ! ""
+Hatay:Hatay NP-TOP ; ! ""
+Reyhanli:Reyhanli NP-TOP ; ! ""
+Turkiya:Turkiya NP-TOP ; ! ""
 
 Taqdr:Taqdr NP1-ANT-M ; ! ""
 
