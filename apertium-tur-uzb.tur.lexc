@@ -44,6 +44,7 @@ Multichar_Symbols
 !! gender of anthroponyms 
 %<m%>              ! Masculine    
 %<f%>              ! Feminine     
+%<mf%>
 
 ! "Syntactic" tags. Attributive use of non-adjectives etc. !!!!! NOT SURE I WANT THIS !!!!
 %<attr%>           ! Attributive
