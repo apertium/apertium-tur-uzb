@@ -148,6 +148,17 @@
     <e><p><l>büro<s n="n"/></l><r>vakolatxona<s n="n"/></r></p></e> 
     <e><p><l>hisse<s n="n"/></l><r>hissa<s n="n"/></r></p></e> 
     <e><p><l>engel<s n="n"/></l><r>to'siq<s n="n"/></r></p></e> 
+    <e><p><l>aile<s n="n"/></l><r>oila<s n="n"/></r></p></e> 
+
+    <e><p><l>cumhurbaşkan<s n="n"/></l><r>prezident<s n="n"/></r></p></e> 
+    <e><p><l>matbaa<s n="n"/></l><r>matbuot<s n="n"/></r></p></e>
+    <e><p><l>terör<s n="n"/></l><r>terror<s n="n"/></r></p></e> 
+    <e><p><l>cemiyet<s n="n"/></l><r>hamjamiyat<s n="n"/></r></p></e> 
+    <e><p><l>taziye<s n="n"/></l><r>taziya<s n="n"/></r></p></e> 
+    <e><p><l>hücum<s n="n"/></l><r>hujum<s n="n"/></r></p></e> 
+    <e><p><l>hücum<s n="n"/></l><r>hujum<s n="n"/></r></p></e> 
+    <e><p><l>hücum<s n="n"/></l><r>hujum<s n="n"/></r></p></e> 
+
 
 
 
@@ -180,6 +191,12 @@
     
         <e><p><l>Özbekistan<s n="np"/></l><r>O'zbekiston<s n="np"/></r></p></e>
         <e><p><l>Taşkent<s n="np"/></l><r>Toshkent<s n="np"/></r></p></e>
+        <e><p><l>Reyhan<s n="np"/></l><r>Reyhan<s n="np"/></r></p></e>
+        <e><p><l>Türkmenistan<s n="np"/></l><r>Turkmaniston<s n="np"/></r></p></e>
+        <e><p><l>Türkiye<s n="np"/></l><r>Turkiya<s n="np"/></r></p></e>
+        <e><p><l>Reyhanli<s n="np"/></l><r>Reyhanli<s n="np"/></r></p></e>
+        <e><p><l>Hatay<s n="np"/></l><r>Hatay<s n="np"/></r></p></e>
+
         
         
 
@@ -187,8 +204,12 @@
     <!-- SECTION: Prop - nounsNOMMASC -->
 
         <e><p><l>Takdir<s n="np"/></l><r>Taqdr<s n="np"/></r></p></e>
+        <e><p><l>Kurbankuli<s n="np"/></l><r>Kurbankuli<s n="np"/></r></p></e>
+        <e><p><l>Berdimuhammedov<s n="np"/></l><r>Berdimuhammedov<s n="np"/></r></p></e>
+
+
         
-        <e><p><l>TRT<s n="np"/><s n="org"/></l><r>TRT<s n="np"/><s n="org"/></r></p></e>
+        
 
 
 

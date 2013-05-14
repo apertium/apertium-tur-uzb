@@ -396,7 +396,7 @@ LEXICON CASE
 LEXICON GENPOSS-ETC 
 
 %<px%>:%>%{n%}%{I%}ki%{pN%} CASE ;
-%<loc%>:%>%{D%}%{A%}ki ATTR-SUBST ;
+%<loc%>%<attr%>:%>%{D%}%{A%}ki ATTR-SUBST ;
 
 CASE ;
 
@@ -7355,6 +7355,9 @@ yaşam:yaşam N1 ; ! "life"
 stand:stand N1 ; ! "stand"
 gemi:gemi N1 ; ! "boat"
 sever:sever N1 ; ! "fan"
+taziye:taziye N1 ; ! "condolence"
+hamdartlık:hamdartlık N1 ; ! ""
+cemiyet:cemiyet N1 ; ! "commnity"
 
 
 
@@ -8125,6 +8128,7 @@ Eskişehir:Eskişehir NP1-TOP ; ! ""
 Trabzon:Trabzon NP1-TOP ; ! ""
 Sivas:Sivas NP1-TOP ; ! ""
 Erzurum:Erzurum NP1-TOP ; ! ""
+Reyhanli:Reyhanli NP1-TOP ; ! ""
 
 
 
@@ -8743,6 +8747,7 @@ Mladjan:Mladjan NP1-ANT-M ; ! ""
 Momcilo:Momcilo NP1-ANT-M ; ! ""
 Muhammed:Muhammed NP1-ANT-M ; ! ""
 Mustafa:Mustafa NP1-ANT-M ; ! ""
+Kurbankuli:Kurbankuli NP1-ANT-M ; ! ""
 Nejat:Nejat NP1-ANT-M ; ! ""
 Nenad:Nenad NP1-ANT-M ; ! ""
 Nicholas:Nicholas NP1-ANT-M ; ! ""
@@ -9137,7 +9142,6 @@ Churchill:Churchill NP1-COG-MF ; ! ""
 
 
 Stanişev:Stanişev NP1-COG-MF ; ! ""
-
 Abraseviç:Abraseviç NP1-COG-MF ; ! ""
 Anastasiyeviç:Anastasijeviç NP1-COG-MF ; ! "" ! Dir/LR
 Anastasiyeviç:Anastasiyeviç NP1-COG-MF ; ! ""

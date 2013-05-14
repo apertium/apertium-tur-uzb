@@ -131,7 +131,7 @@ LEXICON POSS-REAL
 LEXICON CASE-ETC
 
 CASE ;
-!GENPOSS-ETC ;
+GENPOSS-ETC ;
 
 LEXICON CASE 
 
@@ -142,6 +142,11 @@ LEXICON CASE
 %<loc%>:%>da # ;   
 %<abl%>:%>dan # ;  
 ! %<ins%>:%>ins # ;   
+
+LEXICON GENPOSS-ETC 
+
+! %<px%>:%>%{n%}%{I%}ki%{pN%} CASE ;
+%<loc%>%<attr%>:%>dagi # ;
 
 LEXICON Nouns
 
@@ -210,7 +215,7 @@ hujum:hujum N1 ; ! "attack"
 aholi:aholi N1 ; ! "population"
 prezident:prezident N1 ; ! "president"
 maktub:maktub N1 ; ! "letter"
-matbout:matbout N1 ; ! "press"
+matbuot:matbuot N1 ; ! "press"
 hukumat:hukumat N1 ;  ! "government"
 hamjamiyat:hamjamiyat N1 ; ! "community"
 hamdardlik:hamdardlik N1 ; ! "commiseration"
@@ -220,7 +225,9 @@ qardosh:qardosh N1 ; ! "friend" NOT SURE
 turk:turk N1 ; ! "turk" NOT SURE
 turkman:turkman N1 ; ! "turkmen"
 oila:oila N1 ; ! "family"
-
+xalq:xalq N1 ;  ! "people"
+harakat:harakat N1 ; ! "movement"
+tuman:tuman N1 ; ! "district"
 TRT:TRT NP1-ORG ; ! "TRT"
 
 
