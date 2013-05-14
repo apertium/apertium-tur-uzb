@@ -228,6 +228,11 @@ oila:oila N1 ; ! "family"
 xalq:xalq N1 ;  ! "people"
 harakat:harakat N1 ; ! "movement"
 tuman:tuman N1 ; ! "district"
+
+
+!!!!!ORGANIZASTIONS
+
+
 TRT:TRT NP1-ORG ; ! "TRT"
 
 
