@@ -210,8 +210,12 @@ hujum:hujum N1 ; ! "attack"
 aholi:aholi N1 ; ! "population"
 prezident:prezident N1 ; ! "president"
 maktub:maktub N1 ; ! "letter"
-matbout:matbout ; ! "press"
-hukumat:hukumat ; ! "government"
+matbout:matbout N1 ; ! "press"
+hukumat:hukumat N1 ;  ! "government"
+hamjamiyat:hamjamiyat N1 ; ! "community"
+hamdardlik:hamdardlik N1 ; ! "commiseration"
+taziya:taziya N1 ; ! "condolences"
+terrorizm:terrorizm N1 ; ! "terrorism"
 
 
 TRT:TRT NP1-ORG ; ! "TRT"
@@ -229,13 +233,16 @@ Reyhanli:Reyhanli NP-TOP ; ! ""
 Turkiya:Turkiya NP-TOP ; ! ""
 
 Taqdr:Taqdr NP1-ANT-M ; ! ""
+Abdullah:Abdullah NP1-ANT-M ; ! ""
 
 Hujjati:Hujjati NP1-COG-MF ; ! ""
+Gul:Gul NP1-COG-MF ; ! ""
 
 Lexicon Postpositions 
 
 bilan:bilan POST ; ! ""
 uchun:uchun POST ; ! ""
+qarshi:qarshi POST ; ! ""
 
 LEXICON Adjectives
 
@@ -263,6 +270,7 @@ o'z:o'z PRON-REF ; ! "self"
 Lexicon Determinatives
 
 bir:bir DET-IND ; ! "a"
+har% qanday:har% qanday DET-IND ; ! ""
 barcha:barcha DET-DEM ; ! "every"
 yuzlab:yuzlab DET-QNT ; ! "hundreds"
 minglab:minglab DET-QNT ; ! "thousands"
