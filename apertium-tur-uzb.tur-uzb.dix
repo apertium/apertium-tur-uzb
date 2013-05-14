@@ -85,12 +85,9 @@
     <!-- SECTION: Determinatives -->
     
 <e><p><l>bir<s n="det"/><s n="ind"/></l><r>bir<s n="det"/><s n="ind"/></r></p></e>
-
 <e><p><l>her<s n="det"/><s n="dem"/></l><r>barcha<s n="det"/><s n="dem"/></r></p></e>
-
 <e><p><l>yüzlerce<s n="det"/><s n="qnt"/></l><r>yuzlab<s n="det"/><s n="qnt"/></r></p></e>
 <e><p><l>binlerce<s n="det"/><s n="qnt"/></l><r>minglab<s n="det"/><s n="qnt"/></r></p></e>
-
 <e><p><l>birçok<s n="det"/><s n="qnt"/></l><r>ko'plab<s n="det"/><s n="qnt"/></r></p></e>
 
 
@@ -151,8 +148,13 @@
     <e><p><l>hisse<s n="n"/></l><r>hissa<s n="n"/></r></p></e> 
     <e><p><l>engel<s n="n"/></l><r>to'siq<s n="n"/></r></p></e> 
     <e><p><l>aile<s n="n"/></l><r>oila<s n="n"/></r></p></e> 
-
+    <e><p><l>nüfus<s n="n"/></l><r>aholi<s n="n"/></r></p></e> 
     <e><p><l>cumhurbaşkan<s n="n"/></l><r>prezident<s n="n"/></r></p></e> 
+    <e><p><l>terörizm<s n="n"/></l><r>terrorizm<s n="n"/></r></p></e> 
+    <e><p><l>hayat<s n="n"/></l><r>hayot<s n="n"/></r></p></e> 
+    <e><p><l>kardeş<s n="n"/></l><r>qardosh<s n="n"/></r></p></e> 
+
+    <e><p><l>ilçe<s n="n"/></l><r>tuman<s n="n"/></r></p></e> 
     <e><p><l>matbaa<s n="n"/></l><r>matbuot<s n="n"/></r></p></e>
     <e><p><l>terör<s n="n"/></l><r>terror<s n="n"/></r></p></e> 
     <e><p><l>cemiyet<s n="n"/></l><r>hamjamiyat<s n="n"/></r></p></e> 
@@ -161,6 +163,7 @@
     <e><p><l>halk<s n="n"/></l><r>xalq<s n="n"/></r></p></e> 
     <e><p><l>hücum<s n="n"/></l><r>hujum<s n="n"/></r></p></e> 
     <e><p><l>Türk<s n="n"/></l><r>turk<s n="n"/></r></p></e> 
+    <e><p><l>Türkmen<s n="n"/></l><r>turkman<s n="n"/></r></p></e> 
 
 
 
@@ -183,6 +186,7 @@
 
 <e><p><l>ile<s n="post"/></l><r>bilan<s n="post"/></r></p></e>
 <e><p><l>için<s n="post"/></l><r>uchun<s n="post"/></r></p></e>
+<e><p><l>karşı<s n="post"/></l><r>qarshi<s n="post"/></r></p></e>
 
 
 
@@ -197,7 +201,7 @@
         <e><p><l>Reyhan<s n="np"/></l><r>Reyhan<s n="np"/></r></p></e>
         <e><p><l>Türkmenistan<s n="np"/></l><r>Turkmaniston<s n="np"/></r></p></e>
         <e><p><l>Türkiye<s n="np"/></l><r>Turkiya<s n="np"/></r></p></e>
-        <e><p><l>Reyhanli<s n="np"/></l><r>Reyhanli<s n="np"/></r></p></e>
+        <e><p><l>Reyhanlı<s n="np"/></l><r>Reyhanli<s n="np"/></r></p></e>
         <e><p><l>Hatay<s n="np"/></l><r>Hatay<s n="np"/></r></p></e>
 
         
@@ -209,6 +213,7 @@
         <e><p><l>Takdir<s n="np"/></l><r>Taqdr<s n="np"/></r></p></e>
         <e><p><l>Kurbankuli<s n="np"/></l><r>Kurbankuli<s n="np"/></r></p></e>
         <e><p><l>Berdimuhammedov<s n="np"/></l><r>Berdimuhammedov<s n="np"/></r></p></e>
+        <e><p><l>Abdullah<s n="np"/></l><r>Abdullah<s n="np"/></r></p></e>
 
 
         

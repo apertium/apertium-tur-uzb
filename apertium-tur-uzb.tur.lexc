@@ -7358,7 +7358,7 @@ sever:sever N1 ; ! "fan"
 taziye:taziye N1 ; ! "condolence"
 hamdartlık:hamdartlık N1 ; ! ""
 cemiyet:cemiyet N1 ; ! "commnity"
-
+terörizm:terörizm N1 ; ! "terrorism"
 
 
 
@@ -7685,6 +7685,7 @@ Hannover:Hannover NP1-TOP ; ! ""
 Hanoi:Hanoi NP1-TOP ; ! ""
 Hanya:Hanya NP1-TOP ; ! ""
 Hasköy:Hasköy NP1-TOP ; ! ""
+Hatay:Hatay NP1-TOP ; ! "Hatay"
 Havana:Havana NP1-TOP ; ! ""
 Heidelberg:Heidelberg NP1-TOP ; ! ""
 Helsinki:Helsinki NP1-TOP ; ! ""
@@ -8128,7 +8129,7 @@ Eskişehir:Eskişehir NP1-TOP ; ! ""
 Trabzon:Trabzon NP1-TOP ; ! ""
 Sivas:Sivas NP1-TOP ; ! ""
 Erzurum:Erzurum NP1-TOP ; ! ""
-Reyhanli:Reyhanli NP1-TOP ; ! ""
+Reyhanlı:Reyhanlı NP1-TOP ; ! ""
 
 
 
@@ -9140,7 +9141,7 @@ Stalin:Stalin NP1-COG-MF ; ! ""
 Mussolini:Mussolini NP1-COG-MF ; ! ""
 Churchill:Churchill NP1-COG-MF ; ! ""
 
-
+Berdimuhammedov:Berdimuhammedov NP1-COG-MF ; ! "berdi"
 Stanişev:Stanişev NP1-COG-MF ; ! ""
 Abraseviç:Abraseviç NP1-COG-MF ; ! ""
 Anastasiyeviç:Anastasijeviç NP1-COG-MF ; ! "" ! Dir/LR
