@@ -216,7 +216,10 @@ hamjamiyat:hamjamiyat N1 ; ! "community"
 hamdardlik:hamdardlik N1 ; ! "commiseration"
 taziya:taziya N1 ; ! "condolences"
 terrorizm:terrorizm N1 ; ! "terrorism"
-
+qardosh:qardosh N1 ; ! "friend" NOT SURE
+turk:turk N1 ; ! "turk" NOT SURE
+turkman:turkman N1 ; ! "turkmen"
+oila:oila N1 ; ! "family"
 
 TRT:TRT NP1-ORG ; ! "TRT"
 
@@ -234,9 +237,12 @@ Turkiya:Turkiya NP-TOP ; ! ""
 
 Taqdr:Taqdr NP1-ANT-M ; ! ""
 Abdullah:Abdullah NP1-ANT-M ; ! ""
+Kurbankuli:Kurbankuli NP1-ANT-M ; ! ""
+
 
 Hujjati:Hujjati NP1-COG-MF ; ! ""
 Gul:Gul NP1-COG-MF ; ! ""
+Berdimuhammedov:Berdimuhammedov NP1-COG-MF ; ! ""
 
 Lexicon Postpositions 
 
