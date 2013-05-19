@@ -85,6 +85,8 @@
     <!-- SECTION: Determinatives -->
     
 <e><p><l>bir<s n="det"/><s n="ind"/></l><r>bir<s n="det"/><s n="ind"/></r></p></e>
+<e><p><l>herhangi<s n="det"/><s n="ind"/></l><r>har<b/>qanday<s n="det"/><s n="ind"/></r></p></e>
+
 <e><p><l>her<s n="det"/><s n="dem"/></l><r>barcha<s n="det"/><s n="dem"/></r></p></e>
 <e><p><l>yüzlerce<s n="det"/><s n="qnt"/></l><r>yuzlab<s n="det"/><s n="qnt"/></r></p></e>
 <e><p><l>binlerce<s n="det"/><s n="qnt"/></l><r>minglab<s n="det"/><s n="qnt"/></r></p></e>
@@ -153,10 +155,12 @@
     <e><p><l>terörizm<s n="n"/></l><r>terrorizm<s n="n"/></r></p></e> 
     <e><p><l>hayat<s n="n"/></l><r>hayot<s n="n"/></r></p></e> 
     <e><p><l>kardeş<s n="n"/></l><r>qardosh<s n="n"/></r></p></e> 
-
+    <e><p><l>kurban<s n="n"/></l><r>qurbon<s n="n"/></r></p></e> 
+    <e><p><l>mektup<s n="n"/></l><r>maktub<s n="n"/></r></p></e> 
     <e><p><l>ilçe<s n="n"/></l><r>tuman<s n="n"/></r></p></e> 
     <e><p><l>matbaa<s n="n"/></l><r>matbuot<s n="n"/></r></p></e>
     <e><p><l>terör<s n="n"/></l><r>terror<s n="n"/></r></p></e> 
+    <e><p><l>toplum<s n="n"/></l><r>hamjamiyat<s n="n"/></r></p></e> 
     <e><p><l>cemiyet<s n="n"/></l><r>hamjamiyat<s n="n"/></r></p></e> 
     <e><p><l>taziye<s n="n"/></l><r>taziya<s n="n"/></r></p></e> 
     <e><p><l>hükümet<s n="n"/></l><r>hukumat<s n="n"/></r></p></e> 
@@ -214,6 +218,8 @@
         <e><p><l>Kurbankuli<s n="np"/></l><r>Kurbankuli<s n="np"/></r></p></e>
         <e><p><l>Berdimuhammedov<s n="np"/></l><r>Berdimuhammedov<s n="np"/></r></p></e>
         <e><p><l>Abdullah<s n="np"/></l><r>Abdullah<s n="np"/></r></p></e>
+        <e><p><l>Gül<s n="np"/></l><r>Gul<s n="np"/></r></p></e>
+
 
 
         
@@ -238,7 +244,7 @@
     
      <!-- SECTION: Verbs -->
 
- 	<e c="  0"><p><l>yaz<s n="v"/><s n="iv"/></l><r>yoz<s n="v"/><s n="iv"/></r></p></e>
+ 	<e c="  0"><p><l>yaz<s n="v"/><s n="tv"/></l><r>yoz<s n="v"/><s n="tv"/></r></p></e>
 
 
 

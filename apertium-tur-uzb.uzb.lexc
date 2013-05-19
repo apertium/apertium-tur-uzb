@@ -28,6 +28,15 @@ Multichar_Symbols
 %<f%>
 %<mf%>
 
+%<v%>
+%<iv%>
+%<tv%>
+%<ger5%>
+%<pcont%>
+%<p1%>
+%<sg%>
+
+
 
 
 
@@ -38,7 +47,31 @@ Postpositions ;
 Adjectives ; 
 Determinatives ; 
 Conjunctions ; 
+Verbs ; 
 
+
+LEXICON VERB-TV
+
+%<v%>%<tv%>: GERUND ;
+%<v%>%<tv%>: PRES-CONT ;
+
+
+LEXICON GERUND 
+
+%<ger5%>:%>gan SUBST ;      
+
+LEXICON PRES-CONT 
+
+%<pcont%>:%>%yap PERS ;
+
+LEXICON PERS
+
+%<p1%>%<sg%>:%>man  # ;
+%<p2%>%<sg%>:%>san  # ;
+%<p3%>%<sg%>:%>ti  # ;
+%<p3%>%<pl%>:%>siz # ;
+%<p1%>%<pl%>:%>miz  # ;
+%<p2%>%<pl%>:%>tilar  # ;
 
 LEXICON ADV3
 
@@ -232,6 +265,8 @@ xalq:xalq N1 ;  ! "people"
 harakat:harakat N1 ; ! "movement"
 tuman:tuman N1 ; ! "district"
 hayot:hayot N1 ; ! "life"
+qurbon:qurbon N1 ; ! "victim"
+
 
 
 !!!!!ORGANIZASTIONS
@@ -259,6 +294,8 @@ Kurbankuli:Kurbankuli NP1-ANT-M ; ! ""
 Hujjati:Hujjati NP1-COG-MF ; ! ""
 Gul:Gul NP1-COG-MF ; ! ""
 Berdimuhammedov:Berdimuhammedov NP1-COG-MF ; ! ""
+Gul:Gul NP1-COG-MF ; ! ""
+
 
 Lexicon Postpositions 
 
@@ -298,6 +335,15 @@ yuzlab:yuzlab DET-QNT ; ! "hundreds"
 minglab:minglab DET-QNT ; ! "thousands"
 ko%'plab:ko%'plab DET-QNT ; ! "hundreds"
 Ayrimlar:Ayrimlar DET-DEM ; ! "some other"
+
+Lexicon Verbs
+
+bo%'l:bo%'l VERB-TV ; ! ""
+sodir% bo%'l:sodir% bo%'l VERB-TV ; ! ""
+zomin% bo%'l:zomin% bo%'l VERB-TV ; ! ""
+kurban% bo%'l:kurban% bo%'l VERB-TV ; ! ""
+yoz:yoz VERB-TV ; ! "write"
+
 
 
 

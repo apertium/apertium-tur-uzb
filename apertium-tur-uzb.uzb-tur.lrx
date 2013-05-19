@@ -2,4 +2,9 @@
   <rule>
     <match lemma="word1" tags="n.*"><select lemma="word2" tags="n.*"/></match>
   </rule>
-</rules>
+
+<rule>
+ <match lemma="hamjamiyat" tags="n.*"><select lemma="toplum" tags="n.*"/></match>
+</rule> 
+ 
+ </rules>
