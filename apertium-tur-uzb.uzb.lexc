@@ -36,6 +36,7 @@ Multichar_Symbols
 %<p1%>
 %<sg%>
 
+%<sg%>
 
 
 
@@ -285,6 +286,7 @@ Turkmaniston:Turkmaniston NP-TOP ; ! ""
 Hatay:Hatay NP-TOP ; ! ""
 Reyhanli:Reyhanli NP-TOP ; ! ""
 Turkiya:Turkiya NP-TOP ; ! ""
+Amerika:Amerika NP-TOP ; ! "America"
 
 Taqdr:Taqdr NP1-ANT-M ; ! ""
 Abdullah:Abdullah NP1-ANT-M ; ! ""
@@ -302,6 +304,7 @@ Lexicon Postpositions
 bilan:bilan POST ; ! ""
 uchun:uchun POST ; ! ""
 qarshi:qarshi POST ; ! ""
+beri:beri POST ; ! "since" bears ablative
 
 LEXICON Adjectives
 
@@ -321,6 +324,7 @@ rangli:rangli A2 ; ! "colored"
 qiziqish:qiziqish A2 ; ! "concerned, interested, curious"
 ma%'noli:ma%'noli A2 ; ! "meaningful"
 turli:turli A2 ; ! ""
+harbiy:harbiy A1 ; ! "military"
 
 o'z:o'z PRON-REF ; ! "self"
 
