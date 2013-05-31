@@ -38,6 +38,8 @@ Multichar_Symbols
 
 %<sg%>
 
+%<prn%>
+%<adv%>
 
 
 
@@ -111,6 +113,12 @@ LEXICON PRON-REF
 
 %<prn%>%<ref%>: # ;
 
+LEXICON PRON-ADV 
+
+%<prn%>%<adv%>: CASE-NONOM ; 
+%<prn%>%<adv%>:  POSS-REAL-NONOM ; 
+
+
 
 LEXICON POST
 
@@ -165,6 +173,15 @@ LEXICON POSS-REAL
 %<px2pl%>:%>%{i%}ngiz CASE-ETC ;      
 %<px3pl%>:%>lari CASE-ETC ; 
 
+LEXICON POSS-REAL-NONOM
+
+%<px1sg%>:%>%{i%}m CASE-NONOM ;                
+%<px2sg%>:%>%{i%}ng CASE-NONOM ;                 
+%<px3sp%>:%>%{s%}i CASE-NONOM ; 
+%<px1pl%>:%>%{i%}miz CASE-NONOM ;           
+%<px2pl%>:%>%{i%}ngiz CASE-NONOM;      
+%<px3pl%>:%>lari CASE-NONOM ; 
+
 LEXICON CASE-ETC
 
 CASE ;
@@ -179,6 +196,15 @@ LEXICON CASE
 %<loc%>:%>da # ;   
 %<abl%>:%>dan # ;  
 ! %<ins%>:%>ins # ;   
+
+LEXICON CASE-NONOM
+
+%<gen%>:%>ning # ;      
+%<dat%>:%>ga # ;   
+%<acc%>:%>ni # ;
+%<loc%>:%>da # ;   
+%<abl%>:%>dan # ;  
+! %<ins%>:%>ins # ;  
 
 LEXICON GENPOSS-ETC 
 
@@ -267,7 +293,7 @@ harakat:harakat N1 ; ! "movement"
 tuman:tuman N1 ; ! "district"
 hayot:hayot N1 ; ! "life"
 qurbon:qurbon N1 ; ! "victim"
-
+davlat:davlat N1 ; ! "devlet / government""
 
 
 !!!!!ORGANIZASTIONS
@@ -314,6 +340,7 @@ to%'la:to%'la A2 ; ! "full"
 zamonaviy:zamonaviy A2 ; ! "modern"
 qobiliyatli:qobiliyatli A2 ; ! "capable"
 yosh:yosh A2 ; ! "young"
+mumkin:mumkin A2 ; ! "possible"
 an%'anaviy:an%'anaviy A2 ; ! "traditional"
 muhtasham:muhtasham A1 ; ! "wonderful" "amazing"
 chiroyli:chiroyli A2 ; ! "nice"
@@ -349,7 +376,7 @@ kurban% bo%'l:kurban% bo%'l VERB-TV ; ! ""
 yoz:yoz VERB-TV ; ! "write"
 
 
-
+ora:ora PRON-ADV ; ! "there"
 
 Lexicon Conjunctions 
 
