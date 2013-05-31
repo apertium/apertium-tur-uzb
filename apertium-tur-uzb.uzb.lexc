@@ -294,6 +294,7 @@ tuman:tuman N1 ; ! "district"
 hayot:hayot N1 ; ! "life"
 qurbon:qurbon N1 ; ! "victim"
 davlat:davlat N1 ; ! "devlet / government""
+guruh:guruh N1 ; ! "group"
 
 
 !!!!!ORGANIZASTIONS
