@@ -32,6 +32,8 @@ Multichar_Symbols
 %<tv%>
 %<ger5%>
 %<pcont%>
+%<pcond%>
+
 %<p1%>
 %<sg%>
 
@@ -56,6 +58,11 @@ LEXICON VERB-TV
 
 %<v%>%<tv%>: GERUND ;
 %<v%>%<tv%>: PRES-CONT ;
+%<v%>%<tv%>: PRES-COND ;
+
+LEXICON PRES-COND 
+
+%<pcond%>:%>sa PERS2 ;
 
 
 LEXICON GERUND 
@@ -74,6 +81,15 @@ LEXICON PERS
 %<p3%>%<pl%>:%>siz # ;
 %<p1%>%<pl%>:%>miz  # ;
 %<p2%>%<pl%>:%>tilar  # ;
+
+LEXICON PERS2
+
+%<p1%>%<sg%>:%>m  # ;
+%<p2%>%<sg%>:%>ng  # ;
+%<p3%>%<sg%>:%>  # ;
+%<p3%>%<pl%>:%>k # ;
+%<p1%>%<pl%>:%>ning  # ;
+%<p2%>%<pl%>:%>ishsa  # ;
 
 LEXICON ADV3
 
