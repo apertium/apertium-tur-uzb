@@ -1,4 +1,3 @@
-
 Multichar_Symbols
 
 %<n%>          ! Noun
@@ -65,7 +64,7 @@ LEXICON GERUND
 
 LEXICON PRES-CONT 
 
-%<pcont%>:%>%yap PERS ;
+%<pcont%>:%>yap PERS ;
 
 LEXICON PERS
 
@@ -158,6 +157,10 @@ LEXICON SUBST
 
 N-INFL-COMMON ; 
 %<pl%>:%>lar N-INFL-COMMON ;
+
+LEXICON N-INFL-COMMON-NONOM
+
+# ; 
 
 LEXICON N-INFL-COMMON
 
@@ -326,7 +329,7 @@ Berdimuhammedov:Berdimuhammedov NP1-COG-MF ; ! ""
 Gul:Gul NP1-COG-MF ; ! ""
 
 
-Lexicon Postpositions 
+LEXICON Postpositions 
 
 bilan:bilan POST ; ! ""
 uchun:uchun POST ; ! ""
@@ -354,11 +357,11 @@ ma%'noli:ma%'noli A2 ; ! "meaningful"
 turli:turli A2 ; ! ""
 harbiy:harbiy A1 ; ! "military"
 
-o'z:o'z PRON-REF ; ! "self"
+o%'z:o%'z PRON-REF ; ! "self"
 
 
 
-Lexicon Determinatives
+LEXICON Determinatives
 
 bir:bir DET-IND ; ! "a"
 har% qanday:har% qanday DET-IND ; ! ""
@@ -368,7 +371,7 @@ minglab:minglab DET-QNT ; ! "thousands"
 ko%'plab:ko%'plab DET-QNT ; ! "hundreds"
 Ayrimlar:Ayrimlar DET-DEM ; ! "some other"
 
-Lexicon Verbs
+LEXICON Verbs
 
 bo%'l:bo%'l VERB-TV ; ! ""
 sodir% bo%'l:sodir% bo%'l VERB-TV ; ! ""
@@ -379,10 +382,11 @@ yoz:yoz VERB-TV ; ! "write"
 
 ora:ora PRON-ADV ; ! "there"
 
-Lexicon Conjunctions 
+LEXICON Conjunctions 
 
 va:va CC ; ! "and"
 esa:esa CC ; ! "whereas"
 
 ham:ham CC ; ! "and.. and" "too"
 eng:eng ADV3 ; ! "the most"
+
