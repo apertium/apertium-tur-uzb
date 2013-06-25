@@ -23,9 +23,9 @@ Multichar_Symbols
 !!!!!! MISC!!!!
 
 %<top%> ! TOPONYMS
-%<m%> ! M
-%<f%>
-%<mf%>
+%<m%> ! 
+%<f%> !
+%<mf%> !
 
 %<v%>
 %<iv%>
@@ -35,9 +35,11 @@ Multichar_Symbols
 %<pcond%>
 
 %<p1%>
-%<sg%>
+%<p2%>
+%<p3%>
 
 %<sg%>
+%<pl%>
 
 %<prn%>
 %<adv%>
@@ -52,6 +54,7 @@ Adjectives ;
 Determinatives ; 
 Conjunctions ; 
 Verbs ; 
+Adverbs ;
 
 
 LEXICON VERB-TV
@@ -90,6 +93,16 @@ LEXICON PERS2
 %<p3%>%<pl%>:%>k # ;
 %<p1%>%<pl%>:%>ning  # ;
 %<p2%>%<pl%>:%>ishsa  # ;
+
+LEXICON ADV1
+%<adv%>: # ; ! this is for when the adverb is used as an adverb
+%<adv%>%<subst%>: SUBST ;
+%<adv%>%<attr%>: # ;
+
+LEXICON ADV2
+
+%<adv%>: # ;
+%<adv%>%<attr%>: # ;
 
 LEXICON ADV3
 
@@ -316,6 +329,7 @@ davlat:davlat N1 ; ! "devlet / government""
 guruh:guruh N1 ; ! "group"
 
 
+
 !!!!!ORGANIZASTIONS
 
 
@@ -404,5 +418,8 @@ va:va CC ; ! "and"
 esa:esa CC ; ! "whereas"
 
 ham:ham CC ; ! "and.. and" "too"
-eng:eng ADV3 ; ! "the most"
 
+LEXICON Adverbs 
+
+eng:eng ADV3 ; ! "the most"
+badtar:badtar ADV3 ; ! "more"
