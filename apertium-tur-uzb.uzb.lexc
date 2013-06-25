@@ -410,6 +410,10 @@ minglab:minglab DET-QNT ; ! "thousands"
 ko%'plab:ko%'plab DET-QNT ; ! "hundreds"
 Ayrimlar:Ayrimlar DET-DEM ; ! "some other"
 
+bu:bu DET-DEM ; ! "this"
+shu:shu DET-DEM ; ! "that"
+u:u DET-DEM ; ! "there"
+
 LEXICON Verbs
 
 bo%'l:bo%'l VERB-TV ; ! ""
