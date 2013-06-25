@@ -327,6 +327,8 @@ hayot:hayot N1 ; ! "life"
 qurbon:qurbon N1 ; ! "victim"
 davlat:davlat N1 ; ! "devlet / government""
 guruh:guruh N1 ; ! "group"
+yer:yer N1 ; ! "yer"
+
 
 
 
@@ -364,6 +366,13 @@ LEXICON Postpositions
 bilan:bilan POST ; ! ""
 uchun:uchun POST ; ! ""
 qarshi:qarshi POST ; ! ""
+
+!!!! DATIVE !!!!
+
+qadar:qadar POST ; ! "as much as"
+
+!!!! ABLATIVE !!!!
+
 beri:beri POST ; ! "since" bears ablative
 
 LEXICON Adjectives
