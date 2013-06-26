@@ -9,6 +9,9 @@
     <sdef n="post"    c="Postposition"/>
     <sdef n="prn"    c="pronoun"/>
     <sdef n="cnjcoo" c="Co-ordinating conjunction"/>
+    <sdef n="cnjsub" c="Subordınatıng conjunction"/>
+    <sdef n="cnjadv" c="Adverbial conjunction"/>
+
     <sdef n="v"       c="Verb"/>
     <sdef n="tv"      c="transitive"/>
     <sdef n="iv"    c="intransitive"/>
@@ -78,6 +81,62 @@
     <e><p><l>ve<s n="cnjcoo"/></l><r>va<s n="cnjcoo"/></r></p></e>
     <e><p><l>ise<s n="cnjcoo"/></l><r>esa<s n="cnjcoo"/></r></p></e>
     <e><p><l>da<s n="cnjcoo"/></l><r>ham<s n="cnjcoo"/></r></p></e>
+    <e><p><l>ve<s n="cnjcoo"/></l><r>va<s n="cnjcoo"/></r></p></e>
+<e><p><l>ama<s n="cnjcoo"/></l><r>ammo<s n="cnjcoo"/></r></p></e>
+<e><p><l>fakat<s n="cnjcoo"/></l><r>faqat<s n="cnjcoo"/></r></p></e>
+<e><p><l>ile<s n="cnjcoo"/></l><r>bilan<s n="cnjcoo"/></r></p></e>
+<e><p><l>veya<s n="cnjcoo"/></l><r>yoki<s n="cnjcoo"/></r></p></e>
+<e><p><l>da<s n="cnjcoo"/></l><r>ham<s n="cnjcoo"/></r></p></e>
+<e><p><l>ancak<s n="cnjcoo"/></l><r>biroq<s n="cnjcoo"/></r></p></e>
+<e><p><l>hem<s n="cnjcoo"/></l><r>ham<s n="cnjcoo"/></r></p></e>
+<e><p><l>lakin<s n="cnjcoo"/></l><r>lekin<s n="cnjcoo"/></r></p></e>
+<e><p><l>veyahut<s n="cnjcoo"/></l><r>yoki<s n="cnjcoo"/></r></p></e>
+<e><p><l>kah<s n="cnjcoo"/></l><r>goh<s n="cnjcoo"/></r></p></e>
+<e><p><l>ki<s n="cnjsub"/></l><r>ki<s n="cnjsub"/></r></p></e>
+<e><p><l>diye<s n="cnjsub"/></l><r>sababli<s n="cnjsub"/></r></p></e>
+<e><p><l>gibi<s n="cnjsub"/></l><r>kabi<s n="cnjsub"/></r></p></e>
+<e><p><l>eğer<s n="cnjsub"/></l><r>agar<s n="cnjsub"/></r></p></e>
+<e><p><l>nedeniyle<s n="cnjsub"/></l><r>sababli<s n="cnjsub"/></r></p></e>
+<e><p><l>nispeten<s n="cnjadv"/></l><r>nisbatan<s n="cnjadv"/></r></p></e>
+<e><p><l>aksine<s n="cnjadv"/></l><r>aksincha<s n="cnjadv"/></r></p></e>
+<e><p><l>bari<s n="cnjadv"/></l><r>hech bo'lmasa<s n="cnjadv"/></r></p></e>
+<e><p><l>belki<s n="cnjadv"/></l><r>balki<s n="cnjadv"/></r></p></e>
+<e><p><l>ancak<s n="cnjadv"/></l><r>biroq<s n="cnjadv"/></r></p></e>
+<e><p><l>bilakis<s n="cnjadv"/></l><r>bil'aks<s n="cnjadv"/></r></p></e>
+<e><p><l>bile<s n="cnjadv"/></l><r>hatto<s n="cnjadv"/></r></p></e>
+<e><p><l>dahas˝<s n="cnjadv"/></l><r>bundan tashqari<s n="cnjadv"/></r></p></e>
+<e><p><l>demek<s n="cnjadv"/></l><r>demak<s n="cnjadv"/></r></p></e>
+<e><p><l>fakat<s n="cnjadv"/></l><r>faqat<s n="cnjadv"/></r></p></e>
+<e><p><l>hatta<s n="cnjadv"/></l><r>hattoki<s n="cnjadv"/></r></p></e>
+<e><p><l>işte<s n="cnjadv"/></l><r>mana<s n="cnjadv"/></r></p></e>
+<e><p><l>keşke<s n="cnjadv"/></l><r>koshki<s n="cnjadv"/></r></p></e>
+<e><p><l>keza<s n="cnjadv"/></l><r>shuningdek<s n="cnjadv"/></r></p></e>
+<e><p><l>ki<s n="cnjadv"/></l><r>ki<s n="cnjadv"/></r></p></e>
+<e><p><l>lakin<s n="cnjadv"/></l><r>lekin<s n="cnjadv"/></r></p></e>
+<e><p><l>meğer<s n="cnjadv"/></l><r>magar<s n="cnjadv"/></r></p></e>
+<e><p><l>meğerse<s n="cnjadv"/></l><r>magar<s n="cnjadv"/></r></p></e>
+<e><p><l>mesela<s n="cnjadv"/></l><r>masalan<s n="cnjadv"/></r></p></e>
+<e><p><l>nasılsa<s n="cnjadv"/></l><r>qandayd˝r<s n="cnjadv"/></r></p></e>
+<e><p><l>neyse<s n="cnjadv"/></l><r>mayli<s n="cnjadv"/></r></p></e>
+<e><p><l>olsun<s n="cnjadv"/></l><r>bo'lsin<s n="cnjadv"/></r></p></e>
+<e><p><l>oysa<s n="cnjadv"/></l><r>holbuki<s n="cnjadv"/></r></p></e>
+<e><p><l>oysaki<s n="cnjadv"/></l><r>holbuki<s n="cnjadv"/></r></p></e>
+<e><p><l>sonra<s n="cnjadv"/></l><r>keyin<s n="cnjadv"/></r></p></e>
+<e><p><l>sonra<s n="cnjadv"/></l><r>so'ngra<s n="cnjadv"/></r></p></e>
+<e><p><l>tersine<s n="cnjadv"/></l><r>aksincha<s n="cnjadv"/></r></p></e>
+<e><p><l>veya<s n="cnjadv"/></l><r>yoki<s n="cnjadv"/></r></p></e>
+<e><p><l>veyahut<s n="cnjadv"/></l><r>yoki<s n="cnjadv"/></r></p></e>
+<e><p><l>yalnız<s n="cnjadv"/></l><r>faqat<s n="cnjadv"/></r></p></e>
+<e><p><l>yani<s n="cnjadv"/></l><r>ya'ni<s n="cnjadv"/></r></p></e>
+<e><p><l>zaten<s n="cnjadv"/></l><r>zotan<s n="cnjadv"/></r></p></e>
+<e><p><l>zira<s n="cnjadv"/></l><r>zora<s n="cnjadv"/></r></p></e>
+<e><p><l>yoksa<s n="cnjadv"/></l><r>yo'qsa<s n="cnjadv"/></r></p></e>
+
+
+
+
+
+
 
         
 

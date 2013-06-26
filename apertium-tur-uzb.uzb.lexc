@@ -56,6 +56,24 @@ Conjunctions ;
 Verbs ; 
 Adverbs ;
 
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!	CONJUNCTIONS, CAUSE EVEN SENTENCES AND WORDS WANNA BE TOGETHER !!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+LEXICON CA
+
+%<cnjadv%>: # ;
+
+LEXICON CS 
+
+%<cnjsub%>: # ;
+
+LEXICON CC 
+
+%<cnjcoo%>: # ;
+
+
 
 LEXICON VERB-TV
 
@@ -331,6 +349,9 @@ yer:yer N1 ; ! "yer"
 odam:odam N1 ; ! "man human being"
 ish:ish N1 ; ! "work job"
 zamon:zamon N1 ; ! "time"
+chaqa:chaqa N1 ; ! "child"
+ilik:ilik N1 ; ! "hand"
+son:son N1 ; ! "situation"
 
 
 
@@ -440,3 +461,74 @@ LEXICON Adverbs
 ko%'p:ko%'p ADV1 ; ! "very"
 eng:eng ADV3 ; ! "the most"
 badtar:badtar ADV3 ; ! "more"
+
+
+LEXICON  Conjunctions
+
+va:va CC ; ! "and"
+faqat:faqat CC ; ! "but"
+ammo:ammo CC ; ! "but"
+biroq: biroq CC ; ! "but"
+bilan:bilan CC ; ! "and"
+yoki:yoki CC ; ! "or"
+yoki:yoki CC ; ! "or"
+ham:ham CC ; ! "too"
+na% na:na% na CC ; ! "neither/nor"
+chunki:chunki CC ; ! "because"
+ham:ham CC ; ! "both/also"
+lekin:lekin CC ; ! "but/however"
+yoki:yoki CC ; ! "or/ese"
+goh:goh CC ; ! "at times"
+ki:ki CS ; ! "that"
+sababli:sababli CS ; ! "for/so that"
+kabi:kabi CS ; ! "such as/like"
+agar:agar CS ; ! "if"
+shoyad:shoyad CS ; ! "if/if only"
+sababli:sababli CS ; ! "due to/because"
+nisbatan:nisbatan CA ; ! "compared to"
+aksincha:aksincha CA ; ! "on the contrary"
+hech% bo%'lmasa:hech% bo%'lmasa CA ; ! "at least"
+balki:balki CA ; ! "maybe"
+biroq:biroq CA ; ! "only if"
+bil%'aks:bil%'aks CA ; ! "to the contrary"
+hatto:hatto CA ; ! "even"
+chunki:chunki CA ; ! "because"
+bundan% tashqari:bundan% tashqari CA ; ! "moreover"
+demak:demak CA ; ! "that is to say"
+faqat:faqat CA ; ! "but"
+hattoki:hattoki CA ; ! "to the extent that"
+mana:mana CA ; ! "here is"
+koshki:koshki CA ; ! "if only"
+shuningdek:shuningdek CA ; ! "likewise"
+ki:ki CA ; ! "that"
+tezda:tezda CA ; ! "briefly"
+lekin:lekin CA ; ! "however"
+magar:magar CA ; ! "to his surprise"
+magar:magar CA ; ! "to this surprise"
+masalan:masalan CA ; ! "for example"
+qandayd˝r:qandayd˝r CA ; ! "somehow"
+mayli:mayli CA ; ! "anyway"
+bo%'lsin:bo%'lsin CA ; ! "may it be so"
+masalan:masalan CA ; ! "for example"
+u% holda:u% holda CA ; ! "then/in that case"
+holbuki:holbuki CA ; ! "though/yet"
+holbuki:holbuki CA ; ! "yet"
+keyin:keyin CA ; ! "after-"
+so%'ngra:so%'ngra CA ; ! "afterwards"
+chunonchi:chunonchi CA ; ! "for instance"
+aksincha:aksincha CA ; ! "on the contrary"
+ustiga:ustiga CA ; ! "on the top of it/besides"
+yoki:yoki CA ; ! "or"
+yoki:yoki CA ; ! "or/else"
+yo:yo CA ; ! "either...or"
+faqat:faqat CA ; ! "but"
+ya%'ni:ya%'ni CA ; ! "in other words"
+zotan:zotan CA ; ! "actually/already"
+zora:zora CA ; ! "because/by the reason that"
+hech% bo%'lmaganda:hech% bo%'lmaganda CA ; ! "at least"
+u% holda:u% holda CA ; ! "then/in that case"
+demak% ki:demak% ki: CA ; ! "so"
+yoki:yoki CA ; ! "or"
+shu% sababli:shu% sababli CA ; ! "hence"
+yo%'qsa:yo%'qsa CA ; ! "otherwise"
+
