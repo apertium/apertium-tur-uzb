@@ -2,6 +2,9 @@ Multichar_Symbols
 
 %<n%>          ! Noun
 %<cnjcoo%>     ! Co-ordinating conjunction  
+%<cnjadv%>
+%<cnjsub%>
+%<num%>
 
 ! Cases ! "Case is a lie!" (quot.)
 
@@ -12,6 +15,7 @@ Multichar_Symbols
 %<abl%>            
 %<loc%>            
 %<ins%>            ! Instrumental=comitative 
+
 
 !!!! JAWOHL TWOL!!!!
 
@@ -55,6 +59,7 @@ Determinatives ;
 Conjunctions ; 
 Verbs ; 
 Adverbs ;
+Numerals; 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -192,6 +197,13 @@ LEXICON NP1-ANT-F
 LEXICON NP1-COG-MF
 
 %<np%>%<cog%>%<mf%>: SUBST ; 
+
+
+LEXICON NUM
+
+%<num%>%<subst%>: SUBST ;                           
+%<num%>: # ;                                    
+
 
 LEXICON NP1-ORG
 
@@ -532,3 +544,23 @@ yoki:yoki CA ; ! "or"
 shu% sababli:shu% sababli CA ; ! "hence"
 yo%'qsa:yo%'qsa CA ; ! "otherwise"
 
+LEXICON Numerals
+
+nol:nol NUM ; ! "zero"
+bir:bir NUM ; ! "one"
+ikki:ikki NUM ; ! "two"
+uch:uch NUM ; ! "three"
+to%'rt:to%'rt NUM ; ! "four"
+besh:besh NUM ; ! "five"
+olti:olti NUM ; ! "six"
+yetti:yetti NUM ; ! "seven"
+sakkiz:sakkiz NUM ; ! "eight"
+to%'qqiz:to%'qqiz NUM ; ! "nine"
+o%'n:o%'n NUM ; ! "ten"
+yuz:yuz NUM ; ! "hundred"
+ming:ming NUM ; ! "thousand"
+million:million NUM ; ! "million"
+milliard:milliard NUM ; ! "milliard"
+billion:billion NUM ; ! "billion"
+trillion:trillion NUM ; ! "trillion"
+yarim:yarim NUM ; ! "half"

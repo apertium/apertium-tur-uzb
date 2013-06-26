@@ -11,6 +11,8 @@
     <sdef n="cnjcoo" c="Co-ordinating conjunction"/>
     <sdef n="cnjsub" c="Subordınatıng conjunction"/>
     <sdef n="cnjadv" c="Adverbial conjunction"/>
+    <sdef n="num" c="Numerals"/>
+
 
     <sdef n="v"       c="Verb"/>
     <sdef n="tv"      c="transitive"/>
