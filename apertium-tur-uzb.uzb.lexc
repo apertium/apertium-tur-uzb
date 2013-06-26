@@ -472,7 +472,39 @@ LEXICON Adverbs
 
 ko%'p:ko%'p ADV1 ; ! "very"
 eng:eng ADV3 ; ! "the most"
-badtar:badtar ADV3 ; ! "more"
+
+ichida:ichida ADV1 ; ! "indoor"
+boshqa:boshqa ADV1 ; ! "the other"
+avval:avval ADV1 ; ! "previously"
+darrov:darrov ADV1; ! "fast"              
+unday:unday ADV1 ; ! "thusly"
+bunday:bunday ADV1 ; ! "thusly"
+aqlli:aqlli ADV2 ; ! "smartly"
+past:past ADV2 ; ! "low"               
+biroz:biroz ADV2 ; ! "slightly"
+asosan:asosan ADV2 ; ! "chiefly"
+aniq:aniq ADV2 ; ! "evidently"
+haqiqatda:haqiqatda ADV2 ; ! "de facto"
+ayniqsa:ayniqsa ADV2 ; ! "specially"
+uzluksiz:uzluksiz ADV2 ; ! "ceaselessly"             
+tez:tez ADV2 ; ! "fast"
+tez:tez ADV2 ; ! "fast"                 
+sezilarli:sezilarli ADV2 ; ! "palpably"
+kech:kech ADV2 ; ! "late",
+orqa:orqa ADV2 ; ! "back" (inverted?)
+orqaga:orqaga ADV2 ; ! "backwards"
+orqaga:orqaga ADV2 ; ! "backwards"
+bosqichmabosqich:bosqichmabosqich ADV2 ; ! "gradually"
+yoqligida:yoqligida ADV2 ; ! "inabsentia"
+jiddiy:jiddiy ADV2 ; ! "philosophically"
+chin%qalbdan:chin%qalbdan ADV2 ; ! "sincerely"
+birinchidan:birinchidan ADV2 ; ! "first"
+tayyorgarliksiz:tayyorgarliksiz ADV2 ; ! "impromptu"
+qisman:qisman ADV2 ; ! "partly" "tolerable"
+shubhasiz:shubhasiz ADV2 ; ! "indubitably"
+aybsiz:aybsiz ADV2 ; ! "innocent/ly"
+arang:arang ADV2 ; ! "hard"
+
 
 
 LEXICON  Conjunctions
