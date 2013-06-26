@@ -284,9 +284,26 @@
         <e><p><l>Gül<s n="np"/></l><r>Gul<s n="np"/></r></p></e>
 
 
-
+<!-- SECTION: NUMERALS -->
         
-        
+<e><p><l>sıfır<s n="num"/></l><r>nol<s n="num"/></r></p></e>
+<e><p><l>bir<s n="num"/></l><r>bir<s n="num"/></r></p></e>
+<e><p><l>iki<s n="num"/></l><r>ikki<s n="num"/></r></p></e>
+<e><p><l>üç<s n="num"/></l><r>uch<s n="num"/></r></p></e>
+<e><p><l>dört<s n="num"/></l><r>to'rt<s n="num"/></r></p></e>
+<e><p><l>beş<s n="num"/></l><r>besh<s n="num"/></r></p></e>
+<e><p><l>altı<s n="num"/></l><r>olti<s n="num"/></r></p></e>
+<e><p><l>yedi<s n="num"/></l><r>yetti<s n="num"/></r></p></e>
+<e><p><l>sekiz<s n="num"/></l><r>sakkiz<s n="num"/></r></p></e>
+<e><p><l>dokuz<s n="num"/></l><r>to'qqiz<s n="num"/></r></p></e>
+<e><p><l>on<s n="num"/></l><r>o'n<s n="num"/></r></p></e>
+<e><p><l>yüz<s n="num"/></l><r>yuz<s n="num"/></r></p></e>
+<e><p><l>bin<s n="num"/></l><r>ming<s n="num"/></r></p></e>
+<e><p><l>milyon<s n="num"/></l><r>million<s n="num"/></r></p></e>
+<e><p><l>milyar<s n="num"/></l><r>milliard<s n="num"/></r></p></e>
+<e><p><l>bilyon<s n="num"/></l><r>billion<s n="num"/></r></p></e>
+<e><p><l>trilyon<s n="num"/></l><r>trillion<s n="num"/></r></p></e>
+<e><p><l>buçuk<s n="num"/></l><r>yarim<s n="num"/></r></p></e>
 
 
 
