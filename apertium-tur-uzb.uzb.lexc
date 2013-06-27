@@ -399,17 +399,45 @@ Gul:Gul NP1-COG-MF ; ! ""
 
 LEXICON Postpositions 
 
-bilan:bilan POST ; ! ""
-uchun:uchun POST ; ! ""
-qarshi:qarshi POST ; ! ""
+Lexicon Postpositions
 
-!!!! DATIVE !!!!
+!Nominative
+kabi:kabi POST; ! "like/such as"
+uchun:uchun POST ; ! "for/because"
+bilan:bilan POST ; ! "with"
+qadar:qadar POST ; ! "till/up to"
+haqida:haqida POST ; ! "about"
+bo%'yincha:bo%'yincha POST ; ! "as long as"
+kam:kam POST ; ! "till"
 
-qadar:qadar POST ; ! "as much as"
+!Genitive
+orqasindan:orqasindan POST ; ! "after"
 
-!!!! ABLATIVE !!!!
+!Dative
+tomon:tomon POST ; ! "until"
+ko%'ra:ko%'ra POST ; ! "according to"
+qadar:qadar POST ; ! "up to"
+qarshi:qarshi POST ; ! "against/despite"
+qaramay:qaramay POST ; ! "although/despite"
+oid:oid POST ; ! "pertaining to"
+dovur:dovur POST ; ! "until"
+zid:zid POST ; ! "against"
 
-beri:beri POST ; ! "since" bears ablative
+
+
+!Ablative
+boshqa:boshqa POST ; ! "in addition"
+beri:beri POST ; ! "since"
+buyon:buyon POST ; ! "since"
+sababli:sababli POST ; ! "due to"
+sababli:sababli POST ; ! "because of"
+etibaran:etibaran POST ; ! "as from"
+avval:avval POST ; ! "before"
+keyin:keyin POST ; ! "after"
+
+!Comitative
+aloqali:aloqali POST ; ! "concerning"
+
 
 LEXICON Adjectives
 
