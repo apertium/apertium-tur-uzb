@@ -59,8 +59,10 @@ Determinatives ;
 Conjunctions ; 
 Verbs ; 
 Adverbs ;
-Numerals; 
-Punctuation;
+Numerals ; 
+Punctuation ;
+Titles ;
+Digits ; 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -274,6 +276,88 @@ LEXICON GENPOSS-ETC
 ! %<px%>:%>%{n%}%{I%}ki%{pN%} CASE ;
 %<loc%>%<attr%>:%>dagi # ;
 
+LEXICON TIT 
+
+%<title%>: # ; 
+
+LEXICON DIGITLEX
+
+%0:%0 LOOP ;
+1:1   LOOP ;
+2:2   LOOP ;
+3:3   LOOP ;
+4:4   LOOP ;
+5:5   LOOP ;
+6:6   LOOP ;
+7:7   LOOP ;
+8:8   LOOP ;
+9:9   LOOP ;
+
+LEXICON LOOP
+
+%,:%, DIGITLEX ;
+%.:%. DIGITLEX ;
+%,:%, LASTDIGIT ;
+%.:%. LASTDIGIT ;
+%,:%, LASTDIGIT-REST ;
+%.:%. LASTDIGIT-REST ;
+%,:%, POWERS ;
+%.:%. POWERS ;
+      DIGITLEX ;
+      LASTDIGIT ;
+      LASTDIGIT-REST ;
+      POWERS ;
+      
+LEXICON POWERS
+%0%0:%0%0    NUM-DIGIT ; ! "yüz"
+%0%0%0:%0%0%0 NUM-DIGIT ; ! "bin"
+
+LEXICON NUM-DIGIT
+
+%<num%>: # ;
+%<num%>%<subst%>%<nom%>: # ;
+%<num%>%<subst%>: N-INFL-COMMON-NONOM ; ! Dir/LR
+
+!%<num%>%<ord%>:%'%{i%}nc%{I%} # ;
+!%<num%>%<ord%>%<subst%>%<nom%>:%'%{I%}nc%{I%} # ;
+!%<num%>%<ord%>%<subst%>:%'%{I%}nc%{i%} N-INFL-COMMON-NONOM ;
+
+!%<num%>%<coll%>%<advl%>:%-%{A%}у # ;
+!%<num%>%<coll%>%<nom%>:%-%{A%}у # ;
+!%<num%>%<coll%>:%-%{A%}у N-INFL-COMMON-NONOM ;
+
+!%<num%>%<percent%>:%% # ;
+!%<num%>%<percent%>%<subst%>%<nom%>:%% # ;
+!%<num%>%<percent%>%<subst%>:%%{а%}%{з%}%- N-INFL-COMMON-NONOM ;
+
+LEXICON LASTDIGIT
+
+1:1 NUM-DIGIT ; ! "bir"
+2:2 NUM-DIGIT ; ! "iki"
+3:3 NUM-DIGIT ; ! "üç"
+4:4 NUM-DIGIT ; ! "dört"
+5:5 NUM-DIGIT ; ! "beş"
+6:6 NUM-DIGIT ; ! "altı"
+7:7 NUM-DIGIT ; ! "yedi"
+8:8 NUM-DIGIT ; ! "sekiz"
+9:9 NUM-DIGIT ; ! "dokuz"
+
+LEXICON LASTDIGIT-REST
+
+1%0:1%0 NUM-DIGIT ; ! "on"
+2%0:2%0 NUM-DIGIT ; ! "yirmi"
+3%0:3%0 NUM-DIGIT ; ! "otuz"
+4%0:4%0 NUM-DIGIT ; ! "kırk"
+5%0:5%0 NUM-DIGIT ; ! "elli"
+6%0:6%0 NUM-DIGIT ; ! "altmış"
+7%0:7%0 NUM-DIGIT ; ! "yetmiş"
+8%0:8%0 NUM-DIGIT ; ! "seksen"
+9%0:9%0 NUM-DIGIT ; ! "doksan"
+
+
+LEXICON Titles
+
+Professor:Professor TIT ; ! ""
 
 
 LEXICON Nouns
@@ -749,6 +833,9 @@ arang:arang ADV2 ; ! "hard"
 LEXICON  Conjunctions
 
 va:va CC ; ! "and"
+esa:esa CC ; ! "whereas"
+ham:ham CC ; ! "and.. and" "too"
+va:va CC ; ! "and"
 faqat:faqat CC ; ! "but"
 ammo:ammo CC ; ! "but"
 biroq: biroq CC ; ! "but"
@@ -836,6 +923,8 @@ billion:billion NUM ; ! "billion"
 trillion:trillion NUM ; ! "trillion"
 yarim:yarim NUM ; ! "half"
 
+
+
 LEXICON Punctuation
 
 .%<sent%>:. # ;
@@ -861,4 +950,17 @@ LEXICON Punctuation
 \%<sent%>:\ # ;
 /%<sent%>:/ # ;
 
+
+LEXICON Digits ! Use/Cic
+
+
+
+%0:%0 NUM ;  ! Use/Circ
+№:№ DIGITLEX ;  ! Use/Circ
+DIGITLEX ; ! Use/Circ
+LASTDIGIT ; ! Use/Circ
+LASTDIGIT-REST ; ! Use/Circ
+
+! FIXME: We probably need a flag diacritic here, or an alternative '<percent>' lexicon
+%%:%% DIGITLEX ;  ! Use/Circ
 
