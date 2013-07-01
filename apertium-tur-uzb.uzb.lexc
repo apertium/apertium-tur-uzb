@@ -273,6 +273,8 @@ LEXICON GENPOSS-ETC
 ! %<px%>:%>%{n%}%{I%}ki%{pN%} CASE ;
 %<loc%>%<attr%>:%>dagi # ;
 
+
+
 LEXICON Nouns
 
 
@@ -472,6 +474,108 @@ sistema:sistema N1 ; ! "system"
 kitob:kitob N1 ; ! "book"
 e%'timod:e%'timod N1 ; ! "faith"
 do%'kon:do%'kon N1 ; ! "retailer shop"
+uy:uy N1 ; ! "home"
+kompyuter:kompyuter N1 ; ! "computer"
+daqiqa:daqiqa N1 ; ! "minute"
+avtomobil:avtomobil N1 ; ! "car"
+tor:tor N1 ; ! "net"
+his:his N1 ; ! "emotion"
+daraja:daraja N1 ! "emotion"
+devor:devor N1 ; ! "wall"
+xastalik:xastalik N1 ; ! "disease"
+talaba:talaba N1 ; ! "student"
+televizor:televizor N1 ; ! "television"
+komanda:komanda N1 ; ! "team"
+kalla:kalla N1 ; ! "head"
+musiqa:musiqa N1 ; ! "music"
+kuch:kuch N1 ; ! "energy"
+sport:sport N1 ; ! "sport"
+hayot:hayot N1 ; ! "life"
+soglik:soglik N1 ; ! "health"
+ertalab:ertalab N1 ; ! "morning"
+internet:internet N1 ; ! "internet"
+tashqari:tashqari N1 ; ! "outside"
+markaz:markaz N1 ; ! "center"
+saviya:saviya N1 ; ! "level"
+qishloq:qishloq N1 ; ! "village"
+boshqarish:boshqarish N1 ; ! "management"
+javob:javob N1 ; ! "answer"
+tuproq:tuproq N1 ; ! "soil"
+qurum:qurum N1 ; ! "soot"
+oqshom:oqshom N1 ; ! "evening"
+qon:qon N1 ; ! "blood"
+shahar:shahar N1 ; ! "city"
+hafta:hafta N1 ; ! "week"
+qatnov:qatnov N1 ; ! "traffic" (i am not sure)
+hisobot:hisobot N1 ; ! "account"
+avtomobil:avtomobil N1 ; ! "automobil"
+oshxona:oshxona N1 ; ! "kitchen"
+shahar:shahar N1 ; ! "town" (the same as city)
+narx:narx N1 ; ! "price"
+qol:qol N1 ; ! "arm"
+shisha:shisha N1 ; ! "glass"
+ahamiyat:ahamiyat N1 ; ! "importance"
+er:er N1 ; ! "husband"
+qiziqish:qiziqish N1 ; ! "interest"
+iqtisodiyat:iqtisodiyat N1 ; ! "economy"
+fotosurat:fotosurat N1 ; ! "photograph"
+hayvon:hayvon N1 ; ! "animal"
+jang:jang N1 ; ! "war"
+tovar:tovar N1 ; ! "goods"
+sahifa:sahifa N1 ; ! "page"
+texnika:texnika N1 ; ! "technology"
+tashkilot:tashkilot N1 ; ! "institution"
+sektor:sektor N1 ; ! "sector"
+qugoz:qugoz N1 ; ! "paper"
+hid:hid N1 ; ! "smell"
+asr:asr N1 ; ! "century"
+kocha:kocha N1 ; ! "street"
+bozor:bozor N1 ; ! "market"
+qollanish:qllanish N1 ; ! "usage"
+ishq:ishq N1 ; ! "love"
+quyosh:quyosh N1 ; ! "sun"
+sigaret:sigaret N1 ; ! "cigarette"
+daraxt:daraxt N1 ; ! "tree"
+kal:kal N1 ; ! "bald"
+bino:bino N1 ; ! "building"
+umr%yoldoshi:umr%yoldoshi N1 ; ! "spouse"
+quloq:quloq N1 ; ! "ear"
+sabab:sabab N1 ; ! "reason"
+chap:chap N1 ; ! "left"
+qoida:qoida N1 ; ! "rule"
+muvaffaqiyat:muvaffaqiyat N1 ; ! "success"
+kompaniya:kompaniya N1 ; ! "company"
+hukumat:hukumat N1 ; ! "government"
+qalb:qalb N1 ; ! "heart"
+proyekt:proyekt N1 ; ! "project"
+shart:shart N1 ; ! "condition"
+burchak:burchak N1 ; ! "corner"
+model:model N1 ; ! "model"
+baliq:baliq N1 ; ! "fish"
+piyasa (˝m not sure)
+miqdor:miqdor N1 ; ! "amount"
+maydon:maydon N1 ; ! "sqaure"
+olcham:olcham N1 ; ! "size"
+bog:bog N1 ; ! "garden"
+gazlama:gazlama N1 ; ! "material"
+iz:iz N1 ; ! "trace"
+talab:talab N1 ; ! "demand"
+qorquv:qorquv N1 ; ! "fear"
+kasb:kasb N1 ; ! "profession"
+fikr:fikr N1 ; ! "idea"
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 !!!!!ORGANIZASTIONS
