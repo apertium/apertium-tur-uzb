@@ -703,6 +703,8 @@ daf%'a:daf%'a N1 ; ! "times"
 dengiz:dengiz N1 ; ! "sea"
 saboq:saboq N1 ; ! "lesson"
 tirgak:tirgak N1 ; ! "support"
+shtat:shtat N1 ; ! "state"
+
 
 
 
@@ -739,6 +741,10 @@ Hatay:Hatay NP-TOP ; ! ""
 Reyhanli:Reyhanli NP-TOP ; ! ""
 Turkiya:Turkiya NP-TOP ; ! ""
 Amerika:Amerika NP-TOP ; ! "America"
+Teksas:Teksas NP-TOP ; ! "Texas"
+AQSh:AQSh NP-TOP ; ! "United States of America"
+Meksika:Meksika NP-TOP ; ! "Mexico"
+Texas:Texas NP-TOP ; ! "Texas"
 
 Taqdr:Taqdr NP1-ANT-M ; ! ""
 Abdullah:Abdullah NP1-ANT-M ; ! ""
