@@ -186,6 +186,12 @@ LEXICON N1 ! Lexicon used for general nouns with no particularities. It takes PL
 
 %<n%>: SUBST ;
 
+
+LEXICON N3 ! Nationalities which can form language, etc.
+           ! e.g. turk, turkçe
+
+%<n%>: SUBST ; 
+
 LEXICON NP-TOP
 
 %<np%>%<top%>: SUBST ;
@@ -816,6 +822,55 @@ ishorat:ishorat N1 ; ! "sign"
 e%'tirof:e%'tirof N1 ; ! "confession"
 yorug%'lik:yorug%'lik N1 ; ! "light"
 xotin:xotin N1 ; ! "woman"
+
+
+!!!!! NATIONALITIES !!!!
+
+Jugud:Jugud N3 ; ! "Jewish"
+Turk:Turk N3 ; ! "Turk"
+Alban:Alban N3 ; ! "Albanian"
+Bolgar:Bolgar N3 ; ! "Bulgarian"
+Xorvat:Xorvat N3 ; ! "Croatian"
+Makedon:Makedon N3 ; ! "Macedonian"
+Ingliz:Ingliz N3 ; ! "English"
+Italyan:Italyan N3 ; ! "Italian"
+Rus:Rus N3 ; ! "Russian"
+Serb:Serb N3 ; ! "Serbian"
+Fransuz:Fransuz N3 ; ! "French"
+Sloven:Sloven N3 ; ! "Slovene"
+Arman:Arman N3 ; ! "Armenian
+Ispan:Ispan N3 ; ! "Spanish"
+Arab:Arab N3 ; ! "Arabian"
+Shved:Shved N3 ; ! "Swedish"
+Ozbek:Ozbek N3 ; ! "Uzbek"
+Yapon:Yapon N3 ; ! "Japanese"
+Mogul:Mogul N3 ; ! "Mongolian"
+Nemis:Nemis N3 ; ! "German"
+Qirgiz:Qirgiz N3 ; ! "Kirghiz"
+Gurji:Gurji N3 ; ! "Georgian"
+Rumin:Rumin N3 ; ! "Romenian"
+Yugoslav:Yugoslav N1 ; ! "Yugoslavian"
+Grek:Grek N1 ; ! "Greek"
+Usmonli:Usmonli N1 ; ! "Ottoman"
+Afgon:Afgon N1 ; ! "Afghan"
+Filistimlik:Filistimlik N1 ; ! "Palestinian"
+Yevropalik:Yevropalik N1 ; ! "European"
+Bosniyalik:Bosniyalik N1 ; ! "Bosnian"
+Iroqlik:Iroqlik N1 ; ! "Iraqi"
+Afrikalik:Afrikalik N1 ; ! "African"
+Slavyan:Slavyan N1 ; ! "Slavic"
+Habash:Habash N1 ; ! "Ethiopian"
+Amerikalik:Amerikalik N1 ; ! "American"
+Chernogor:Chernogor N1 ; ! "Montenegrin"
+Mojar:Mojar N1 ; ! "Hungarian"
+Xristian:Xristian N1 ; ! "Christian"
+Katolik:Katolik N1 ; ! "Catholic"
+Chiniy:Chiniy N1 ; ! "Chinese"
+Golland:Golland N1 ; ! "Dutch"
+
+
+
+
 
 
 
