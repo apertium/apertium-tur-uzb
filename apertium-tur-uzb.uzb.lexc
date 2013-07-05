@@ -871,8 +871,10 @@ plan:plan N1 ; ! "plan"
 militsiya:militsiya N1 ; ! "police"
 professor:professor N1 ; ! "professor"
 raport:raport N1 ; ! "report"
-
-
+respublika:respublika N1 ; ! ""
+viloyat:viloyat N1 ; ! "velayet"
+havza:havza N1 ; ! "basin"
+orol:orol N1 ; ! "island"
 
 
 !!!!! NATIONALITIES !!!!
@@ -984,6 +986,10 @@ Teksas:Teksas NP-TOP ; ! "Texas"
 AQSh:AQSh NP-TOP ; ! "United States of America"
 Meksika:Meksika NP-TOP ; ! "Mexico"
 Texas:Texas NP-TOP ; ! "Texas"
+Italiya:Italiya NP-TOP ; ! "Italy"
+Yevropa:Yevropa NP-TOP ; ! "Europe"
+Sitsiliya:Sitsiliya NP-TOP ; ! "Sicily"
+Appennin:Appennin NP-TOP ; ! "Appennines"
 
 Taqdr:Taqdr NP1-ANT-M ; ! ""
 Abdullah:Abdullah NP1-ANT-M ; ! ""
@@ -1683,6 +1689,7 @@ aloqali:aloqali POST ; ! "concerning"
 
 LEXICON Adjectives
 
+kichik:kichik A1 ; ! "small"
 yangi:yangi A1 ; ! "new"
 nafis:nafis A1 ; ! "fine"
 to%'la:to%'la A2 ; ! "full"

@@ -74,6 +74,7 @@
    <e c="  0"><p><l>yakın<s n="adj"/></l><r>yaqin<s n="adj"/></r></p></e>
    <e c="  0"><p><l>gelecek<s n="adj"/></l><r>kelgusi<s n="adj"/></r></p></e>
    <e c="  0"><p><l>uluslararası<s n="adj"/></l><r>xalqaro<s n="adj"/></r></p></e>
+   <e c="  0"><p><l>küçük<s n="adj"/></l><r>kichik<s n="adj"/></r></p></e>
 
 
 
@@ -614,6 +615,11 @@
 <e><p><l>polis<s n="n"/></l><r>militsiya<s n="n"/></r></p></e>
 <e><p><l>profesör<s n="n"/></l><r>professor<s n="n"/></r></p></e>
 <e><p><l>rapor<s n="n"/></l><r>raport<s n="n"/></r></p></e>
+<e><p><l>ada<s n="n"/></l><r>orol<s n="n"/></r></p></e>
+<e><p><l>cumhuriyet<s n="n"/></l><r>respublika<s n="n"/></r></p></e>
+<e><p><l>velayet<s n="n"/></l><r>vilayot<s n="n"/></r></p></e>
+<e><p><l>rapor<s n="n"/></l><r>raport<s n="n"/></r></p></e>
+<e><p><l>rapor<s n="n"/></l><r>raport<s n="n"/></r></p></e>
 
 
 
@@ -763,6 +769,8 @@
         <e><p><l>Reyhanlı<s n="np"/></l><r>Reyhanli<s n="np"/></r></p></e>
         <e><p><l>Hatay<s n="np"/></l><r>Hatay<s n="np"/></r></p></e>
         <e><p><l>Amerika<s n="np"/></l><r>Amerika<s n="np"/></r></p></e>
+        <e><p><l>Avrupa<s n="np"/></l><r>Yevropa<s n="np"/></r></p></e>
+        <e><p><l>İtalya<s n="np"/></l><r>Italiya<s n="np"/></r></p></e>
 
 
         
