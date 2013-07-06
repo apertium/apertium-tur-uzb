@@ -620,6 +620,59 @@
 <e><p><l>velayet<s n="n"/></l><r>vilayot<s n="n"/></r></p></e>
 <e><p><l>rapor<s n="n"/></l><r>raport<s n="n"/></r></p></e>
 <e><p><l>rapor<s n="n"/></l><r>raport<s n="n"/></r></p></e>
+<e><p><l>rapor<s n="n"/></l><r>raport<s n="n"/></r></p></e>
+<e><p><l>saldırı<s n="n"/></l><r>hujum<s n="n"/></r></p></e>
+<e><p><l>şans<s n="n"/></l><r>omad<s n="n"/></r></p></e>
+<e><p><l>şarkı<s n="n"/></l><r>ashula<s n="n"/></r></p></e>
+<e><p><l>saye<s n="n"/></l><r>soya<s n="n"/></r></p></e>
+<e><p><l>saygı<s n="n"/></l><r>hurmat<s n="n"/></r></p></e>
+<e><p><l>sayı<s n="n"/></l><r>son<s n="n"/></r></p></e>
+<e><p><l>seçim<s n="n"/></l><r>saylov<s n="n"/></r></p></e>
+<e><p><l>seçim<s n="n"/></l><r>tanlash<s n="n"/></r></p></e>
+<e><p><l>şef<s n="n"/></l><r>shef<s n="n"/></r></p></e>
+<e><p><l>sefer<s n="n"/></l><r>safar<s n="n"/></r></p></e>
+<e><p><l>şeker<s n="n"/></l><r>shakar<s n="n"/></r></p></e>
+<e><p><l>sene<s n="n"/></l><r>sana<s n="n"/></r></p></e>
+<e><p><l>şey<s n="n"/></l><r>shay<s n="n"/></r></p></e>
+<e><p><l>silah<s n="n"/></l><r>siloh<s n="n"/></r></p></e>
+<e><p><l>soru<s n="n"/></l><r>so'roq<s n="n"/></r></p></e>
+<e><p><l>spor<s n="n"/></l><r>sport<s n="n"/></r></p></e>
+<e><p><l>suç<s n="n"/></l><r>jinoyat<s n="n"/></r></p></e>
+<e><p><l>suçlu<s n="n"/></l><r>jinoyatchi<s n="n"/></r></p></e>
+<e><p><l>süreç<s n="n"/></l><r>protsess<s n="n"/></r></p></e>
+<e><p><l>süre<s n="n"/></l><r>jarayon<s n="n"/></r></p></e>
+<e><p><l>sürpriz<s n="n"/></l><r>ajablanish<s n="n"/></r></p></e>
+<e><p><l>süt<s n="n"/></l><r>sut<s n="n"/></r></p></e>
+<e><p><l>tahmin<s n="n"/></l><r>taxmin<s n="n"/></r></p></e>
+<e><p><l>takip<s n="n"/></l><r>ta'qib<s n="n"/></r></p></e>
+<e><p><l>takım<s n="n"/></l><r>komanda<s n="n"/></r></p></e>
+<e><p><l>parça<s n="n"/></l><r>dona<s n="n"/></r></p></e>
+<e><p><l>tarih<s n="n"/></l><r>tarix<s n="n"/></r></p></e>
+<e><p><l>tavsiye<s n="n"/></l><r>tavsiya<s n="n"/></r></p></e>
+<e><p><l>tedavi<s n="n"/></l><r>davolash<s n="n"/></r></p></e>
+<e><p><l>tehdit<s n="n"/></l><r>tahdid<s n="n"/></r></p></e>
+<e><p><l>teklif<s n="n"/></l><r>taklif<s n="n"/></r></p></e>
+<e><p><l>tercih<s n="n"/></l><r>afzal ko'rish<s n="n"/></r></p></e>
+<e><p><l>teslim<s n="n"/></l><r>taslim<s n="n"/></r></p></e>
+<e><p><l>test<s n="n"/></l><r>analiz<s n="n"/></r></p></e>
+<e><p><l>test<s n="n"/></l><r>test<s n="n"/></r></p></e>
+<e><p><l>tür<s n="n"/></l><r>tur<s n="n"/></r></p></e>
+<e><p><l>uçak<s n="n"/></l><r>tayyora<s n="n"/></r></p></e>
+<e><p><l>umut<s n="n"/></l><r>umid<s n="n"/></r></p></e>
+<e><p><l>ün<s n="n"/></l><r>shuhrat<s n="n"/></r></p></e>
+<e><p><l>üst<s n="n"/></l><r>ust<s n="n"/></r></p></e>
+<e><p><l>yalan<s n="n"/></l><r>yolg'on<s n="n"/></r></p></e>
+<e><p><l>yangın<s n="n"/></l><r>yong'in<s n="n"/></r></p></e>
+<e><p><l>yanlış<s n="n"/></l><r>xato<s n="n"/></r></p></e>
+<e><p><l>yapı<s n="n"/></l><r>tuzilish<s n="n"/></r></p></e>
+<e><p><l>yardımcı<s n="n"/></l><r>yordamchi<s n="n"/></r></p></e>
+<e><p><l>yargıç<s n="n"/></l><r>sudya<s n="n"/></r></p></e>
+<e><p><l>yaş<s n="n"/></l><r>yosh<s n="n"/></r></p></e>
+<e><p><l>yaşam<s n="n"/></l><r>hayot<s n="n"/></r></p></e>
+<e><p><l>yıldız<s n="n"/></l><r>yulduz<s n="n"/></r></p></e>
+<e><p><l>zarar<s n="n"/></l><r>zarar<s n="n"/></r></p></e>
+<e><p><l>ziyaret<s n="n"/></l><r>ziyorat<s n="n"/></r></p></e>
+
 
 
 
