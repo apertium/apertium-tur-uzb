@@ -93,7 +93,7 @@ LEXICON VERB-IV
 %<v%>%<iv%>: GERUND ;
 %<v%>%<iv%>: PRES-CONT ;
 %<v%>%<iv%>: PRES-COND ;
-%<v%>%<iv%>: INDEF-PAST ;
+%<v%>%<iv%>: PAST ;
 
 
 
@@ -103,6 +103,8 @@ LEXICON VERB-TV
 %<v%>%<tv%>: PRES-CONT ;
 %<v%>%<tv%>: PRES-COND ;
 %<v%>%<iv%>: INDEF-PAST ;
+%<v%>%<iv%>: PAST ;
+
 
 
 LEXICON PRES-COND 
@@ -117,6 +119,11 @@ LEXICON GERUND
 LEXICON INDEF-PAST
 
 %<indefpast%>:%>gan PERS ;
+
+LEXICON PAST
+
+%<past%>:%>di PERS2 ;
+
 
 
 LEXICON PRES-CONT 
@@ -1918,6 +1925,9 @@ LEXICON Adverbs
 
 ko%'p:ko%'p ADV1 ; ! "very"
 eng:eng ADV3 ; ! "the most"
+battar:battar ADV1 ; ! "more"
+badtar:badtar ADV1 ; ! "more"
+axtarish:axtarish ADV3 ; ! "afterwards"
 
 ichida:ichida ADV1 ; ! "indoor"
 boshqa:boshqa ADV1 ; ! "the other"
