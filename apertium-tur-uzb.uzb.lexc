@@ -192,6 +192,7 @@ LEXICON N1 ! Lexicon used for general nouns with no particularities. It takes PL
 %<n%>: SUBST ;
 
 
+
 LEXICON N3 ! Nationalities which can form language, etc.
            ! e.g. turk, turkçe
 
@@ -236,6 +237,8 @@ LEXICON SUBST
 
 N-INFL-COMMON ; 
 %<pl%>:%>lar N-INFL-COMMON ;
+%<loc%>%<attr%>:%>dagi # ;
+
 
 LEXICON N-INFL-COMMON-NONOM
 
@@ -931,7 +934,7 @@ hayot:hayot N1 ; ! "life"
 yulduz:yulduz N1 ; ! "star"
 zarar:zarar N1 ; ! "damage"
 ziyorat:ziyorat N1 ; ! "visit"
-
+sohil:sohil N1 ; ! "shore"
 
 
 !!!!! NATIONALITIES !!!!
@@ -1047,6 +1050,9 @@ Italiya:Italiya NP-TOP ; ! "Italy"
 Yevropa:Yevropa NP-TOP ; ! "Europe"
 Sitsiliya:Sitsiliya NP-TOP ; ! "Sicily"
 Appennin:Appennin NP-TOP ; ! "Appennines"
+Istanbul:Istanbul NP-TOP ; ! "Istanbul"
+Bosfor:Bosfor NP-TOP ; ! "Bosphorus"
+Bo%'g%'oz:Bo%ʻg%'oz NP-TOP ; ! "strict"
 
 Marina:Marina NP1-ANT-F ; ! ""
 Taqdr:Taqdr NP1-ANT-M ; ! ""
@@ -1877,6 +1883,7 @@ tebra:tebra VERB-TV ; ! "to swing"
 sigin:sigin VERB-IV ; ! "to worship"
 to%'la:to%'la VERB-TV ; ! "to pay"
 sogin:sogin VERB-TV ; ! "to miss"
+joylash:joylash VERB-IV ; ! "to take place"
 
 
 
