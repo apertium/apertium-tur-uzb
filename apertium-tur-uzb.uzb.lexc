@@ -50,6 +50,10 @@ Multichar_Symbols
 %<prn%>
 %<adv%>
 
+%<tv%>
+%<iv%>
+
+
 
 
 LEXICON Root
@@ -86,15 +90,20 @@ LEXICON CC
 
 LEXICON VERB-IV
 
-%<v%>%<tv%>: GERUND ;
-%<v%>%<tv%>: PRES-CONT ;
-%<v%>%<tv%>: PRES-COND ;
+%<v%>%<iv%>: GERUND ;
+%<v%>%<iv%>: PRES-CONT ;
+%<v%>%<iv%>: PRES-COND ;
+%<v%>%<iv%>: INDEF-PAST ;
+
+
 
 LEXICON VERB-TV
 
 %<v%>%<tv%>: GERUND ;
 %<v%>%<tv%>: PRES-CONT ;
 %<v%>%<tv%>: PRES-COND ;
+%<v%>%<iv%>: INDEF-PAST ;
+
 
 LEXICON PRES-COND 
 
@@ -104,6 +113,11 @@ LEXICON PRES-COND
 LEXICON GERUND 
 
 %<ger5%>:%>gan SUBST ;      
+
+LEXICON INDEF-PAST
+
+%<indefpast%>:%>gan PERS ;
+
 
 LEXICON PRES-CONT 
 
