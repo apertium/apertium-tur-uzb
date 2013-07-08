@@ -94,6 +94,8 @@ LEXICON VERB-IV
 %<v%>%<iv%>: PRES-CONT ;
 %<v%>%<iv%>: PRES-COND ;
 %<v%>%<iv%>: PAST ;
+%<v%>%<iv%>: EVIDENTIAL-PAST ;
+
 
 
 
@@ -104,6 +106,8 @@ LEXICON VERB-TV
 %<v%>%<tv%>: PRES-COND ;
 %<v%>%<iv%>: INDEF-PAST ;
 %<v%>%<iv%>: PAST ;
+%<v%>%<iv%>: EVIDENTIAL-PAST ;
+
 
 
 
@@ -124,6 +128,11 @@ LEXICON PAST
 
 %<past%>:%>di PERS2 ;
 
+LEXICON EVIDENTIAL-PAST
+
+%<evid%>:%>mish PERS ;
+
+
 
 
 LEXICON PRES-CONT 
@@ -135,6 +144,8 @@ LEXICON PERS
 %<p1%>%<sg%>:%>man  # ;
 %<p2%>%<sg%>:%>san  # ;
 %<p3%>%<sg%>:%>ti  # ;
+%<p3%>%<sg%>:%>  # ;
+
 %<p3%>%<pl%>:%>siz # ;
 %<p1%>%<pl%>:%>miz  # ;
 %<p2%>%<pl%>:%>tilar  # ;
