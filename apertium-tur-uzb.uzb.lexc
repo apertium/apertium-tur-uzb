@@ -72,12 +72,29 @@ Digits ;
 Pronouns ; 
 Interjections ; 
 Qst-pron ; 
+Pronouns ; 
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!!!!!!	CONJUNCTIONS, CAUSE EVEN SENTENCES AND WORDS WANNA BE TOGETHER !!!!!!!!!!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+LEXICON PRON-DEM-BU
+
+%<prn%>%<dem%>%<nom%>: CLIT-GENERAL ;
+%<prn%>%<dem%>%<gen%>ning: CLIT ;
+%<prn%>%<dem%>%<dat%>:nga CLIT ;
+%<prn%>%<dem%>%<acc%>:ni CLIT ;
+%<prn%>%<dem%>%<abl%>:ndan CLIT-GENERAL ;
+%<prn%>%<dem%>%<loc%>:nda CLIT-GENERAL ;
+! %<prn%>%<dem%>%<px%>:nuki%{pN%} CASE ;
+%<prn%>%<dem%>%<loc%>%<attr%>:ndagi ATTR-SUBST ;
+!%<prn%>%<dem%>%<com%>:nunla # ;
+!%<prn%>%<dem%>%<px3sp%>:nu%{pN%} CASE ;
+%<prn%>%<dem%>%<pl%>:nlar CASE-ETC ;
+! %<prn%>%<dem%>%<pl%>%<px3sp%>:nları%{pN%} CASE ;
+
+
 
 LEXICON CA
 
@@ -343,7 +360,12 @@ LEXICON GENPOSS-ETC
 ! %<px%>:%>%{n%}%{I%}ki%{pN%} CASE ;
 %<loc%>%<attr%>:%>dagi # ;
 
-LEXICON PRON-PERS
+
+Lexicon Pronouns 
+
+bu:bu PRON-DEM-BU ; ! "this"
+shu:şu PRON-DEM-BU ; ! "this"
+o:o PRON-DEM-BU ; ! "this"
 
 LEXICON PRON-PERS
 
@@ -497,6 +519,7 @@ PRON-PERS ;
 LEXICON Nouns
 
 
+ibodat:ibodat N1 ; ! "worship"
 bog%'cha:bog%'cha N1 ; ! "garden
 daraxt:daraxt N1 ; ! "tree"
 havo:havo N1 ; ! "weather"
@@ -1056,7 +1079,11 @@ masih:masih N1 ; ! "Messiah"
 payg%'ambar:payg%'ambar N1 ; ! "prophet"
 og%':og%' N1 ; ! "crotch?"
 yig:yig N1 ; ! "spindle"
-
+hukm:hukm N1 ; ! "judgement"
+imon:imon N1 ; ! "faith"
+bugun:bugun N1 ; ! "today"
+ahl:ahl N1 ; ! "people"
+ehtiyot:ehtiyot N1 ; ! "prudence"
 
 
 !!!!! NATIONALITIES !!!!
@@ -1676,6 +1703,7 @@ G17% Plus:G17% Plus NP1-AL ; ! ""
 The% New% Press:The% New% Press NP1-AL ; ! ""
 Radio% Foniki:Radio% Foniki NP1-AL ; ! ""
 Europe:Europe NP1-AL ; ! ""
+Psalms:Psalms NP1-AL ; ! "psalms"
 
 !!!!FOOTBALL TEAMS !!!!
 
@@ -1955,6 +1983,8 @@ kurban% bo%'l:kurban% bo%'l VERB-TV ; ! ""
 yoz:yoz VERB-TV ; ! "write"
 ol:ol VERB-TV ; ! "to take"
 
+ayt:ayt VERB-TV ; ! "to say"
+tur:tur VERB-IV ; ! "to stand"
 kel:kel VERB-IV ; ! "to come"
 ye:ye VERB-TV ; ! "to eat"
 yuv:yuv VERB-TV ; ! "to wash"
@@ -2075,6 +2105,8 @@ badtar:badtar ADV1 ; ! "more"
 axtarish:axtarish ADV3 ; ! "afterwards"
 yana:yana ADV3; ! "again"
 shunday:shunday ADV3 ; ! "in that way"
+juda:juda ADV3 ; ! "very"
+bugun:bugun ADV3 ; ! "today"
 
 ichida:ichida ADV1 ; ! "indoor"
 boshqa:boshqa ADV1 ; ! "the other"
