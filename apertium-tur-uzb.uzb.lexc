@@ -347,7 +347,7 @@ LEXICON PRON-PERS
 
 men%<prn%>%<pers%>%<p1%>%<sg%>%<nom%>:men CLIT ; 
 men%<prn%>%<pers%>%<p1%>%<sg%>%<gen%>:mening CLIT ; 
-men%<prn%>%<pers%>%<p1%>%<sg%>%<dat%>:mena CLIT ; 
+men%<prn%>%<pers%>%<p1%>%<sg%>%<dat%>:menga CLIT ; 
 men%<prn%>%<pers%>%<p1%>%<sg%>%<acc%>:meni CLIT ; 
 men%<prn%>%<pers%>%<p1%>%<sg%>%<loc%>:menda CLIT ; 
 men%<prn%>%<pers%>%<p1%>%<sg%>%<abl%>:mendan CLIT ; 
@@ -364,7 +364,7 @@ sen%<prn%>%<pers%>%<p2%>%<sg%>%<abl%>:sendan CLIT ;
 u%<prn%>%<pers%>%<p3%>%<sg%>%<nom%>:u CLIT ; 
 u%<prn%>%<pers%>%<p3%>%<sg%>%<gen%>:uning CLIT ; 
 u%<prn%>%<pers%>%<p3%>%<sg%>%<dat%>:unga CLIT ; 
-u%<prn%>%<pers%>%<p3%>%<sg%>%<acc%>:unni CLIT ; 
+u%<prn%>%<pers%>%<p3%>%<sg%>%<acc%>:uni CLIT ; 
 u%<prn%>%<pers%>%<p3%>%<sg%>%<loc%>:unda CLIT ; 
 u%<prn%>%<pers%>%<p3%>%<sg%>%<abl%>:ondan CLIT ; 
 
@@ -482,8 +482,8 @@ LEXICON PRON-ITG-INFL
 
 LEXICON PRON-ITG 
 
-ne:ne PRON-ITG-INFL ; ! "what"
-
+nami:nami PRON-ITG-INFL ; ! "what"
+qanday:qanday PRON-ITG-INFL ; ! "which one"
 
 
 LEXICON Titles
@@ -1952,6 +1952,7 @@ zomin% bo%'l:zomin% bo%'l VERB-TV ; ! ""
 kurban% bo%'l:kurban% bo%'l VERB-TV ; ! ""
 yoz:yoz VERB-TV ; ! "write"
 
+kel:kel VERB-IV ; ! "to come"
 ye:ye VERB-TV ; ! "to eat"
 yuv:yuv VERB-TV ; ! "to wash"
 sakra:sakra VERB-IV ; ! "to jump"
@@ -2067,6 +2068,7 @@ battar:battar ADV1 ; ! "more"
 badtar:badtar ADV1 ; ! "more"
 axtarish:axtarish ADV3 ; ! "afterwards"
 yana:yana ADV3; ! "again"
+shunday:shunday ADV3 ; ! "in that way"
 
 ichida:ichida ADV1 ; ! "indoor"
 boshqa:boshqa ADV1 ; ! "the other"
