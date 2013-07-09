@@ -82,7 +82,7 @@ Pronouns ;
 LEXICON PRON-DEM-BU
 
 %<prn%>%<dem%>%<nom%>: CLIT-GENERAL ;
-%<prn%>%<dem%>%<gen%>ning: CLIT ;
+%<prn%>%<dem%>%<gen%>ning CLIT ;
 %<prn%>%<dem%>%<dat%>:nga CLIT ;
 %<prn%>%<dem%>%<acc%>:ni CLIT ;
 %<prn%>%<dem%>%<abl%>:ndan CLIT-GENERAL ;
@@ -364,7 +364,7 @@ LEXICON GENPOSS-ETC
 Lexicon Pronouns 
 
 bu:bu PRON-DEM-BU ; ! "this"
-shu:şu PRON-DEM-BU ; ! "this"
+shu:shu PRON-DEM-BU ; ! "this"
 o:o PRON-DEM-BU ; ! "this"
 
 LEXICON PRON-PERS
@@ -407,7 +407,14 @@ sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<gen%>:sizlaring CLIT ;
 sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<dat%>:sizlarga CLIT ; 
 sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<acc%>:sizlarni CLIT ; 
 sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<loc%>:sizlarda CLIT ; 
-sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<abl%>:sizlardan CLIT ; 
+sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<abl%>:sizlardan CLIT ;
+
+siz%<prn%>%<pers%>%<p2%>%<pl%>%<nom%>:siz CLIT ; 
+siz%<prn%>%<pers%>%<p2%>%<pl%>%<gen%>:sizing CLIT ; 
+siz%<prn%>%<pers%>%<p2%>%<pl%>%<dat%>:sizga CLIT ; 
+siz%<prn%>%<pers%>%<p2%>%<pl%>%<acc%>:sizni CLIT ; 
+siz%<prn%>%<pers%>%<p2%>%<pl%>%<loc%>:sizda CLIT ; 
+siz%<prn%>%<pers%>%<p2%>%<pl%>%<abl%>:sizdan CLIT ; 
 
 
 ular%<prn%>%<pers%>%<p3%>%<pl%>%<nom%>:ular CLIT ; 
@@ -1084,6 +1091,10 @@ imon:imon N1 ; ! "faith"
 bugun:bugun N1 ; ! "today"
 ahl:ahl N1 ; ! "people"
 ehtiyot:ehtiyot N1 ; ! "prudence"
+tug%':tug%' N1 ; ! "banner"
+psalms:psalms N1 ; ! "psalms"
+ruh:ruh N1 ; ! "spirit"
+gunoh:gunoh N1 ; ! "sin"
 
 
 !!!!! NATIONALITIES !!!!
@@ -1561,8 +1572,7 @@ Süleyman:Süleyman NP1-ANT-M ; ! ""
 Boyko:Boyko NP1-ANT-M ; ! ""
 Racan:Racan NP1-ANT-M ; ! ""
 Iso:Iso NP1-ANT-M ; ! "JESUS"
-Iso:Iso NP1-ANT-M ; ! "JESUS"
-
+Ilohiy:Ilohiy NP1-ANT-M ; ! ""
 
 Hujjati:Hujjati NP1-COG-MF ; ! ""
 Gul:Gul NP1-COG-MF ; ! ""
@@ -1675,6 +1685,7 @@ BSP:BSP NP1-ORG ; ! ""
 KDV:KDV NP1-AL ; ! ""
 TV:TV NP1-AL ; ! ""
 HIV:HIV NP1-AL ; ! "" @?@
+Tavrot:Tavrot NP1-AL ; ! ""
 CEFTA:CEFTA NP1-AL ; ! ""
 GERB:GERB NP1-AL ; ! ""
 Nobel:Nobel NP1-AL ; ! ""
@@ -1703,7 +1714,6 @@ G17% Plus:G17% Plus NP1-AL ; ! ""
 The% New% Press:The% New% Press NP1-AL ; ! ""
 Radio% Foniki:Radio% Foniki NP1-AL ; ! ""
 Europe:Europe NP1-AL ; ! ""
-Psalms:Psalms NP1-AL ; ! "psalms"
 
 !!!!FOOTBALL TEAMS !!!!
 
@@ -1968,11 +1978,7 @@ minglab:minglab DET-QNT ; ! "thousands"
 ko%'plab:ko%'plab DET-QNT ; ! "hundreds"
 hamma:hamma DET-QNT ; ! "all of them"
 Ayrimlar:Ayrimlar DET-DEM ; ! "some other"
-
-bu:bu DET-DEM ; ! "this"
-o'sha:o'sha DET-DEM ; ! "that"
-u:u DET-DEM ; ! "there"
-shu:shu DET-DEM ; ! ""
+har:har DET-DEM ; ! "each"
 
 LEXICON Verbs
 
@@ -1983,6 +1989,7 @@ kurban% bo%'l:kurban% bo%'l VERB-TV ; ! ""
 yoz:yoz VERB-TV ; ! "write"
 ol:ol VERB-TV ; ! "to take"
 
+qayt:qayt VERB-IV ; ! "to reach"
 ayt:ayt VERB-TV ; ! "to say"
 tur:tur VERB-IV ; ! "to stand"
 kel:kel VERB-IV ; ! "to come"
@@ -2217,6 +2224,8 @@ LEXICON Qst-pron
 
 nima:nima PRON-ITG-INFL ; ! "what"
 qanday:qanday PRON-ITG-INFL ; ! "which one"
+kim:kim PRON-ITG-INFL ; ! "who"
+
 
 LEXICON Numerals
 
