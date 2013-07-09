@@ -82,7 +82,7 @@ Pronouns ;
 LEXICON PRON-DEM-BU
 
 %<prn%>%<dem%>%<nom%>: CLIT-GENERAL ;
-%<prn%>%<dem%>%<gen%>ning CLIT ;
+%<prn%>%<dem%>%<gen%>:ning CLIT ;
 %<prn%>%<dem%>%<dat%>:nga CLIT ;
 %<prn%>%<dem%>%<acc%>:ni CLIT ;
 %<prn%>%<dem%>%<abl%>:ndan CLIT-GENERAL ;
@@ -394,7 +394,7 @@ u%<prn%>%<pers%>%<p3%>%<sg%>%<abl%>:ondan CLIT ;
 
 
 biz%<prn%>%<pers%>%<p1%>%<pl%>%<nom%>:biz CLIT ; 
-biz%<prn%>%<pers%>%<p1%>%<pl%>%<gen%>:bizing CLIT ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<gen%>:bizning CLIT ; 
 biz%<prn%>%<pers%>%<p1%>%<pl%>%<dat%>:bizga CLIT ; 
 biz%<prn%>%<pers%>%<p1%>%<pl%>%<acc%>:bizni CLIT ; 
 biz%<prn%>%<pers%>%<p1%>%<pl%>%<loc%>:bizda CLIT ; 
@@ -403,14 +403,14 @@ biz%<prn%>%<pers%>%<p1%>%<pl%>%<abl%>:bizdan CLIT ;
 
 
 sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<nom%>:sizlar CLIT ; 
-sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<gen%>:sizlaring CLIT ; 
+sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<gen%>:sizlarning CLIT ; 
 sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<dat%>:sizlarga CLIT ; 
 sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<acc%>:sizlarni CLIT ; 
 sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<loc%>:sizlarda CLIT ; 
 sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<abl%>:sizlardan CLIT ;
 
 siz%<prn%>%<pers%>%<p2%>%<pl%>%<nom%>:siz CLIT ; 
-siz%<prn%>%<pers%>%<p2%>%<pl%>%<gen%>:sizing CLIT ; 
+siz%<prn%>%<pers%>%<p2%>%<pl%>%<gen%>:sizning CLIT ; 
 siz%<prn%>%<pers%>%<p2%>%<pl%>%<dat%>:sizga CLIT ; 
 siz%<prn%>%<pers%>%<p2%>%<pl%>%<acc%>:sizni CLIT ; 
 siz%<prn%>%<pers%>%<p2%>%<pl%>%<loc%>:sizda CLIT ; 
@@ -525,7 +525,7 @@ PRON-PERS ;
 
 LEXICON Nouns
 
-
+to%'g%'il:to%'g%'il N1 ; ! "wheel"
 ibodat:ibodat N1 ; ! "worship"
 bog%'cha:bog%'cha N1 ; ! "garden
 daraxt:daraxt N1 ; ! "tree"
@@ -1095,7 +1095,9 @@ tug%':tug%' N1 ; ! "banner"
 psalms:psalms N1 ; ! "psalms"
 ruh:ruh N1 ; ! "spirit"
 gunoh:gunoh N1 ; ! "sin"
-
+qabul:qabul N1 ; ! "acceptance"
+najot:najot N1 ; ! "salvation"
+ko%'z:ko%'z N1 ; ! "eye"
 
 !!!!! NATIONALITIES !!!!
 
@@ -1954,6 +1956,8 @@ muqaddas:muqaddas A1 ; ! "holy"
 ulug%':ulug%' A1 ; ! "great"
 yaxshi:yaxshi A1 ; ! "good"
 abadiy:abadiy A1 ; ! "eternal"
+so%'ng:so%'ng A1 ; ! "last"
+oliy:oliy A1 ; ! "grand"
 
 !!!!!!! SPECIALS !!!!!!
 
@@ -1979,6 +1983,7 @@ ko%'plab:ko%'plab DET-QNT ; ! "hundreds"
 hamma:hamma DET-QNT ; ! "all of them"
 Ayrimlar:Ayrimlar DET-DEM ; ! "some other"
 har:har DET-DEM ; ! "each"
+biron:biron DET-DEM ; ! "some"
 
 LEXICON Verbs
 
@@ -1988,6 +1993,7 @@ zomin% bo%'l:zomin% bo%'l VERB-TV ; ! ""
 kurban% bo%'l:kurban% bo%'l VERB-TV ; ! ""
 yoz:yoz VERB-TV ; ! "write"
 ol:ol VERB-TV ; ! "to take"
+eshit:eshit VERB-TV ; ! "to hear"
 
 qayt:qayt VERB-IV ; ! "to reach"
 ayt:ayt VERB-TV ; ! "to say"
@@ -2101,6 +2107,7 @@ esa:esa CC ; ! "whereas"
 deb:deb CC ; ! "because"
 ham:ham CC ; ! "and.. and" "too"
 ila:ila CC ; ! "with"
+hamda:hamda CC ; ! "also"
 
 
 LEXICON Adverbs 
@@ -2114,6 +2121,8 @@ yana:yana ADV3; ! "again"
 shunday:shunday ADV3 ; ! "in that way"
 juda:juda ADV3 ; ! "very"
 bugun:bugun ADV3 ; ! "today"
+bajo:bajo ADV3 ; ! "with pleasure"
+xuddi:xuddi ADV3 ; ! "nearly"
 
 ichida:ichida ADV1 ; ! "indoor"
 boshqa:boshqa ADV1 ; ! "the other"
