@@ -71,6 +71,8 @@ Titles ;
 Digits ; 
 Pronouns ; 
 Interjections ; 
+Qst-pron ; 
+
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -480,10 +482,7 @@ LEXICON PRON-ITG-INFL
 
 %<prn%>%<itg%>: SUBST ;
 
-LEXICON PRON-ITG 
 
-nami:nami PRON-ITG-INFL ; ! "what"
-qanday:qanday PRON-ITG-INFL ; ! "which one"
 
 
 LEXICON Titles
@@ -1056,6 +1055,7 @@ rabbi:rabbi N1 ;  ! "master/lord"
 masih:masih N1 ; ! "Messiah"
 payg%'ambar:payg%'ambar N1 ; ! "prophet"
 og%':og%' N1 ; ! "crotch?"
+yig:yig N1 ; ! "spindle"
 
 
 
@@ -1860,6 +1860,7 @@ qadar:qadar POST ; ! "till/up to"
 haqida:haqida POST ; ! "about"
 bo%'yincha:bo%'yincha POST ; ! "as long as"
 kam:kam POST ; ! "till"
+orqali:orqali POST ; ! "through, via"
 
 !Genitive
 orqasindan:orqasindan POST ; ! "after"
@@ -1914,6 +1915,7 @@ harbiy:harbiy A1 ; ! "military"
 muqaddas:muqaddas A1 ; ! "holy"
 ulug%':ulug%' A1 ; ! "great"
 yaxshi:yaxshi A1 ; ! "good"
+abadiy:abadiy A1 ; ! "eternal"
 
 !!!!!!! SPECIALS !!!!!!
 
@@ -1951,6 +1953,7 @@ sodir% bo%'l:sodir% bo%'l VERB-TV ; ! ""
 zomin% bo%'l:zomin% bo%'l VERB-TV ; ! ""
 kurban% bo%'l:kurban% bo%'l VERB-TV ; ! ""
 yoz:yoz VERB-TV ; ! "write"
+ol:ol VERB-TV ; ! "to take"
 
 kel:kel VERB-IV ; ! "to come"
 ye:ye VERB-TV ; ! "to eat"
@@ -2038,6 +2041,9 @@ sigin:sigin VERB-IV ; ! "to worship"
 to%'la:to%'la VERB-TV ; ! "to pay"
 sogin:sogin VERB-TV ; ! "to miss"
 joylash:joylash VERB-IV ; ! "to take place"
+ko%'r:ko%'r VERB-TV ; ! "to see"
+chiq:chiq VERB-IV ; ! "to go out"
+bor:bor VERB-IV ; ! "to reach"
 
 
 
@@ -2147,10 +2153,9 @@ shuningdek:shuningdek CA ; ! "likewise"
 ki:ki CA ; ! "that"
 tezda:tezda CA ; ! "briefly"
 lekin:lekin CA ; ! "however"
-magar:magar CA ; ! "to his surprise"
 magar:magar CA ; ! "to this surprise"
 masalan:masalan CA ; ! "for example"
-qandayd˝r:qandayd˝r CA ; ! "somehow"
+qandaydir:qandaydir CA ; ! "somehow"
 mayli:mayli CA ; ! "anyway"
 bo%'lsin:bo%'lsin CA ; ! "may it be so"
 masalan:masalan CA ; ! "for example"
@@ -2175,6 +2180,11 @@ demak% ki:demak% ki: CA ; ! "so"
 yoki:yoki CA ; ! "or"
 shu% sababli:shu% sababli CA ; ! "hence"
 yo%'qsa:yo%'qsa CA ; ! "otherwise"
+
+LEXICON Qst-pron
+
+nima:nima PRON-ITG-INFL ; ! "what"
+qanday:qanday PRON-ITG-INFL ; ! "which one"
 
 LEXICON Numerals
 
