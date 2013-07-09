@@ -347,15 +347,51 @@ LEXICON PRON-PERS
 
 men%<prn%>%<pers%>%<p1%>%<sg%>%<nom%>:men CLIT ; 
 men%<prn%>%<pers%>%<p1%>%<sg%>%<gen%>:mening CLIT ; 
-men%<prn%>%<pers%>%<p1%>%<sg%>%<dat%>:menga CLIT ; 
+men%<prn%>%<pers%>%<p1%>%<sg%>%<dat%>:mena CLIT ; 
 men%<prn%>%<pers%>%<p1%>%<sg%>%<acc%>:meni CLIT ; 
+men%<prn%>%<pers%>%<p1%>%<sg%>%<loc%>:menda CLIT ; 
+men%<prn%>%<pers%>%<p1%>%<sg%>%<abl%>:mendan CLIT ; 
 
 
-sen%<prn%>%<pers%>%<p2%>%<sg%>%<nom%>:sen CASE ; 
-u%<prn%>%<pers%>%<p3%>%<sg%>%<nom%>:u CASE ; 
-biz%<prn%>%<pers%>%<p1%>%<pl%>%<nom%>:biz CASE ; 
-siz%<prn%>%<pers%>%<p2%>%<pl%>%<nom%>:siz CASE ; 
-ular%<prn%>%<pers%>%<p3%>%<pl%>%<nom%>:ular CASE ; 
+sen%<prn%>%<pers%>%<p2%>%<sg%>%<nom%>:sen CLIT ; 
+sen%<prn%>%<pers%>%<p2%>%<sg%>%<gen%>:sening CLIT ; 
+sen%<prn%>%<pers%>%<p2%>%<sg%>%<dat%>:senga CLIT ; 
+sen%<prn%>%<pers%>%<p2%>%<sg%>%<acc%>:seni CLIT ; 
+sen%<prn%>%<pers%>%<p2%>%<sg%>%<loc%>:senda CLIT ; 
+sen%<prn%>%<pers%>%<p2%>%<sg%>%<abl%>:sendan CLIT ; 
+
+
+u%<prn%>%<pers%>%<p3%>%<sg%>%<nom%>:u CLIT ; 
+u%<prn%>%<pers%>%<p3%>%<sg%>%<gen%>:uning CLIT ; 
+u%<prn%>%<pers%>%<p3%>%<sg%>%<dat%>:unga CLIT ; 
+u%<prn%>%<pers%>%<p3%>%<sg%>%<acc%>:unni CLIT ; 
+u%<prn%>%<pers%>%<p3%>%<sg%>%<loc%>:unda CLIT ; 
+u%<prn%>%<pers%>%<p3%>%<sg%>%<abl%>:ondan CLIT ; 
+
+
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<nom%>:biz CLIT ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<gen%>:bizing CLIT ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<dat%>:bizga CLIT ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<acc%>:bizni CLIT ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<loc%>:bizda CLIT ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<abl%>:bizdan CLIT ; 
+
+
+
+sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<nom%>:sizlar CLIT ; 
+sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<gen%>:sizlaring CLIT ; 
+sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<dat%>:sizlarga CLIT ; 
+sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<acc%>:sizlarni CLIT ; 
+sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<loc%>:sizlarda CLIT ; 
+sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<abl%>:sizlardan CLIT ; 
+
+
+ular%<prn%>%<pers%>%<p3%>%<pl%>%<nom%>:ular CLIT ; 
+ular%<prn%>%<pers%>%<p3%>%<pl%>%<gen%>:ularning CLIT ; 
+ular%<prn%>%<pers%>%<p3%>%<pl%>%<dat%>:ularga CLIT ; 
+ular%<prn%>%<pers%>%<p3%>%<pl%>%<acc%>:ularni CLIT ; 
+ular%<prn%>%<pers%>%<p3%>%<pl%>%<loc%>:ularda CLIT ; 
+ular%<prn%>%<pers%>%<p3%>%<pl%>%<abl%>:ulardan CLIT ; 
 
 LEXICON TIT 
 
