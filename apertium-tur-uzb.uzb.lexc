@@ -69,6 +69,8 @@ Numerals ;
 Punctuation ;
 Titles ;
 Digits ; 
+Pronouns ; 
+Interjections ; 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -328,9 +330,23 @@ LEXICON GENPOSS-ETC
 ! %<px%>:%>%{n%}%{I%}ki%{pN%} CASE ;
 %<loc%>%<attr%>:%>dagi # ;
 
+LEXICON PRON-PERS
+
+men%<prn%>%<pers%>%<p1%>%<sg%>%<nom%>:men CASE ; 
+sen%<prn%>%<pers%>%<p2%>%<sg%>%<nom%>:sen CASE ; 
+u%<prn%>%<pers%>%<p3%>%<sg%>%<nom%>:u CASE ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<nom%>:biz CASE ; 
+siz%<prn%>%<pers%>%<p2%>%<pl%>%<nom%>:siz CASE ; 
+ular%<prn%>%<pers%>%<p3%>%<pl%>%<nom%>:ular CASE ; 
+
 LEXICON TIT 
 
 %<title%>: # ; 
+
+LEXICON INTERJ
+
+%<ij%>: # ;
+
 
 LEXICON DIGITLEX
 
@@ -410,6 +426,10 @@ LEXICON LASTDIGIT-REST
 LEXICON Titles
 
 Professor:Professor TIT ; ! ""
+
+LEXICON Pronouns
+
+PRON-PERS ;
 
 
 LEXICON Nouns
@@ -967,6 +987,9 @@ yulduz:yulduz N1 ; ! "star"
 zarar:zarar N1 ; ! "damage"
 ziyorat:ziyorat N1 ; ! "visit"
 sohil:sohil N1 ; ! "shore"
+xudo:xudo N1 ; ! "god"
+xudovand:xudovand N1 ; ! "Lord"
+rabbi:rabbi N1 ;  ! "master/lord"
 
 
 !!!!! NATIONALITIES !!!!
@@ -1429,6 +1452,7 @@ Bozidar:Bozidar NP1-ANT-M ; ! ""
 Süleyman:Süleyman NP1-ANT-M ; ! ""
 Boyko:Boyko NP1-ANT-M ; ! ""
 Racan:Racan NP1-ANT-M ; ! ""
+Iso:Iso NP1-ANT-M ; ! "JESUS"
 
 
 Hujjati:Hujjati NP1-COG-MF ; ! ""
@@ -1805,6 +1829,14 @@ ma%'noli:ma%'noli A2 ; ! "meaningful"
 turli:turli A2 ; ! ""
 harbiy:harbiy A1 ; ! "military"
 
+!!!!!!! SPECIALS !!!!!!
+
+bor:bor A4 ; ! "there is"
+emas:emas A4 ; ! "there is not"
+
+
+
+
 o%'z:o%'z PRON-REF ; ! "self"
 
 
@@ -1815,6 +1847,7 @@ bir:bir DET-IND ; ! "a"
 har% qanday:har% qanday DET-IND ; ! ""
 barcha:barcha DET-DEM ; ! "every"
 yuzlab:yuzlab DET-QNT ; ! "hundreds"
+butun:butun DET-QNT ; ! "all of it"
 minglab:minglab DET-QNT ; ! "thousands"
 ko%'plab:ko%'plab DET-QNT ; ! "hundreds"
 Ayrimlar:Ayrimlar DET-DEM ; ! "some other"
@@ -1919,6 +1952,10 @@ joylash:joylash VERB-IV ; ! "to take place"
 
 
 
+LEXICON Interjections
+
+ey:ey INTERJ ; ! "hey"
+
 
 
 
@@ -1929,6 +1966,7 @@ LEXICON Conjunctions
 
 va:va CC ; ! "and"
 esa:esa CC ; ! "whereas"
+deb:deb CC ; ! "because"
 
 ham:ham CC ; ! "and.. and" "too"
 
