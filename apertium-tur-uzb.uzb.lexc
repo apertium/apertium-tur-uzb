@@ -1098,10 +1098,15 @@ gunoh:gunoh N1 ; ! "sin"
 qabul:qabul N1 ; ! "acceptance"
 najot:najot N1 ; ! "salvation"
 ko%'z:ko%'z N1 ; ! "eye"
+hol:hol N1 ; ! "situation"
+shogird:shogird N1 ; ! "pupil"
+qul:qul N1 ; ! "slave"
+
 
 !!!!! NATIONALITIES !!!!
 
 Jugud:Jugud N3 ; ! "Jewish"
+yahudiy:yahudiy N3 ; ! "jewish"
 Turk:Turk N3 ; ! "Turk"
 Alban:Alban N3 ; ! "Albanian"
 Bolgar:Bolgar N3 ; ! "Bulgarian"
@@ -1325,6 +1330,9 @@ Dimitar:Dimitar NP1-ANT-M ; ! ""
 Dimitrij:Dimitrij NP1-ANT-M ; ! ""
 Dimitris:Dimitris NP1-ANT-M ; ! ""
 Dirk:Dirk NP1-ANT-M ; ! ""
+Yahudo:Yahudo NP1-ANT-M ; ! ""
+Yahyo:Yahyo NP1-ANT-M ; ! ""
+
 Dmitry:Dmitry NP1-ANT-M ; ! ""
 Dominiqüe:Dominiqüe NP1-ANT-M ; ! ""
 Donald:Donald NP1-ANT-M ; ! ""
@@ -1958,6 +1966,9 @@ yaxshi:yaxshi A1 ; ! "good"
 abadiy:abadiy A1 ; ! "eternal"
 so%'ng:so%'ng A1 ; ! "last"
 oliy:oliy A1 ; ! "grand"
+to'g'ri:to'g'ri A1 ; ! "straight"
+
+
 
 !!!!!!! SPECIALS !!!!!!
 
@@ -2098,6 +2109,7 @@ yubor:yubor VERB-TV ; ! "send"
 o%'t:o%'t VERB-IV ; ! "to pass"
 buyur:buyur VERB-TV ; ! " to order"
 ko%'rsat:ko%'rsat VERB-TV ; ! "to show"
+deyish:deyish VERB-TV ; ! "to change"
 
 
 LEXICON Interjections
@@ -2122,6 +2134,8 @@ hamda:hamda CC ; ! "also"
 
 LEXICON Adverbs 
 
+hali:hali ADV3 ; ! "a while ago"
+endi:endi ADV3 ; ! "now"
 ko%'p:ko%'p ADV1 ; ! "very"
 eng:eng ADV3 ; ! "the most"
 battar:battar ADV1 ; ! "more"
