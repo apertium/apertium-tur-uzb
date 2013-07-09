@@ -97,7 +97,7 @@ LEXICON VERB-IV
 %<v%>%<iv%>: PRES-COND ;
 %<v%>%<iv%>: PAST ;
 %<v%>%<iv%>: EVIDENTIAL-PAST ;
-
+%<v%>%<iv%>: NON-FINITE ;
 
 
 
@@ -106,10 +106,20 @@ LEXICON VERB-TV
 %<v%>%<tv%>: GERUND ;
 %<v%>%<tv%>: PRES-CONT ;
 %<v%>%<tv%>: PRES-COND ;
-%<v%>%<iv%>: INDEF-PAST ;
-%<v%>%<iv%>: PAST ;
-%<v%>%<iv%>: EVIDENTIAL-PAST ;
+%<v%>%<tv%>: INDEF-PAST ;
+%<v%>%<tv%>: PAST ;
+%<v%>%<tv%>: EVIDENTIAL-PAST ;
+%<v%>%<tv%>: NON-FINITE ;
 
+
+
+LEXICON NON-FINITE
+
+
+
+
+
+%<gna2%>:%>ib # ;
 
 
 
@@ -120,7 +130,8 @@ LEXICON PRES-COND
 
 LEXICON GERUND 
 
-%<ger5%>:%>gan SUBST ;      
+%<ger5%>:%>gan SUBST ;    
+
 
 LEXICON INDEF-PAST
 
@@ -332,7 +343,14 @@ LEXICON GENPOSS-ETC
 
 LEXICON PRON-PERS
 
-men%<prn%>%<pers%>%<p1%>%<sg%>%<nom%>:men CASE ; 
+LEXICON PRON-PERS
+
+men%<prn%>%<pers%>%<p1%>%<sg%>%<nom%>:men CLIT ; 
+men%<prn%>%<pers%>%<p1%>%<sg%>%<gen%>:mening CLIT ; 
+men%<prn%>%<pers%>%<p1%>%<sg%>%<dat%>:mena CLIT ; 
+men%<prn%>%<pers%>%<p1%>%<sg%>%<acc%>:meni CLIT ; 
+
+
 sen%<prn%>%<pers%>%<p2%>%<sg%>%<nom%>:sen CASE ; 
 u%<prn%>%<pers%>%<p3%>%<sg%>%<nom%>:u CASE ; 
 biz%<prn%>%<pers%>%<p1%>%<pl%>%<nom%>:biz CASE ; 
@@ -421,6 +439,15 @@ LEXICON LASTDIGIT-REST
 7%0:7%0 NUM-DIGIT ; ! "yetmiş"
 8%0:8%0 NUM-DIGIT ; ! "seksen"
 9%0:9%0 NUM-DIGIT ; ! "doksan"
+
+LEXICON PRON-ITG-INFL
+
+%<prn%>%<itg%>: SUBST ;
+
+LEXICON PRON-ITG 
+
+ne:ne PRON-ITG-INFL ; ! "what"
+
 
 
 LEXICON Titles
@@ -1108,6 +1135,8 @@ Appennin:Appennin NP-TOP ; ! "Appennines"
 Istanbul:Istanbul NP-TOP ; ! "Istanbul"
 Bosfor:Bosfor NP-TOP ; ! "Bosphorus"
 Bo%'g%'oz:Bo%ʻg%'oz NP-TOP ; ! "strict"
+Isroil:Isroil NP-TOP ; ! "strict"
+
 
 Marina:Marina NP1-ANT-F ; ! ""
 Taqdr:Taqdr NP1-ANT-M ; ! ""
@@ -1121,6 +1150,17 @@ Antonis:Antonis NP1-ANT-M ; ! ""
 Olli:Olli NP1-ANT-M ; ! ""
 Stipe:Stipe NP1-ANT-M ; ! ""
 Jaap:Jaap NP1-ANT-M ; ! ""
+
+
+Yusuf:Yusuf NP1-ANT-M ; ! ""
+Ibrohim:Ibrohim NP1-ANT-M ; ! ""
+Pavlus:Pavlus NP1-ANT-M ; ! ""
+Butrus:Butrus NP1-ANT-M ; ! ""
+Yusuf:Yusuf NP1-ANT-M ; ! ""
+
+
+
+
 Abdüllah:Abdüllah NP1-ANT-M ; ! ""
 Calin:Calin NP1-ANT-M ; ! ""
 Stelyos:Stelyos NP1-ANT-M ; ! ""
@@ -1452,6 +1492,7 @@ Bozidar:Bozidar NP1-ANT-M ; ! ""
 Süleyman:Süleyman NP1-ANT-M ; ! ""
 Boyko:Boyko NP1-ANT-M ; ! ""
 Racan:Racan NP1-ANT-M ; ! ""
+Iso:Iso NP1-ANT-M ; ! "JESUS"
 Iso:Iso NP1-ANT-M ; ! "JESUS"
 
 
@@ -1828,6 +1869,7 @@ qiziqish:qiziqish A2 ; ! "concerned, interested, curious"
 ma%'noli:ma%'noli A2 ; ! "meaningful"
 turli:turli A2 ; ! ""
 harbiy:harbiy A1 ; ! "military"
+muqaddas:muqaddas A1 ; ! "holy"
 
 !!!!!!! SPECIALS !!!!!!
 
@@ -1850,6 +1892,7 @@ yuzlab:yuzlab DET-QNT ; ! "hundreds"
 butun:butun DET-QNT ; ! "all of it"
 minglab:minglab DET-QNT ; ! "thousands"
 ko%'plab:ko%'plab DET-QNT ; ! "hundreds"
+hamma:hamma DET-QNT ; ! "all of them"
 Ayrimlar:Ayrimlar DET-DEM ; ! "some other"
 
 bu:bu DET-DEM ; ! "this"
@@ -1967,8 +2010,8 @@ LEXICON Conjunctions
 va:va CC ; ! "and"
 esa:esa CC ; ! "whereas"
 deb:deb CC ; ! "because"
-
 ham:ham CC ; ! "and.. and" "too"
+
 
 LEXICON Adverbs 
 
