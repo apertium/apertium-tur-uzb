@@ -118,7 +118,7 @@ LEXICON NON-FINITE
 
 
 
-
+%<inf%>:%>moq # ;
 %<gna2%>:%>ib # ;
 
 
@@ -347,7 +347,7 @@ LEXICON PRON-PERS
 
 men%<prn%>%<pers%>%<p1%>%<sg%>%<nom%>:men CLIT ; 
 men%<prn%>%<pers%>%<p1%>%<sg%>%<gen%>:mening CLIT ; 
-men%<prn%>%<pers%>%<p1%>%<sg%>%<dat%>:mena CLIT ; 
+men%<prn%>%<pers%>%<p1%>%<sg%>%<dat%>:menga CLIT ; 
 men%<prn%>%<pers%>%<p1%>%<sg%>%<acc%>:meni CLIT ; 
 
 
@@ -1017,6 +1017,10 @@ sohil:sohil N1 ; ! "shore"
 xudo:xudo N1 ; ! "god"
 xudovand:xudovand N1 ; ! "Lord"
 rabbi:rabbi N1 ;  ! "master/lord"
+masih:masih N1 ; ! "Messiah"
+payg%'ambar:payg%'ambar N1 ; ! "prophet"
+og%':og%' N1 ; ! "crotch?"
+
 
 
 !!!!! NATIONALITIES !!!!
@@ -1157,6 +1161,7 @@ Ibrohim:Ibrohim NP1-ANT-M ; ! ""
 Pavlus:Pavlus NP1-ANT-M ; ! ""
 Butrus:Butrus NP1-ANT-M ; ! ""
 Yusuf:Yusuf NP1-ANT-M ; ! ""
+Yoqub:Yoqub NP1-ANT-M ; ! ""
 
 
 
@@ -1806,6 +1811,7 @@ Nabucco:Nabucco NP1-AL ; ! ""
 Tribune:Tribune NP1-AL ; ! ""
 
 
+
 LEXICON Postpositions 
 
 Lexicon Postpositions
@@ -1870,6 +1876,8 @@ ma%'noli:ma%'noli A2 ; ! "meaningful"
 turli:turli A2 ; ! ""
 harbiy:harbiy A1 ; ! "military"
 muqaddas:muqaddas A1 ; ! "holy"
+ulug%':ulug%' A1 ; ! "great"
+yaxshi:yaxshi A1 ; ! "good"
 
 !!!!!!! SPECIALS !!!!!!
 
@@ -1896,8 +1904,9 @@ hamma:hamma DET-QNT ; ! "all of them"
 Ayrimlar:Ayrimlar DET-DEM ; ! "some other"
 
 bu:bu DET-DEM ; ! "this"
-shu:shu DET-DEM ; ! "that"
+o'sha:o'sha DET-DEM ; ! "that"
 u:u DET-DEM ; ! "there"
+shu:shu DET-DEM ; ! ""
 
 LEXICON Verbs
 
@@ -2011,6 +2020,7 @@ va:va CC ; ! "and"
 esa:esa CC ; ! "whereas"
 deb:deb CC ; ! "because"
 ham:ham CC ; ! "and.. and" "too"
+ila:ila CC ; ! "with"
 
 
 LEXICON Adverbs 
@@ -2020,6 +2030,7 @@ eng:eng ADV3 ; ! "the most"
 battar:battar ADV1 ; ! "more"
 badtar:badtar ADV1 ; ! "more"
 axtarish:axtarish ADV3 ; ! "afterwards"
+yana:yana ADV3; ! "again"
 
 ichida:ichida ADV1 ; ! "indoor"
 boshqa:boshqa ADV1 ; ! "the other"
