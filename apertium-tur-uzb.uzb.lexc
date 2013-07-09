@@ -2087,7 +2087,17 @@ joylash:joylash VERB-IV ; ! "to take place"
 ko%'r:ko%'r VERB-TV ; ! "to see"
 chiq:chiq VERB-IV ; ! "to go out"
 bor:bor VERB-IV ; ! "to reach"
-
+qol:qol VERB-IV ; ! "remain"
+et:et VERB-TV ; ! "SPECIAL"
+yozil:yozil VERB-IV ; ! "to subscribe"
+yur:yur VERB-IV ; ! "to walk"
+qo%'y:qo%'y VERB-TV ; ! "to put"
+ket:ket VERB-IV ; ! " to go"
+yot:yot VERB-IV ; ! "to lie down"
+yubor:yubor VERB-TV ; ! "send"
+o%'t:o%'t VERB-IV ; ! "to pass"
+buyur:buyur VERB-TV ; ! " to order"
+ko%'rsat:ko%'rsat VERB-TV ; ! "to show"
 
 
 LEXICON Interjections
