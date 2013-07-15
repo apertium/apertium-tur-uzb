@@ -140,6 +140,14 @@ LEXICON VERB-COPULA
 %<cop%>: PAST ;
 %<cop%>: EVIDENTIAL-PAST ;
 %<cop%>: NON-FINITE ;
+%<cop%>: KAN ;
+
+LEXICON KAN  
+
+%<kan%>:%>kan # ;
+%<kan%>%<neg%>:%>kansiz # ;
+
+
 
 
 
@@ -198,9 +206,12 @@ LEXICON PERS2
 %<p1%>%<sg%>:%>m  # ;
 %<p2%>%<sg%>:%>ng  # ;
 %<p3%>%<sg%>:%>  # ;
-%<p3%>%<pl%>:%>k # ;
-%<p1%>%<pl%>:%>ning  # ;
-%<p2%>%<pl%>:%>ishsa  # ;
+%<p1%>%<pl%>:%>k # ;
+%<p2%>%<pl%>:%>ning  # ;
+%<p3%>%<pl%>:%>ishsa  # ;
+%<p3%>%<pl%>:%>lar  # ;
+
+
 
 LEXICON ADV1
 %<adv%>: # ; ! this is for when the adverb is used as an adverb
