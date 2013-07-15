@@ -118,6 +118,8 @@ LEXICON VERB-IV
 %<v%>%<iv%>: EVIDENTIAL-PAST ;
 %<v%>%<iv%>: NON-FINITE ;
 %<v%>%<iv%>: PERMISSIVE ;
+%<v%>%<iv%>: IMPERATIVE ;
+
 
 
 
@@ -131,6 +133,8 @@ LEXICON VERB-TV
 %<v%>%<tv%>: EVIDENTIAL-PAST ;
 %<v%>%<tv%>: NON-FINITE ;
 %<v%>%<iv%>: PERMISSIVE ;
+%<v%>%<iv%>: IMPERATIVE ;
+
 
 
 LEXICON VERB-COPULA
@@ -168,6 +172,7 @@ LEXICON NON-FINITE
 
 
 
+
 LEXICON PRES-COND 
 
 %<pcond%>:%>sa PERS2 ;
@@ -176,6 +181,10 @@ LEXICON PRES-COND
 LEXICON GERUND 
 
 %<ger5%>:%>gan SUBST ;    
+
+LEXICON IMPERATIVE
+
+%<imp%>:%> # ;
 
 
 LEXICON INDEF-PAST
@@ -269,6 +278,11 @@ LEXICON A2
 
 %<adj%>: # ; 
 %<adj%>%<subst%>: SUBST ;
+
+LEXICON A4
+
+%<adj%>: # ; 
+
 
 LEXICON PRON-REF
 
@@ -1246,6 +1260,7 @@ Golland:Golland N1 ; ! "Dutch"
 
 
 TRT:TRT NP1-ORG ; ! "TRT"
+Tavrot:Tavrot NP1-ORG ; ! "CORRECT"
 
 
 
@@ -2037,6 +2052,7 @@ qattiq:qattiq A1 ; ! "hard"
 
 bor:bor A4 ; ! "there is"
 emas:emas A4 ; ! "there is not"
+lazim:lazim A4 ; ! "necessary"
 
 
 
@@ -2196,6 +2212,7 @@ deb:deb CC ; ! "because"
 ham:ham CC ; ! "and.. and" "too"
 ila:ila CC ; ! "with"
 hamda:hamda CC ; ! "also"
+toki:toki CC ; ! " so that"
 
 
 LEXICON Adverbs 
