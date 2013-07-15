@@ -343,7 +343,7 @@ LEXICON NUM
 LEXICON NP1-ORG
 
 %<np%>%<org%>%<nom%>: # ;
-%<np%>%<org%>: N-INFL-COMMON-NONOM ;
+%<np%>%<org%>: SUBST ;
 %<np%>%<org%>%<attr%>: # ;
 
 
@@ -699,6 +699,9 @@ maktub:maktub N1 ; ! "letter"
 match:match N1 ; ! "match"
 boshqaruvchi:boshqaruvchi N1 ; ! "manager"
 metr:metr N1 ; ! "meter"
+jon:jon N1 ; ! "spirit"
+non:non N1 ; ! "livelihood bread"
+duo:duo N1 ; ! "prayer"
 sifat:sifat N1 ; ! "quality"
 o%'simlik:o%'simlik N1 ; ! "plant"
 novatorlik:novatorlik N1 ; ! "innovation"
