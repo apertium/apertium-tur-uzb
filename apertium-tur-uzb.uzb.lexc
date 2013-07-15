@@ -117,6 +117,7 @@ LEXICON VERB-IV
 %<v%>%<iv%>: PAST ;
 %<v%>%<iv%>: EVIDENTIAL-PAST ;
 %<v%>%<iv%>: NON-FINITE ;
+%<v%>%<iv%>: PERMISSIVE ;
 
 
 
@@ -129,6 +130,7 @@ LEXICON VERB-TV
 %<v%>%<tv%>: PAST ;
 %<v%>%<tv%>: EVIDENTIAL-PAST ;
 %<v%>%<tv%>: NON-FINITE ;
+%<v%>%<iv%>: PERMISSIVE ;
 
 
 LEXICON VERB-COPULA
@@ -158,7 +160,10 @@ LEXICON NON-FINITE
 
 %<inf%>:%>moq # ;
 %<gna2%>:%>ib # ;
-%<part%>:%>ing SUBST ;
+%<part%>:%>ing SUBST ; 
+%<gna3%>:%>ish SUBST;
+%<gna4%>:%>ayotgan SUBST;
+
 
 
 
@@ -185,7 +190,9 @@ LEXICON EVIDENTIAL-PAST
 
 %<evid%>:%>mish PERS ;
 
+LEXICON PERMISSIVE
 
+%<perm%>:%>sin # ; 
 
 
 LEXICON PRES-CONT 
@@ -1133,6 +1140,13 @@ birodar:birodar N1 ; ! "brother"
 xitob:xitob N1 ; ! "call"
 sajda:sajda N1 ; ! "prostration"
 yomonlik:yomonlik N1 ; ! "evil"
+xalos:xalos N1 ; ! "deliverance"
+iblis:iblis N1 ; ! "devil"
+kalom:kalom N1 ; ! "word"
+inkor:inkor N1 ; ! "denial"
+begona:begona N1 ; ! "stranger"
+kunduz:kunduz N1 ; ! "daytime"
+koinot:koinot N1 ; ! "universe"
 
 !!!!! NATIONALITIES !!!!
 
@@ -1954,6 +1968,7 @@ qaramay:qaramay POST ; ! "although/despite"
 oid:oid POST ; ! "pertaining to"
 dovur:dovur POST ; ! "until"
 zid:zid POST ; ! "against"
+qarab:qarab POST ; ! "according to"
 
 
 
@@ -1973,6 +1988,10 @@ aloqali:aloqali POST ; ! "concerning"
 
 LEXICON Adjectives
 
+paydo:paydo A1 ; ! "visible"
+ajoyib:ajoyib A1 ; ! "suprising"
+komil:komil A1 ; ! "complete"
+mahkam:mahkam A1 ; ! "tough"
 imonli:imonli A1 ; ! "faithful"
 baland:baland A1 ; ! "tall"
 kichik:kichik A1 ; ! "small"
