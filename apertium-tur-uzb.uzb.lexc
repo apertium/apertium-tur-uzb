@@ -131,6 +131,17 @@ LEXICON VERB-TV
 %<v%>%<tv%>: NON-FINITE ;
 
 
+LEXICON VERB-COPULA
+
+%<cop%>: GERUND ;
+%<cop%>: PRES-CONT ;
+%<cop%>: PRES-COND ;
+%<cop%>: INDEF-PAST ;
+%<cop%>: PAST ;
+%<cop%>: EVIDENTIAL-PAST ;
+%<cop%>: NON-FINITE ;
+
+
 
 LEXICON NON-FINITE
 
@@ -390,7 +401,7 @@ u%<prn%>%<pers%>%<p3%>%<sg%>%<gen%>:uning CLIT ;
 u%<prn%>%<pers%>%<p3%>%<sg%>%<dat%>:unga CLIT ; 
 u%<prn%>%<pers%>%<p3%>%<sg%>%<acc%>:uni CLIT ; 
 u%<prn%>%<pers%>%<p3%>%<sg%>%<loc%>:unda CLIT ; 
-u%<prn%>%<pers%>%<p3%>%<sg%>%<abl%>:ondan CLIT ; 
+u%<prn%>%<pers%>%<p3%>%<sg%>%<abl%>:undan CLIT ; 
 
 
 biz%<prn%>%<pers%>%<p1%>%<pl%>%<nom%>:biz CLIT ; 
@@ -1101,7 +1112,14 @@ ko%'z:ko%'z N1 ; ! "eye"
 hol:hol N1 ; ! "situation"
 shogird:shogird N1 ; ! "pupil"
 qul:qul N1 ; ! "slave"
-
+urug%':urug%' N1 ; ! "seed"
+inoyat:inoyat N1 ; ! "grace"
+hol:hol N1 ; ! "state"
+azob:azob N1 ; ! "torture"
+birodar:birodar N1 ; ! "brother"
+xitob:xitob N1 ; ! "call"
+sajda:sajda N1 ; ! "prostration"
+yomonlik:yomonlik N1 ; ! "evil"
 
 !!!!! NATIONALITIES !!!!
 
@@ -1941,6 +1959,8 @@ aloqali:aloqali POST ; ! "concerning"
 
 LEXICON Adjectives
 
+imonli:imonli A1 ; ! "faithful"
+baland:baland A1 ; ! "tall"
 kichik:kichik A1 ; ! "small"
 yangi:yangi A1 ; ! "new"
 nafis:nafis A1 ; ! "fine"
@@ -1967,6 +1987,11 @@ abadiy:abadiy A1 ; ! "eternal"
 so%'ng:so%'ng A1 ; ! "last"
 oliy:oliy A1 ; ! "grand"
 to'g'ri:to'g'ri A1 ; ! "straight"
+yomon:yomon A1 ; ! "extreme" 
+katta:katta A1 ; ! "grand"
+buyuk:buyuk A1 ; ! "big"
+qattiq:qattiq A1 ; ! "hard"
+
 
 
 
@@ -2005,6 +2030,7 @@ kurban% bo%'l:kurban% bo%'l VERB-TV ; ! ""
 yoz:yoz VERB-TV ; ! "write"
 ol:ol VERB-TV ; ! "to take"
 eshit:eshit VERB-TV ; ! "to hear"
+ko%'tar:ko%'tar VERB-TV ; ! "lift"
 
 qayt:qayt VERB-IV ; ! "to reach"
 ayt:ayt VERB-TV ; ! "to say"
@@ -2110,7 +2136,9 @@ o%'t:o%'t VERB-IV ; ! "to pass"
 buyur:buyur VERB-TV ; ! " to order"
 ko%'rsat:ko%'rsat VERB-TV ; ! "to show"
 deyish:deyish VERB-TV ; ! "to change"
-
+kir:kir VERB-IV ; ! "enter"
+boshla:boshla VERB-TV ; ! "start"
+e:e VERB-COPULA ; ! "special copula"
 
 LEXICON Interjections
 
@@ -2147,6 +2175,7 @@ juda:juda ADV3 ; ! "very"
 bugun:bugun ADV3 ; ! "today"
 bajo:bajo ADV3 ; ! "with pleasure"
 xuddi:xuddi ADV3 ; ! "nearly"
+yomon:yomon ADV3 ; ! "poorly"
 
 ichida:ichida ADV1 ; ! "indoor"
 boshqa:boshqa ADV1 ; ! "the other"
