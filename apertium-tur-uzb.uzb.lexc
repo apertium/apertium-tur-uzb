@@ -158,6 +158,8 @@ LEXICON NON-FINITE
 
 %<inf%>:%>moq # ;
 %<gna2%>:%>ib # ;
+%<part%>:%>ing SUBST ;
+
 
 
 
@@ -1938,6 +1940,7 @@ haqida:haqida POST ; ! "about"
 bo%'yincha:bo%'yincha POST ; ! "as long as"
 kam:kam POST ; ! "till"
 orqali:orqali POST ; ! "through, via"
+tufayli:tufayli POST ; ! "because of"
 
 !Genitive
 orqasindan:orqasindan POST ; ! "after"
