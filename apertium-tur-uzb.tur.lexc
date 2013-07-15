@@ -7488,6 +7488,7 @@ sanatcı:sanatcı N1 ; ! "artist"
 
 LEXICON ProperNouns
 
+
 Milas:Milas NP1-TOP ; ! ' '
 Anadolu:Anadolu NP1-TOP ; ! "Anatolia"
 Sırbistan:Sırbistan NP1-TOP ; ! "Serbia"
@@ -8536,6 +8537,7 @@ Europe:Europe NP1-AL ; ! ""
 
 
 ! Anthroponyms
+
 
 Esad:Esad NP1-ANT-M ; ! ""
 Hasan:Hasan NP1-ANT-M ;  !!

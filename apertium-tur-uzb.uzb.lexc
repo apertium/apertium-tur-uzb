@@ -444,6 +444,8 @@ u%<prn%>%<pers%>%<p3%>%<sg%>%<abl%>:undan CLIT ;
 
 
 biz%<prn%>%<pers%>%<p1%>%<pl%>%<nom%>:biz CLIT ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<nom%>:bizlar CLIT ; 
+
 biz%<prn%>%<pers%>%<p1%>%<pl%>%<gen%>:bizning CLIT ; 
 biz%<prn%>%<pers%>%<p1%>%<pl%>%<dat%>:bizga CLIT ; 
 biz%<prn%>%<pers%>%<p1%>%<pl%>%<acc%>:bizni CLIT ; 
@@ -1169,6 +1171,31 @@ inkor:inkor N1 ; ! "denial"
 begona:begona N1 ; ! "stranger"
 kunduz:kunduz N1 ; ! "daytime"
 koinot:koinot N1 ; ! "universe"
+salot:salot N1 ; ! "daily prayers
+salom:salom N1 ; ! "peace"?
+qayg%'u:qayg%'u N1 ; ! "care"
+go%'r:go%'r N1 ; ! "grave"
+go%'riston:go%'riston N1 ; ! "cemetery"
+osmon:osmon N1 ; ! "sky"
+ruhoniy:ruhoniy N1 ; ! "clergyman"
+targ%'ib:targ%'ib N1 ; ! "propaganda teaching"
+rabbiy:rabbiy N1 ; ! "hoja"
+tavba:tavba N1 ; ! "confession, repent"
+rioya:rioya N1 ; ! "observation / conformity"
+ovqat:ovqat N1 ; ! "food"
+qonun:qonun N1 ; ! "law"
+sabr:sabr N1 ; ! "patience"
+haqiqat:haqiqat N1 ; ! "truth"
+Shohlig:Shohlig N1 ; ! "reign"
+hosil:hosil N1 ; ! "crop"
+farishta:farishta N1 ; ! "angel"
+rad:rad N1 ; ! "rejection"
+joy:joy N1 ; ! "spot, place"
+tarannum:tarannum N1 ; ! "music"
+iltimos:iltimos N1 ; ! "request"
+yaxshilik:yaxshilik N1 ; ! "beauty"
+qulog:qulog N1 ; ! "ear"
+
 
 !!!!! NATIONALITIES !!!!
 
@@ -1289,9 +1316,12 @@ Istanbul:Istanbul NP-TOP ; ! "Istanbul"
 Bosfor:Bosfor NP-TOP ; ! "Bosphorus"
 Bo%'g%'oz:Bo%ʻg%'oz NP-TOP ; ! "strict"
 Isroil:Isroil NP-TOP ; ! "strict"
+Quddus:Quddus NP-TOP ; ! "jerusalem"
 
 
 Marina:Marina NP1-ANT-F ; ! ""
+Maryam:Maryam NP1-ANT-F ; ! ""
+
 Taqdr:Taqdr NP1-ANT-M ; ! ""
 Abdullah:Abdullah NP1-ANT-M ; ! ""
 Kurbankuli:Kurbankuli NP1-ANT-M ; ! ""
@@ -1303,6 +1333,9 @@ Antonis:Antonis NP1-ANT-M ; ! ""
 Olli:Olli NP1-ANT-M ; ! ""
 Stipe:Stipe NP1-ANT-M ; ! ""
 Jaap:Jaap NP1-ANT-M ; ! ""
+Nahotki:Nahotki NP1-ANT-M ; ! ""
+Dovud:Dovus NP1-ANT-M ; ! ""
+
 
 
 Yusuf:Yusuf NP1-ANT-M ; ! ""
@@ -1569,6 +1602,8 @@ Ratko:Ratko NP1-ANT-M ; ! ""
 Raüf:Raüf NP1-ANT-M ; ! ""
 Razvan:Razvan NP1-ANT-M ; ! ""
 Recep:Recep NP1-ANT-M ; ! ""
+Muso:Muso NP1-ANT-M ; ! ""
+Simun:Simun NP1-ANT-M ; ! ""
 Reinhard:Reinhard NP1-ANT-M ; ! ""
 Rene:Rene NP1-ANT-M ; ! ""
 Richard:Richard NP1-ANT-M ; ! ""
@@ -1656,6 +1691,7 @@ Hujjati:Hujjati NP1-COG-MF ; ! ""
 Gul:Gul NP1-COG-MF ; ! ""
 Berdimuhammedov:Berdimuhammedov NP1-COG-MF ; ! ""
 Gul:Gul NP1-COG-MF ; ! ""
+Pilat:Pilat NP1-COG-MF ; ! ""
 
 
 !!!!!!!!! ORGANIZATIONS !!!!
@@ -1978,6 +2014,7 @@ bo%'yincha:bo%'yincha POST ; ! "as long as"
 kam:kam POST ; ! "till"
 orqali:orqali POST ; ! "through, via"
 tufayli:tufayli POST ; ! "because of"
+oldin:oldin POST ; ! "before"
 
 !Genitive
 orqasindan:orqasindan POST ; ! "after"
@@ -2004,6 +2041,7 @@ sababli:sababli POST ; ! "because of"
 etibaran:etibaran POST ; ! "as from"
 avval:avval POST ; ! "before"
 keyin:keyin POST ; ! "after"
+oldin:oldin POST ; ! "before"
 
 !Comitative
 aloqali:aloqali POST ; ! "concerning"
@@ -2011,6 +2049,11 @@ aloqali:aloqali POST ; ! "concerning"
 
 LEXICON Adjectives
 
+qorong%'i:qorong%'i A1 ; ! "dark"
+zohir:zohir A1 ; ! "evident"
+ilohiy:ilohiy A1 ; ! "divine"
+ismli:ismli A1 ; ! "named"
+hozir:hozir A1 ; ! "ready"
 paydo:paydo A1 ; ! "visible"
 ajoyib:ajoyib A1 ; ! "suprising"
 komil:komil A1 ; ! "complete"
@@ -2047,6 +2090,7 @@ yomon:yomon A1 ; ! "extreme"
 katta:katta A1 ; ! "grand"
 buyuk:buyuk A1 ; ! "big"
 qattiq:qattiq A1 ; ! "hard"
+ozod:ozod A1 ; ! "free"
 
 
 
@@ -2055,7 +2099,7 @@ qattiq:qattiq A1 ; ! "hard"
 
 bor:bor A4 ; ! "there is"
 emas:emas A4 ; ! "there is not"
-lazim:lazim A4 ; ! "necessary"
+lozim:lozim A4 ; ! "necessary"
 
 
 
@@ -2088,6 +2132,8 @@ yoz:yoz VERB-TV ; ! "write"
 ol:ol VERB-TV ; ! "to take"
 eshit:eshit VERB-TV ; ! "to hear"
 ko%'tar:ko%'tar VERB-TV ; ! "lift"
+yarat:yarat VERB-TV ; ! "create"
+chiqar:chiqar VERB-TV ; ! "extract"
 
 qayt:qayt VERB-IV ; ! "to reach"
 ayt:ayt VERB-TV ; ! "to say"
@@ -2220,6 +2266,7 @@ toki:toki CC ; ! " so that"
 
 LEXICON Adverbs 
 
+ko%'proq:ko%'proq ADV1 ; ! "much"
 hali:hali ADV3 ; ! "a while ago"
 endi:endi ADV3 ; ! "now"
 ko%'p:ko%'p ADV1 ; ! "very"
