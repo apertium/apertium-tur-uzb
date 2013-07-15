@@ -243,11 +243,16 @@ LEXICON DET-IND
 
 LEXICON DET-DEM
 
-%<det%>%<dem%>: # ;
+%<det%>%<dem%>: #;
 
 LEXICON DET-QNT
 
 %<det%>%<qnt%>: # ;
+
+LEXICON PRON-QNT 
+
+%<pron%>%<qnt%>: SUBST ;
+
 
 LEXICON CC 
 
@@ -2049,7 +2054,7 @@ yuzlab:yuzlab DET-QNT ; ! "hundreds"
 butun:butun DET-QNT ; ! "all of it"
 minglab:minglab DET-QNT ; ! "thousands"
 ko%'plab:ko%'plab DET-QNT ; ! "hundreds"
-hamma:hamma DET-QNT ; ! "all of them"
+hamma:hamma PRON-QNT ; ! "all of them"
 Ayrimlar:Ayrimlar DET-DEM ; ! "some other"
 har:har DET-DEM ; ! "each"
 biron:biron DET-DEM ; ! "some"
