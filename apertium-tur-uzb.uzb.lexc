@@ -1195,6 +1195,17 @@ tarannum:tarannum N1 ; ! "music"
 iltimos:iltimos N1 ; ! "request"
 yaxshilik:yaxshilik N1 ; ! "beauty"
 qulog:qulog N1 ; ! "ear"
+nafar:nafar N1 ; ! "individual"
+tarkib:tarkib N1 ; ! "composition"
+
+
+
+!!!!SPECIAL!!!!
+
+km:km N1 ;  ! "km" ! FIXME: abbr
+ton:ton N1 ; ! "ton"
+cm:cm N1 ;  ! "cm"
+
 
 
 !!!!! NATIONALITIES !!!!
