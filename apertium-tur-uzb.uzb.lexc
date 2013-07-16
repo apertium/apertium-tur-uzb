@@ -1197,6 +1197,11 @@ yaxshilik:yaxshilik N1 ; ! "beauty"
 qulog:qulog N1 ; ! "ear"
 nafar:nafar N1 ; ! "individual"
 tarkib:tarkib N1 ; ! "composition"
+kommuna:kommuna N1 ; ! "municipality"
+geografiya:geografiya N1 ; ! "geography"
+balandlik:balandlik N1 ; ! ""
+quruqlik:quruqlik N1 ; ! ""
+provinsiya:provinsiya N1 ; ! "province"
 
 
 
@@ -1205,7 +1210,8 @@ tarkib:tarkib N1 ; ! "composition"
 km:km N1 ;  ! "km" ! FIXME: abbr
 ton:ton N1 ; ! "ton"
 cm:cm N1 ;  ! "cm"
-
+kvadrat:kvadrat N1 ; ! "^2"
+kilometr:kilometr N1 ; ! "kilometre"
 
 
 !!!!! NATIONALITIES !!!!
@@ -1328,6 +1334,7 @@ Bosfor:Bosfor NP-TOP ; ! "Bosphorus"
 Bo%'g%'oz:Bo%ʻg%'oz NP-TOP ; ! "strict"
 Isroil:Isroil NP-TOP ; ! "strict"
 Quddus:Quddus NP-TOP ; ! "jerusalem"
+Fransiya:Fransiya NP-TOP ; ! "France"
 
 
 Marina:Marina NP1-ANT-F ; ! ""
