@@ -1205,6 +1205,7 @@ provinsiya:provinsiya N1 ; ! "province"
 
 
 
+
 !!!!SPECIAL!!!!
 
 km:km N1 ;  ! "km" ! FIXME: abbr
@@ -1335,6 +1336,7 @@ Bo%'g%'oz:Bo%ʻg%'oz NP-TOP ; ! "strict"
 Isroil:Isroil NP-TOP ; ! "strict"
 Quddus:Quddus NP-TOP ; ! "jerusalem"
 Fransiya:Fransiya NP-TOP ; ! "France"
+Ispaniya:Ispaniya NP-TOP ; ! "Spain"
 
 
 Marina:Marina NP1-ANT-F ; ! ""
