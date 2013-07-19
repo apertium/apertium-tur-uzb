@@ -24,6 +24,7 @@ Multichar_Symbols
 %{i%}		   ! Becomes as "i" after a consonant, otherwise null
 
 
+
 !!!!!! MISC!!!!
 
 %<top%> ! TOPONYMS
@@ -119,6 +120,11 @@ LEXICON VERB-IV
 %<v%>%<iv%>: NON-FINITE ;
 %<v%>%<iv%>: PERMISSIVE ;
 %<v%>%<iv%>: IMPERATIVE ;
+
+
+
+!!!!!!!COPULA SUFFIXES!!!!!!
+
 
 
 
@@ -1202,6 +1208,9 @@ geografiya:geografiya N1 ; ! "geography"
 balandlik:balandlik N1 ; ! ""
 quruqlik:quruqlik N1 ; ! ""
 provinsiya:provinsiya N1 ; ! "province"
+Arrondissement:Arrondissement N1 ; ! "arrondissement"
+okrug:okrug N1 ; ! "region"
+
 
 
 
@@ -1213,7 +1222,21 @@ ton:ton N1 ; ! "ton"
 cm:cm N1 ;  ! "cm"
 kvadrat:kvadrat N1 ; ! "^2"
 kilometr:kilometr N1 ; ! "kilometre"
+km2:km2 N1 ; ! "square km"
 
+
+!!!! TO REMOVE LATER!!!!
+
+uz:uz N1 ; 
+id:id N1 ; 
+org:org N1 ; 
+url:url N1 ;
+https:https N1 ; 
+curid:curid N1 ;
+doc:doc N1 ; 
+title:title N1 ; 
+wiki:wiki N1 ; 
+wikipedia:wikipedia N1 ; 
 
 !!!!! NATIONALITIES !!!!
 
@@ -1337,6 +1360,23 @@ Isroil:Isroil NP-TOP ; ! "strict"
 Quddus:Quddus NP-TOP ; ! "jerusalem"
 Fransiya:Fransiya NP-TOP ; ! "France"
 Ispaniya:Ispaniya NP-TOP ; ! "Spain"
+Alpes:Alpes NP-TOP ; ! "Alps"
+Saksoniya:Saksoniya NP-TOP ; ! ""
+Avstriya:Avstriya NP-TOP ; ! ""
+Lotaringi:Lotaringi NP-TOP ; ! ""
+Akvitaniya:Akvitaniya NP-TOP ; ! ""
+Rheinland:Rheinland NP-TOP ; ! ""
+Bavariya:Bavariya NP-TOP ; ! ""
+Samarqand:Samarqand NP-TOP ; ! ""
+Loire:Loire NP-TOP ; ! ""
+Florida:Florida NP-TOP ; ! ""
+Burgundiya:Burgundiya NP-TOP ; ! ""
+Missouri:Missouri NP-TOP ; ! ""
+Rossiya:Rossiya NP-TOP ; ! ""
+Qirg%'ziston:Qirg%'iziston NP-TOP ; ! ""
+Iowa:Iowa NP-TOP ; ! ""
+Normandiya:Normandiya NP-TOP ; ! ""
+
 
 
 Marina:Marina NP1-ANT-F ; ! ""
