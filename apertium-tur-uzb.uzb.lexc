@@ -1210,6 +1210,10 @@ quruqlik:quruqlik N1 ; ! ""
 provinsiya:provinsiya N1 ; ! "province"
 Arrondissement:Arrondissement N1 ; ! "arrondissement"
 okrug:okrug N1 ; ! "region"
+katalog:katalog N1 ; ! "catalog"
+obyekt:obyekt N1 ; ! ""
+shim:shim N1 ; ! "trousers"
+xil:xil N1 ; ! "type"
 
 
 
@@ -1237,6 +1241,7 @@ doc:doc N1 ;
 title:title N1 ; 
 wiki:wiki N1 ; 
 wikipedia:wikipedia N1 ; 
+
 
 !!!!! NATIONALITIES !!!!
 
@@ -1376,6 +1381,10 @@ Rossiya:Rossiya NP-TOP ; ! ""
 Qirg%'ziston:Qirg%'iziston NP-TOP ; ! ""
 Iowa:Iowa NP-TOP ; ! ""
 Normandiya:Normandiya NP-TOP ; ! ""
+County:County NP-TOP ; ! ""
+departamenti:departamenti NP-TOP ; ! ""
+Olmoniya:Olmoniya NP-TOP ; ! ""
+Saint:Saint NP-TOP ; ! ""
 
 
 
@@ -2075,6 +2084,7 @@ kam:kam POST ; ! "till"
 orqali:orqali POST ; ! "through, via"
 tufayli:tufayli POST ; ! "because of"
 oldin:oldin POST ; ! "before"
+iborat:iborat POST ; ! "composed of"
 
 !Genitive
 orqasindan:orqasindan POST ; ! "after"
@@ -2109,6 +2119,14 @@ aloqali:aloqali POST ; ! "concerning"
 
 LEXICON Adjectives
 
+liq:liq A1 ; ! "full"
+muhim:muhim A1 ; ! "important"
+milliy:milliy A1 ; ! "national"
+ilmiy:ilmiy A1 ; ! "scientific"
+keng:keng A1 ; ! "broad"
+asosiy:asosiy A1 ; ! "maiN"
+tashkil:tashkil A1 ; ! "organizing"
+umumiy:umumiy A1 ; ! "general"
 qorong%'i:qorong%'i A1 ; ! "dark"
 zohir:zohir A1 ; ! "evident"
 ilohiy:ilohiy A1 ; ! "divine"
