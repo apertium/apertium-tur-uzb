@@ -76,6 +76,7 @@ Pronouns ;
 Interjections ; 
 Qst-pron ; 
 Pronouns ; 
+Mistakes ;
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -332,6 +333,9 @@ LEXICON N1 ! Lexicon used for general nouns with no particularities. It takes PL
 
 %<n%>: SUBST ;
 
+LEXICON MIST
+
+%<mistake%>: # ;
 
 
 LEXICON N3 ! Nationalities which can form language, etc.
@@ -605,6 +609,15 @@ LEXICON PRON-ITG-INFL
 LEXICON Titles
 
 Professor:Professor TIT ; ! ""
+
+LEXICON Mistakes
+
+w:w MIST ; 
+b:b MIST ; 
+y:y MIST ; 
+m:m MIST ; 
+i:i MIST ; 
+a:a MIST ; 
 
 LEXICON Pronouns
 
@@ -1273,7 +1286,7 @@ cm:cm N1 ;  ! "cm"
 kvadrat:kvadrat N1 ; ! "^2"
 kilometr:kilometr N1 ; ! "kilometre"
 km2:km2 N1 ; ! "square km"
-
+mil:mil N1 ; ! ""
 
 !!!! TO REMOVE LATER!!!!
 
@@ -2456,6 +2469,7 @@ toki:toki CC ; ! " so that"
 
 LEXICON Adverbs 
 
+o%'rtacha:o%'rtacha ADV1 ; ! "average"
 ko%'proq:ko%'proq ADV1 ; ! "much"
 hali:hali ADV3 ; ! "a while ago"
 endi:endi ADV3 ; ! "now"
