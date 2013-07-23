@@ -363,7 +363,9 @@ LEXICON NP1-AL
 
 LEXICON NUM
 
-%<num%>%<subst%>: SUBST ;                           
+%<num%>%<subst%>: SUBST ;  
+%<num%>%<ord%>:%>inchi  # ;
+                   
 %<num%>: # ;                                    
 
 
@@ -449,6 +451,7 @@ Lexicon Pronouns
 bu:bu PRON-DEM-BU ; ! "this"
 shu:shu PRON-DEM-BU ; ! "this"
 o:o PRON-DEM-BU ; ! "this"
+ushbu:ushbu PRON-DEM-BU ; ! "this"
 
 LEXICON PRON-PERS
 
@@ -610,6 +613,7 @@ PRON-PERS ;
 
 LEXICON Nouns
 
+munisipalitet:munisipalitet N1 ; ! "municipality"
 to%'g%'il:to%'g%'il N1 ; ! "wheel"
 ibodat:ibodat N1 ; ! "worship"
 bog%'cha:bog%'cha N1 ; ! "garden
@@ -768,6 +772,7 @@ chechak:chechak N1 ; ! "flower"
 muloqot:muloqot N1 ; ! "meeting"
 jurnalist:jurnalist N1 ; ! "journalist"
 yil:yil N1 ; ! "year"
+istiqomat:istiqomat N1 ; ! "residence"
 kun:kun N1 ; ! "day"
 ish:ish N1 ; ! "work/business"
 narsa:narsa N1 ; ! "thing"
@@ -827,6 +832,7 @@ kalla:kalla N1 ; ! "head"
 musiqa:musiqa N1 ; ! "music"
 kuch:kuch N1 ; ! "energy"
 sport:sport N1 ; ! "sport"
+kashf:kashf N1 ; ! "opening"
 hayot:hayot N1 ; ! "life"
 soglik:soglik N1 ; ! "health"
 ertalab:ertalab N1 ; ! "morning"
@@ -1250,6 +1256,7 @@ korxona:korxona N1 ; ! "enterprise"
 instituti:instituti N1 ; ! ""
 nashr:nashr N1 ; ! "publication"
 temir:temir N1 ; ! "iron"
+gaz:gaz N1 ; ! ""
 
 
 
@@ -1280,7 +1287,10 @@ doc:doc N1 ;
 title:title N1 ; 
 wiki:wiki N1 ; 
 wikipedia:wikipedia N1 ; 
-
+NGC:NGC N1 ; ! ""
+zichligi:zichligi N1 ; ! ""
+o%'rtacha:o%'rtacha N1 ; ! ""
+IC:IC N1 ; ! ""
 
 !!!!! NATIONALITIES !!!!
 
@@ -1301,7 +1311,7 @@ Arman:Arman N3 ; ! "Armenian
 Ispan:Ispan N3 ; ! "Spanish"
 Arab:Arab N3 ; ! "Arabian"
 Shved:Shved N3 ; ! "Swedish"
-Ozbek:Ozbek N3 ; ! "Uzbek"
+O%'zbek:O%'zbek N3 ; ! "Uzbek"
 Yapon:Yapon N3 ; ! "Japanese"
 Mogul:Mogul N3 ; ! "Mongolian"
 Nemis:Nemis N3 ; ! "German"
@@ -2259,7 +2269,7 @@ yaxshi:yaxshi A1 ; ! "good"
 abadiy:abadiy A1 ; ! "eternal"
 so%'ng:so%'ng A1 ; ! "last"
 oliy:oliy A1 ; ! "grand"
-to'g'ri:to'g'ri A1 ; ! "straight"
+to%'g'ri:to%'g'ri A1 ; ! "straight"
 yomon:yomon A1 ; ! "extreme" 
 katta:katta A1 ; ! "grand"
 buyuk:buyuk A1 ; ! "big"
@@ -2308,6 +2318,9 @@ eshit:eshit VERB-TV ; ! "to hear"
 ko%'tar:ko%'tar VERB-TV ; ! "lift"
 yarat:yarat VERB-TV ; ! "create"
 chiqar:chiqar VERB-TV ; ! "extract"
+hisobla:hisobla VERB-TV ; ! "count"
+uchra:uchra VERB-TV ; ! "meet"
+tarqal:tarqalgan VERB-TV ; ! "spread"
 
 qayt:qayt VERB-IV ; ! "to reach"
 ayt:ayt VERB-TV ; ! "to say"
