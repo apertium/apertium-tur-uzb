@@ -381,6 +381,7 @@ N-INFL-COMMON ;
 %<loc%>%<attr%>:%>dagi # ;
 
 
+
 LEXICON N-INFL-COMMON-NONOM
 
 # ; 
@@ -412,6 +413,7 @@ LEXICON CASE-ETC
 
 CASE ;
 GENPOSS-ETC ;
+SUB-COP ; 
 
 LEXICON CASE 
 
@@ -436,6 +438,10 @@ LEXICON GENPOSS-ETC
 
 ! %<px%>:%>%{n%}%{I%}ki%{pN%} CASE ;
 %<loc%>%<attr%>:%>dagi # ;
+
+LEXICON SUB-COP
+
+%<cop%>:%>dir # ;  
 
 
 Lexicon Pronouns 
