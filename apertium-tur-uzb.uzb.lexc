@@ -618,6 +618,11 @@ y:y MIST ;
 m:m MIST ; 
 i:i MIST ; 
 a:a MIST ; 
+q:q MIST ; 
+s:s MIST ; 
+g:g MIST ; 
+
+
 
 LEXICON Pronouns
 
@@ -625,6 +630,62 @@ PRON-PERS ;
 
 
 LEXICON Nouns
+
+vujud:vujud N1 ; ! "body"
+yuza:yuza N1 ; ! "surface"
+ich:ich N1 ; ! "inside, interior"
+hisob:hisob N1 ; ! "counting, account"
+tartib:tartib N1 ; ! "order"
+davr:davr N1 ; ! "age, era"
+rivojlanish:rivojlanish N1 ; ! "development"
+daraja:daraja N1 ; ! "degree"
+qism:qism N1 ; ! "part, chapter"
+surat:surat N1 ; ! "picture, drawing"
+ost:ost N1 ; ! "underside, beneath"
+xususiyat:xususiyat N1 ; ! "pecularity, notability"
+rivoj:rivoj N1 ; ! "development, flourishing"
+yakun:yakun N1 ; ! "result, end"
+voya:voya N1 ; ! "maturity, majority"
+foydalanish:foydalanish N1 ; ! "taking advantage of"
+turkum:turkum N1 ; ! "group, series"
+chet:chet N1 ; ! "outside area, outskirts"
+ijod:ijod N1 ; ! "invention, creating"
+g%'arb:g%'arb N1 ; ! "west"
+nom:nom N1 ; ! "name"
+tizim:tizim N1 ; ! "string, system"
+shakl:shakl N1 ; ! "shape, form"
+holat:holat N1 ; ! "state, condition"
+sinf:sinf N1 ; ! "class"
+taxt:taxt N1 ; ! "throne"
+hudud:hudud N1 ; ! "border, limit"
+reaksiya:reaksiya N1 ; ! "reaction"
+sharaf:sharaf N1 ; ! "honor"
+ta%'sir:ta%'sir N1 ; ! "effect"
+sharoit:sharoit N1 ; ! "condition"
+nazariya:nazariya N1 ; ! "theory"
+maqsad:maqsad N1 ; ! "intention, purpose"
+rivojlantirish:rivojlantirish N1 ; ! "development (causative)"
+qator:qator N1 ; ! "line, row"
+Buxoro:Buxoro NP-TOP ; ! "Buxoro (province of Uzbekistan)
+masofa:masofa N1 ; ! "distance"
+oxir:oxir N1 ; ! "end"
+yuqori:yuqori N1 ; ! "above"
+taraqqiyot:taraqqiyot N1 ; ! "progress"
+diqqat:diqqat N1 ; ! "attention"
+evaz:evaz N1 ; ! "substitution"
+oshirish:oshirish N1 ; ! "exceeding"
+shakllanish:shakllanish N1 ; ! "taking form"
+faoliyat:faoliyat N1 ; ! "activity"
+kasallik:kasallik N1 ; ! "sickness"
+jumla:jumla N1 ; ! "sentence"
+jumla:jumla N1 ; ! "totality, whole"
+usul:usul N1 ; ! "way, method"
+shakl:shakl N1 ; ! "shape, form"
+unvon:unvon N1 ; ! "title, degree"
+
+
+
+
 
 munisipalitet:munisipalitet N1 ; ! "municipality"
 to%'g%'il:to%'g%'il N1 ; ! "wheel"
@@ -1270,6 +1331,24 @@ instituti:instituti N1 ; ! ""
 nashr:nashr N1 ; ! "publication"
 temir:temir N1 ; ! "iron"
 gaz:gaz N1 ; ! ""
+muomala:muamala N1 ; ! "treatment, behavior"
+mehnat:mehnat N1 ; ! "work, labor"
+muhit:muhit N1 ; ! "environment"
+qaror:qaror N1 ; ! "decision"
+shaxs:shaxs N1 ; ! "individual"
+e'tibor:e'tibor N1 ; ! "effect, prestige"
+tepa:tepa N1 ; ! "upper part, top"
+atrof:atrof N1 ; ! "surroundings"
+tan:tan N1 ; ! "body"
+joy:joy N1 ; ! "place"
+Hindiston:Hindiston NP-TOP ; ! "India"
+vrach:vrach N1 ; ! "doctor"
+tasarruf:tasarruf N1 ; ! "possession"
+inqiroz:inqiroz N1 ; ! "regression"
+energiya:energiya N1 ; ! "energy"
+bosqich:bosqich N1 ; ! "step"
+
+
 
 
 
@@ -1349,6 +1428,8 @@ Xristian:Xristian N1 ; ! "Christian"
 Katolik:Katolik N1 ; ! "Catholic"
 Chiniy:Chiniy N1 ; ! "Chinese"
 Golland:Golland N1 ; ! "Dutch"
+
+
 
 
 
