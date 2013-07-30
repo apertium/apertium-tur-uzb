@@ -631,6 +631,18 @@ r:r MIST ;
 j:j MIST ; 
 r:r MIST ;
 n:n MIST ; 
+ning:ning MIST ; ! ""
+dan:dan MIST ; ! ""
+da:da MIST ; ! ""
+lar:lar MIST ; ! ""
+ni:ni MIST ; ! ""
+larning:larning MIST ; ! ""
+ga:ga MIST ; ! ""
+p:p MIST ; ! ""
+f:f MIST ; ! !
+ba:ba MIST ; !!
+h:h MIST ; ! ""
+mln:mln MIST ; ! ""
 
 
 LEXICON Pronouns
@@ -1597,6 +1609,10 @@ jahon:jahon N1 ; ! "the world"
 xulosa:xulosa N1 ; ! "conclusion"
 yaxshilash:yaxshilash N1 ; ! "improvement"
 o%'rta:o%'rta N1 ; ! "middle"
+majvud:majvud N1 ; ! ""
+savdo:savdo N1 ; ! "trade"
+oziq:oziq N1 ; ! "food"
+
 
 
 
@@ -1688,7 +1704,9 @@ Mojar:Mojar N1 ; ! "Hungarian"
 Xristian:Xristian N1 ; ! "Christian"
 Katolik:Katolik N1 ; ! "Catholic"
 Chiniy:Chiniy N1 ; ! "Chinese"
-Golland:Golland N1 ; ! "Dutch"
+Golland:Golland N1 ; ! ""
+
+arab:arab N1 ; ! "arab"
 
 
 
@@ -2208,8 +2226,10 @@ Boyko:Boyko NP1-ANT-M ; ! ""
 Racan:Racan NP1-ANT-M ; ! ""
 Iso:Iso NP1-ANT-M ; ! "JESUS"
 Ilohiy:Ilohiy NP1-ANT-M ; ! ""
+Muhammad:Muhammad NP1-ANT-M ; ! ""
 
 Hujjati:Hujjati NP1-COG-MF ; ! ""
+Herschel:Herschel NP1-COG-MF ; ! ""
 Gul:Gul NP1-COG-MF ; ! ""
 Berdimuhammedov:Berdimuhammedov NP1-COG-MF ; ! ""
 Gul:Gul NP1-COG-MF ; ! ""
@@ -2573,7 +2593,11 @@ aloqali:aloqali POST ; ! "concerning"
 
 LEXICON Adjectives
 
-
+tarixiy:tarixiy A1 ; ! "historical"
+mashhur:mashhur A1 ; ! "famous"
+siyosiy:siyosiy A1 ; ! "political"
+oq:oq A1 ; ! "light"
+o'zaro:o'zaro A1 ; ! "mutual"
 muayyan:muayyan A1 ; ! "certain"
 kimyoviy:kimyoviy A1 ; ! "chemical"
 xos:xos A1 ; ! "peculiar"
@@ -2630,6 +2654,10 @@ katta:katta A1 ; ! "grand"
 buyuk:buyuk A1 ; ! "big"
 qattiq:qattiq A1 ; ! "hard"
 ozod:ozod A1 ; ! "free"
+ijtimoiy:ijtimoiy A1 ; ! "public"
+ichki:ichki A1 ; ! "inner"
+iqtisodiy:iqtisodiy A1 ; ! "economic"
+tabiiy:tabiiy A1 ; ! "natural!
 
 
 
@@ -2827,6 +2855,7 @@ bugun:bugun ADV3 ; ! "today"
 bajo:bajo ADV3 ; ! "with pleasure"
 xuddi:xuddi ADV3 ; ! "nearly"
 yomon:yomon ADV3 ; ! "poorly"
+ortiq:ortiq ADV3 ; ! "artik"
 
 ichida:ichida ADV1 ; ! "indoor"
 boshqa:boshqa ADV1 ; ! "the other"
