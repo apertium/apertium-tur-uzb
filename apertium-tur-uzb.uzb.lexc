@@ -194,6 +194,8 @@ LEXICON PRES-COND
 LEXICON GERUND 
 
 %<ger5%>:%>gan SUBST ;    
+%<ger5%>:%>ish SUBST ;    
+
 
 LEXICON IMPERATIVE
 
@@ -643,6 +645,40 @@ f:f MIST ; ! !
 ba:ba MIST ; !!
 h:h MIST ; ! ""
 mln:mln MIST ; ! ""
+bo:bo MIST ; ! ""
+sh:sh MIST ; ! ""
+av:av MIST ; ! ""
+ta:ta MIST ; ! ""
+larda:larda MIST ; ! ""
+gacha:gacha MIST ; ! ""
+l:l MIST ; ! ""
+ko:ko MIST ; ! ""
+sh:sh MIST ; ! ""
+x:x MIST ; ! ""
+me:me MIST ; ! ""
+li:li MIST ; ! ""
+mo:mo MIST ; ! ""
+mas:mas MIST ; ! ""
+ch:ch MIST ; ! ""
+zi:zi MIST ; ! ""
+la:la MIST ; ! ""
+to:to MIST ; ! ""
+she:she MIST ; ! ""
+qo:qo MIST ; ! ""
+qad:qad MIST ; ! ""
+mm:mm MIST ; ! ""
+zan:zan MIST ; ! ""
+la:la MIST ; ! ""
+ro:ro MIST ; ! ""
+sm:sm MIST ; ! ""
+en:sm MIST ; ! ""
+z:z MIST ; ! ""
+le:le MIST ; ! ""
+ri:ri MIST ; ! ""
+si:si MIST ; ! ""
+al:al MIST ; ! ""
+
+
 
 
 LEXICON Pronouns
@@ -652,6 +688,7 @@ PRON-PERS ;
 
 LEXICON Nouns
 
+asl:asl N1 ; ! "point"
 vujud:vujud N1 ; ! "body"
 yuza:yuza N1 ; ! "surface"
 ich:ich N1 ; ! "inside, interior"
@@ -1609,7 +1646,7 @@ jahon:jahon N1 ; ! "the world"
 xulosa:xulosa N1 ; ! "conclusion"
 yaxshilash:yaxshilash N1 ; ! "improvement"
 o%'rta:o%'rta N1 ; ! "middle"
-majvud:majvud N1 ; ! ""
+mavjud:mavjud N1 ; ! ""
 savdo:savdo N1 ; ! "trade"
 oziq:oziq N1 ; ! "food"
 soch:soch N1 ; ! "hair"
@@ -1823,6 +1860,7 @@ tadbir:tadbir N1 ; ! "measure, action"
 islohot:islohot N1 ; ! "reform"
 qatlam:qatlam N1 ; ! "layer"
 emizuvchi:emizuvchi A1 ; ! "nursing"
+tipli:tipli A1 ; ! "type"
 huquq:huquq N1 ; ! "law"
 tola:tola N1 ; ! "strand eg. strand of hair, field"
 bakteriya:bakteriya N1 ; ! "bacteria" 
@@ -1892,6 +1930,13 @@ ega:ega N1 ; ! "owner"
 katolik:katolik N1 ; ! "Catholic"
 mexanizm:mexanizm N1 ; ! "mechanism"
 tomoshabin:tomoshabin N1 ; ! "spectator"
+sathi:sathi N1 ; ! ""
+nusxa:nusxa N1 ; ! "copy, sample"
+zot:zot N1 ; ! "individual"
+kutubxona:kutubxona N1 ; ! "library"
+tuproq:tuproq N1 ; ! "earth, land"
+en:en N1 ; ! "width"
+markaziy:markaziy N1 ; ! "merkez"
 
 
 
@@ -1958,6 +2003,7 @@ NGC:NGC N1 ; ! ""
 zichligi:zichligi N1 ; ! ""
 o%'rtacha:o%'rtacha N1 ; ! ""
 IC:IC N1 ; ! ""
+zg:zg N1 ; ! ""
 
 !!!!! NATIONALITIES !!!!
 
@@ -2062,6 +2108,21 @@ Tavrot:Tavrot NP1-ORG ; ! "CORRECT"
 
 
 !!!!!! TOPONYMS !!!!!!!
+
+Pikardiya:Pikardiya NP-TOP ; ! ""
+Markaziy:Markaziy NP-TOP ; ! ""
+Karolina:Karolina NP-TOP ; ! ""
+Washington:Washington NP-TOP ; ! ""
+Kansas:Kansas NP-TOP ; ! ""
+Saône:Saône NP-TOP ; ! ""
+Moselle:Moselle NP-TOP ; ! ""
+North% Karolina:North% Karolina NP-TOP ; ! ""
+Schleswig:Schleswig NP-TOP ; ! ""
+León:León NP-TOP ; ! ""
+Andijon:Andijon NP-TOP ; ! ""
+Illinois:Illinois NP-TOP ; ! ""
+Dakota:Dakota NP-TOP ; ! ""
+Anhalt:Anhalt NP-TOP ; ! ""
 
 Madrid:Madrid NP-TOP ; ! ""
 Canes:Canes NP-TOP ; ! ""
@@ -2637,6 +2698,7 @@ RL:RL NP1-ORG ; ! "Radio Liberty" ! FIXME: Should be joined up
 SE:SE NP1-ORG ; ! ""
 BSP:BSP NP1-ORG ; ! ""
 KDV:KDV NP1-AL ; ! ""
+Centre:Centre NP1-AL ; ! ""
 TV:TV NP1-AL ; ! ""
 HIV:HIV NP1-AL ; ! "" @?@
 Tavrot:Tavrot NP1-AL ; ! ""
@@ -2891,6 +2953,11 @@ aloqali:aloqali POST ; ! "concerning"
 
 LEXICON Adjectives
 
+alohida:alohida A1 ; ! "separate"
+badiiy:badiiy A1 ; ! "artistic"
+ayrim:ayrim A1 ; ! "separate"
+bag%'ayrat:bag%'ayrat A1 ; ! "energetic"
+ma%'lum:ma%'lum A1 ; ! "certain"
 tarixiy:tarixiy A1 ; ! "historical"
 mashhur:mashhur A1 ; ! "famous"
 siyosiy:siyosiy A1 ; ! "political"
