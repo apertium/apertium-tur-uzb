@@ -132,21 +132,26 @@ LEXICON VERB-IV
 
 
 
-
-
 LEXICON VERB-TV
 
-%<v%>%<tv%>: GERUND ;
-%<v%>%<tv%>: PRES-CONT ;
-%<v%>%<tv%>: PRES-COND ;
-%<v%>%<tv%>: AORIST ;
+%<v%>%<tv%>%<pass%>:il VERB-TV-FULL ;
+%<v%>%<tv%>%<pass%>:in VERB-TV-FULL ;
 
-%<v%>%<tv%>: INDEF-PAST ;
-%<v%>%<tv%>: PAST ;
-%<v%>%<tv%>: EVIDENTIAL-PAST ;
-%<v%>%<tv%>: NON-FINITE ;
-%<v%>%<iv%>: PERMISSIVE ;
-%<v%>%<iv%>: IMPERATIVE ;
+%<v%>%<tv%>: VERB-TV-FULL ;
+
+
+LEXICON VERB-TV-FULL
+
+GERUND ;
+PRES-CONT ;
+PRES-COND ;
+AORIST ;
+INDEF-PAST ;
+PAST ;
+EVIDENTIAL-PAST ;
+NON-FINITE ;
+PERMISSIVE ;
+IMPERATIVE ;
 
 
 
@@ -291,6 +296,10 @@ LEXICON DET-QNT
 LEXICON PRON-QNT 
 
 %<pron%>%<qnt%>: SUBST ;
+
+LEXICON DET-ITG
+
+%<det%>%<itg%>: # ;
 
 
 LEXICON CC 
@@ -677,6 +686,8 @@ le:le MIST ; ! ""
 ri:ri MIST ; ! ""
 si:si MIST ; ! ""
 al:al MIST ; ! ""
+lari:lari MIST ; ! ""
+dagi:dagi MIST ; ! ""
 
 
 
@@ -1937,6 +1948,8 @@ kutubxona:kutubxona N1 ; ! "library"
 tuproq:tuproq N1 ; ! "earth, land"
 en:en N1 ; ! "width"
 markaziy:markaziy N1 ; ! "merkez"
+sur:sur N1 ; ! ""
+jan:jan N1 ; ! ""
 
 
 
@@ -2918,6 +2931,7 @@ orqali:orqali POST ; ! "through, via"
 tufayli:tufayli POST ; ! "because of"
 oldin:oldin POST ; ! "before"
 iborat:iborat POST ; ! "composed of"
+bo%'yicha:bo%'yicha POST ; ! "according to"
 
 !Genitive
 orqasindan:orqasindan POST ; ! "after"
@@ -3053,9 +3067,12 @@ hamma:hamma PRON-QNT ; ! "all of them"
 Ayrimlar:Ayrimlar DET-DEM ; ! "some other"
 har:har DET-DEM ; ! "each"
 biron:biron DET-DEM ; ! "some"
+necha:necha DET-ITG ; ! " how many"
+
 
 LEXICON Verbs
 
+hisoblan:hisoblan VERB-TV ; ! ""
 bo%'l:bo%'l VERB-TV ; ! ""
 sodir% bo%'l:sodir% bo%'l VERB-TV ; ! ""
 zomin% bo%'l:zomin% bo%'l VERB-TV ; ! ""
@@ -3070,6 +3087,7 @@ hisobla:hisobla VERB-TV ; ! "count"
 uchra:uchra VERB-TV ; ! "meet"
 tarqal:tarqalgan VERB-TV ; ! "spread"
 
+rivojlan:rivojlan VERB-IV ; ! "develop"
 qayt:qayt VERB-IV ; ! "to reach"
 ayt:ayt VERB-TV ; ! "to say"
 tur:tur VERB-IV ; ! "to stand"
