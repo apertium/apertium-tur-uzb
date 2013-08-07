@@ -688,7 +688,7 @@ si:si MIST ; ! ""
 al:al MIST ; ! ""
 lari:lari MIST ; ! ""
 dagi:dagi MIST ; ! ""
-
+S0:S0 MIST ; ! ""
 
 
 
@@ -1950,6 +1950,14 @@ en:en N1 ; ! "width"
 markaziy:markaziy N1 ; ! "merkez"
 sur:sur N1 ; ! ""
 jan:jan N1 ; ! ""
+ibn:ibn N1 ; ! "son of"
+spiral:spiral N1 ; ! "spiral"
+o%'quv:o%'quv N1 ; ! "school"
+davom:davom N1 ; ! "continuation"
+bug%':bug%' N1 ; ! "vapor"
+neft:neft N1 ; ! "nafta"
+jamoat:jamoat N1 ; ! "society"
+
 
 
 
@@ -1999,6 +2007,7 @@ kvadrat:kvadrat N1 ; ! "^2"
 kilometr:kilometr N1 ; ! "kilometre"
 km2:km2 N1 ; ! "square km"
 mil:mil N1 ; ! ""
+kg:kg N1 ; ! ""
 
 !!!! TO REMOVE LATER!!!!
 
@@ -2122,6 +2131,7 @@ Tavrot:Tavrot NP1-ORG ; ! "CORRECT"
 
 !!!!!! TOPONYMS !!!!!!!
 
+San:San NP-TOP ; ! ""
 Pikardiya:Pikardiya NP-TOP ; ! ""
 Markaziy:Markaziy NP-TOP ; ! ""
 Karolina:Karolina NP-TOP ; ! ""
@@ -2229,7 +2239,8 @@ Rhône:Rhône NP-TOP ; ! ""
 Lotaringiya:Lotaringiya NP-TOP ;  ! ""
 New% York:New% York NP-TOP ; ! ""
 Minnesota:Minnesota NP-TOP ; ! ""
-
+Farg%'ona:Farg%'ona NP-TOP ; ! ""
+Pfalz:Pfalz NP-TOP ; ! ""
 
 Marina:Marina NP1-ANT-F ; ! ""
 Maryam:Maryam NP1-ANT-F ; ! ""
@@ -2912,7 +2923,7 @@ International:International NP1-AL ; ! ""
 News NP1-AL ; ! "" @@@
 Nabucco:Nabucco NP1-AL ; ! ""
 Tribune:Tribune NP1-AL ; ! ""
-
+Centre:Centre NP1-AL ; ! ""
 
 
 LEXICON Postpositions 
@@ -2967,6 +2978,15 @@ aloqali:aloqali POST ; ! "concerning"
 
 LEXICON Adjectives
 
+ilk:ilk A1 ; ! "first"
+rasida:rasida A1 ; ! "mature"
+g'arbiy:g'arbiy A1 ; ! "occidental"
+mahalliy:mahalliy A1 ; ! "local, regional"
+lot:lot N1 ; ! ""
+dastlabki:dastlabki A1 ; ! "starting, first"
+sharqiy:sharqiy A1 ; ! "oriental"
+ochiq:ochiq A1 ; ! "open"
+quyi:quyi A1 ; ! "low"
 alohida:alohida A1 ; ! "separate"
 badiiy:badiiy A1 ; ! "artistic"
 ayrim:ayrim A1 ; ! "separate"
@@ -3037,8 +3057,9 @@ ijtimoiy:ijtimoiy A1 ; ! "public"
 ichki:ichki A1 ; ! "inner"
 iqtisodiy:iqtisodiy A1 ; ! "economic"
 tabiiy:tabiiy A1 ; ! "natural!
-
-
+mayda:mayda A1 ; ! "tiny"
+kuchli:kuchli A1 ; ! "strong"
+mustaqil:mustaqil A1 ; ! "indipendent"
 
 
 !!!!!!! SPECIALS !!!!!!
@@ -3072,6 +3093,11 @@ necha:necha DET-ITG ; ! " how many"
 
 LEXICON Verbs
 
+tugat:tugat VERB-TV ; ! "to finish"
+tuz:tuz VERB-TV ; ! "to form"
+qur:qur VERB-TV ; ! "build found"
+ishlan:ishlan VERB-TV ; ! ""
+ishlat:ishlat VERB-TV ; ! ""
 hisoblan:hisoblan VERB-TV ; ! ""
 bo%'l:bo%'l VERB-TV ; ! ""
 sodir% bo%'l:sodir% bo%'l VERB-TV ; ! ""
@@ -3087,6 +3113,9 @@ hisobla:hisobla VERB-TV ; ! "count"
 uchra:uchra VERB-TV ; ! "meet"
 tarqal:tarqalgan VERB-TV ; ! "spread"
 
+foydalan:foydalan VERB-TV ; ! "to tak advantage" ****
+shug%'ullan:shug%'ullan VERB-IV ; ! ""
+sho%'ng%'i:sho%'ng%'i VERB-IV ; ! "to plunge"
 rivojlan:rivojlan VERB-IV ; ! "develop"
 qayt:qayt VERB-IV ; ! "to reach"
 ayt:ayt VERB-TV ; ! "to say"
@@ -3222,6 +3251,9 @@ toki:toki CC ; ! " so that"
 
 LEXICON Adverbs 
 
+tashqi:tashqi ADV1 ; ! "external"
+teng:teng ADV1 ; ! "equal"
+boshlab:boshlab ADV1 ; ! "at the begenning"
 o%'rtacha:o%'rtacha ADV1 ; ! "average"
 ko%'proq:ko%'proq ADV1 ; ! "much"
 hali:hali ADV3 ; ! "a while ago"
@@ -3350,7 +3382,7 @@ LEXICON Qst-pron
 nima:nima PRON-ITG-INFL ; ! "what"
 qanday:qanday PRON-ITG-INFL ; ! "which one"
 kim:kim PRON-ITG-INFL ; ! "who"
-
+qancha:qancha PRON-ITG-INFL ; ! "how many"
 
 LEXICON Numerals
 
