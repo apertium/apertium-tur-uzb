@@ -623,6 +623,15 @@ Professor:Professor TIT ; ! ""
 
 LEXICON Mistakes
 
+ma:ma MIST ; !!
+ida:ida MIST ;
+FA:FA MIST ;
+lab:lab MIST ; 
+iy:iy MIST ; 
+ar:ar MIST ; 
+S0:S0 MIST ;
+lgan:lgan MIST ; !""
+po:po MIST ; ! ""
 w:w MIST ; 
 b:b MIST ; 
 y:y MIST ; 
@@ -631,6 +640,8 @@ i:i MIST ;
 a:a MIST ; 
 q:q MIST ; 
 s:s MIST ; 
+ng:ng MIST ; ! ""
+hoz:hoz MIST ; ! ""
 g:g MIST ; 
 k:k MIST ; 
 t:t MIST ; 	
@@ -689,6 +700,8 @@ al:al MIST ; ! ""
 lari:lari MIST ; ! ""
 dagi:dagi MIST ; ! ""
 S0:S0 MIST ; ! ""
+lon:lon MIST ; ! ""
+
 
 
 
@@ -699,6 +712,7 @@ PRON-PERS ;
 
 LEXICON Nouns
 
+qishlog:qishlog N1 ; ! "village"
 asl:asl N1 ; ! "point"
 vujud:vujud N1 ; ! "body"
 yuza:yuza N1 ; ! "surface"
@@ -735,7 +749,7 @@ nazariya:nazariya N1 ; ! "theory"
 maqsad:maqsad N1 ; ! "intention, purpose"
 rivojlantirish:rivojlantirish N1 ; ! "development (causative)"
 qator:qator N1 ; ! "line, row"
-Buxoro:Buxoro NP-TOP ; ! "Buxoro (province of Uzbekistan)
+
 masofa:masofa N1 ; ! "distance"
 oxir:oxir N1 ; ! "end"
 yuqori:yuqori N1 ; ! "above"
@@ -2130,9 +2144,12 @@ tumanlik:tumanlik N1 ; ! "fogginess"
 darajali:darajali A1 ; ! "degree"
 qaratilgan:qaratilgan A1 ; ! "directed"
 qalin:qalin A1 ; ! "thick"
-
-
-
+o%'ram:o%'ram N1 ; ! "bundle"
+o%'ra:o%'ra N1 ; ! root"
+ma%'muriyat:ma%'muriyat N1 ; ! "administration"
+qo%'yun:qo%'yun N1 ; ! "sheep"
+ob:ob N1 ; ! "water"
+sha%'n:sha%'n N1 ; ! "honor"
 
 
 
@@ -2173,6 +2190,7 @@ kilometr:kilometr N1 ; ! "kilometre"
 km2:km2 N1 ; ! "square km"
 mil:mil N1 ; ! ""
 kg:kg N1 ; ! ""
+
 
 !!!! TO REMOVE LATER!!!!
 
@@ -2218,26 +2236,27 @@ Nemis:Nemis N3 ; ! "German"
 Qirgiz:Qirgiz N3 ; ! "Kirghiz"
 Gurji:Gurji N3 ; ! "Georgian"
 Rumin:Rumin N3 ; ! "Romenian"
-Yugoslav:Yugoslav N1 ; ! "Yugoslavian"
-Grek:Grek N1 ; ! "Greek"
-Usmonli:Usmonli N1 ; ! "Ottoman"
-Afgon:Afgon N1 ; ! "Afghan"
-Filistimlik:Filistimlik N1 ; ! "Palestinian"
-Yevropalik:Yevropalik N1 ; ! "European"
-Bosniyalik:Bosniyalik N1 ; ! "Bosnian"
-Iroqlik:Iroqlik N1 ; ! "Iraqi"
-Afrikalik:Afrikalik N1 ; ! "African"
-Slavyan:Slavyan N1 ; ! "Slavic"
-Habash:Habash N1 ; ! "Ethiopian"
-Amerikalik:Amerikalik N1 ; ! "American"
-Chernogor:Chernogor N1 ; ! "Montenegrin"
-Mojar:Mojar N1 ; ! "Hungarian"
+Yugoslav:Yugoslav N3 ; ! "Yugoslavian"
+Grek:Grek N3 ; ! "Greek"
+Usmonli:Usmonli N3 ; ! "Ottoman"
+Afgon:Afgon N3 ; ! "Afghan"
+Filistimlik:Filistimlik N3 ; ! "Palestinian"
+Yevropalik:Yevropalik N3 ; ! "European"
+Bosniyalik:Bosniyalik N3 ; ! "Bosnian"
+Iroqlik:Iroqlik N3 ; ! "Iraqi"
+Afrikalik:Afrikalik N3 ; ! "African"
+Slavyan:Slavyan N3 ; ! "Slavic"
+Habash:Habash N3 ; ! "Ethiopian"
+Amerikalik:Amerikalik N3 ; ! "American"
+Chernogor:Chernogor N3 ; ! "Montenegrin"
+Mojar:Mojar N3 ; ! "Hungarian"
 Xristian:Xristian N1 ; ! "Christian"
 Katolik:Katolik N1 ; ! "Catholic"
-Chiniy:Chiniy N1 ; ! "Chinese"
-Golland:Golland N1 ; ! ""
+Chiniy:Chiniy N3 ; ! "Chinese"
+Golland:Golland N3 ; ! ""
+ingliz:ingliz N3 ; ! "english"
 
-arab:arab N1 ; ! "arab"
+arab:arab N3 ; ! "arab"
 
 
 
@@ -2295,6 +2314,14 @@ Tavrot:Tavrot NP1-ORG ; ! "CORRECT"
 
 
 !!!!!! TOPONYMS !!!!!!!
+
+Oise:Oise NP-TOP ; 
+Somme:Somme NP-TOP ; 
+Franche:Franche NP-TOP ; 
+Comté:Comté NP-TOP ; 
+Buxoro:Buxoro NP-TOP ; ! "Buxoro (province of Uzbekistan)
+Aisne:Aisne NP-TOP ; ! ""
+Centre:Centre NP-TOP ; ! ""
 Montana:Montana NP-TOP ; ! "Montana"
 Surxondaryo:Surxondaryo NP-TOP ; ! "Surxondaryo"
 Barselona:Barselona NP-TOP ; ! "Barcelona"
@@ -2587,6 +2614,7 @@ New% York:New% York NP-TOP ; ! ""
 Minnesota:Minnesota NP-TOP ; ! ""
 Farg%'ona:Farg%'ona NP-TOP ; ! ""
 Pfalz:Pfalz NP-TOP ; ! ""
+Haute:Haute NP-TOP ; ! ""
 
 Marina:Marina NP1-ANT-F ; ! ""
 Maryam:Maryam NP1-ANT-F ; ! ""
@@ -2871,6 +2899,7 @@ Ratko:Ratko NP1-ANT-M ; ! ""
 Raüf:Raüf NP1-ANT-M ; ! ""
 Razvan:Razvan NP1-ANT-M ; ! ""
 Recep:Recep NP1-ANT-M ; ! ""
+Abu:Abu NP1-ANT-M ; ! ""
 Muso:Muso NP1-ANT-M ; ! ""
 Simun:Simun NP1-ANT-M ; ! ""
 Reinhard:Reinhard NP1-ANT-M ; ! ""
@@ -3324,7 +3353,9 @@ aloqali:aloqali POST ; ! "concerning"
 
 LEXICON Adjectives
 
-
+me%'moriy:me%'moriy A1 ; ! "architectural"
+qora:qora A1 ; ! "black"
+madaniy:madaniy A1 ; ! "cultural"
 davriy:davriy A1 ;  ! "cyclical"
 ilk:ilk A1 ; ! ""
 rasida:rasida A1 ; ! "mature"
@@ -3441,6 +3472,8 @@ necha:necha DET-ITG ; ! " how many"
 
 LEXICON Verbs
 
+sug%'or:sug%'or VERB-TV ; ! "to irrigate"
+sug%'ur:sug%'ur VERB-TV ; ! "pull out"
 tugat:tugat VERB-TV ; ! "to finish"
 tuz:tuz VERB-TV ; ! "to form"
 qur:qur VERB-TV ; ! "build found"
@@ -3572,6 +3605,10 @@ deyish:deyish VERB-TV ; ! "to change"
 kir:kir VERB-IV ; ! "enter"
 boshla:boshla VERB-TV ; ! "start"
 ishlab% chiq:ishlab% chiq VERB-TV ; ! "start"
+o%'ra:o%'ra VERB-TV ; ! "wind, pack up, surround"
+o%'ral:o%'ral VERB-TV ; ! "sorround with"
+ajral:ajralib VERB-IV ; ! "to split"
+topil:topilgan VERB-IV ; ! "to be found"
 
 e:e VERB-COPULA ; ! "special copula"
 
@@ -3599,6 +3636,7 @@ toki:toki CC ; ! " so that"
 
 LEXICON Adverbs 
 
+keyinchalik:keyinchalik ADV1 ; ! "afterwards"
 tashqi:tashqi ADV1 ; ! "external"
 teng:teng ADV1 ; ! "equal"
 boshlab:boshlab ADV1 ; ! "at the begenning"
