@@ -137,11 +137,13 @@ LEXICON VERB-TV
 %<v%>%<tv%>%<pass%>:il VERB-TV-FULL ;
 %<v%>%<tv%>%<pass%>:in VERB-TV-FULL ;
 
+
 %<v%>%<tv%>: VERB-TV-FULL ;
 
 
 LEXICON VERB-TV-FULL
 
+%<neg%>: ma VERB-TV-FULL ; 
 GERUND ;
 PRES-CONT ;
 PRES-COND ;
@@ -623,6 +625,8 @@ Professor:Professor TIT ; ! ""
 
 LEXICON Mistakes
 
+ra:ra MIST ; !!
+ir:ir MIST ; !!
 ma:ma MIST ; !!
 ida:ida MIST ;
 FA:FA MIST ;
@@ -712,6 +716,12 @@ PRON-PERS ;
 
 LEXICON Nouns
 
+qirg%'in:qirg%'in N1 ; ! "extermination"
+qirg%'ovul:qirg%'ovul N1 ; ! "pheasant"
+qirg%'oq:qirg%'oq N1 ; ! "shore"
+qirg%'iz:qirg%'iz N3 ; ! "kirgiz"
+qirg%'ich:qirg%'ich N1 ; ! "scraper"
+chiqqan:chiqqan N1 ; ! "publication"
 qishlog:qishlog N1 ; ! "village"
 asl:asl N1 ; ! "point"
 vujud:vujud N1 ; ! "body"
@@ -1470,7 +1480,7 @@ Shveysariya:Shveysariya NP-TOP ; ! "Switzerland"
 Osiyo:Osiyo NP-TOP ; ! "Asia"
 hudud:hudud N1 ; ! "border"
 organizm:organizm N1 ; ! "organism"
-daryo:daryo NP-TOP ; ! "river"
+daryo:daryo N1 ; ! "river"
 faoliyat:faoliyat N1 ; ! "activity"
 modda:modda N1 ; ! "material"
 qism:qism N1 ; ! "part"
@@ -1539,9 +1549,9 @@ inshoot:inshoot N1 ; ! "construction"
 vakil:vakil N1 ; ! "representative"
 nazariya:nazariya N1 ; ! "theory"
 hujayra:hujayra N1 ; ! "cell"
-Bobur:Bobur NP-TOP
+Bobur:Bobur NP-TOP ; ! ""
 massa:massa N1 ; ! "mass"
-o%'zbekiston:o%'zbekiston NP-TOP ; ! "uzbekistan"
+O%'zbekiston:O%'zbekiston NP-TOP ; ! "uzbekistan"
 Yaponiya:Yaponiya NP-TOP ; ! "Japan"
 molekula:molekula N1 ; ! "molecule"
 belgi:belgi N1 ; ! "mark"
@@ -2147,6 +2157,7 @@ qalin:qalin A1 ; ! "thick"
 o%'ram:o%'ram N1 ; ! "bundle"
 o%'ra:o%'ra N1 ; ! root"
 ma%'muriyat:ma%'muriyat N1 ; ! "administration"
+ma%'muriy:ma%'muriy A1 ; ! "administrative"
 qo%'yun:qo%'yun N1 ; ! "sheep"
 ob:ob N1 ; ! "water"
 sha%'n:sha%'n N1 ; ! "honor"
@@ -2315,6 +2326,22 @@ Tavrot:Tavrot NP1-ORG ; ! "CORRECT"
 
 !!!!!! TOPONYMS !!!!!!!
 
+
+Montana:Montana NP-TOP ; ! "Montana"
+Leningrad:Leningrad NP-TOP ; ! "Saint Petersburg"
+Sirdaryo:Sirdaryo NP-TOP ; ! "Syr Darya"
+Oise:Oise NP-TOP ; ! "Oise"
+Kentucky:Kentucky NP-TOP ; ! "Kentucky"
+Dordogne:Dordogne NP-TOP ; ! "Dordogne"
+Isère:Isère NP-TOP ; ! "Isère"
+Helstein:Helstein NP-TOP ; ! "Helstein"
+Württemberg:Württemberg NP-TOP ; ! "Württemberg"
+Savoie:Savoie NP-TOP ; ! "Savoie"
+Calvados:Calvados NP-TOP ; ! "Calvados"
+Montana:Montana NP-TOP ; ! "Montana-USA"
+Vorpommern:Vorpommern NP-TOP ; ! "Vorpommern"
+Ardèche:Ardèche NP-TOP ; ! "Ardèche (river)"
+Landes:Landes NP-TOP ; ! "Landes"
 Oise:Oise NP-TOP ; 
 Somme:Somme NP-TOP ; 
 Franche:Franche NP-TOP ; 
@@ -3472,6 +3499,109 @@ necha:necha DET-ITG ; ! " how many"
 
 LEXICON Verbs
 
+
+keltir:keltir VERB-TV ; ! "to bring"
+bula:bula VERB-TV ; ! "to dip in"
+bit:bit VERB-IV ; ! "to end"
+o'tkaz:o'tkaz VERB-TV ; ! "to let pass"
+ajral:ajral VERB-IV ; ! "to split"
+o'ta:o'ta VERB-TV ; !  two meanings (to weed, to carry out duties)
+o'ra:o'ra VERB-TV ; ! "to wrap"
+chekla:chekla VERB-TV ; ! "to limit"
+sur:sur VERB-TV ; ! "to drVERB-IVe"
+yurit:yurit VERB-TV ; ! "to operate"
+tayinlan:tayinlan VERB-IV ; ! "to be appointed"
+moslash:moslash VERB-IV ; ! "to adapt"
+chir********* chiran:chiran VERB-IV ; ! "to struggle"
+qurdir:qurdir VERB-TV ; ! "allow to build"
+qara:qara VERB-IV ; ! "to look"
+oshir:oshir VERB-TV ; ! "to increase"
+qo'yil:qo'yil VERB-IV ; ! "to be put"
+chegaralan:chegaralan VERB-IV ; ! "to border"
+tashlan:tashlan VERB-IV ; ! "to attack"
+aniqla:aniqla VERB-TV ; ! "to determine"
+aylantir:aylantir VERB-TV ; ! "to turn"
+tikla:tikla VERB-TV ; ! "to set up straight"
+joylashtir:joylashtir VERB-TV ; ! "to make settle"
+bajar:bajar VERB-TV ; ! "to execute"
+qo'llan:qo'llan VERB-IV ; ! "to use"
+saylan:saylan VERB-IV ; ! "to be chosen"
+qoldir:qoldir VERB-TV ; ! "to leave"
+yop:yop VERB-TV ; ! "to close"
+o'zgar:o'zgar VERB-IV ; ! "to change"
+jihozlan:jihozlan VERB-IV ; ! "to be equipped"
+qo'lla:qo'lla VERB-TV ; ! "to support"
+tayyorla:tayyorla VERB-TV ; ! "to prepare"
+o't:o't VERB-TV ; ! "to pass"
+kech:kech VERB-TV ; ! "to pass through"
+parchalan:parchalan VERB-IV ; ! "to break into pieces"
+sahnalashtir:sahnalashtir VERB-TV ; ! "to stage"
+tayan:tayan VERB-IV ; ! "to depend on"
+ta'minlan VERB-IV ; ! "to be supplied"
+o'tir:o'tir VERB-IV ; ! "to sit"
+to'yin:to'yin VERB-IV ; ! "to be quite full"******** i don't know turkish
+qaz:qaz VERB-TV ; ! "to dig"
+chiz:chiz VERB-TV ; ! "to draw"
+kurash:kurash VERB-IV ; ! "to wrestle"
+markazlash:markazlash VERB-IV ; ! "to become centralized"
+kuchay:kuchay VERB-IV ; ! "to gain strength"
+ixtisoslashtir:ixtisoslashtir VERB-TV ; ! "to make specialized"
+ata:ata VERB-TV ; ! "to dedicate" "to name" 
+birlashtir:birlashtir VERB-TV ; ! "to unite"
+zararlan:zararlan VERB-IV ; ! "to suffer damage"
+ek:ek VERB-TV ; ! "to plant"
+istal:istal VERB-IV ; ! "to be wished"
+imzolan:imzolan VERB-IV ; ! "to be signed"
+ter:ter VERB-TV ; ! "to gather"
+qot:qot VERB-TV ; ! "to harden"
+tasdiqlan:tasdiqlan VERB-IV ; ! "to be confirmed"
+mustahkamla:mustahkamla VERB-TV ; ! "to strengthen"
+yoy:yoy VERB-TV ; ! "to spread out"
+saqlan:saqlan VERB-IV ; ! "to be kept"
+ta'minla:ta'minla VERB-TV ; ! "to provide with"
+ifodala:ifodala VERB-TV ; ! "to express"
+yorit:yorit VERB-TV ; ! "to light up"
+ko'rin:ko'rin VERB-IV ; ! "to appear"
+quy:quy VERB-TV ; ! "to pour"
+kuzat:kuzat VERB-TV ; ! "to see off"
+zaryadlan:zaryadlan VERB-IV ; ! "to be charged"
+quyil:quyil VERB-IV ; ! "to be poured"
+kes:kes VERB-TV ; ! "to cut"
+boshqaril:boshqaril VERB-IV ; ! "to be governed"
+kesish:kesish VERB-IV ; ! "to intersect"
+tik:tik VERB-TV ; ! "to sew"
+kengay:kengay VERB-IV ; ! "to widen"
+yasa:yasa VERB-TV ; ! "to make, to put together, to decorate"*****************
+topshir:topshir VERB-TV ; ! "to delVERB-IVer"
+beza:beza VERB-TV ; ! "to decorate"
+atash:atash VERB-TV ; ! "to name" 
+kechir:kechir VERB-TV ; ! "to experience"
+taqdirlan:taqdirlan VERB-IV ; ! "to be appreciated"
+ich:ich VERB-TV ; ! "to drink" 
+uyushtir:uyushtir VERB-TV ; ! "to make numb"
+suyultir:suyultir VERB-TV ; ! "to liquefy"
+yetkaz:yetkaz VERB-TV ; ! "to delVERB-IVer"
+ulan:ulan VERB-IV ; ! "to be joined"**************
+kasallan:kasallan VERB-IV ; ! "to become sick"
+bildir:bildir VERB-TV ; ! "to inform"
+anglat:anglat VERB-TV ; ! "to explain"
+sot:sot VERB-TV ; ! "to sell"
+boqil:boqil VERB-IV ; ! "to be looked after"
+sanal:sanal VERB-IV ; ! "to be counted"
+tanlan:tanlan VERB-IV ; ! "to be chosen"
+rVERB-IVojlantir:rVERB-IVojlantir VERB-TV ; ! "to develop"
+shikastlan:shikastlan VERB-IV ; ! "to be damaged"**************
+tamomla:tamomla VERB-TV ; ! "to complete"
+qurollan:qurollan VERB-IV ; ! "to take up arms" ****i dont know turkish equVERB-IValent
+o'zlash:o'zlash VERB-IV ; ! "to feel close to"
+kirish:kirish VERB-IV ; ! "to wrinkle"
+boril:boril VERB-IV ; ! "to proceed"
+yetishtiril VERB-IV ; ! "to be trained"
+ket:ket VERB-IV ; ! "to go"
+erish:erish VERB-IV ; ! "to reach"
+harakatlan:harakatlan VERB-IV ; ! "to move"
+taqiqlan:taqiqlan VERB-IV ; ! "to be prohibited"
+
 sug%'or:sug%'or VERB-TV ; ! "to irrigate"
 sug%'ur:sug%'ur VERB-TV ; ! "pull out"
 tugat:tugat VERB-TV ; ! "to finish"
@@ -3609,6 +3739,30 @@ o%'ra:o%'ra VERB-TV ; ! "wind, pack up, surround"
 o%'ral:o%'ral VERB-TV ; ! "sorround with"
 ajral:ajralib VERB-IV ; ! "to split"
 topil:topilgan VERB-IV ; ! "to be found"
+yoz:yoz VERB-TV ; ! "to write"
+gel:gel VERB-IV ; ! "to come"
+top:top VERB-TV ; ! "to find"
+atal:atal VERB-IV ; ! "to be named"
+ishla:ishla VERB-IV ; ! "to work, function"
+saqlan:saqlan VERB-IV ; ! "to be kept, saved"
+qoplan:qoplan VERB-IV ; ! "to be covered"
+boshlan:boshlan VERB-IV ; ! "to be started"
+kirit:kirit VERB-IV ; ! "to cause or allow to enter"
+egalla:egalla VERB-TV ; ! "to take over, occupy"
+tog%':tog%' VERB-TV ; ! "to give birth"
+o%'tkaz:o%'tkaz VERB-TV ; ! "take across"
+aylan:aylan VERB-IV ; ! "to spin"
+shakllan:shakllan VERB-IV ; ! "to take shape"
+tayyorlan:tayyorlan VERB-IV ; ! "to be made ready, prepared"
+olin:olin VERB-IV ; ! "to be taken" 
+och:och VERB-TV ; ! "to open"
+keltir:keltir VERB-TV ; ! "to bring"
+yasal:yasal VERB-IV ; ! "to be made"
+ixtisoslash:ixtisoslash VERB-IV ; ! "to qualify"
+bezat:bezat VERB-TV ; ! "to decorate"
+tasvirlan:tasvirlan VERB-IV ; ! "to be depicted"
+bor:bor VERB-IV ; ! "to arrive"
+
 
 e:e VERB-COPULA ; ! "special copula"
 

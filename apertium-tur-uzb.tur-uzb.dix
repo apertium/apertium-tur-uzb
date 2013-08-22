@@ -1605,8 +1605,41 @@
 <e><p><l>Yonne<s n="np"/></l><r>Yonne<s n="np"/></r></p></e>
 <e><p><l>Sirderya<s n="np"/></l><r>Sirdaryo<s n="np"/></r></p></e>
 <e><p><l>Meuse<s n="np"/></l><r>Meuse<s n="np"/></r></p></e>
-
-
+<e><p><l>Seyhun<s n="np"/></l><r>Sirdaryo<s n="np"/></r></p></e>
+<e><p><l>Oise<s n="np"/></l><r>Oise<s n="np"/></r></p></e>
+<e><p><l>Kentucky<s n="np"/></l><r>Kentucky<s n="np"/></r></p></e>
+<e><p><l>Dordogne<s n="np"/></l><r>Dordogne<s n="np"/></r></p></e>
+<e><p><l>Isère<s n="np"/></l><r>Isère<s n="np"/></r></p></e>
+<e><p><l>Helstein<s n="np"/></l><r>Helstein<s n="np"/></r></p></e>
+<e><p><l>Württemberg<s n="np"/></l><r>Württemberg<s n="np"/></r></p></e>
+<e><p><l>Savoie<s n="np"/></l><r>Savoie<s n="np"/></r></p></e>
+<e><p><l>Calvados<s n="np"/></l><r>Calvados<s n="np"/></r></p></e>
+<e><p><l>Montana<s n="np"/></l><r>Montana<s n="np"/></r></p></e>
+<e><p><l>Vorpommern<s n="np"/></l><r>Vorpommern<s n="np"/></r></p></e>
+<e><p><l>Ardèche<s n="np"/></l><r>Ardèche<s n="np"/></r></p></e>
+<e><p><l>Landes<s n="np"/></l><r>Landes<s n="np"/></r></p></e>
+<e><p><l>Barselona<s n="np"/></l><r>Barselona<s n="np"/></r></p></e>
+<e><p><l>Surhanderya<s n="np"/></l><r>Surxondarryo<s n="np"/></r></p></e>
+<e><p><l>Valensiya<s n="np"/></l><r>Valensiya<s n="np"/></r></p></e>
+<e><p><l>Veneto<s n="np"/></l><r>Veneto<s n="np"/></r></p></e>
+<e><p><l>Chuy<s n="np"/></l><r>Chuy<s n="np"/></r></p></e>
+<e><p><l>Paris<s n="np"/></l><r>Parij<s n="np"/></r></p></e>
+<e><p><l>Kolarado<s n="np"/></l><r>Colarado<s n="np"/></r></p></e>
+<e><p><l>Kaskaderya<s n="np"/></l><r>Qashqadaryo<s n="np"/></r></p></e>
+<e><p><l>Beruniy<s n="np"/></l><r>Beruniy<s n="np"/></r></p></e>
+<e><p><l>Nebraska<s n="np"/></l><r>Nebraska<s n="np"/></r></p></e>
+<e><p><l>Utah<s n="np"/></l><r>Utah<s n="np"/></r></p></e>
+<e><p><l>Meurthe<s n="np"/></l><r>Meurthe<s n="np"/></r></p></e>
+<e><p><l>Loiret<s n="np"/></l><r>Loiret<s n="np"/></r></p></e>
+<e><p><l>Limousin<s n="np"/></l><r>Limuzen<s n="np"/></r></p></e>
+<e><p><l>Vosges<s n="np"/></l><r>Vosges<s n="np"/></r></p></e>
+<e><p><l>Doubs<s n="np"/></l><r>Doubs<s n="np"/></r></p></e>
+<e><p><l>dag<s n="n"/></l><r>tog'<s n="n"/></r></p></e>
+<e><p><l>Zerefsan<s n="np"/></l><r>Zarafshon<s n="np"/></r></p></e>
+<e><p><l>Namangan<s n="np"/></l><r>Namangan<s n="np"/></r></p></e>
+<e><p><l>Yonne<s n="np"/></l><r>Yonne<s n="np"/></r></p></e>
+<e><p><l>Sirderya<s n="np"/></l><r>Sirdaryo<s n="np"/></r></p></e>
+<e><p><l>Meuse<s n="np"/></l><r>Meuse<s n="np"/></r></p></e>
         
         
 
@@ -1660,7 +1693,101 @@
     
      <!-- SECTION: Verbs -->
 
- 	<e c="  0"><p><l>yaz<s n="v"/><s n="tv"/></l><r>yoz<s n="v"/><s n="tv"/></r></p></e>
+
+<e><p><l>getir<s n="v"/><s n="tv"/></l><r>keltir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>sar<s n="v"/><s n="tv"/></l><r>o'ra<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>geçir<s n="v"/><s n="tv"/></l><r>o'tkaz<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>sinirla<s n="v"/><s n="tv"/></l><r>chekla<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>sür<s n="v"/><s n="tv"/></l><r>sur<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>yürüt<s n="v"/><s n="tv"/></l><r>yurit<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>kurdur<s n="v"/><s n="tv"/></l><r>qurdir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>asir<s n="v"/><s n="tv"/></l><r>oshir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>belirle<s n="v"/><s n="tv"/></l><r>aniqla<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>döndür<s n="v"/><s n="tv"/></l><r>aylantir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>dikle<s n="v"/><s n="tv"/></l><r>tikla<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>yerlestir<s n="v"/><s n="tv"/></l><r>joylashtir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>becer<s n="v"/><s n="tv"/></l><r>bajar<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>ayril<s n="v"/><s n="tv"/></l><r>qoldir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>kapat<s n="v"/><s n="tv"/></l><r>yop<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>kolla<s n="v"/><s n="tv"/></l><r>qo'lla<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>hazirla<s n="v"/><s n="tv"/></l><r>tayyorla<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>geç<s n="v"/><s n="tv"/></l><r>o't<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>geç<s n="v"/><s n="tv"/></l><r>kech<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>sahnelestir<s n="v"/><s n="tv"/></l><r>sahnalashtir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>kaz<s n="v"/><s n="tv"/></l><r>qaz<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>çiz<s n="v"/><s n="tv"/></l><r>chiz<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>özellestir<s n="v"/><s n="tv"/></l><r>ixtisoslashtir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>ata<s n="v"/><s n="tv"/></l><r>ata<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>birlestir<s n="v"/><s n="tv"/></l><r>birlashtir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>ek<s n="v"/><s n="tv"/></l><r>ek<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>topla<s n="v"/><s n="tv"/></l><r>ter<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>sertlestir<s n="v"/><s n="tv"/></l><r>qot<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>güçlendir<s n="v"/><s n="tv"/></l><r>mustahkamla<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>yay<s n="v"/><s n="tv"/></l><r>yoy<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>temin%et<s n="v"/><s n="tv"/></l><r>ta'minla<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>ifade%et<s n="v"/><s n="tv"/></l><r>ifodala<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>aydinlat<s n="v"/><s n="tv"/></l><r>yorit<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>dök<s n="v"/><s n="tv"/></l><r>quy<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>ugurla<s n="v"/><s n="tv"/></l><r>quzat<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>kes<s n="v"/><s n="tv"/></l><r>kes<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>dik<s n="v"/><s n="tv"/></l><r>tik<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>ilet<s n="v"/><s n="tv"/></l><r>topshir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>beze<s n="v"/><s n="tv"/></l><r>beza<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>geçir<s n="v"/><s n="tv"/></l><r>kechir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>iç<s n="v"/><s n="tv"/></l><r>ich<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>uyustur<s n="v"/><s n="tv"/></l><r>uyushtir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>sulandir<s n="v"/><s n="tv"/></l><r>suyultir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>gönder<s n="v"/><s n="tv"/></l><r>yetkaz<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>anlat<s n="v"/><s n="tv"/></l><r>anglat<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>sat<s n="v"/><s n="tv"/></l><r>sot<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>bildir<s n="v"/><s n="tv"/></l><r>bildir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>gelistir<s n="v"/><s n="tv"/></l><r>rivojlantir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>tamamla<s n="v"/><s n="tv"/></l><r>tamomla<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>gel<s n="v"/><s n="iv"/></l><r>kel<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>bit<s n="v"/><s n="iv"/></l><r>bit<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>ayril<s n="v"/><s n="iv"/></l><r>ajral<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>tayin%ol<s n="v"/><s n="iv"/></l><r>tayinlan<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>alis<s n="v"/><s n="iv"/></l><r>moslash<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>çabala<s n="v"/><s n="iv"/></l><r>chiran<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>bak<s n="v"/><s n="iv"/></l><r>qara<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>koyul<s n="v"/><s n="iv"/></l><r>qo'yil<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>sinirla<s n="v"/><s n="iv"/></l><r>chegaralan<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>saldir<s n="v"/><s n="iv"/></l><r>tashlan<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>kullan<s n="v"/><s n="iv"/></l><r>qo'llan<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>seçil<s n="v"/><s n="iv"/></l><r>saylan<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>degis<s n="v"/><s n="iv"/></l><r>o'zgar<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>cihazlan<s n="v"/><s n="iv"/></l><r>jihozlan<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>parçalan<s n="v"/><s n="iv"/></l><r>parchalan<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>dayan<s n="v"/><s n="iv"/></l><r>tayan<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>otur<s n="v"/><s n="iv"/></l><r>o'tir<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>güres<s n="v"/><s n="iv"/></l><r>kurash<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>merkezles<s n="v"/><s n="iv"/></l><r>markazlash<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>güçlen<s n="v"/><s n="iv"/></l><r>kuchay<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>isten<s n="v"/><s n="iv"/></l><r>istal<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>imzalan<s n="v"/><s n="iv"/></l><r>imzolan<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>onaylan<s n="v"/><s n="iv"/></l><r>tasdiqlan<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>saklan<s n="v"/><s n="iv"/></l><r>saqlan<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>görün<s n="v"/><s n="iv"/></l><r>ko'rin<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>ücretlendir<s n="v"/><s n="iv"/></l><r>zaryadlan<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>dökül<s n="v"/><s n="iv"/></l><r>quyil<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>yönetil<s n="v"/><s n="iv"/></l><r>boshqaril<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>kesis<s n="v"/><s n="iv"/></l><r>kesish<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>genisle<s n="v"/><s n="iv"/></l><r>kengay<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>gelis<s n="v"/><s n="iv"/></l><r>rivojlan<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>hastalan<s n="v"/><s n="iv"/></l><r>kasallan<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>bakil<s n="v"/><s n="iv"/></l><r>baqil<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>sayil<s n="v"/><s n="iv"/></l><r>sanal<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>seçil<s n="v"/><s n="iv"/></l><r>tanlan<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>özles<s n="v"/><s n="iv"/></l><r>o'zlash<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>kiris<s n="v"/><s n="iv"/></l><r>kirish<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>ilerle<s n="v"/><s n="iv"/></l><r>boril<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>yetistiril<s n="v"/><s n="iv"/></l><r>yetishtiril<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>git<s n="v"/><s n="iv"/></l><r>ket<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>eris<s n="v"/><s n="iv"/></l><r>erish<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>hareketlen<s n="v"/><s n="iv"/></l><r>harakatlan<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>yasaklan<s n="v"/><s n="iv"/></l><r>taqiqlan<s n="v"/><s n="iv"/></r></p></e>
+
+
  	 	<e><p><l>yaz<s n="v"/><s n="tv"/></l><r>yoz<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>ol<s n="v"/><s n="iv"/></l><r>b'ol<s n="v"/><s n="iv"/></r></p></e>
  	<e><p><l>ye<s n="v"/><s n="tv"/></l><r>ye<s n="v"/><s n="tv"/></r></p></e>
