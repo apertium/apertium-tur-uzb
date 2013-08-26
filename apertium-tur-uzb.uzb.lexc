@@ -22,7 +22,7 @@ Multichar_Symbols
 
 %{s%}		   ! Becomes "s" after a vowel, otherwise null
 %{i%}		   ! Becomes as "i" after a consonant, otherwise null
-
+%{E%}		   ! Becomes as "a" after a consonant, otherwise "y"	
 
 
 !!!!!! MISC!!!!
@@ -232,7 +232,7 @@ LEXICON PRES-CONT
 
 LEXICON AORIST
 
-%<aor%>:%>a PERS3 ;
+%<aor%>:%>%{E%} PERS3 ;
 
 
 LEXICON PERS
@@ -2675,6 +2675,32 @@ Farg%'ona:Farg%'ona NP-TOP ; ! ""
 Pfalz:Pfalz NP-TOP ; ! ""
 Haute:Haute NP-TOP ; ! ""
 
+Emilia:Emilia NP-TOP ; ! ""
+Lons:Lons NP-TOP ; ! ""
+Saunier:Saunier NP-TOP ; ! ""
+SaunierLons:SaunierLons NP-TOP ; ! ""
+Burgos:Burgos NP-TOP ; ! ""
+Nurota:Nurota NP-TOP ; ! ''
+Urganch:Urganch NP-TOP ; ! ''
+Creuse:Creuse NP-TOP ; ! ''
+Ville:Ville NP-TOP ; ! ''
+Suriya:Suriya NP-TOP ; ! ''
+Valley:Valley NP-TOP ; ! ''
+East:East NP-TOP ; ! ''
+Hisor:Hisor NP-TOP ; ! ''
+Como:Como NP-TOP ; ! ''
+Abruzzo:Abruzzo NP-TOP ; ! ''
+Nurota:Nurota NP-TOP ; ! ''
+Urganch:Urganch NP-TOP ; ! ''
+Creuse:Creuse NP-TOP ; ! ''
+Ville:Ville NP-TOP ; ! ''
+Suriya:Suriya NP-TOP ; ! ''
+Valley:Valley NP-TOP ; ! ''
+East:East NP-TOP ; ! ''
+Hisor:Hisor NP-TOP ; ! ''
+Como:Como NP-TOP ; ! ''
+Abruzzo:Abruzzo NP-TOP ; ! ''
+
 Marina:Marina NP1-ANT-F ; ! ""
 Maryam:Maryam NP1-ANT-F ; ! ""
 
@@ -3869,6 +3895,7 @@ toki:toki CC ; ! " so that"
 
 
 LEXICON Adverbs 
+
 
 keyinchalik:keyinchalik ADV1 ; ! "afterwards"
 tashqi:tashqi ADV1 ; ! "external"

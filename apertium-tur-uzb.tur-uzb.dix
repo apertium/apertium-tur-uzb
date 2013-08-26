@@ -1640,8 +1640,22 @@
 <e><p><l>Yonne<s n="np"/></l><r>Yonne<s n="np"/></r></p></e>
 <e><p><l>Sirderya<s n="np"/></l><r>Sirdaryo<s n="np"/></r></p></e>
 <e><p><l>Meuse<s n="np"/></l><r>Meuse<s n="np"/></r></p></e>
-        
-        
+
+<e><p><l>Emilia<s n="np"/></l><r>Emilia<s n="np"/></r></p></e>
+<e><p><l>Corrèze<s n="np"/></l><r>Corrèze<s n="np"/></r></p></e>
+<e><p><l>Lons<s n="np"/></l><r>Lons<s n="np"/></r></p></e>
+<e><p><l>Saunier<s n="np"/></l><r>Saunier<s n="np"/></r></p></e>
+<e><p><l>SaunierLons<s n="np"/></l><r>SaunierLons<s n="np"/></r></p></e>
+
+<e><p><l>Nurota<s n="np"/></l><r>Nurota<s n="np"/></r></p></e>
+<e><p><l>Urgenç<s n="np"/></l><r>Urganch<s n="np"/></r></p></e>
+<e><p><l>Ville<s n="np"/></l><r>Ville<s n="np"/></r></p></e>
+<e><p><l>Suriye<s n="np"/></l><r>Suriya<s n="np"/></r></p></e>
+<e><p><l>Valley<s n="np"/></l><r>Valley<s n="np"/></r></p></e>
+<e><p><l>East<s n="np"/></l><r>East<s n="np"/></r></p></e>
+<e><p><l>Hisor<s n="np"/></l><r>Hisor<s n="np"/></r></p></e>
+<e><p><l>Como<s n="np"/></l><r>Como<s n="np"/></r></p></e>
+<e><p><l>Abruzzo<s n="np"/></l><r>Abruzzo<s n="np"/></r></p></e>
 
 
     <!-- SECTION: Prop - nounsNOMMASC -->
@@ -1786,8 +1800,6 @@
 <e><p><l>eris<s n="v"/><s n="iv"/></l><r>erish<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>hareketlen<s n="v"/><s n="iv"/></l><r>harakatlan<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>yasaklan<s n="v"/><s n="iv"/></l><r>taqiqlan<s n="v"/><s n="iv"/></r></p></e>
-
-
  	 	<e><p><l>yaz<s n="v"/><s n="tv"/></l><r>yoz<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>ol<s n="v"/><s n="iv"/></l><r>b'ol<s n="v"/><s n="iv"/></r></p></e>
  	<e><p><l>ye<s n="v"/><s n="tv"/></l><r>ye<s n="v"/><s n="tv"/></r></p></e>
@@ -1875,6 +1887,7 @@
  	<e><p><l>tap<s n="v"/><s n="tv"/></l><r>sigin<s n="v"/><s n="iv"/></r></p></e>
  	<e><p><l>öde<s n="v"/><s n="tv"/></l><r>to'la<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>özle<s n="v"/><s n="tv"/></l><r>sogin<s n="v"/><s n="tv"/></r></p></e>
+ 	<e><p><l>bulun<s n="v"/><s n="tv"/></l><r>uchra<s n="v"/><s n="tv"/></r></p></e>
 
 
 <!-- SECTION: Punctuation -->
