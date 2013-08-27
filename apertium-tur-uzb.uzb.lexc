@@ -92,7 +92,7 @@ LEXICON PRON-DEM-BU
 %<prn%>%<dem%>%<abl%>:ndan CLIT-GENERAL ;
 %<prn%>%<dem%>%<loc%>:nda CLIT-GENERAL ;
 ! %<prn%>%<dem%>%<px%>:nuki%{pN%} CASE ;
-%<prn%>%<dem%>%<loc%>%<attr%>:ndagi ATTR-SUBST ;
+%<prn%>%<dem%>%<loc%>%<attr%>:ndagi CASE ;
 !%<prn%>%<dem%>%<com%>:nunla # ;
 !%<prn%>%<dem%>%<px3sp%>:nu%{pN%} CASE ;
 %<prn%>%<dem%>%<pl%>:nlar CASE-ETC ;
@@ -135,7 +135,7 @@ LEXICON VERB-IV
 LEXICON VERB-TV
 
 %<v%>%<tv%>%<pass%>:il VERB-TV-FULL ;
-%<v%>%<tv%>%<pass%>:in VERB-TV-FULL ;
+%<v%>%<tv%>%<ref%>:in VERB-TV-FULL ;
 
 
 %<v%>%<tv%>: VERB-TV-FULL ;
@@ -401,9 +401,9 @@ N-INFL-COMMON ;
 
 
 
-LEXICON N-INFL-COMMON-NONOM
-
-# ; 
+! LEXICON N-INFL-COMMON-NONOM
+!
+!# ; 
 
 LEXICON N-INFL-COMMON
 
