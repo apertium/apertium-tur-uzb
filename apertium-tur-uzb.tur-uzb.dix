@@ -76,7 +76,17 @@
    <e c="  0"><p><l>uluslararası<s n="adj"/></l><r>xalqaro<s n="adj"/></r></p></e>
    <e c="  0"><p><l>küçük<s n="adj"/></l><r>kichik<s n="adj"/></r></p></e>
    <e><p><l>var<s n="adj"/></l><r>bor<s n="adj"/></r></p></e>
-
+<e><p><l>uzun<s n="adj"/></l><r>ozon<s n="adj"/></r></p></e>
+<e><p><l>ortanca<s n="adj"/></l><r>ortacha<s n="adj"/></r></p></e>
+<e><p><l>mevcut<s n="adj"/></l><r>mavjud<s n="adj"/></r></p></e>
+<e><p><l>umumi<s n="adj"/></l><r>umumiy<s n="adj"/></r></p></e>
+<e><p><l>büyük<s n="adj"/></l><r>katta<s n="adj"/></r></p></e>
+<e><p><l>asıl<s n="adj"/></l><r>asl<s n="adj"/></r></p></e>
+<e><p><l>mümkün<s n="adj"/></l><r>mumkin<s n="adj"/></r></p></e>
+<e><p><l>türlü<s n="adj"/></l><r>turli<s n="adj"/></r></p></e>
+<e><p><l>esasi<s n="adj"/></l><r>asosiy<s n="adj"/></r></p></e>
+<e><p><l>geniş<s n="adj"/></l><r>keng<s n="adj"/></r></p></e>
+<e><p><l>bilimsel<s n="adj"/></l><r>ilmiy<s n="adj"/></r></p></e>
 
 
   
@@ -1457,7 +1467,37 @@
 <e><p><l>cihan<s n="n"/></l><r>jahon<s n="n"/></r></p></e>
 <e><p><l>sonuç<s n="n"/></l><r>xulosa<s n="n"/></r></p></e>
 <e><p><l>ilerleme<s n="n"/></l><r>yaxshilash<s n="n"/></r></p></e>
-
+<e><p><l>km2<s n="n"/></l><r>km2<s n="n"/></r></p></e>
+<e><p><l>kişi<s n="n"/></l><r>nafar<s n="n"/></r></p></e>
+<e><p><l>kir<s n="n"/></l><r>kir<s n="n"/></r></p></e>
+<e><p><l>terkip<s n="n"/></l><r>tarkib<s n="n"/></r></p></e>
+<e><p><l>ikamet<s n="n"/></l><r>istiqomat<s n="n"/></r></p></e>
+<e><p><l>komün<s n="n"/></l><r>kommmuna<s n="n"/></r></p></e>
+<e><p><l>coğrafya<s n="n"/></l><r>geografiya<s n="n"/></r></p></e>
+<e><p><l>sıkılık<s n="n"/></l><r>zichlik<s n="n"/></r></p></e>
+<e><p><l>kare<s n="n"/></l><r>kvadrat<s n="n"/></r></p></e>
+<e><p><l>kilometre<s n="n"/></l><r>kilometr<s n="n"/></r></p></e>
+<e><p><l>yükseklik<s n="n"/></l><r>balandlik<s n="n"/></r></p></e>
+<e><p><l>seviye<s n="n"/></l><r>sath<s n="n"/></r></p></e>
+<e><p><l>daire<s n="n"/></l><r>departament<s n="n"/></r></p></e>
+<e><p><l>semt<s n="n"/></l><r>arrondissement<s n="n"/></r></p></e>
+<e><p><l>bölge<s n="n"/></l><r>okrug<s n="n"/></r></p></e>
+<e><p><l>devlet<s n="n"/></l><r>shtat<s n="n"/></r></p></e>
+<e><p><l>kuraklık<s n="n"/></l><r>quruqlik<s n="n"/></r></p></e>
+<e><p><l>et<s n="n"/></l><r>et<s n="n"/></r></p></e>
+<e><p><l>il<s n="n"/></l><r>provinsiya<s n="n"/></r></p></e>
+<e><p><l>ya<s n="n"/></l><r>yo<s n="n"/></r></p></e>
+<e><p><l>teşkil<s n="n"/></l><r>tashkil<s n="n"/></r></p></e>
+<e><p><l>galaksi<s n="n"/></l><r>galaktika<s n="n"/></r></p></e>
+<e><p><l>un<s n="n"/></l><r>un<s n="n"/></r></p></e>
+<e><p><l>ses<s n="n"/></l><r>un<s n="n"/></r></p></e>
+<e><p><l>köken<s n="n"/></l><r>asl<s n="n"/></r></p></e>
+<e><p><l>mahsul<s n="n"/></l><r>hasil<s n="n"/></r></p></e>
+<e><p><l>keşif<s n="n"/></l><r>kashf<s n="n"/></r></p></e>
+<e><p><l>katalog<s n="n"/></l><r>katalog<s n="n"/></r></p></e>
+<e><p><l>amaç<s n="n"/></l><r>obyekt<s n="n"/></r></p></e>
+<e><p><l>baskı<s n="n"/></l><r>nashr<s n="n"/></r></p></e>
+<e><p><l>km<s n="n"/></l><r>km<s n="n"/></r></p></e>
 
 
 
@@ -1888,6 +1928,13 @@
  	<e><p><l>öde<s n="v"/><s n="tv"/></l><r>to'la<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>özle<s n="v"/><s n="tv"/></l><r>sogin<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>bulun<s n="v"/><s n="tv"/></l><r>uchra<s n="v"/><s n="tv"/></r></p></e>
+ 	<e><p><l>parçalan<s n="v"/><s n="iv"/></l><r>parchalan<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>yerleş<s n="v"/><s n="iv"/></l><r>joylash<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>parçalan<s n="v"/><s n="tv"/></l><r>parchalan<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>ol<s n="v"/><s n="tv"/></l><r>bo'l<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>et<s n="v"/><s n="tv"/></l><r>et<s n="v"/><s n="tv"/></r></p></e> 
+    <e><p><l>al<s n="v"/><s n="tv"/></l><r>ol<s n="v"/><s n="tv"/></r></p></e>
+
 
 
 <!-- SECTION: Punctuation -->
