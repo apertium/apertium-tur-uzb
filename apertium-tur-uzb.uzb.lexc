@@ -6,6 +6,9 @@ Multichar_Symbols
 %<cnjsub%>
 %<num%>
 
+%<px1sg%>            
+%<px3sp%>            
+
 ! Cases ! "Case is a lie!" (quot.)
 
 %<nom%>            
@@ -23,7 +26,7 @@ Multichar_Symbols
 %{s%}		   ! Becomes "s" after a vowel, otherwise null
 %{i%}		   ! Becomes as "i" after a consonant, otherwise null
 %{E%}		   ! Becomes as "a" after a consonant, otherwise "y"	
-
+%{K%}
 
 !!!!!! MISC!!!!
 

@@ -3,9 +3,7 @@ A B C D E F G H I J K L M N O P Q R S T U V W Y Z X
 a b c d e f g h i j k l m n o p q r s t u v w y z x
 
 
-%{s%}:s %{i%}:i
-%{E%}:y
-%{K%}:k
+%{s%}:s %{i%}:i %{E%}:y %{K%}:k
 
 %>:0 %  ; 
 
@@ -21,20 +19,14 @@ Rules
  
 
 "{s} becomes s when following a vowel"
-%{s%}:0 <=> :Cons %>: _ ;
+%{s%}:0 <=> :Vow %>: _ ;
 
 "{E} becomes y when following a vowel"
-
 %{E%}:a <=> :Cons %>: _ ;
 
 "{K} becomes g when it is before a vowel"
-
-%{K%}:g <=>  _ %>: :Vow (:0) ;
-
-
+%{K%}:g <=>  _ %>: :Vow ;
 
 "{i} becomes i when following a consonant"
-
 %{i%}:0 <=> :Vow %>: _ ;
-
 
