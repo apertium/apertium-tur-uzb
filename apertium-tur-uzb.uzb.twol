@@ -5,6 +5,7 @@ a b c d e f g h i j k l m n o p q r s t u v w y z x
 
 %{s%}:s %{i%}:i
 %{E%}:y
+%{K%}:k
 
 %>:0 %  ; 
 
@@ -25,6 +26,9 @@ Rules
 "{E} becomes y when following a vowel"
 
 %{E%}:a <=> :Cons %>: _ ;
+
+%{K%}:g <=>  _ %>: :Cons ;
+
 
 
 "{i} becomes i when following a consonante"
