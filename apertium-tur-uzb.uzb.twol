@@ -11,7 +11,7 @@ a b c d e f g h i j k l m n o p q r s t u v w y z x
 
 Sets
 
-Vow =     A E I O U
+Vow =     A E I O U 
           a e i o u ; 
           
 Cons = b c d f g h j k l m n p q r s t v z x ;
@@ -27,11 +27,13 @@ Rules
 
 %{E%}:a <=> :Cons %>: _ ;
 
-%{K%}:g <=>  _ %>: :Cons ;
+"{K} becomes g when it is before a vowel"
+
+%{K%}:g <=>  _ %>: :Vow (:0) ;
 
 
 
-"{i} becomes i when following a consonante"
+"{i} becomes i when following a consonant"
 
 %{i%}:0 <=> :Vow %>: _ ;
 

@@ -622,6 +622,7 @@ LEXICON PRON-ITG-INFL
 LEXICON Titles
 
 Professor:Professor TIT ; ! ""
+prof:prof TIT ; ! ""
 
 LEXICON Mistakes
 
@@ -1449,6 +1450,7 @@ ijara:ijara N1 ; ! "rent, rental"
 tabiat:tabiat N1 ; ! "nature"
 yon:yon N1 ; ! "side, direction"
 vodiy:vodiy N1 ; ! "valley"
+xo%'jalik:xo%'jali{%K} N1 ; ! "economy"
 dastur:dastur N1 ; ! "guide"
 modda:modda N1 ; ! "material, substance"
 muammo:muammo N1 ; ! "problem, riddle"
@@ -2194,6 +2196,8 @@ majmu:majmu N1 ; ! "sum"
 bayon:bayon N1 ; ! "statement"
 ishlov:ishlov N1 ; ! "processing"
 Yunon:Yunon N1 ; ! "Greek"
+kantoni:kantoni N1 ; ! "canton"
+
 
 
 
@@ -2298,6 +2302,7 @@ Katolik:Katolik N1 ; ! "Catholic"
 Chiniy:Chiniy N3 ; ! "Chinese"
 Golland:Golland N3 ; ! ""
 ingliz:ingliz N3 ; ! "english"
+Qozog:Qozog N3 ; ! "kazak"
 
 arab:arab N3 ; ! "arab"
 
@@ -3437,6 +3442,8 @@ aloqali:aloqali POST ; ! "concerning"
 
 LEXICON Adjectives
 
+diniy:diniy A1 ; ! "religious"
+murakkab:murakkab A1 ; ! "complex"
 amaliy:amaliy A1 ; ! "practical"
 zarur:zarur A1 ; ! "necessary"
 boy:boy A1 ; ! "rich"
@@ -3494,6 +3501,7 @@ rasida:rasida A1 ; ! "mature"
 g'arbiy:g'arbiy A1 ; ! "occidental"
 mahalliy:mahalliy A1 ; ! "local, regional"
 lot:lot N1 ; ! ""
+sha%'bon:sha%'bon N1 ; ! "month"
 dastlabki:dastlabki A1 ; ! "starting, first"
 sharqiy:sharqiy A1 ; ! "oriental"
 ochiq:ochiq A1 ; ! "open"
@@ -3608,6 +3616,7 @@ LEXICON Verbs
 keltir:keltir VERB-TV ; ! "to bring"
 bula:bula VERB-TV ; ! "to dip in"
 bit:bit VERB-IV ; ! "to end"
+qo%'llanil:qo%'llanil VERB-IV ; ! "to be used"
 o'tkaz:o'tkaz VERB-TV ; ! "to let pass"
 ajral:ajral VERB-IV ; ! "to split"
 o'ta:o'ta VERB-TV ; !  two meanings (to weed, to carry out duties)
