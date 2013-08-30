@@ -88,12 +88,12 @@ Mistakes ;
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 LEXICON PRON-DEM-BU
 
-%<prn%>%<dem%>%<nom%>: CLIT-GENERAL ;
-%<prn%>%<dem%>%<gen%>:ning CLIT ;
-%<prn%>%<dem%>%<dat%>:nga CLIT ;
-%<prn%>%<dem%>%<acc%>:ni CLIT ;
-%<prn%>%<dem%>%<abl%>:ndan CLIT-GENERAL ;
-%<prn%>%<dem%>%<loc%>:nda CLIT-GENERAL ;
+%<prn%>%<dem%>%<nom%>: # ;
+%<prn%>%<dem%>%<gen%>:ning # ;
+%<prn%>%<dem%>%<dat%>:nga # ;
+%<prn%>%<dem%>%<acc%>:ni # ;
+%<prn%>%<dem%>%<abl%>:ndan # ;
+%<prn%>%<dem%>%<loc%>:nda # ;
 ! %<prn%>%<dem%>%<px%>:nuki%{pN%} CASE ;
 %<prn%>%<dem%>%<loc%>%<attr%>:ndagi CASE ;
 !%<prn%>%<dem%>%<com%>:nunla # ;
@@ -404,7 +404,7 @@ N-INFL-COMMON ;
 
 
 
-! LEXICON N-INFL-COMMON-NONOM
+! LEXICON #
 !
 !# ; 
 
@@ -475,62 +475,62 @@ ushbu:ushbu PRON-DEM-BU ; ! "this"
 
 LEXICON PRON-PERS
 
-men%<prn%>%<pers%>%<p1%>%<sg%>%<nom%>:men CLIT ; 
-men%<prn%>%<pers%>%<p1%>%<sg%>%<gen%>:mening CLIT ; 
-men%<prn%>%<pers%>%<p1%>%<sg%>%<dat%>:menga CLIT ; 
-men%<prn%>%<pers%>%<p1%>%<sg%>%<acc%>:meni CLIT ; 
-men%<prn%>%<pers%>%<p1%>%<sg%>%<loc%>:menda CLIT ; 
-men%<prn%>%<pers%>%<p1%>%<sg%>%<abl%>:mendan CLIT ; 
+men%<prn%>%<pers%>%<p1%>%<sg%>%<nom%>:men # ; 
+men%<prn%>%<pers%>%<p1%>%<sg%>%<gen%>:mening # ; 
+men%<prn%>%<pers%>%<p1%>%<sg%>%<dat%>:menga # ; 
+men%<prn%>%<pers%>%<p1%>%<sg%>%<acc%>:meni # ; 
+men%<prn%>%<pers%>%<p1%>%<sg%>%<loc%>:menda # ; 
+men%<prn%>%<pers%>%<p1%>%<sg%>%<abl%>:mendan # ; 
 
 
-sen%<prn%>%<pers%>%<p2%>%<sg%>%<nom%>:sen CLIT ; 
-sen%<prn%>%<pers%>%<p2%>%<sg%>%<gen%>:sening CLIT ; 
-sen%<prn%>%<pers%>%<p2%>%<sg%>%<dat%>:senga CLIT ; 
-sen%<prn%>%<pers%>%<p2%>%<sg%>%<acc%>:seni CLIT ; 
-sen%<prn%>%<pers%>%<p2%>%<sg%>%<loc%>:senda CLIT ; 
-sen%<prn%>%<pers%>%<p2%>%<sg%>%<abl%>:sendan CLIT ; 
+sen%<prn%>%<pers%>%<p2%>%<sg%>%<nom%>:sen # ; 
+sen%<prn%>%<pers%>%<p2%>%<sg%>%<gen%>:sening # ; 
+sen%<prn%>%<pers%>%<p2%>%<sg%>%<dat%>:senga # ; 
+sen%<prn%>%<pers%>%<p2%>%<sg%>%<acc%>:seni # ; 
+sen%<prn%>%<pers%>%<p2%>%<sg%>%<loc%>:senda # ; 
+sen%<prn%>%<pers%>%<p2%>%<sg%>%<abl%>:sendan # ; 
 
 
-u%<prn%>%<pers%>%<p3%>%<sg%>%<nom%>:u CLIT ; 
-u%<prn%>%<pers%>%<p3%>%<sg%>%<gen%>:uning CLIT ; 
-u%<prn%>%<pers%>%<p3%>%<sg%>%<dat%>:unga CLIT ; 
-u%<prn%>%<pers%>%<p3%>%<sg%>%<acc%>:uni CLIT ; 
-u%<prn%>%<pers%>%<p3%>%<sg%>%<loc%>:unda CLIT ; 
-u%<prn%>%<pers%>%<p3%>%<sg%>%<abl%>:undan CLIT ; 
+u%<prn%>%<pers%>%<p3%>%<sg%>%<nom%>:u # ; 
+u%<prn%>%<pers%>%<p3%>%<sg%>%<gen%>:uning # ; 
+u%<prn%>%<pers%>%<p3%>%<sg%>%<dat%>:unga # ; 
+u%<prn%>%<pers%>%<p3%>%<sg%>%<acc%>:uni # ; 
+u%<prn%>%<pers%>%<p3%>%<sg%>%<loc%>:unda # ; 
+u%<prn%>%<pers%>%<p3%>%<sg%>%<abl%>:undan # ; 
 
 
-biz%<prn%>%<pers%>%<p1%>%<pl%>%<nom%>:biz CLIT ; 
-biz%<prn%>%<pers%>%<p1%>%<pl%>%<nom%>:bizlar CLIT ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<nom%>:biz # ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<nom%>:bizlar # ; 
 
-biz%<prn%>%<pers%>%<p1%>%<pl%>%<gen%>:bizning CLIT ; 
-biz%<prn%>%<pers%>%<p1%>%<pl%>%<dat%>:bizga CLIT ; 
-biz%<prn%>%<pers%>%<p1%>%<pl%>%<acc%>:bizni CLIT ; 
-biz%<prn%>%<pers%>%<p1%>%<pl%>%<loc%>:bizda CLIT ; 
-biz%<prn%>%<pers%>%<p1%>%<pl%>%<abl%>:bizdan CLIT ; 
-
-
-
-sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<nom%>:sizlar CLIT ; 
-sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<gen%>:sizlarning CLIT ; 
-sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<dat%>:sizlarga CLIT ; 
-sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<acc%>:sizlarni CLIT ; 
-sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<loc%>:sizlarda CLIT ; 
-sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<abl%>:sizlardan CLIT ;
-
-siz%<prn%>%<pers%>%<p2%>%<pl%>%<nom%>:siz CLIT ; 
-siz%<prn%>%<pers%>%<p2%>%<pl%>%<gen%>:sizning CLIT ; 
-siz%<prn%>%<pers%>%<p2%>%<pl%>%<dat%>:sizga CLIT ; 
-siz%<prn%>%<pers%>%<p2%>%<pl%>%<acc%>:sizni CLIT ; 
-siz%<prn%>%<pers%>%<p2%>%<pl%>%<loc%>:sizda CLIT ; 
-siz%<prn%>%<pers%>%<p2%>%<pl%>%<abl%>:sizdan CLIT ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<gen%>:bizning # ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<dat%>:bizga # ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<acc%>:bizni # ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<loc%>:bizda # ; 
+biz%<prn%>%<pers%>%<p1%>%<pl%>%<abl%>:bizdan # ; 
 
 
-ular%<prn%>%<pers%>%<p3%>%<pl%>%<nom%>:ular CLIT ; 
-ular%<prn%>%<pers%>%<p3%>%<pl%>%<gen%>:ularning CLIT ; 
-ular%<prn%>%<pers%>%<p3%>%<pl%>%<dat%>:ularga CLIT ; 
-ular%<prn%>%<pers%>%<p3%>%<pl%>%<acc%>:ularni CLIT ; 
-ular%<prn%>%<pers%>%<p3%>%<pl%>%<loc%>:ularda CLIT ; 
-ular%<prn%>%<pers%>%<p3%>%<pl%>%<abl%>:ulardan CLIT ; 
+
+sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<nom%>:sizlar # ; 
+sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<gen%>:sizlarning # ; 
+sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<dat%>:sizlarga # ; 
+sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<acc%>:sizlarni # ; 
+sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<loc%>:sizlarda # ; 
+sizlar%<prn%>%<pers%>%<p2%>%<pl%>%<abl%>:sizlardan # ;
+
+siz%<prn%>%<pers%>%<p2%>%<pl%>%<nom%>:siz # ; 
+siz%<prn%>%<pers%>%<p2%>%<pl%>%<gen%>:sizning # ; 
+siz%<prn%>%<pers%>%<p2%>%<pl%>%<dat%>:sizga # ; 
+siz%<prn%>%<pers%>%<p2%>%<pl%>%<acc%>:sizni # ; 
+siz%<prn%>%<pers%>%<p2%>%<pl%>%<loc%>:sizda # ; 
+siz%<prn%>%<pers%>%<p2%>%<pl%>%<abl%>:sizdan # ; 
+
+
+ular%<prn%>%<pers%>%<p3%>%<pl%>%<nom%>:ular # ; 
+ular%<prn%>%<pers%>%<p3%>%<pl%>%<gen%>:ularning # ; 
+ular%<prn%>%<pers%>%<p3%>%<pl%>%<dat%>:ularga # ; 
+ular%<prn%>%<pers%>%<p3%>%<pl%>%<acc%>:ularni # ; 
+ular%<prn%>%<pers%>%<p3%>%<pl%>%<loc%>:ularda # ; 
+ular%<prn%>%<pers%>%<p3%>%<pl%>%<abl%>:ulardan # ; 
 
 LEXICON TIT 
 
@@ -577,19 +577,19 @@ LEXICON NUM-DIGIT
 
 %<num%>: # ;
 %<num%>%<subst%>%<nom%>: # ;
-%<num%>%<subst%>: N-INFL-COMMON-NONOM ; ! Dir/LR
+%<num%>%<subst%>: # ; ! Dir/LR
 
 !%<num%>%<ord%>:%'%{i%}nc%{I%} # ;
 !%<num%>%<ord%>%<subst%>%<nom%>:%'%{I%}nc%{I%} # ;
-!%<num%>%<ord%>%<subst%>:%'%{I%}nc%{i%} N-INFL-COMMON-NONOM ;
+!%<num%>%<ord%>%<subst%>:%'%{I%}nc%{i%} # ;
 
 !%<num%>%<coll%>%<advl%>:%-%{A%}у # ;
 !%<num%>%<coll%>%<nom%>:%-%{A%}у # ;
-!%<num%>%<coll%>:%-%{A%}у N-INFL-COMMON-NONOM ;
+!%<num%>%<coll%>:%-%{A%}у # ;
 
 !%<num%>%<percent%>:%% # ;
 !%<num%>%<percent%>%<subst%>%<nom%>:%% # ;
-!%<num%>%<percent%>%<subst%>:%%{а%}%{з%}%- N-INFL-COMMON-NONOM ;
+!%<num%>%<percent%>%<subst%>:%%{а%}%{з%}%- # ;
 
 LEXICON LASTDIGIT
 
@@ -626,6 +626,8 @@ LEXICON Titles
 
 Professor:Professor TIT ; ! ""
 prof:prof TIT ; ! ""
+Sulton:Sulton TIT ; ! ""
+
 
 LEXICON Mistakes
 
@@ -1520,7 +1522,7 @@ umr:umr N1 ; ! "life"
 vujud:vujud N1 ; ! "body"
 teatr:teatr N1 ; ! "theatre"
 maktab:maktab N1 ; ! "school"
-okean:okean NP-TOP ; ! "ocean"
+okean:okean N1 ; ! "ocean"
 Germaniya:Germaniya NP-TOP ; ! "Germany"
 turkum:turkum N1 ; ! "group"
 olim:olim N1 ; ! "scholar"
@@ -2164,6 +2166,53 @@ qo%'yun:qo%'yun N1 ; ! "sheep"
 ob:ob N1 ; ! "water"
 sha%'n:sha%'n N1 ; ! "honor"
 xomcho%'t:xomcho%'t N1 ; ! "extimation"
+urug%':urug%' N1 ; ! "seed"
+noyabr:noyabr N1 ; ! "november"
+er:er N1 ; ! "husband"
+fransuz:fransuz N1 ; ! "french"
+manba:manba N1 ; ! "source"
+band:band N1 ; ! "handle"
+o%'rinbosar:o%'rinbosar N1 ; ! "substitute"
+yashovchi:yashovchi N1 ; ! "inhabitant"
+oyi:oyi N1 ; ! "mother"
+jun:jun N1 ; ! "wool"
+ov:ov N1 ; ! "hunting"
+iyun:iyun N1 ; ! "June"
+boshchilik:boshchilik N1 ; ! "leadership"
+bug%'doy:bug%'doy N1 ; ! "wheat"
+lotin:lotin N1 ; ! "Latin"
+hukmronlik:hukmronlik N1 ; ! "dominion"
+kasallik:kasallik N1 ; ! "sickness"
+ism:ism N1 ; ! "name"
+hunarmandchilik:hunarmandchilik N1 ; ! "handcraft-making"
+zamburug%':zamburug%' N1 ; ! "mushroom"
+tamaki:tamaki N1 ; ! "tobacco"
+dam:dam N1 ; ! "breath"
+hokim:hokim N1 ; ! "governor"
+diametr:diametr N1 ; ! "diameter"
+qoramol:qoramol N1 ; ! "horned cattle"
+sement:sement N1 ; ! "cement"
+chog%':chog%' N1 ; ! "strength"
+tojik:tojik N1 ; ! "Tajik"
+rassomlik:rassomlik N1 ; ! "painting"
+
+Sovet:Sovet N1 ; ! "Soviet"
+echki:echki N1 ; ! "goat"
+hunar:hunar N1 ; ! "skill"
+jins:jins N1 ; ! "gender"
+dafn:dafn N1 ; ! "burial"
+negiz:negiz N1 ; ! "basis"
+avj:avj N1 ; ! "peak"
+tarbiya:tarbiya N1 ; ! "education"
+turmush:turmush N1 ; ! "life"
+falsafa:falsafa N1 ; ! "philosophy"
+hudud:hudud N1 ; ! "border"
+Yanvar:Yanvar N1 ; ! "January"
+azot:azot N1 ; ! "nitrogen"
+kartoshka:kartoshka N1 ; ! "potato"
+yomg%'ir:yomg%'ir N1 ; ! "rain"
+dog:dog N1 ; ! "mastiff"
+poyabzal:poyabzal N1 ; ! "footwear"
 
 yog%'och:yog%'och N1 ; ! "wood"
 dehqonchilik:dehqonchilik N1 ; ! "farming"
@@ -2363,7 +2412,66 @@ Tavrot:Tavrot NP1-ORG ; ! "CORRECT"
 
 !!!!!! TOPONYMS !!!!!!!
 
-
+Yanv:Yanv NP-TOP ; ! ""
+Ozarbayjon:Ozarbayjon NP-TOP ; ! ""
+Sant:Sant NP-TOP ; ! ""
+Springs:Springs NP-TOP ; ! ""
+Pegas:Pegas NP-TOP ; ! ""
+Mont:Mont NP-TOP ; ! ""
+Hill:Hill NP-TOP ; ! ""
+Calabria:Calabria NP-TOP ; ! ""
+Soria:Soria NP-TOP ; ! ""
+Lleida:Lleida NP-TOP ; ! ""
+Marg:Marg NP-TOP ; ! ""
+Armor:Armor NP-TOP ; ! ""
+Chig:Chig NP-TOP ; ! ""
+Cáceres:Cáceres NP-TOP ; ! ""
+Cantal:Cantal NP-TOP ; ! ""
+Bois:Bois NP-TOP ; ! ""
+Connecticut:Connecticut NP-TOP ; ! ""
+Ural:Ural NP-TOP ; ! ""
+Sino:Sino NP-TOP ; ! ""
+Heights:Heights NP-TOP ; ! ""
+Palo% Alto:Palo% Alto NP-TOP ; ! ""
+Corrèze:Corrèze NP-TOP ; ! ""
+Buxoriy:Buxoriy NP-TOP ; ! ""
+Baden:Baden NP-TOP ; ! ""
+Bretan:Bretan NP-TOP ; ! ""
+Holstein:Holstein NP-TOP ; ! ""
+Mayd:Mayd NP-TOP ; ! ""
+Lake:Lake NP-TOP ; ! ""
+Kreis:Kreis NP-TOP ; ! ""
+Rhin:Rhin NP-TOP ; ! ""
+Janubiy:Janubiy NP-TOP ; ! ""
+Arslon:Arslon NP-TOP ; ! ""
+Ain:Ain NP-TOP ; ! ""
+Puy:Puy NP-TOP ; ! ""
+Drôme:Drôme NP-TOP ; ! ""
+Manche:Manche NP-TOP ; ! ""
+Dastlab:Dastlab NP-TOP ; ! ""
+Santa:Santa NP-TOP ; ! ""
+Vermont:Vermont NP-TOP ; ! ""
+Atlantiques:Atlantiques NP-TOP ; ! ""
+Wyoming:Wyoming NP-TOP ; ! ""
+Dôme:Dôme NP-TOP ; ! ""
+Château:Château NP-TOP ; ! ""
+Haut:Haut NP-TOP ; ! "" 
+Jizzax:Jizzax NP-TOP ; ! ""
+Idaho:Idaho NP-TOP ; ! ""
+Atlantika:Atlantika NP-TOP ; ! ""
+Rioja:Rioja NP-TOP ; ! ""
+SSSR:SSSR NP-TOP ; ! ""
+Jalolobod:Jalolobod NP-TOP ; ! ""
+Ávila:Ávila NP-TOP ; ! ""
+Tirol:Tirol NP-TOP ; ! ""
+London:London NP-TOP ; ! ""
+San% Peterburg:San% Peterburg NP-TOP ; ! ""
+Teruel:Teruel NP-TOP ; ! ""
+Qorasuv:Qorasuv NP-TOP ; ! ""
+Termiz:Termiz NP-TOP ; ! ""
+Venatici:Venatici NP-TOP ; ! ""
+Côtes:Côtes NP-TOP ; ! ""
+Polsha:Polsha NP-TOP ; ! ""
 Montana:Montana NP-TOP ; ! "Montana"
 Leningrad:Leningrad NP-TOP ; ! "Saint Petersburg"
 Sirdaryo:Sirdaryo NP-TOP ; ! "Syr Darya"
@@ -2819,6 +2927,21 @@ Dimitris:Dimitris NP1-ANT-M ; ! ""
 Dirk:Dirk NP1-ANT-M ; ! ""
 Yahudo:Yahudo NP1-ANT-M ; ! ""
 Yahyo:Yahyo NP1-ANT-M ; ! ""
+Nikolay:Nikolay NP1-ANT-M ; ! ""
+Yuliy:Yuliy NP1-ANT-M ; ! ""
+Pierre:Pierre NP1-ANT-M ; ! ""
+Norin:Norin NP1-ANT-M ; ! ""
+Ahmad:Ahmad NP1-ANT-M ; ! ""
+Edouard:Edouard NP1-ANT-M ; ! ""
+Hamza:Hamza NP1-ANT-M ; ! ""
+Mahmud:Mahmud NP1-ANT-M ; ! ""
+Aleksandr:Aleksandr NP1-ANT-M ; ! ""
+Abdulla:Abdulla NP1-ANT-M ; ! ""
+Husayn:Husayn NP1-ANT-M ; ! ""
+Yovvoyi:Yovvoyi NP1-ANT-M ; ! ""
+Stephan:Stephan NP1-ANT-M ; ! ""
+Veronika:Veronika NP1-ANT-F ; ! ""
+Temur:Temur NP1-ANT-M ; ! ""
 
 Dmitry:Dmitry NP1-ANT-M ; ! ""
 Dominiqüe:Dominiqüe NP1-ANT-M ; ! ""
@@ -3081,6 +3204,11 @@ Gul:Gul NP1-COG-MF ; ! ""
 Berdimuhammedov:Berdimuhammedov NP1-COG-MF ; ! ""
 Gul:Gul NP1-COG-MF ; ! ""
 Pilat:Pilat NP1-COG-MF ; ! ""
+Nobel:Nobel NP1-COG-MF ; ! ""
+Karimov:Karimov NP1-COG-MF ; ! ""
+Abdullayev:Abdullayev NP1-COG-MF ; ! ""
+Jefferson:Jefferson NP1-COG-MF ; ! ""
+Montgomery:Montgomery NP1-COG-MF ; ! ""
 
 
 !!!!!!!!! ORGANIZATIONS !!!!
@@ -3442,6 +3570,28 @@ aloqali:aloqali POST ; ! "concerning"
 
 LEXICON Adjectives
 
+sazovor:sazovor A1 ; ! "worthy"
+matematik:matematik A1 ; ! "mathematical"
+subtropik:subtropik A1 ; ! "subtropical"
+eski:eski A1 ; ! "old"
+oq:oq A1 ; ! "white"
+oldingi:oldingi A1 ; ! "foremost"
+yilgi:yilgi A1 ; ! "year's"
+yashaydigan:yashaydigan A1 ; ! "living"
+ulkan:ulkan A1 ; ! "great"
+qimmatli:qimmatli A1 ; ! "precious"
+oxirgi:oxirgi A1 ; ! "last"
+qimmatbaho:qimmatbaho A1 ; ! "priceless"
+karrali:karrali A1 ; ! "divisible"
+yumshoq:yumshoq A1 ; ! "soft"
+yarim:yarim A1 ; ! "half"
+pastki:pastki A1 ; ! "low"
+lirik:lirik A1 ; ! "lyric"
+professional:professional A1 ; ! "professional"
+mustahkam:mustahkam A1 ; ! "durable"
+tektonik:tektonik A1 ; ! "tectonic"
+kabisa:kabisa A1 ; ! "leap"
+yuridik:yuridik A1 ; ! "legal"
 diniy:diniy A1 ; ! "religious"
 murakkab:murakkab A1 ; ! "complex"
 amaliy:amaliy A1 ; ! "practical"
@@ -3876,7 +4026,7 @@ ixtisoslash:ixtisoslash VERB-IV ; ! "to qualify"
 bezat:bezat VERB-TV ; ! "to decorate"
 tasvirlan:tasvirlan VERB-IV ; ! "to be depicted"
 bor:bor VERB-IV ; ! "to arrive"
-
+ta%'minla:ta%'minla VERB-TV ; ! "to supply"
 
 e:e VERB-COPULA ; ! "special copula"
 
@@ -3904,7 +4054,10 @@ toki:toki CC ; ! " so that"
 
 LEXICON Adverbs 
 
-
+asta:asta ADV1 ; ! "slowly"
+doir:doir ADV1 ; ! "related to"
+mobaynida:mobaynida ADV1 ; ! "during"
+umuman:umuman ADV1 ; ! "in general"
 keyinchalik:keyinchalik ADV1 ; ! "afterwards"
 tashqi:tashqi ADV1 ; ! "external"
 teng:teng ADV1 ; ! "equal"
