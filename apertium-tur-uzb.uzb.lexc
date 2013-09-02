@@ -2389,6 +2389,30 @@ ishlov:ishlov N1 ; ! "processing"
 Yunon:Yunon N1 ; ! "Greek"
 kantoni:kantoni N1 ; ! "canton"
 vegetatsiya:vegetatsiya N1 ; ! 
+kristal:kristal N1 ; ! "cristal"
+aniqlash:aniqlash N1 ; ! "clarification"
+belgilash:belgilash N1 ; ! "indication"
+oktabr:oktabr N1 ; ! "OCtober"
+istirohat:istirohat N1 ; ! "relaxation"
+fakultet:fakultet N1 ; ! "faculty"
+tark:tark N1 ; ! "abandonment"
+nisbat:nisbat N1 ; ! "regard"
+gazeta:gazeta N1 ; ! "newspaper"
+doimo:doimo N1 ; ! "constance"
+kadr:kadr N1 ; ! "sequence
+dotsent:dotsent N1 ; ! "assistant professor"
+trikotaj:trikotaj N1 ; ! "knitted-ware"
+kuz:kuz N1 ; ! "autumn"
+ekspeditsiya:ekspeditsiya N1 ; ! "expedition"
+vatan:vatan N1 ; ! "homeland"
+val:val N1 ; ! "shaft"
+past:past N1 ; ! "low"
+cherkov:cherkov N1 ; ! "church"
+vena:vana N1 ; ! "vein"
+suyukli{k%}:suyukli{k%} N1 ; ! "liquidity"
+nafaqat:nafaqat N1 ; ! "benefit"
+muharrir:muharrir N1 ; ! "editor"
+aeroport:aeroport N1 ; ! "airport"
 
 
 
@@ -2963,6 +2987,18 @@ East:East NP-TOP ; ! ''
 Hisor:Hisor NP-TOP ; ! ''
 Como:Como NP-TOP ; ! ''
 Abruzzo:Abruzzo NP-TOP ; ! ''
+Xuroson NP-TOP ; ! ""
+O%'zbekistan:O%'zbekistan NP-TOP ; ! ""
+Vengriya:Vengriya NP-TOP ; ! ""
+Shayx:Shayx NP-TOP ; ! "" 
+Us:Us NP-TOP ; ! ""
+Nukus:Nukus NP-TOP ; ! ""
+May:May NP-TOP ; ! ""
+Qrim:Qrim NP-TOP ; ! ""
+Mount% Grove:Mount% Grove NP-TOP ; ! ""
+Saint% Amand:Saint% Amand NP-TOP ; ! ""
+Saint% Louis:Saint% Louis NP-TOP ; ! ""
+Saint% Germain:Saint% Germain NP-TOP ; ! ""
 
 Marina:Marina NP1-ANT-F ; ! ""
 Maryam:Maryam NP1-ANT-F ; ! ""
@@ -3360,6 +3396,16 @@ Abdullayev:Abdullayev NP1-COG-MF ; ! ""
 Jefferson:Jefferson NP1-COG-MF ; ! ""
 Montgomery:Montgomery NP1-COG-MF ; ! ""
 
+Ismoil:Ismoil NP1-ANT-M ; ! ""
+Karl:Karl NP1-ANT-M ; ! ""
+Franklin:Franklin NP1-ANT-M ; ! ""
+Hercules:Hercules NP1-ANT-M ; ! ""
+G%'ulom:G%'ulom NP1-ANT-M ; ! ""
+Marie:Marie NP1-ANT-F ; ! ""
+
+Xo%'jayev:Xo%'jayev NP1-COG-MF ; ! ""
+Yusupov:Yusupov NP1-COG-MF ; ! ""
+
 
 !!!!!!!!! ORGANIZATIONS !!!!
 
@@ -3720,6 +3766,13 @@ aloqali:aloqali POST ; ! "concerning"
 
 LEXICON Adjectives
 
+kunlik:kunlik A1 ; ! "daily"
+inqilobiy:inqilobiy A1 ; ! "revolutionary"
+mahrum:mahrum A1 ; ! "deprived"
+egri:egri A1 ; ! "torned"
+dag%'al:dag%'al A1 ; ! "rough"
+morfologik:morfologik A1 ; ! "morphologic"
+kuchsiz:kuchsiz A1 ; ! "weak"
 pushti:pushti A1 ; ! "pinky"
 noaniq:noaniq A1 ; ! "imprecise"
 xor:xor A1 ; ! "humble"
@@ -4107,7 +4160,10 @@ chiqar:chiqar VERB-TV ; ! "extract"
 hisobla:hisobla VERB-TV ; ! "count"
 uchra:uchra VERB-TV ; ! "meet"
 tarqal:tarqalgan VERB-TV ; ! "spread"
-
+mukofotlan:mukofotlan VERB-IV ; ! "to be rewarded"
+asosla:asosla VERB-TV ; ! "to base"
+osh:osh VERB-TV ; ! "to grow"
+bitil:bitil VERB-TV ; ! "to be written"
 foydalan:foydalan VERB-TV ; ! "to tak advantage" ****
 shug%'ullan:shug%'ullan VERB-IV ; ! ""
 sho%'ng%'i:sho%'ng%'i VERB-IV ; ! "to plunge"
