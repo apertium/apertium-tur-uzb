@@ -627,6 +627,8 @@ LEXICON Titles
 Professor:Professor TIT ; ! ""
 prof:prof TIT ; ! ""
 Sulton:Sulton TIT ; ! ""
+Posho:Posho TIT ; ! ""
+sarkarda:sarkarda TIT ; ! "colonel"
 
 
 LEXICON Mistakes
@@ -722,6 +724,7 @@ PRON-PERS ;
 
 LEXICON Nouns
 
+familiya:familiya N1 ; ! "surname"
 qirg%'in:qirg%'in N1 ; ! "extermination"
 qirg%'ovul:qirg%'ovul N1 ; ! "pheasant"
 qirg%'oq:qirg%'oq N1 ; ! "shore"
@@ -1513,6 +1516,7 @@ atrof:atrof N1 ; ! "surroundings"
 tan:tan N1 ; ! "body"
 joy:joy N1 ; ! "place"
 Hindiston:Hindiston NP-TOP ; ! "India"
+Saloniki:Saloniki NP-TOP ; ! "Selanik"
 vrach:vrach N1 ; ! "doctor"
 tasarruf:tasarruf N1 ; ! "possession"
 inqiroz:inqiroz N1 ; ! "regression"
@@ -1973,6 +1977,7 @@ tadbir:tadbir N1 ; ! "measure, action"
 islohot:islohot N1 ; ! "reform"
 qatlam:qatlam N1 ; ! "layer"
 emizuvchi:emizuvchi A1 ; ! "nursing"
+qarbiy:qarbiy A1 ; ! "military"
 tipli:tipli A1 ; ! "type"
 huquq:huquq N1 ; ! "law"
 tola:tola N1 ; ! "strand eg. strand of hair, field"
@@ -2735,7 +2740,7 @@ Tavrot:Tavrot NP1-ORG ; ! "CORRECT"
 !!!!!! TOPONYMS !!!!!!!
 
 
-orbihan:Morbihan NP-TOP ; ! ""
+Morbihan:Morbihan NP-TOP ; ! ""
 Adige:Adige NP-TOP ; ! ""
 Salerno:Salerno NP-TOP ; ! ""
 Badajoz:Badajoz NP-TOP ; ! ""
@@ -3315,7 +3320,7 @@ Yovvoyi:Yovvoyi NP1-ANT-M ; ! ""
 Stephan:Stephan NP1-ANT-M ; ! ""
 Veronika:Veronika NP1-ANT-F ; ! ""
 Temur:Temur NP1-ANT-M ; ! ""
-
+Mustafo:Mustafo NP1-ANT-M ; ! ""
 Dmitry:Dmitry NP1-ANT-M ; ! ""
 Dominiqüe:Dominiqüe NP1-ANT-M ; ! ""
 Donald:Donald NP1-ANT-M ; ! ""
@@ -3582,6 +3587,7 @@ Parsons:Parsons NP1-COG-MF ; ! ""
 Hujjati:Hujjati NP1-COG-MF ; ! ""
 Herschel:Herschel NP1-COG-MF ; ! ""
 Gul:Gul NP1-COG-MF ; ! ""
+Kemal:Kemal NP1-COG-MF ; ! ""
 Berdimuhammedov:Berdimuhammedov NP1-COG-MF ; ! ""
 Gul:Gul NP1-COG-MF ; ! ""
 Pilat:Pilat NP1-COG-MF ; ! ""
