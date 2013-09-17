@@ -724,6 +724,8 @@ PRON-PERS ;
 
 LEXICON Nouns
 
+shtab:shtab N1 ; ! "headquarters"
+majlis:majlis N1 ; ! "assembly"
 familiya:familiya N1 ; ! "surname"
 qirg%'in:qirg%'in N1 ; ! "extermination"
 qirg%'ovul:qirg%'ovul N1 ; ! "pheasant"
@@ -1513,9 +1515,12 @@ shaxs:shaxs N1 ; ! "individual"
 e'tibor:e'tibor N1 ; ! "effect, prestige"
 tepa:tepa N1 ; ! "upper part, top"
 atrof:atrof N1 ; ! "surroundings"
+zobit:zobit N1 ; ! "officer"
+Ittihod:Ittihod N1 ; ! ""
 tan:tan N1 ; ! "body"
 joy:joy N1 ; ! "place"
 Hindiston:Hindiston NP-TOP ; ! "India"
+Shom:Shom NP-TOP ; ! "damascus"
 Saloniki:Saloniki NP-TOP ; ! "Selanik"
 vrach:vrach N1 ; ! "doctor"
 tasarruf:tasarruf N1 ; ! "possession"
@@ -2397,6 +2402,9 @@ makkajo%'xori:makkajo%'xori N1 ; ! "maize"
 taxallus:taxallus N1 ; ! "pseudonym"
 irmoq:irmoq N1 ; ! "tributary"
 kislorod:kislorod N1 ; ! "oxygen"
+kongress:kongress N1 ; ! "congress"
+grek:grek N1 ; ! "greek"
+arman:arman N1 ; ! "armenian"
 
 
 sovet:sovet N1 ; ! "Soviet"
@@ -3191,6 +3199,9 @@ Xorazmiy:Xorazmiy NP-TOP ; ! ""
 Kiyev:Kiyev NP-TOP ; ! ""
 Iskandar:Iskandar NP-TOP ; ! ""
 City:City NP-TOP ; ! ""
+Arzirum:Arzirum NP-TOP ; ! ""
+Sivas:Sivas NP-TOP ; ! ""
+
 
 Marina:Marina NP1-ANT-F ; ! ""
 Maryam:Maryam NP1-ANT-F ; ! ""
@@ -3711,6 +3722,8 @@ RL:RL NP1-ORG ; ! "Radio Liberty" ! FIXME: Should be joined up
 SE:SE NP1-ORG ; ! ""
 BSP:BSP NP1-ORG ; ! ""
 KDV:KDV NP1-AL ; ! ""
+ItaliyaTurkiya% savaşı:ItaliyaTurkiya% savaşı NP1-AL ; ! ""
+Anatoliya:Anatoliya NP-TOP ; ! ""
 Centre:Centre NP1-AL ; ! ""
 TV:TV NP1-AL ; ! ""
 HIV:HIV NP1-AL ; ! "" @?@
