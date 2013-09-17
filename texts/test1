@@ -1,0 +1,14 @@
+Error: Directory './modes' does not exist.
+USAGE: apertium [-d datadir] [-f format] [-u] <direction> [in [out]]
+ -d datadir       directory of linguistic data
+ -f format        one of: txt (default), html, rtf, odt, docx, wxml, xlsx, pptx,
+                  xpresstag, html-noent, latex, latex-raw
+ -a               display ambiguity
+ -u               don't display marks '*' for unknown words
+ -m memory.tmx    use a translation memory to recycle translations
+ -o direction     translation direction using the translation memory,
+                  by default 'direction' is used instead
+ -l               lists the available translation directions and exits
+ direction        typically, LANG1-LANG2, but see modes.xml in language data
+ in               input file (stdin by default)
+ out              output file (stdout by default)

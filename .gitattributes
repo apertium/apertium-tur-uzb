@@ -20,7 +20,10 @@
 /challenge.txt -text
 /configure.ac -text
 /modes.xml -text
+texts/ataturk-tr.txt -text
+texts/ataturk.complete.tr.rtf -text
 texts/ataturk.txt -text
+texts/test1 -text
 /tur-uzb.prob -text svneol=unset#unset
 /update-morphs.bash -text
 /uzb-tur.prob -text svneol=unset#unset
