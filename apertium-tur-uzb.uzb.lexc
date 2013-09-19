@@ -3722,8 +3722,45 @@ RL:RL NP1-ORG ; ! "Radio Liberty" ! FIXME: Should be joined up
 SE:SE NP1-ORG ; ! ""
 BSP:BSP NP1-ORG ; ! ""
 KDV:KDV NP1-AL ; ! ""
-ItaliyaTurkiya% savaşı:ItaliyaTurkiya% savaşı NP1-AL ; ! ""
 Anatoliya:Anatoliya NP-TOP ; ! ""
+Beauvais:Beauvais NP-TOP ; ! "Beauvais"
+Verdun:Verdun NP-TOP ; ! "Verdun"
+Montbard:Montbard NP-TOP ; ! "Montbard"
+Farg'ona:Farg'ona NP-TOP ; ! "Fergana"
+Vena:Vena NP-TOP ; ! "Vienna"
+Villers:Villers NP-TOP ; ! "Villers"
+Ozarbayjon:Ozarbayjon NP-TOP ; ! "Azerbaijan"
+Hirot:Hirot NP-TOP ; ! "Herat"
+Shahrisabz:Shahrisabz NP-TOP ; ! "Shakhrisabz"
+Hunsr¸ck:Hunsr¸ck NP-TOP ; ! "Hunsr¸ck"
+Argentan:Argentan NP-TOP ; ! "Argentan"
+Kattaqoërgëon:Kattaqoërgëon NP-TOP ; ! "Kattakurgan"
+Gruziya:Gruziya NP-TOP ; ! "Georgia"
+Bourg-en-Bresse:Bourg-en-Bresse NP-TOP ; ! "Bourg-en-Bresse"
+Villeneuve:Villeneuve NP-TOP ; ! "Villeneuve"
+Axsi:Axsi NP-TOP ; ! "Axsi" ************ i couldn't find turkish
+Allegheny:Allegheny NP-TOP ; ! "Allegheny"
+Guliston:Guliston NP-TOP ; ! "Guliston"
+Saint-…tienne:Saint-…tienne NP-TOP ; ! "Saint-…tienne"
+Afina:Afina NP-TOP ; ! "Athens"
+Boysun:Boysun NP-TOP ; ! "Boysun"
+Saale:Saale NP-TOP ; ! "Saale"
+Mirzacho'l:Mirzacho'l NP-TOP ; ! "Mirzacho'l" ************* i couldn't find turkish
+Lisieux:Lisieux NP-TOP ; ! "Lisieux"
+Talas:Talas NP-TOP ; ! "Talas"
+CastellÛn:CastellÛn NP-TOP ; ! "Castellon"
+Galicia:Galicia NP-TOP ; ! "Galicia"
+Grenoble:Grenoble NP-TOP ; ! "Grenoble"
+Caen:Caen NP-TOP ; ! "Caen"
+
+
+
+
+
+
+
+
+
 Centre:Centre NP1-AL ; ! ""
 TV:TV NP1-AL ; ! ""
 HIV:HIV NP1-AL ; ! "" @?@
