@@ -87,12 +87,53 @@
 <e><p><l>esasi<s n="adj"/></l><r>asosiy<s n="adj"/></r></p></e>
 <e><p><l>geniş<s n="adj"/></l><r>keng<s n="adj"/></r></p></e>
 <e><p><l>bilimsel<s n="adj"/></l><r>ilmiy<s n="adj"/></r></p></e>
+<e><p><l>aromatik<s n="adj"/></l><r>xushbo'y<s n="adj"/></r></p></e>
+<e><p><l>göreceli<s n="adj"/></l><r>nispi<s n="adj"/></r></p></e>
+<e><p><l>oval<s n="adj"/></l><r>tuxumsimon<s n="adj"/></r></p></e>
+<e><p><l>güçlü<s n="adj"/></l><r>pishiq<s n="adj"/></r></p></e>
+<e><p><l>içbükey<s n="adj"/></l><r>botiq<s n="adj"/></r></p></e>
+<e><p><l>küresel<s n="adj"/></l><r>sharsimon<s n="adj"/></r></p></e>
+<e><p><l>ıslak<s n="adj"/></l><r>sernam<s n="adj"/></r></p></e>
+<e><p><l>çizgili<s n="adj"/></l><r>chiziqli<s n="adj"/></r></p></e>
+<e><p><l>yaygın<s n="adj"/></l><r>o'zaro<s n="adj"/></r></p></e>
+<e><p><l>paleozoik<s n="adj"/></l><r>paleozoy<s n="adj"/></r></p></e>
+<e><p><l>yerleşik<s n="adj"/></l><r>o'troq<s n="adj"/></r></p></e>
+<e><p><l>baş<s n="adj"/></l><r>kapital<s n="adj"/></r></p></e>
+<e><p><l>kritik<s n="adj"/></l><r>tanqidiy<s n="adj"/></r></p></e>
+<e><p><l>renkli<s n="adj"/></l><r>tusli<s n="adj"/></r></p></e>
+<e><p><l>güllü<s n="adj"/></l><r>gulli<s n="adj"/></r></p></e>
+<e><p><l>epik<s n="adj"/></l><r>epik<s n="adj"/></r></p></e>
+<e><p><l>esaslı<s n="adj"/></l><r>asosli<s n="adj"/></r></p></e>
+<e><p><l>efsanevi<s n="adj"/></l><r>afsonaviy<s n="adj"/></r></p></e>
+<e><p><l>aşık<s n="adj"/></l><r>oshiq<s n="adj"/></r></p></e>
+<e><p><l>başka<s n="adj"/></l><r>boshqa<s n="adj"/></r></p></e>
+<e><p><l>metamorfik<s n="adj"/></l><r>metamorfik<s n="adj"/></r></p></e>
+<e><p><l>negatif<s n="adj"/></l><r>salbiy<s n="adj"/></r></p></e>
+<e><p><l>temiz<s n="adj"/></l><r>toza<s n="adj"/></r></p></e>
+<e><p><l>senfonik<s n="adj"/></l><r>simfonik<s n="adj"/></r></p></e>
+<e><p><l>sır<s n="adj"/></l><r>yashirin<s n="adj"/></r></p></e>
+<e><p><l>yeterli<s n="adj"/></l><r>yetarli<s n="adj"/></r></p></e>
+<e><p><l>paralel<s n="adj"/></l><r>parallel<s n="adj"/></r></p></e>
+<e><p><l>kaliteli<s n="adj"/></l><r>sıfatli<s n="adj"/></r></p></e>
+<e><p><l>inanılmaz<s n="adj"/></l><r>atoyijon<s n="adj"/></r></p></e>
+<e><p><l>klasik<s n="adj"/></l><r>klassik<s n="adj"/></r></p></e>
+<e><p><l>taraflı<s n="adj"/></l><r>qirrali<s n="adj"/></r></p></e>
+<e><p><l>koltuklu<s n="adj"/></l><r>seated<s n="adj"/></r></p></e>
+<e><p><l>teknolojik<s n="adj"/></l><r>texnologik<s n="adj"/></r></p></e>
+<e><p><l>zor<s n="adj"/></l><r>qiyin<s n="adj"/></r></p></e>
+<e><p><l>antik<s n="adj"/></l><r>qadimgi<s n="adj"/></r></p></e>
+<e><p><l>hayati<s n="adj"/></l><r>hayotiy<s n="adj"/></r></p></e>
+<e><p><l>adil<s n="adj"/></l><r>odil<s n="adj"/></r></p></e>
+<e><p><l>fiziksel<s n="adj"/></l><r>fizik<s n="adj"/></r></p></e>
+<e><p><l>ağır<s n="adj"/></l><r>zil<s n="adj"/></r></p></e>
+
 
 
   
 
    
    <!-- SECTION: Adverbs -->
+
 
       <e c="  0"><p><l>hür<s n="adv"/></l><r>erkin<s n="adv"/></r></p></e>
       <e><p><l>içeri<s n="adv"/></l><r>ichida<s n="adv"/></r></p></e>
@@ -135,6 +176,15 @@
 <e><p><l>daha<s n="adv"/></l><r>badtar<s n="adv"/></r></p></e>
 <e><p><l>ardından<s n="adv"/></l><r>axtarish<s n="adv"/></r></p></e>
 
+<e><p><l>en<b/>azindan<s n="adv"/></l><r>kamida<s n="adv"/></r></p></e>
+<e><p><l>ileriye<b/>dogru<s n="adv"/></l><r>oldinga<s n="adv"/></r></p></e>
+<e><p><l>anca<s n="adv"/></l><r>uncha<s n="adv"/></r></p></e>
+<e><p><l>bir<b/>daha<s n="adv"/></l><r>qaytadan<s n="adv"/></r></p></e>
+<e><p><l>görünüste<s n="adv"/></l><r>chog'i<s n="adv"/></r></p></e>
+<e><p><l>sonra<s n="adv"/></l><r>o'tgach<s n="adv"/></r></p></e>
+<e><p><l>evvela<s n="adv"/></l><r>avvalo<s n="adv"/></r></p></e>
+<e><p><l>asagida<b/>belirtildigi<b/>gibi<s n="adv"/></l><r>quyidagicha<s n="adv"/></r></p></e>
+<e><p><l>çok<s n="adv"/></l><r>zab<s n="adv"/></r></p></e>
 
 
 
@@ -1280,6 +1330,119 @@
 <e><p><l>gelisim<s n="n"/></l><r>taraqqiy<s n="n"/></r></p></e>
 <e><p><l>kum<s n="n"/></l><r>qum<s n="n"/></r></p></e>
 <e><p><l>dumanlik<s n="n"/></l><r>tumanlik<s n="n"/></r></p></e>
+<e><p><l>şube<s n="n"/></l><r>shoxobcha<s n="n"/></r></p></e>
+<e><p><l>ölçek<s n="n"/></l><r>miqyos<s n="n"/></r></p></e>
+<e><p><l>delgi<s n="n"/></l><r>burg'i<s n="n"/></r></p></e>
+<e><p><l>Altay<s n="n"/></l><r>Oltoy<s n="n"/></r></p></e>
+<e><p><l>karargah<s n="n"/></l><r>qarargoh<s n="n"/></r></p></e>
+<e><p><l>manganez<s n="n"/></l><r>marganets<s n="n"/></r></p></e>
+<e><p><l>lise<s n="n"/></l><r>litsey<s n="n"/></r></p></e>
+<e><p><l>klinik<s n="n"/></l><r>klinika<s n="n"/></r></p></e>
+<e><p><l>ceza<s n="n"/></l><r>jazo<s n="n"/></r></p></e>
+<e><p><l>tapınak<s n="n"/></l><r>chekka<s n="n"/></r></p></e>
+<e><p><l>yonca<s n="n"/></l><r>beda<s n="n"/></r></p></e>
+<e><p><l>tungsten<s n="n"/></l><r>volfram<s n="n"/></r></p></e>
+<e><p><l>konu<s n="n"/></l><r>bora<s n="n"/></r></p></e>
+<e><p><l>yosun<s n="n"/></l><r>suvo't<s n="n"/></r></p></e>
+<e><p><l>sıvı<s n="n"/></l><r>suyuqlik<s n="n"/></r></p></e>
+<e><p><l>dostluk<s n="n"/></l><r>do'stlik<s n="n"/></r></p></e>
+<e><p><l>ayet<s n="n"/></l><r>oyat<s n="n"/></r></p></e>
+<e><p><l>madencilik<s n="n"/></l><r>konchilik<s n="n"/></r></p></e>
+<e><p><l>tohum<s n="n"/></l><r>urug<s n="n"/></r></p></e>
+<e><p><l>düzine<s n="n"/></l><r>o'nlab<s n="n"/></r></p></e>
+<e><p><l>avcılık<s n="n"/></l><r>ovchilik<s n="n"/></r></p></e>
+<e><p><l>pancar<s n="n"/></l><r>beet<s n="n"/></r></p></e>
+<e><p><l>karışım<s n="n"/></l><r>aralashma<s n="n"/></r></p></e>
+<e><p><l>çarpma<s n="n"/></l><r>ko'paytirish<s n="n"/></r></p></e>
+<e><p><l>bahar<s n="n"/></l><r>bahor<s n="n"/></r></p></e>
+<e><p><l>rezerv<s n="n"/></l><r>qo'riqxona<s n="n"/></r></p></e>
+<e><p><l>tasavvur<s n="n"/></l><r>tasavvur<s n="n"/></r></p></e>
+<e><p><l>özleştirme<s n="n"/></l><r>o'zlashtirish<s n="n"/></r></p></e>
+<e><p><l>om<s n="n"/></l><r>om<s n="n"/></r></p></e>
+<e><p><l>kahve<s n="n"/></l><r>kofe<s n="n"/></r></p></e>
+<e><p><l>yarı<b/>iletken<s n="n"/></l><r><s n="n"/>yarimo'tkazgich</r></p></e>
+<e><p><l>lenf<s n="n"/></l><r>limfa<s n="n"/></r></p></e>
+<e><p><l>jips<s n="n"/></l><r>gips<s n="n"/></r></p></e>
+<e><p><l>hacı<s n="n"/></l><r>hoji<s n="n"/></r></p></e>
+<e><p><l>çakıl<s n="n"/></l><r>shagal<s n="n"/></r></p></e>
+<e><p><l>krallık<s n="n"/></l><r>qirollik<s n="n"/></r></p></e>
+<e><p><l>miktar<s n="n"/></l><r>miqdor<s n="n"/></r></p></e>
+<e><p><l>bayır<s n="n"/></l><r>qiya<s n="n"/></r></p></e>
+<e><p><l>albüm<s n="n"/></l><r>albom<s n="n"/></r></p></e>
+<e><p><l>deri<s n="n"/></l><r>teri<s n="n"/></r></p></e>
+<e><p><l>barış<s n="n"/></l><r>sulh<s n="n"/></r></p></e>
+<e><p><l>avlu<s n="n"/></l><r>hovli<s n="n"/></r></p></e>
+<e><p><l>çömlekçilik<s n="n"/></l><r>kulolchilik<s n="n"/></r></p></e>
+<e><p><l>televizyon<s n="n"/></l><r>televideniye<s n="n"/></r></p></e>
+<e><p><l>devrim<s n="n"/></l><r>inqilob<s n="n"/></r></p></e>
+<e><p><l>sahiplik<s n="n"/></l><r>egalik<s n="n"/></r></p></e>
+<e><p><l>dönem<s n="n"/></l><r>termin<s n="n"/></r></p></e>
+<e><p><l>pelinotu<s n="n"/></l><r>shuvoq<s n="n"/></r></p></e>
+<e><p><l>akıl<s n="n"/></l><r>idrak<s n="n"/></r></p></e>
+<e><p><l>mühendislik<s n="n"/></l><r>muhandislik<s n="n"/></r></p></e>
+<e><p><l>kil<s n="n"/></l><r>lov<s n="n"/></r></p></e>
+<e><p><l>alçı<s n="n"/></l><r>ganch<s n="n"/></r></p></e>
+<e><p><l>ders<s n="n"/></l><r>dars<s n="n"/></r></p></e>
+<e><p><l>bozuk<b/>para<s n="n"/></l><r>tanga<s n="n"/></r></p></e>
+<e><p><l>minyatür<s n="n"/></l><r>miniature<s n="n"/></r></p></e>
+<e><p><l>oluş<s n="n"/></l><r>bo'lish<s n="n"/></r></p></e>
+<e><p><l>ahlak<s n="n"/></l><r>axloq<s n="n"/></r></p></e>
+<e><p><l>kemik<s n="n"/></l><r>suyak<s n="n"/></r></p></e>
+<e><p><l>kuşatma<s n="n"/></l><r>qamal<s n="n"/></r></p></e>
+<e><p><l>tel<s n="n"/></l><r>sim<s n="n"/></r></p></e>
+<e><p><l>düzenek<s n="n"/></l><r>mashinasozlik<s n="n"/></r></p></e>
+<e><p><l>otlak<s n="n"/></l><r>o'tloq<s n="n"/></r></p></e>
+<e><p><l>oda<s n="n"/></l><r>palata<s n="n"/></r></p></e>
+<e><p><l>kıta<s n="n"/></l><r>materik<s n="n"/></r></p></e>
+<e><p><l>dal<s n="n"/></l><r>filial<s n="n"/></r></p></e>
+<e><p><l>tüberküloz<s n="n"/></l><r>sil<s n="n"/></r></p></e>
+<e><p><l>fiyat<s n="n"/></l><r>baho<s n="n"/></r></p></e>
+<e><p><l>ağırlık<s n="n"/></l><r>o'girlik<s n="n"/></r></p></e>
+<e><p><l>fil<s n="n"/></l><r>fil<s n="n"/></r></p></e>
+<e><p><l>iş<s n="n"/></l><r>biznes<s n="n"/></r></p></e>
+<e><p><l>sahne<s n="n"/></l><r>estrada<s n="n"/></r></p></e>
+<e><p><l>sülfat<s n="n"/></l><r>sulfat<s n="n"/></r></p></e>
+<e><p><l>mobilya<s n="n"/></l><r>mebel<s n="n"/></r></p></e>
+<e><p><l>kil<s n="n"/></l><r>gil<s n="n"/></r></p></e>
+<e><p><l>havacılık<s n="n"/></l><r>aviatsiya<s n="n"/></r></p></e>
+<e><p><l>telefon<s n="n"/></l><r>telefon<s n="n"/></r></p></e>
+<e><p><l>klup<s n="n"/></l><r>klub<s n="n"/></r></p></e>
+<e><p><l>çukur<s n="n"/></l><r>chuqur<s n="n"/></r></p></e>
+<e><p><l>kömür<s n="n"/></l><r>toshko'mir<s n="n"/></r></p></e>
+<e><p><l>liderlik<s n="n"/></l><r>boshchilik<s n="n"/></r></p></e>
+<e><p><l>kaş<s n="n"/></l><r>qosh<s n="n"/></r></p></e>
+<e><p><l>bostan<s n="n"/></l><r>poliz<s n="n"/></r></p></e>
+<e><p><l>yabancı<s n="n"/></l><r>o'zga<s n="n"/></r></p></e>
+<e><p><l>italyan<s n="n"/></l><r>italyan<s n="n"/></r></p></e>
+<e><p><l>yatay<b/>çizgi<s n="n"/></l><r>gorizontal<s n="n"/></r></p></e>
+<e><p><l>yem<s n="n"/></l><r>yem<s n="n"/></r></p></e>
+<e><p><l>müzisyen<s n="n"/></l><r>sozanda<s n="n"/></r></p></e>
+<e><p><l>nota<s n="n"/></l><r>nota<s n="n"/></r></p></e>
+<e><p><l>yiyecek<s n="n"/></l><r>oziq-ovqat<s n="n"/></r></p></e>
+<e><p><l>koku<s n="n"/></l><r>is<s n="n"/></r></p></e>
+<e><p><l>kare<s n="n"/></l><r>to'rtburchak<s n="n"/></r></p></e>
+<e><p><l>yüz<s n="n"/></l><r>face<s n="n"/></r></p></e>
+<e><p><l>kubbe<s n="n"/></l><r>gumbaz<s n="n"/></r></p></e>
+<e><p><l>telekomünikasyon<s n="n"/></l><r>telekommunikatsiya<s n="n"/></r></p></e>
+<e><p><l>icat<s n="n"/></l><r>ixtiro<s n="n"/></r></p></e>
+<e><p><l>medrese<s n="n"/></l><r>madrasa<s n="n"/></r></p></e>
+<e><p><l>kök<s n="n"/></l><r>o'zak<s n="n"/></r></p></e>
+<e><p><l>maharet<s n="n"/></l><r>mahorat<s n="n"/></r></p></e>
+<e><p><l>cilt<s n="n"/></l><r>jild<s n="n"/></r></p></e>
+<e><p><l>yükseklik<s n="n"/></l><r>balandlik<s n="n"/></r></p></e>
+<e><p><l>osmanlı<s n="n"/></l><r>usmonli<s n="n"/></r></p></e>
+<e><p><l>mektup<s n="n"/></l><r>noma<s n="n"/></r></p></e>
+<e><p><l>yer<s n="n"/></l><r>joy<s n="n"/></r></p></e>
+<e><p><l>jeolog<s n="n"/></l><r>geolog<s n="n"/></r></p></e>
+<e><p><l>nevruz<s n="n"/></l><r>navro'z<s n="n"/></r></p></e>
+<e><p><l>kutsal<b/>yer<s n="n"/></l><r>qadamjoy<s n="n"/></r></p></e>
+<e><p><l>tarz<s n="n"/></l><r>stil<s n="n"/></r></p></e>
+<e><p><l>sebep<s n="n"/></l><r>bois<s n="n"/></r></p></e>
+<e><p><l>alev<s n="n"/></l><r>olov<s n="n"/></r></p></e>
+<e><p><l>nene<s n="n"/></l><r>bi<s n="n"/></r></p></e>
+<e><p><l>varlık<s n="n"/></l><r>borlik<s n="n"/></r></p></e>
+<e><p><l>kompartman<s n="n"/></l><r>kupe<s n="n"/></r></p></e>
+
 
 
 
@@ -1585,6 +1748,37 @@
     <!-- SECTION: Prop - nounsTOP -->
     
     
+    <e><p><l>İsviçre<s n="np"/></l><r>Shveysariya<s n="np"/></r></p></e>
+<e><p><l>beauvais<s n="np"/></l><r>beauvais<s n="np"/></r></p></e>
+<e><p><l>verdun<s n="np"/></l><r>verdun<s n="np"/></r></p></e>
+<e><p><l>montbard<s n="np"/></l><r>montbard<s n="np"/></r></p></e>
+<e><p><l>Èpinal<s n="np"/></l><r>Èpinal<s n="np"/></r></p></e>
+<e><p><l>fergana<s n="np"/></l><r>Farg'ona<s n="np"/></r></p></e>
+<e><p><l>jaen<s n="np"/></l><r>jaen<s n="np"/></r></p></e>
+<e><p><l>viyana<s n="np"/></l><r>vena<s n="np"/></r></p></e>
+<e><p><l>villers<s n="np"/></l><r>villers<s n="np"/></r></p></e>
+<e><p><l>azerbaycan<s n="np"/></l><r>ozarbayjon<s n="np"/></r></p></e>
+<e><p><l>herat<s n="np"/></l><r>hirot<s n="np"/></r></p></e>
+<e><p><l>sahrisabz<s n="np"/></l><r>shahrisabz<s n="np"/></r></p></e>
+<e><p><l>hunsrück<s n="np"/></l><r>hunsrück<s n="np"/></r></p></e>
+<e><p><l>argentan<s n="np"/></l><r>argentan<s n="np"/></r></p></e>
+<e><p><l>Kattaqoërgëon<s n="np"/></l><r>Kattaqoërgëon<s n="np"/></r></p></e>
+<e><p><l>gürcistan<s n="np"/></l><r>gruziya<s n="np"/></r></p></e>
+<e><p><l>Bourg-en-Bresse<s n="np"/></l><r>Bourg-en-Bresse<s n="np"/></r></p></e>
+<e><p><l>villeneuve<s n="np"/></l><r>villeneuve<s n="np"/></r></p></e>
+<e><p><l>allegheny<s n="np"/></l><r>allegheny<s n="np"/></r></p></e>
+<e><p><l>gülistan<s n="np"/></l><r>guliston<s n="np"/></r></p></e>
+<e><p><l>a<b/>coruna<s n="np"/></l><r>a<b/>coruna<s n="np"/></r></p></e>
+<e><p><l>saint<b/>etienne<s n="np"/></l><r>saint<b/>etienne<s n="np"/></r></p></e>
+<e><p><l>atina<s n="np"/></l><r>afina<s n="np"/></r></p></e>
+<e><p><l>boysun<s n="np"/></l><r>boysun<s n="np"/></r></p></e>
+<e><p><l>saale<s n="np"/></l><r>saale<s n="np"/></r></p></e>
+<e><p><l>lisieux<s n="np"/></l><r>lisieux<s n="np"/></r></p></e>
+<e><p><l>talas<s n="np"/></l><r>talas<s n="np"/></r></p></e>
+<e><p><l>castellon<s n="np"/></l><r>castellon<s n="np"/></r></p></e>
+<e><p><l>galiçya<s n="np"/></l><r>galicia<s n="np"/></r></p></e>
+<e><p><l>grenoble<s n="np"/></l><r>grenoble<s n="np"/></r></p></e>
+<e><p><l>caen<s n="np"/></l><r>caen<s n="np"/></r></p></e>
         <e><p><l>Özbekistan<s n="np"/></l><r>O'zbekiston<s n="np"/></r></p></e>
         <e><p><l>Taşkent<s n="np"/></l><r>Toshkent<s n="np"/></r></p></e>
         <e><p><l>Reyhan<s n="np"/></l><r>Reyhan<s n="np"/></r></p></e>
@@ -1747,7 +1941,48 @@
     
      <!-- SECTION: Verbs -->
 
-
+<e><p><l>taşla<s n="v"/><s n="tv"/></l><r>tashla<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>kovala<s n="v"/><s n="tv"/></l><r>kuv<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>yetiştir<s n="v"/><s n="tv"/></l><r>yetishtir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>kazan<s n="v"/><s n="tv"/></l><r>qozon<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>öğren<s n="v"/><s n="tv"/></l><r>organ<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>taşlaş<s n="v"/><s n="tv"/></l><r>tashlash<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>açıkla<s n="v"/><s n="tv"/></l><r>ifodala<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>yürüt<s n="v"/><s n="tv"/></l><r>o'ta<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>üret<s n="v"/><s n="tv"/></l><r>ishlab<b/>chiqar<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>işaretle<s n="v"/><s n="tv"/></l><r>belgila<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>kürekle<s n="v"/><s n="tv"/></l><r>kura<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>kur<s n="v"/><s n="tv"/></l><r>o'rnat<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>düşür<s n="v"/><s n="tv"/></l><r>tushir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>kuşat<s n="v"/><s n="tv"/></l><r>qamra<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>sık<s n="v"/><s n="tv"/></l><r>siq<s n="v"/><s n="tv"/></r></p></e><e><p><l>yürüt<s n="v"/><s n="tv"/></l><r>o'ta<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>yap<s n="v"/><s n="tv"/></l><r>qil<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>belirle<s n="v"/><s n="tv"/></l><r>aniqla<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>taşı<s n="v"/><s n="tv"/></l><r>tashi<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>topla<s n="v"/><s n="tv"/></l><r>to'pla<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>seç<s n="v"/><s n="tv"/></l><r>tanla<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>ölçül<s n="v"/><s n="iv"/></l><r>o'lchan<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>örüş<s n="v"/><s n="iv"/></l><r>to'qish<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>dur<s n="v"/><s n="iv"/></l><r>tur<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>piş<s n="v"/><s n="iv"/></l><r>pish<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>benzemek<s n="v"/><s n="iv"/></l><r>o'xsha<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>faydalanıl<s n="v"/><s n="iv"/></l><r>foydalanil<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>katıl<s n="v"/><s n="iv"/></l><r>qatna<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>kısıtlan<s n="v"/><s n="iv"/></l><r>cheklan<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>kaybol<s n="v"/><s n="iv"/></l><r>nobut<b/>bo'l<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>tanıştırıl<s n="v"/><s n="iv"/></l><r>kiritil<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>katıl<s n="v"/><s n="iv"/></l><r>qo'shil<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>çiçeklen<s n="v"/><s n="iv"/></l><r>gulla<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>uç<s n="v"/><s n="iv"/></l><r>uch<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>çürü<s n="v"/><s n="iv"/></l><r>chiri<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>kullanıl<s n="v"/><s n="iv"/></l><r>qo'llanil<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>koyul<s n="v"/><s n="iv"/></l><r>qo'yil<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>art<s n="v"/><s n="iv"/></l><r>ko'pay<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>tanın<s n="v"/><s n="iv"/></l><r>tanil<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>toplan<s n="v"/><s n="iv"/></l><r>to'plan<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>kayna<s n="v"/><s n="iv"/></l><r>qayna<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>açıkla<s n="v"/><s n="iv"/></l><r>ifodalan<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>veril<s n="v"/><s n="iv"/></l><r>beril<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>getir<s n="v"/><s n="tv"/></l><r>keltir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>sar<s n="v"/><s n="tv"/></l><r>o'ra<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>geçir<s n="v"/><s n="tv"/></l><r>o'tkaz<s n="v"/><s n="tv"/></r></p></e>
