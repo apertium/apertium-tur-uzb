@@ -2694,7 +2694,24 @@ bois:bois N1 ; ! "reason"
 olov:olov N1 ; ! "flame"
 bi:bi N1 ; ! "grandmather"
 borlik:borlik N1 ; ! "existence"
-kupe:kupe N1 ; ! "compartment"F
+kupe:kupe N1 ; ! "compartment"
+sayyora:sayyora N1 ; ! "planet"
+tekislik:tekislik N1 ; ! "flatness"
+oluvchi:oluvchi N1 ; ! "customer
+geograf:geograf N1 ; ! "geographer"
+fuqarolik:fuqarolik N1 ; ! "citizenship"
+chuqurlik:chuqurlik N1 ; ! "hole"
+saroy:saroy N1 ; ! "palace"
+laringit:laringit N1 ; ! "laryngitis"
+paxtachilik:paxtachilik N1 ; ! "cotton agriculture"
+villa:villa N1 ; ! "villa"
+haykaltaroshlik:haykaltaroshlik N1 ; ! "sculpture"
+konserva:konserva N1 ; ! "canned food"
+kemasozlik:kemasozlik N1 ; ! "shipbuilding"
+albom:albom N1 ; ! "album"
+buloq:buloq N1 ; ! "spring"
+kumir:kumir N1 ; ! "idol"
+bahor:bahor N1 ; ! "spring"
 
 
 
@@ -3865,7 +3882,16 @@ CastellÛn:CastellÛn NP-TOP ; ! "Castellon"
 Galicia:Galicia NP-TOP ; ! "Galicia"
 Grenoble:Grenoble NP-TOP ; ! "Grenoble"
 Caen:Caen NP-TOP ; ! "Caen"
-
+Amiens:Amiens NP-TOP ; ! "Amiens
+Germain:Germain NP-TOP ; ! "Germain"
+Pavo:Pavo NP-TOP ; ! "Pavo"
+Laon:Laon NP-TOP ; ! "Laon"
+Amand:Amand NP-TOP ; ! "Amand"
+Louis:Louis NP-TOP ; ! "Louis"
+Francis:Francis NP-TOP ; ! "Francis"
+Besançon:Besançon NP-TOP ; ! "BesanÁon"
+chatqol:chatqol NP-TOP ; ! ***************
+Dijon:Dijon NP-TOP ; ! "Dijon"
 
 
 
@@ -4130,7 +4156,21 @@ aloqali:aloqali POST ; ! "concerning"
 
 LEXICON Adjectives
 
-
+jonli:jonli A1 ; ! "alive"
+mayin:mayin A1 ; ! "soft"
+muddatli:muddatli A1 ; ! "having a set time"
+agrar:agrar A1 ; ! "agrarian"
+mevali:mevali A1 ; ! "bearing fruit"
+musbat:musbat A1 ; ! "positive"
+zararli:zararli A1 ; ! "harmful"
+tutash:tutash A1 ; ! "continuous"
+ortiqcha:ortiqcha A1 ; ! "too much"
+aksariyat:aksariyat A1 ; ! "majority"
+zid:zid A1 ; ! "opposite"
+real:real A1 ; ! "real"
+geometrik:geometrik A1 ; ! "geometrical"
+seysmik:seysmik A1 ; ! "seismic"
+muqim:muqim A1 ; ! "native"
 torli:torli A1 ; ! "stringed"
 taniqli:taniqli A1 ; ! "familiar"
 kuzgi:kuzgi A1 ; ! "fall"
@@ -4865,6 +4905,10 @@ aniqlash:aniqlash VERB-TV ; ! "" "to become clear, specify"
 ishlab%chiqar:ishlab%chiq VERB-IV ; ! "" "work, process"
 lat:lat VERB-TV ; ! ""
 tug'ilgan:tug'ilgan VERB-IV ; ! "" "to born"
+kamay:kamay VERB-IV ; ! "decrease"
+bulg%'an:bulg%'an VERB-IV ; ! "to be covered with"
+tushiril:tushiril VERB-IV ; ! "to be dropped"
+uchish:uchish VERB-IV ; ! "coop.of to fly"
 
 
 e:e VERB-COPULA ; ! "special copula"
