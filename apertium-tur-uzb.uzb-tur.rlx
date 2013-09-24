@@ -35,7 +35,7 @@ LIST Cog = (np cog);
 LIST Recip = rec ; 
 LIST Caus = caus ; 
 
-LIST Ger = ger1 ger2 ger3 ; 
+LIST Ger = ger1 ger2 ger3 ger4 ger5; 
 
 LIST Imper = imp ; 
 
@@ -49,4 +49,11 @@ SET WORDMARK = WORD | MARK ;
 
 
 REMOVE Imper IF (NOT 0C Imper) ;
-    ## Bunlar, bu hafta içinde dünyanın dört bir yanından İtalyan başkentine [0]akın etmiş olan yaklaşık dört milyon hacı ve yaslı kalabalığa katıldı.
+
+REMOVE Ger IF (1 EOS); 
+
+REMOVE N + Nom IF (0 Attr OR Nom) (1C Nom) ;
+
+SELECT Attr (0 Nom) (1C Px3Sp + Nom) ; 
+
+
