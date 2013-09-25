@@ -1778,6 +1778,8 @@
 <e><p><l>devrimsel<s n="adj"/></l><r>inqilobiy<s n="adj"/></r></p></e>
 <e><p><l>güçlü<s n="adj"/></l><r>kuchli<s n="adj"/></r></p></e>
 
+<e><p><l>doğum<s n="adj"/></l><r>tavallud<s n="adj"/></r></p></e>
+<e><p><l>muharebe<s n="n"/></l><r>jang<s n="n"/></r></p></e>
 
 <e><p><l>muharebe<s n="n"/></l><r>jang<s n="n"/></r></p></e>
 <e><p><l>Antant<s n="n"/></l><r>Antanta<s n="n"/></r></p></e>
@@ -1875,6 +1877,7 @@
 <e><p><l>dikkat<s n="n"/></l><r>nazar<s n="n"/></r></p></e>
 <e><p><l>kemalism<s n="n"/></l><r>kamolchilik<s n="n"/></r></p></e>
 <e><p><l>halk<s n="n"/></l><r>xalx<s n="n"/></r></p></e>
+<e><p><l>destek<s n="n"/></l><r>tayanch<s n="n"/></r></p></e>
 
 <e><p><l>ocak<s n="n"/></l><r>yanvar<s n="n"/></r></p></e>
 <e><p><l>şubat<s n="n"/></l><r>fevral<s n="n"/></r></p></e>
@@ -2275,6 +2278,8 @@
 <e><p><l>Hisor<s n="np"/></l><r>Hisor<s n="np"/></r></p></e>
 <e><p><l>Como<s n="np"/></l><r>Como<s n="np"/></r></p></e>
 <e><p><l>Abruzzo<s n="np"/></l><r>Abruzzo<s n="np"/></r></p></e>
+ <e><p><l>Selanik<s n="np"/></l><r>Selanik<s n="np"/></r></p></e>
+
 
 
     <!-- SECTION: Prop - nounsNOMMASC -->
@@ -2504,6 +2509,8 @@
  	<e><p><l>söyle<s n="v"/><s n="tv"/></l><r>de<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>kaç<s n="v"/><s n="tv"/></l><r>qoch<s n="v"/><s n="iv"/></r></p></e>
  	<e><p><l>getir<s n="v"/><s n="tv"/></l><r>olib%kel<s n="v"/><s n="tv"/></r></p></e>
+ 	<e><p><l>söyle<s n="v"/><s n="tv"/></l><r>ayt<s n="v"/><s n="tv"/></r></p></e>
+
  	<e><p><l>düş<s n="v"/><s n="tv"/></l><r>tush<s n="v"/><s n="iv"/></r></p></e>
  	<e><p><l>dile<s n="v"/><s n="tv"/></l><r>tila<s n="v"/><s n="iv"/></r></p></e>
  	<e><p><l>dur<s n="v"/><s n="tv"/></l><r>to'xta<s n="v"/><s n="iv"/></r></p></e>
