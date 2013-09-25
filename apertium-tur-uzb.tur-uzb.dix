@@ -35,6 +35,7 @@
 
     <sdef n="org"    c="organization"/>
 
+    <sdef n="tit"    c="title"/>
 
 
 
@@ -75,6 +76,8 @@
    <e c="  0"><p><l>gelecek<s n="adj"/></l><r>kelgusi<s n="adj"/></r></p></e>
    <e c="  0"><p><l>uluslararası<s n="adj"/></l><r>xalqaro<s n="adj"/></r></p></e>
    <e c="  0"><p><l>küçük<s n="adj"/></l><r>kichik<s n="adj"/></r></p></e>
+      <e c="  0"><p><l>güncel<s n="adj"/></l><r>joriy<s n="adj"/></r></p></e>
+
    <e><p><l>var<s n="adj"/></l><r>bor<s n="adj"/></r></p></e>
 <e><p><l>uzun<s n="adj"/></l><r>ozon<s n="adj"/></r></p></e>
 <e><p><l>ortanca<s n="adj"/></l><r>ortacha<s n="adj"/></r></p></e>
@@ -1764,6 +1767,7 @@
 <e><p><l>ekonomik<s n="adj"/></l><r>iqtisodiy<s n="adj"/></r></p></e>
 <e><p><l>uzak<s n="adj"/></l><r>uzak<s n="adj"/></r></p></e>
 <e><p><l>devrimsel<s n="adj"/></l><r>inqilobiy<s n="adj"/></r></p></e>
+<e><p><l>güçlü<s n="adj"/></l><r>kuchli<s n="adj"/></r></p></e>
 
 
 
@@ -1778,7 +1782,7 @@
 <e><p><l>paşa<s n="n"/></l><r>posho<s n="n"/></r></p></e>
 <e><p><l>paşa<s n="n"/></l><r>sarkarda<s n="n"/></r></p></e>
 <e><p><l>meclis<s n="n"/></l><r>majlis<s n="n"/></r></p></e>
-<e><p><l>kararga<s n="n"/></l><r>shtab<s n="n"/></r></p></e>
+<e><p><l>karargah<s n="n"/></l><r>shtab<s n="n"/></r></p></e>
 <e><p><l>bağımsızlık<s n="n"/></l><r>mustaqillik<s n="n"/></r></p></e>
 <e><p><l>ayrılık<s n="n"/></l><r>ziddiyat<s n="n"/></r></p></e>
 
@@ -2093,6 +2097,7 @@
     
 <e><p><l>Mustafa<s n="np"/></l><r>Mustafo<s n="np"/></r></p></e>
 <e><p><l>Atatürk<s n="np"/></l><r>Otaturk<s n="np"/></r></p></e>
+<e><p><l>Ankara<s n="np"/></l><r>Anqara<s n="np"/></r></p></e>
 
 <e><p><l>Kamol<s n="np"/></l><r>Kamol<s n="np"/></r></p></e>
 <e><p><l>İstanbul<s n="np"/></l><r>Istanbul<s n="np"/></r></p></e>
@@ -2232,7 +2237,7 @@
 <e><p><l>Vosges<s n="np"/></l><r>Vosges<s n="np"/></r></p></e>
 <e><p><l>Doubs<s n="np"/></l><r>Doubs<s n="np"/></r></p></e>
 <e><p><l>dağ<s n="n"/></l><r>tog'<s n="n"/></r></p></e>
-<e><p><l>Zerefsan<s n="np"/></l><r>Zarafshon<s n="np"/></r></p></e>
+<e><p><l>rol<s n="np"/></l><r>rol<s n="np"/></r></p></e>
 <e><p><l>Namangan<s n="np"/></l><r>Namangan<s n="np"/></r></p></e>
 <e><p><l>Yonne<s n="np"/></l><r>Yonne<s n="np"/></r></p></e>
 <e><p><l>Sirderya<s n="np"/></l><r>Sirdaryo<s n="np"/></r></p></e>
@@ -2286,6 +2291,7 @@
 <e><p><l>buçuk<s n="num"/></l><r>yarim<s n="num"/></r></p></e>
 
 
+<e><p><l>Paşa<s n="tit"/></l><r>Posho<s n="tit"/></r></p></e>
 
 
 
