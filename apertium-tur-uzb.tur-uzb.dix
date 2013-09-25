@@ -1769,6 +1769,9 @@
 <e><p><l>askeri<s n="adj"/></l><r>harbiy<s n="adj"/></r></p></e>
 <e><p><l>uzak<s n="adj"/></l><r>uzoq<s n="adj"/></r></p></e>
 <e><p><l>nazari<s n="adj"/></l><r>nazariy<s n="adj"/></r></p></e>
+<e><p><l>iç<s n="adj"/></l><r>ichki<s n="adj"/></r></p></e>
+<e><p><l>ittihat<s n="n"/></l><r>ittihod<s n="n"/></r></p></e>
+<e><p><l>tarihçi<s n="n"/></l><r>tarixchi<s n="n"/></r></p></e>
 
 <e><p><l>siyasi<s n="adj"/></l><r>siyosiy<s n="adj"/></r></p></e>
 <e><p><l>ittihat<s n="n"/></l><r>ittihod<s n="n"/></r></p></e>
@@ -1788,6 +1791,9 @@
 <e><p><l>sosyal<s n="adj"/></l><r>ijtimoiy<s n="adj"/></r></p></e>
 <e><p><l>osmanlı<s n="adj"/></l><r>usmoniy<s n="adj"/></r></p></e>
 <e><p><l>doğru<s n="adj"/></l><r>to'g'ri<s n="adj"/></r></p></e>
+<e><p><l>taşımacılık<s n="n"/></l><r>transport<s n="n"/></r></p></e>
+<e><p><l>vatandaşlık<s n="n"/></l><r>fuqarolik<s n="n"/></r></p></e>
+<e><p><l>devir<s n="n"/></l><r>davr<s n="n"/></r></p></e>
 
 <e><p><l>muharebe<s n="n"/></l><r>jang<s n="n"/></r></p></e>
 <e><p><l>Antant<s n="n"/></l><r>Antanta<s n="n"/></r></p></e>
@@ -2005,8 +2011,8 @@
 <e><p><l>keşif<s n="n"/></l><r>kashf<s n="n"/></r></p></e>
 <e><p><l>katalog<s n="n"/></l><r>katalog<s n="n"/></r></p></e>
 <e><p><l>amaç<s n="n"/></l><r>obyekt<s n="n"/></r></p></e>
-<e><p><l>ağustos<s n="n"/></l><r>avgust<s n="n"/></r></p></e>
-<e><p><l>yakın<s n="n"/></l><r>yakin<s n="n"/></r></p></e>
+<e><p><l>Ağustos<s n="n"/></l><r>avgust<s n="n"/></r></p></e>
+<e><p><l>yakın<s n="adj"/></l><r>yakin<s n="adj"/></r></p></e>
 
 <e><p><l>baskı<s n="n"/></l><r>nashr<s n="n"/></r></p></e>
 <e><p><l>km<s n="n"/></l><r>km<s n="n"/></r></p></e>
@@ -2606,6 +2612,7 @@
     
     <e><p><l>başında<s n="adv"/></l><r>dastlab<s n="adv"/></r></p></e>
     <e><p><l>yavaş<s n="adv"/></l><r>asta-sekin<s n="adv"/></r></p></e>
+    <e><p><l>şöyle<s n="adv"/></l><r>shunday<s n="adv"/></r></p></e>
 
 
 
