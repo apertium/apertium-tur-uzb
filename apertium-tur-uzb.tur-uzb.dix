@@ -274,6 +274,7 @@
 <e><p><l>yüzlerce<s n="det"/><s n="qnt"/></l><r>yuzlab<s n="det"/><s n="qnt"/></r></p></e>
 <e><p><l>binlerce<s n="det"/><s n="qnt"/></l><r>minglab<s n="det"/><s n="qnt"/></r></p></e>
 <e><p><l>birçok<s n="det"/><s n="qnt"/></l><r>ko'plab<s n="det"/><s n="qnt"/></r></p></e>
+<e><p><l>bütün<s n="det"/><s n="qnt"/></l><r>butun<s n="det"/><s n="qnt"/></r></p></e>
 
 
 
@@ -1740,6 +1741,7 @@
 <e><p><l>kısım<s n="n"/></l><r>qism<s n="n"/></r></p></e>
 <e><p><l>medeni<s n="adj"/></l><r>madaniy<s n="adj"/></r></p></e>
 <e><p><l>üstün<s n="adj"/></l><r>oliy<s n="adj"/></r></p></e>
+<e><p><l>lazım<s n="adj"/></l><r>lozim<s n="adj"/></r></p></e>
 
 <e><p><l>olumlu<s n="adj"/></l><r>ijobiy<s n="adj"/></r></p></e>
 <e><p><l>devir<s n="n"/></l><r>davr<s n="n"/></r></p></e>
@@ -1784,6 +1786,8 @@
 <e><p><l>gündelik<s n="adj"/></l><r>kundalik<s n="adj"/></r></p></e>
 <e><p><l>dış<s n="adj"/></l><r>tashqi<s n="adj"/></r></p></e>
 <e><p><l>sosyal<s n="adj"/></l><r>ijtimoiy<s n="adj"/></r></p></e>
+<e><p><l>osmanlı<s n="adj"/></l><r>usmoniy<s n="adj"/></r></p></e>
+<e><p><l>doğru<s n="adj"/></l><r>to'g'ri<s n="adj"/></r></p></e>
 
 <e><p><l>muharebe<s n="n"/></l><r>jang<s n="n"/></r></p></e>
 <e><p><l>Antant<s n="n"/></l><r>Antanta<s n="n"/></r></p></e>
@@ -1974,6 +1978,7 @@
 <e><p><l>terkip<s n="n"/></l><r>tarkib<s n="n"/></r></p></e>
 <e><p><l>ikamet<s n="n"/></l><r>istiqomat<s n="n"/></r></p></e>
 <e><p><l>halk<s n="n"/></l><r>xalx<s n="n"/></r></p></e>
+<e><p><l>devam<s n="n"/></l><r>davom<s n="n"/></r></p></e>
 
 <e><p><l>asker<s n="n"/></l><r>zobit<s n="n"/></r></p></e>
 <e><p><l>komün<s n="n"/></l><r>kommuna<s n="n"/></r></p></e>
@@ -2124,6 +2129,7 @@
 <e><p><l>Atatürk<s n="np"/></l><r>Otaturk<s n="np"/></r></p></e>
 <e><p><l>Ankara<s n="np"/></l><r>Anqara<s n="np"/></r></p></e>
 <e><p><l>Ankara<s n="np"/></l><r>Ankara<s n="np"/></r></p></e>
+<e><p><l>Antant<s n="np"/></l><r>Antanta<s n="np"/></r></p></e>
 
 <e><p><l>Balkan<s n="np"/></l><r>Balqon<s n="np"/></r></p></e>
 
@@ -2287,7 +2293,7 @@
 <e><p><l>Como<s n="np"/></l><r>Como<s n="np"/></r></p></e>
 <e><p><l>Abruzzo<s n="np"/></l><r>Abruzzo<s n="np"/></r></p></e>
  <e><p><l>Selanik<s n="np"/></l><r>Selanik<s n="np"/></r></p></e>
-
+<e><p><l>Ali<s n="np"/></l><r>Ali<s n="np"/></r></p></e>
 
 
     <!-- SECTION: Prop - nounsNOMMASC -->
@@ -2398,6 +2404,7 @@
 <e><p><l>sinirla<s n="v"/><s n="tv"/></l><r>chekla<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>sür<s n="v"/><s n="tv"/></l><r>sur<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>katıl<s n="v"/><s n="iv"/></l><r>qatnash<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>göster<s n="v"/><s n="iv"/></l><r>ko'rsat<s n="v"/><s n="iv"/></r></p></e>
 
 <e><p><l>yürüt<s n="v"/><s n="tv"/></l><r>yurit<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>kurdur<s n="v"/><s n="tv"/></l><r>qurdir<s n="v"/><s n="tv"/></r></p></e>

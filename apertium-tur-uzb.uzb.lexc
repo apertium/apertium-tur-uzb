@@ -2936,7 +2936,7 @@ Tavrot:Tavrot NP1-ORG ; ! "CORRECT"
 !!!!!! TOPONYMS !!!!!!!
 
 
-Antanta:Antanta NP-TOP ; ! ""
+Antanta:Antanta NP1-AL ; ! ""
 Anqara:Anqara NP-TOP ; ! ""
 Ankara:Ankara NP-TOP ; ! ""
 Rumeli:Rumeli NP-TOP ; ! ""
@@ -4298,7 +4298,7 @@ ta%'sir:ta%'sir N1 ; ! "influence"
 xarakat:xarakat N1 ; ! "movement"
 kamolchilik:kamolchilik N1 ; ! "kemalism"
 davr:davr A1 ; ! "period"
-usmoniy:usmoniy N1 ; ! "Ottoman"
+usmoniy:usmoniy A1 ; ! "Ottoman"
 ixcham:ixcham A1 ; ! "neat"
 oddiy:oddiy A1 ; ! "normal, usual"
 adabiy:adabiy A1 ; ! "literary"
