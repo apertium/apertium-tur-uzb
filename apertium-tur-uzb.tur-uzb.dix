@@ -253,6 +253,8 @@
 <e><p><l>zaten<s n="cnjadv"/></l><r>zotan<s n="cnjadv"/></r></p></e>
 <e><p><l>zira<s n="cnjadv"/></l><r>zora<s n="cnjadv"/></r></p></e>
 <e><p><l>yoksa<s n="cnjadv"/></l><r>yo'qsa<s n="cnjadv"/></r></p></e>
+    <e><p><l>diye<s n="cnjsub"/></l><r>deb<s n="cnjsub"/></r></p></e>
+
 
 
 
@@ -279,6 +281,9 @@
 
     <e><p><l>ev<s n="n"/></l><r>uy<s n="n"/></r></p></e>
     <e><p><l>sonuç<s n="n"/></l><r>avj<s n="n"/></r></p></e>
+    <e><p><l>dışarı<s n="n"/></l><r>sirt<s n="n"/></r></p></e>
+    <e><p><l>girişim<s n="n"/></l><r>tashabbus<s n="n"/></r></p></e>
+    <e><p><l>komutan<s n="n"/></l><r>komandir<s n="n"/></r></p></e>
 
     <e><p><l>hava<s n="n"/></l><r>hava<s n="n"/></r></p></e>
     <e><p><l>kedi<s n="n"/></l><r>mushuk<s n="n"/></r></p></e>
@@ -1734,6 +1739,8 @@
 <e><p><l>derece<s n="n"/></l><r>daraja<s n="n"/></r></p></e>
 <e><p><l>kısım<s n="n"/></l><r>qism<s n="n"/></r></p></e>
 <e><p><l>medeni<s n="adj"/></l><r>madaniy<s n="adj"/></r></p></e>
+<e><p><l>üstün<s n="adj"/></l><r>oliy<s n="adj"/></r></p></e>
+
 <e><p><l>olumlu<s n="adj"/></l><r>ijobiy<s n="adj"/></r></p></e>
 <e><p><l>devir<s n="n"/></l><r>davr<s n="n"/></r></p></e>
 <e><p><l>demokrasi<s n="n"/></l><r>demokratiyalik<s n="n"/></r></p></e>
@@ -1772,6 +1779,9 @@
 <e><p><l>güçlü<s n="adj"/></l><r>kuchli<s n="adj"/></r></p></e>
 
 
+<e><p><l>muharebe<s n="n"/></l><r>jang<s n="n"/></r></p></e>
+<e><p><l>Antant<s n="n"/></l><r>Antanta<s n="n"/></r></p></e>
+<e><p><l>kuruluş<s n="n"/></l><r>reja<s n="n"/></r></p></e>
 
 <e><p><l>müttefik<s n="n"/></l><r>ittifoqchi<s n="n"/></r></p></e>
 <e><p><l>halifelik<s n="n"/></l><r>xalifalik<s n="n"/></r></p></e>
@@ -1863,6 +1873,8 @@
 <e><p><l>rehber<s n="n"/></l><r>dastur<s n="n"/></r></p></e>
 <e><p><l>taktik<s n="n"/></l><r>taktika<s n="n"/></r></p></e>
 <e><p><l>dikkat<s n="n"/></l><r>nazar<s n="n"/></r></p></e>
+<e><p><l>kemalism<s n="n"/></l><r>kamolchilik<s n="n"/></r></p></e>
+<e><p><l>halk<s n="n"/></l><r>xalx<s n="n"/></r></p></e>
 
 <e><p><l>ocak<s n="n"/></l><r>yanvar<s n="n"/></r></p></e>
 <e><p><l>şubat<s n="n"/></l><r>fevral<s n="n"/></r></p></e>
@@ -2100,6 +2112,8 @@
 <e><p><l>Mustafa<s n="np"/></l><r>Mustafo<s n="np"/></r></p></e>
 <e><p><l>Atatürk<s n="np"/></l><r>Otaturk<s n="np"/></r></p></e>
 <e><p><l>Ankara<s n="np"/></l><r>Anqara<s n="np"/></r></p></e>
+<e><p><l>Ankara<s n="np"/></l><r>Ankara<s n="np"/></r></p></e>
+
 <e><p><l>Balkan<s n="np"/></l><r>Balqon<s n="np"/></r></p></e>
 
 <e><p><l>Kamol<s n="np"/></l><r>Kamol<s n="np"/></r></p></e>
@@ -2240,7 +2254,7 @@
 <e><p><l>Vosges<s n="np"/></l><r>Vosges<s n="np"/></r></p></e>
 <e><p><l>Doubs<s n="np"/></l><r>Doubs<s n="np"/></r></p></e>
 <e><p><l>dağ<s n="n"/></l><r>tog'<s n="n"/></r></p></e>
-<e><p><l>rol<s n="np"/></l><r>rol<s n="np"/></r></p></e>
+<e><p><l>rol<s n="n"/></l><r>rol<s n="n"/></r></p></e>
 <e><p><l>Namangan<s n="np"/></l><r>Namangan<s n="np"/></r></p></e>
 <e><p><l>Yonne<s n="np"/></l><r>Yonne<s n="np"/></r></p></e>
 <e><p><l>Sirderya<s n="np"/></l><r>Sirdaryo<s n="np"/></r></p></e>
@@ -2377,6 +2391,8 @@
 <e><p><l>asir<s n="v"/><s n="tv"/></l><r>oshir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>belirle<s n="v"/><s n="tv"/></l><r>aniqla<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>döndür<s n="v"/><s n="tv"/></l><r>aylantir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>dön<s n="v"/><s n="tv"/></l><r>aylan<s n="v"/><s n="tv"/></r></p></e>
+
 <e><p><l>dikle<s n="v"/><s n="tv"/></l><r>tikla<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>yerlestir<s n="v"/><s n="tv"/></l><r>joylashtir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>becer<s n="v"/><s n="tv"/></l><r>bajar<s n="v"/><s n="tv"/></r></p></e>
