@@ -24,6 +24,7 @@ LIST Px2Sg = px2sg ;
 LIST Nom = nom ; 
 LIST Gen = gen ; 
 LIST Abe = abe ; 
+LIST Dat = dat ;
 
 LIST Subst = subst ; 
 LIST Attr = attr ; 
@@ -36,6 +37,10 @@ LIST Recip = rec ;
 LIST Caus = caus ; 
 
 LIST Ger = ger1 ger2 ger3 ; 
+SET FINITE = V - Ger ;
+
+LIST Past = past ; 
+
 
 LIST Imper = imp ; 
 
@@ -104,3 +109,68 @@ REMOVE N + Nom IF (0 Attr OR Nom) (1C Nom) ;
 
 SELECT Attr (0 Nom) (1C Px3Sp + Nom) ; 
     ## Girit Üniversitesi ekonomi öğretim üyesi ve ...
+    
+    
+### POSTPOSITIONS
+
+
+"<doğru>" SELECT Post IF (-1 Dat) ;
+
+"<göre>" SELECT Post IF (-1 Dat) ;
+
+"<qarshi>" SELECT Post IF (-1 Dat) ;
+
+"<kadar>" SELECT Post IF (-1 Dat) ;
+
+"<karşı>" SELECT Post IF (-1 Dat) ;
+ 
+"<rağmen>" SELECT Post IF (-1 Dat) ;
+
+"<ait>" SELECT Post IF (-1 Dat) ;
+
+"<dek>" SELECT Post IF (-1 Dat) ;
+
+"<aykırı>" SELECT Post IF (-1 Dat) ;
+
+"<başka>" SELECT Post IF (-1 Abe) ;
+ 
+"<beri>" SELECT Post IF (-1 Abe) ;
+
+"<bu yana>" SELECT Post IF (-1 Abe) ;
+
+"<dolayı>" SELECT Post IF (-1 Abe) ;
+
+"<itibaren>" SELECT Post IF (-1 Abe) ;
+ 
+"<ötürü>" SELECT Post IF (-1 Abe) ;
+
+"<sonra>" SELECT Post IF (-1 Abe) ;
+
+"<yana>" SELECT Post IF (-1 Abe) ;
+
+"<orqasindan>" SELECT Post IF (-1 Gen) ;
+
+
+# ATTRIBUTIVE ADJ
+
+#If an adjective is right before a finite verb, select its adverbial reading
+
+SELECT Advl IF (1C FINITE) ; 
+
+#If an adjective is right before the end of a sentence, we can safely expect it to be an adjective.
+
+REMOVE Advl IF (0 A)(1 EOS)
+
+#If the following item cannot include a copula in its reading, discard subst from the adjective.
+
+REMOVE Subst IF (0 A) (1 EOS) (NOT 1 Cop) ;
+
+#VERBS
+
+#Select FINITE FORM (in this case past) if it is the last word of the sentence
+
+SELECT Past IF (1 EOS) ; 
+
+#If we have a form which is both present as N1 or derivative gerund, select N1
+
+ SELECT N IF (0 N) (0 Ger)

@@ -43,7 +43,19 @@ Multichar_Symbols
 %<ger5%>
 %<pcont%>
 %<pcond%>
+%<evid%>
+%<past%>
 %<aor%>
+%<kan%>
+%<imp%>
+%<perm%>
+%<inf%>
+%<gna2%>
+%<gna3%>
+%<gna4%>
+%<pass%>
+
+
 
 
 %<p1%>
@@ -55,10 +67,23 @@ Multichar_Symbols
 
 %<prn%>
 %<adv%>
+%<ref%>
+%<pers%>
+%<dem%>
 
 %<tv%>
 %<iv%>
 
+!!!! PUNCTUATION !!!
+
+%<sent%>
+%<guio%>
+%<cm%>
+%<apos%>
+%<lquot%>
+%<rquot%>
+%<lpar%>
+%<rpar%>
 
 
 
@@ -170,6 +195,7 @@ LEXICON VERB-COPULA
 %<cop%>: EVIDENTIAL-PAST ;
 %<cop%>: NON-FINITE ;
 %<cop%>: KAN ;
+%<cop%>: PERS ; 
 
 LEXICON KAN  
 
@@ -627,7 +653,7 @@ Professor:Professor TIT ; ! ""
 prof:prof TIT ; ! ""
 Sulton:Sulton TIT ; ! ""
 Posho:Posho TIT ; ! ""
-sarkarda:sarkarda TIT ; ! "colonel"
+sarkarda:sarkarda N1 ; ! "colonel"
 
 
 LEXICON Mistakes
@@ -2536,6 +2562,7 @@ moy:moy N1 ; ! "oil"
 komissiya:komissiya N1 ; ! "commission"
 Qipchoq:qipchoq N1 ; ! "Kipchak"
 poya:poya N1 ; ! "stalk"
+xalk:xalk N1 ; ! "people"
 metall:metall N1 ; ! "metal"
 malaka:malaka N1 ; ! "skill"
 kamaytirish:kamaytirish N1 ; ! "decrease"
@@ -4185,6 +4212,7 @@ aloqali:aloqali POST ; ! "concerning"
 
 LEXICON Adjectives
 
+inqilobiy:inqilobiy A1 ; ! "revolutionary"
 jonli:jonli A1 ; ! "alive"
 mayin:mayin A1 ; ! "soft"
 muddatli:muddatli A1 ; ! "having a set time"
@@ -4251,8 +4279,15 @@ magmatik:magmatik A1 ; ! "magmatic"
 manfiy:manfiy A1 ; ! "negative"
 shaklli:shaklli A1 ; ! "with a form"
 yozgi:yozgi A1 ; ! "summerish"
+xalifalik:xalifalik N1 ; ! "caliphate"
+boshqaruvi:boshqaruvi N1 ; ! "administrator"
+otaturkchilik:otaturkchilik N1 ; ! "ataturkism"
+kamolizm:kamolizm N1 ; ! "kemalism"
+ta%'sir:ta%'sir N1 ; ! "influence"
+xarakat:xarakat N1 ; ! "movement"
+kamolchilik:kamolchilik N1 ; ! "kemalism"
 davr:davr A1 ; ! "period"
-
+usmoniy:usmoniy N1 ; ! "Ottoman"
 ixcham:ixcham A1 ; ! "neat"
 oddiy:oddiy A1 ; ! "normal, usual"
 adabiy:adabiy A1 ; ! "literary"

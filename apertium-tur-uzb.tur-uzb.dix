@@ -514,7 +514,7 @@
 <e><p><l>bira<s n="n"/></l><r>pivo<s n="n"/></r></p></e>
 <e><p><l>birleşik<s n="n"/></l><r>birlashgan<s n="n"/></r></p></e>
 <e><p><l>bit<s n="n"/></l><r>bit<s n="n"/></r></p></e>
-<e><p><l>bˆl¸m<s n="n"/></l><r>bo'lim<s n="n"/></r></p></e>
+<e><p><l>bˆlüm<s n="n"/></l><r>bo'lim<s n="n"/></r></p></e>
 <e><p><l>bomba<s n="n"/></l><r>bomba<s n="n"/></r></p></e>
 <e><p><l>boy<s n="n"/></l><r>bo'y<s n="n"/></r></p></e>
 <e><p><l>buyuru<s n="n"/></l><r>buyruq<s n="n"/></r></p></e>
@@ -995,7 +995,7 @@
 <e><p><l>değişiklik<s n="n"/></l><r>o'zgarish<s n="n"/></r></p></e>
 <e><p><l>dolar<s n="n"/></l><r>dollar<s n="n"/></r></p></e>
 <e><p><l>ekonomi<s n="n"/></l><r>xo'jalik<s n="n"/></r></p></e>
-<e><p><l>m¸lkiyet<s n="n"/></l><r>xo'jalik<s n="n"/></r></p></e>
+<e><p><l>mülkiyet<s n="n"/></l><r>xo'jalik<s n="n"/></r></p></e>
 <e><p><l>şehir<s n="n"/></l><r>o'shahar<s n="n"/></r></p></e>
 <e><p><l>hacim<s n="n"/></l><r>hajm<s n="n"/></r></p></e>
 <e><p><l>kimya<s n="n"/></l><r>kimyo<s n="n"/></r></p></e>
@@ -1678,47 +1678,49 @@
 
 
     <e><p><l>yahudi<s n="n"/></l><r>jugud<s n="n"/></r></p></e>
-    <e><p><l>türk<s n="n"/></l><r>turk<s n="n"/></r></p></e>
-    <e><p><l>arnavut<s n="n"/></l><r>alban<s n="n"/></r></p></e>
-    <e><p><l>bulgar<s n="n"/></l><r>bolgar<s n="n"/></r></p></e>
-    <e><p><l>ingiliz<s n="n"/></l><r>ingliz<s n="n"/></r></p></e>
-    <e><p><l>italyan<s n="n"/></l><r>italyan<s n="n"/></r></p></e>
-    <e><p><l>rus<s n="n"/></l><r>rus<s n="n"/></r></p></e>
-    <e><p><l>sırp<s n="n"/></l><r>serb<s n="n"/></r></p></e>
-    <e><p><l>fransız<s n="n"/></l><r>fransuz<s n="n"/></r></p></e>
-    <e><p><l>sloven<s n="n"/></l><r>sloven<s n="n"/></r></p></e>
-    <e><p><l>ermeni<s n="n"/></l><r>arman<s n="n"/></r></p></e>
-    <e><p><l>ispanyol<s n="n"/></l><r>ispan<s n="n"/></r></p></e>    
-    <e><p><l>arap<s n="n"/></l><r>arab<s n="n"/></r></p></e>
-    <e><p><l>isveçli<s n="n"/></l><r>shved<s n="n"/></r></p></e>
-    <e><p><l>özbek<s n="n"/></l><r>ozbek<s n="n"/></r></p></e>
-    <e><p><l>japon<s n="n"/></l><r>yapon<s n="n"/></r></p></e>
-    <e><p><l>moğol<s n="n"/></l><r>mogul<s n="n"/></r></p></e>
-    <e><p><l>alman<s n="n"/></l><r>nemis<s n="n"/></r></p></e>
-    <e><p><l>kırgız<s n="n"/></l><r>qirgiz<s n="n"/></r></p></e>
-    <e><p><l>gürcistanlı<s n="n"/></l><r>gurji<s n="n"/></r></p></e>
-    <e><p><l>romanyalı<s n="n"/></l><r>rumin<s n="n"/></r></p></e>
-    <e><p><l>yugoslav<s n="n"/></l><r>yugoslav<s n="n"/></r></p></e>
-    <e><p><l>amerikan<s n="n"/></l><r>amerikalik<s n="n"/></r></p></e>
-    <e><p><l>yunan<s n="n"/></l><r>grek<s n="n"/></r></p></e>
-    <e><p><l>afgan<s n="n"/></l><r>afgon<s n="n"/></r></p></e>
-    <e><p><l>avrupalı<s n="n"/></l><r>yevropalik<s n="n"/></r></p></e>
-    <e><p><l>afrikalı<s n="n"/></l><r>afrikalik<s n="n"/></r></p></e>
-    <e><p><l>slav<s n="n"/></l><r>slavyan<s n="n"/></r></p></e>
-    <e><p><l>habes<s n="n"/></l><r>habash<s n="n"/></r></p></e>
-    <e><p><l>amerikalı<s n="n"/></l><r>amerikalik<s n="n"/></r></p></e>
-    <e><p><l>karadağlı<s n="n"/></l><r>chernogor<s n="n"/></r></p></e>
-    <e><p><l>osmanlı<s n="n"/></l><r>usmonli<s n="n"/></r></p></e>
-    <e><p><l>hrıstiyan<s n="n"/></l><r>xristian<s n="n"/></r></p></e>
-    <e><p><l>katolik<s n="n"/></l><r>katolik<s n="n"/></r></p></e>
-    <e><p><l>çinli<s n="n"/></l><r>chiniy<s n="n"/></r></p></e>
-    <e><p><l>hollandali<s n="n"/></l><r>golland<s n="n"/></r></p></e>
-    <e><p><l>bosnali<s n="n"/></l><r>bosniyalik<s n="n"/></r></p></e>
-    <e><p><l>irakli<s n="n"/></l><r>iroqlik<s n="n"/></r></p></e>
-    <e><p><l>hirvat<s n="n"/></l><r>xorvat<s n="n"/></r></p></e>
-    <e><p><l>makedon<s n="n"/></l><r>makedon<s n="n"/></r></p></e>
+    <e><p><l>Türk<s n="n"/></l><r>turk<s n="n"/></r></p></e>
+    <e><p><l>Arnavut<s n="n"/></l><r>alban<s n="n"/></r></p></e>
+    <e><p><l>Bulgar<s n="n"/></l><r>bolgar<s n="n"/></r></p></e>
+    <e><p><l>İngiliz<s n="n"/></l><r>ingliz<s n="n"/></r></p></e>
+    <e><p><l>İtalyan<s n="n"/></l><r>italyan<s n="n"/></r></p></e>
+    <e><p><l>Rus<s n="n"/></l><r>rus<s n="n"/></r></p></e>
+    <e><p><l>Sırp<s n="n"/></l><r>serb<s n="n"/></r></p></e>
+    <e><p><l>Fransız<s n="n"/></l><r>fransuz<s n="n"/></r></p></e>
+    <e><p><l>Sloven<s n="n"/></l><r>sloven<s n="n"/></r></p></e>
+    <e><p><l>Ermeni<s n="n"/></l><r>arman<s n="n"/></r></p></e>
+    <e><p><l>İspanyol<s n="n"/></l><r>ispan<s n="n"/></r></p></e>    
+    <e><p><l>Arap<s n="n"/></l><r>arab<s n="n"/></r></p></e>
+    <e><p><l>İsveçli<s n="n"/></l><r>shved<s n="n"/></r></p></e>
+    <e><p><l>Özbek<s n="n"/></l><r>ozbek<s n="n"/></r></p></e>
+    <e><p><l>Japon<s n="n"/></l><r>yapon<s n="n"/></r></p></e>
+    <e><p><l>Öoğol<s n="n"/></l><r>mogul<s n="n"/></r></p></e>
+    <e><p><l>Alman<s n="n"/></l><r>nemis<s n="n"/></r></p></e>
+    <e><p><l>Kırgız<s n="n"/></l><r>qirgiz<s n="n"/></r></p></e>
+    <e><p><l>Gürcistanlı<s n="n"/></l><r>gurji<s n="n"/></r></p></e>
+    <e><p><l>Romanyalı<s n="n"/></l><r>rumin<s n="n"/></r></p></e>
+    <e><p><l>Yugoslav<s n="n"/></l><r>yugoslav<s n="n"/></r></p></e>
+    <e><p><l>Amerikan<s n="n"/></l><r>amerikalik<s n="n"/></r></p></e>
+    <e><p><l>Yunan<s n="n"/></l><r>grek<s n="n"/></r></p></e>
+    <e><p><l>Afgan<s n="n"/></l><r>afgon<s n="n"/></r></p></e>
+    <e><p><l>Avrupalı<s n="n"/></l><r>yevropalik<s n="n"/></r></p></e>
+    <e><p><l>Afrikalı<s n="n"/></l><r>afrikalik<s n="n"/></r></p></e>
+    <e><p><l>Slav<s n="n"/></l><r>slavyan<s n="n"/></r></p></e>
+    <e><p><l>Habes<s n="n"/></l><r>habash<s n="n"/></r></p></e>
+    <e><p><l>Amerikalı<s n="n"/></l><r>amerikalik<s n="n"/></r></p></e>
+    <e><p><l>Karadağlı<s n="n"/></l><r>chernogor<s n="n"/></r></p></e>
+    <e><p><l>Osmanlı<s n="n"/></l><r>usmonli<s n="n"/></r></p></e>
+    <e><p><l>Hrıstiyan<s n="n"/></l><r>xristian<s n="n"/></r></p></e>
+    <e><p><l>Katolik<s n="n"/></l><r>katolik<s n="n"/></r></p></e>
+    <e><p><l>Çinli<s n="n"/></l><r>chiniy<s n="n"/></r></p></e>
+    <e><p><l>Hollandali<s n="n"/></l><r>golland<s n="n"/></r></p></e>
+    <e><p><l>Bosnali<s n="n"/></l><r>bosniyalik<s n="n"/></r></p></e>
+    <e><p><l>İrakli<s n="n"/></l><r>iroqlik<s n="n"/></r></p></e>
+    <e><p><l>Hirvat<s n="n"/></l><r>xorvat<s n="n"/></r></p></e>
+    <e><p><l>Makedon<s n="n"/></l><r>makedon<s n="n"/></r></p></e>
     <e><p><l>vücut<s n="n"/></l><r>vujud<s n="n"/></r></p></e>
 <e><p><l>yüzey<s n="n"/></l><r>yuza<s n="n"/></r></p></e>
+<e><p><l>vefat<s n="n"/></l><r>vafot<s n="n"/></r></p></e>
+
 <e><p><l>iç<s n="n"/></l><r>ich<s n="n"/></r></p></e>
 <e><p><l>hesap<s n="n"/></l><r>hisob<s n="n"/></r></p></e>
 <e><p><l>tertip<s n="n"/></l><r>tartib<s n="n"/></r></p></e>
@@ -1733,7 +1735,9 @@
 <e><p><l>laiklik<s n="n"/></l><r>sekulyarizm<s n="n"/></r></p></e>
 <e><p><l>teşkil<s n="n"/></l><r>tashkil<s n="n"/></r></p></e>
 
-<e><p><l>resim<s n="n"/></l><r>surat<s n="n"/></r></p></e>
+
+<e><p><l>iç<s n="n"/></l><r>ich<s n="n"/></r></p></e>
+<e><p><l>aile<s n="n"/></l><r>familiya<s n="n"/></r></p></e>
 <e><p><l>alt<s n="n"/></l><r>ost<s n="n"/></r></p></e>
 <e><p><l>hususiyet<s n="n"/></l><r>xususiyat<s n="n"/></r></p></e>
 <e><p><l>gelişme<s n="n"/></l><r>rivoj<s n="n"/></r></p></e>
@@ -1749,6 +1753,9 @@
 <e><p><l>büyük<s n="adj"/></l><r>buyuk<s n="adj"/></r></p></e>
 <e><p><l>askeri<s n="adj"/></l><r>qarbiy<s n="adj"/></r></p></e>
 <e><p><l>askeri<s n="adj"/></l><r>harbiy<s n="adj"/></r></p></e>
+<e><p><l>uzak<s n="adj"/></l><r>uzoq<s n="adj"/></r></p></e>
+<e><p><l>nazari<s n="adj"/></l><r>nazariy<s n="adj"/></r></p></e>
+
 <e><p><l>siyasi<s n="adj"/></l><r>siyosiy<s n="adj"/></r></p></e>
 <e><p><l>ittihat<s n="adj"/></l><r>ittihod<s n="adj"/></r></p></e>
 <e><p><l>laik<s n="adj"/></l><r>dunyoviy<s n="adj"/></r></p></e>
@@ -1756,8 +1763,15 @@
 <e><p><l>milli<s n="adj"/></l><r>milliy<s n="adj"/></r></p></e>
 <e><p><l>ekonomik<s n="adj"/></l><r>iqtisodiy<s n="adj"/></r></p></e>
 <e><p><l>uzak<s n="adj"/></l><r>uzak<s n="adj"/></r></p></e>
+<e><p><l>devrimsel<s n="adj"/></l><r>inqilobiy<s n="adj"/></r></p></e>
+
+
 
 <e><p><l>müttefik<s n="n"/></l><r>ittifoqchi<s n="n"/></r></p></e>
+<e><p><l>halifelik<s n="n"/></l><r>xalifalik<s n="n"/></r></p></e>
+<e><p><l>herakat<s n="n"/></l><r>xarakat<s n="n"/></r></p></e>
+<e><p><l>hizmet<s n="n"/></l><r>hizmat<s n="n"/></r></p></e>
+<e><p><l>kanun<s n="n"/></l><r>qonun<s n="n"/></r></p></e>
 
 <e><p><l>isim<s n="n"/></l><r>nom<s n="n"/></r></p></e>
 <e><p><l>isim<s n="n"/></l><r>ism<s n="n"/></r></p></e>
@@ -1917,6 +1931,8 @@
 <e><p><l>kir<s n="n"/></l><r>kir<s n="n"/></r></p></e>
 <e><p><l>terkip<s n="n"/></l><r>tarkib<s n="n"/></r></p></e>
 <e><p><l>ikamet<s n="n"/></l><r>istiqomat<s n="n"/></r></p></e>
+<e><p><l>halk<s n="n"/></l><r>xalx<s n="n"/></r></p></e>
+
 <e><p><l>asker<s n="n"/></l><r>zobit<s n="n"/></r></p></e>
 <e><p><l>komün<s n="n"/></l><r>kommuna<s n="n"/></r></p></e>
 <e><p><l>coğrafya<s n="n"/></l><r>geografiya<s n="n"/></r></p></e>
@@ -2536,6 +2552,19 @@
     <!-- SECTION: Adverbs -->
 
 
-    <!-- SECTION: Punctuation -->
-  </section>
-</dictionary>
+ <!-- SECTION: Punctuation -->
+
+        <e><p><l>,<s n="cm"/></l><r>,<s n="cm"/></r></p></e>
+        <e><p><l>(<s n="lpar"/></l><r>(<s n="lpar"/></r></p></e>
+        <e><p><l>)<s n="rpar"/></l><r>)<s n="rpar"/></r></p></e>
+        <e><p><l>[<s n="lpar"/></l><r>[<s n="lpar"/></r></p></e>
+        <e><p><l>]<s n="rpar"/></l><r>]<s n="rpar"/></r></p></e>
+
+        <e><re>[.\?;:!"]+</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+        <e><p>    <l>-<s n="guio"/></l>    <r>-<s n="guio"/></r></p></e>
+        <e><p><l>'<s n="apos"/></l><r>'<s n="apos"/></r></p></e>
+        <e><re>%?[0-9]+([.,][0-9]+)*[.,]*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+
+   </section>
+   
+   </dictionary>

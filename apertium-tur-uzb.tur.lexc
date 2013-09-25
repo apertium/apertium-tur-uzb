@@ -141,6 +141,18 @@ Multichar_Symbols
 
 %{v%}              ! Apply voicing rules
 
+!!!! PUNCTUATION !!!
+
+%<sent%>
+%<guio%>
+%<cm%>
+%<apos%>
+%<lquot%>
+%<rquot%>
+%<lpar%>
+%<rpar%>
+
+
 %>
 %+
 % 
@@ -152,12 +164,12 @@ Multichar_Symbols
 
 LEXICON Root
 
-ModalParticles ; 
-Copula ; 
+! ModalParticles ; 
+! Copula ; 
 Conjunctions ; 
 Titles ; 
 Postpositions ; 
-Postadverbs ;
+! Postadverbs ;
 Pronouns ; 
 Determiners ; 
 Numerals ; 
@@ -167,7 +179,7 @@ Adjectives ;
 Adverbs ; 
 Verbs ; 
 Interjections ; 
-Abbreviations ; 
+! Abbreviations ; 
 Punctuation ; 
 Digits ;  ! Use/Circ
 
@@ -307,11 +319,11 @@ LEXICON CLIT-NOPERS
 %+mı%<qst%>:% m%{I%} # ; 
 # ;  !! This is the end of word marker.
 
-LEXICON COPULA-LOCATIVE 
+! LEXICON COPULA-LOCATIVE 
 
 !this is the copula which can go after nouns in locative cases and after adjectives. "to be in sometihng" "to be something"
 
-%<cop%>%<pres%>: PERS-COP-PRES ; 
+! %<cop%>%<pres%>: PERS-COP-PRES ; 
 
 
 LEXICON V-PERS-COP
@@ -468,12 +480,12 @@ LEXICON N5
 %<n%>:%' N-INFL-COMMON-NONOM ;
 %<n%>%<attr%>: # ;
 
-LEXICON N6 ! Languages which aren't nationalities
+! LEXICON N6 ! Languages which aren't nationalities
            ! e.g. 
 
-%<n%>: SUBST ; 
-%<n%>%<attr%>: # ;
-%<n%>%<advl%>: # ;
+! %<n%>: SUBST ; 
+! %<n%>%<attr%>: # ;
+! %<n%>%<advl%>: # ;
 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
@@ -784,15 +796,15 @@ LEXICON A4
 !!!!!!!COPULA SUFFIXES!!!!!!
 
 
-LEXICON PERS-COP-PRES
+!! LEXICON PERS-COP-PRES
 
-%<p1%>%<sg%>:%>%{y%}%{I%}m  # ;
-%<p2%>%<sg%>:%>s%{I%}n  # ;
-%<p3%>%<sg%>:%>%{D%}%{I%}r  # ;
-%<p3%>%<frm%>%<sg%>:%>{D%}%{I%}r  # ;
-%<p1%>%<pl%>:%>%{y%}%{I%}z  # ;
-%<p2%>%<pl%>:%>s%{I%}n%{I%}z  # ;
-%<p3%>%<pl%>:%>l%{A%}r  # ;
+!%<p1%>%<sg%>:%>%{y%}%{I%}m  # ;
+!%<p2%>%<sg%>:%>s%{I%}n  # ;
+!%<p3%>%<sg%>:%>%{D%}%{I%}r  # ;
+!%<p3%>%<frm%>%<sg%>:%>{D%}%{I%}r  # ;
+!%<p1%>%<pl%>:%>%{y%}%{I%}z  # ;
+!%<p2%>%<pl%>:%>s%{I%}n%{I%}z  # ;
+!%<p3%>%<pl%>:%>l%{A%}r  # ;
 
 
 
@@ -1628,7 +1640,7 @@ LEXICON V-IV-T-IR
 
 %<v%>%<iv%>: CAUS-T-IR ;
 %<v%>%<iv%>: AOR-IR;
-%<v%>%<iv%>: REC-T-IR ;
+!%<v%>%<iv%>: REC-T-IR ;
 %<v%>%<iv%>: REF-T-IR ;
 %<v%>%<iv%>: AOR-IR-CONDITIONAL ;
 %<v%>%<iv%>: ABIL-IR ;
@@ -1668,7 +1680,7 @@ LEXICON V-TV-T-IR
 
 %<v%>%<tv%>: CAUS-T-IR ;
 %<v%>%<tv%>: AOR-IR;
-%<v%>%<tv%>: REC-T-IR ;
+!!%<v%>%<tv%>: REC-T-IR ;
 %<v%>%<tv%>: PASS-T-IR ;
 %<v%>%<tv%>: REF-T-IR ;
 %<v%>%<tv%>: AOR-IR-CONDITIONAL ;
@@ -1776,9 +1788,9 @@ LEXICON DET-NEG
 
 %<det%>%<neg%>: # ;
 
-LEXICON DET-REF
+!LEXICON DET-REF
 
-%<det%>%<ref%>: # ;
+! %<det%>%<ref%>: # ;
 
 LEXICON TIT 
 
@@ -1828,7 +1840,7 @@ beri:beri POST ; ! ""
 bu% yana:bu% yana POST ; ! ""
 dolayı:dolayı POST ; ! ""
 ötürü:ötürü POST ; ! ""
-ibibaren:ibibaren POST ; ! ""
+itibaren:itibaren POST ; ! ""
 önce:önce POST ; ! ""
 sonra:sonra POST ; ! ""
 yana:yana POST ; ! ""
@@ -3522,6 +3534,7 @@ dönem:dönem N1 ; ! "period"
 dönemeç:dönemeç N1 ; ! "corner"
 dönence:dönence N1 ; ! "tropic"
 döngü:döngü N1 ; ! "cycle"
+ünvan:ünvan N1 ; ! "duty"
 dörtgen:dörtgen N1 ; ! "square"
 dörtkenar:dörtkenar N1 ; ! "quadrilateral"
 döş:döş N1 ; ! "bosom"
@@ -7326,6 +7339,7 @@ sarmal:sarmal N1 ; ! "scroll"
 roman:roman N1 ; ! "novel"
 final:final N1 ; ! "final"
 Paşa:Paşa N1 ; ! "pascià"
+paşa:paşa N1 ; ! ""
 tip:tip N1 ; ! "type"
 elektronik:elektronik N1 ; ! "electronics"
 başlatılma:başlatılma N1 ; ! "inizatization"
@@ -11374,6 +11388,10 @@ nesnel:nesnel A4 ;  ! "objective"
 yerel:yerel A4 ;  ! "local"
 konjonktürel:konjonktürel A4 ;  ! "cyclical"
 kültürel:kültürel A1 ;  ! "cultural"
+eşcinsel:eşcinsel A1 ; ! "homosexual"
+belgesel:belgesel A1 ; ! "documentary"
+temalı:temalı A2 ; ! "themed"
+lezbiyen:lezbiyen A1 ; ! "lesbian"
 yörüngesel:yörüngesel A4 ;  ! "orbital"
 dairesel:dairesel A4 ;  ! "roundy"
 küresel:küresel A4 ;  ! "global"
@@ -12629,6 +12647,7 @@ sav:sav V-TV-DIR-AR  ; ! "ward off"
 savun:savun V-TV-DIR-IR  ; ! "defend"
 say:say V-TV-DIR-AR  ; ! "count"
 seç:seç V-TV-DIR-AR  ; ! "choose"
+seçil:seçil V-IV-DIR-AR ; ! ""
 ser:ser V-TV-DIR-AR  ; ! "spread over"
 serp:serp V-TV-DIR-AR  ; ! "sprinkle"
 sev:sev V-TV-DIR-AR  ; ! "love"
@@ -12856,8 +12875,8 @@ kaydet:kaydet%{v%} V-TV-DIR-AR ; ! "save"
 kayır:kayır V-TV-DIR-IR ; ! "show favour"
 kaz:kaz V-TV-DIR-AR ; ! "dig"
 kazan:kazan V-TV-DIR-IR ; ! "win"
-kulluk% et:kulluk% et%{v%} V-TV-AR-IR ; ! "to serve"
-gi:gi V-TV-AR-AR ; ! "to put on"
+!kulluk% et:kulluk% et%{v%} V-TV-AR-IR ; ! "to serve"
+! gi:gi V-TV-AR-AR ; ! "to put on"
 iç:iç V-TV-IR-AR ; ! "drink"
 aş:aş V-TV-IR-AR ; ! "go beyond / exaggerate"
 geç:geç V-TV-IR-AR ; ! "pass"
@@ -13611,15 +13630,16 @@ kaydol:kaydol V-IV-DIR-IR ; ! "sign in"
 kaygılan:kaygılan V-IV-DIR-IR ; ! "worry about"
 kaynaklan:kaynaklan V-IV-DIR-IR ; ! "arise from"
 kaynaş:kaynaş V-IV-DIR-IR ; ! "teem"
-git:git%{v%} V-IV-AR-AR ; ! "go"
-art:art V-IV-IR-AR ; ! "increase"
-bat:bat V-IV-IR-AR ; ! "sink/fail"
-doğ:doğ V-IV-IR-AR ; ! "rise" "be born"
-taş:taş V-IV-IR-AR ; ! "run over"
-uç:uç V-IV-IR-AR ; ! "fly"
-!yat:yat V-IV-IR-AR ; ! "lay down"
-yit:yit V-IV-IR-AR ; ! "vanish"
-şiş:şiş V-IV-IR-AR ; ! "swell"
+!git:git%{v%} V-IV-AR-AR ; ! "go"
+!art:art V-IV-IR-AR ; ! "increase"
+!bat:bat V-IV-IR-AR ; ! "sink/fail"
+!doğ:doğ V-IV-IR-AR ; ! "rise" "be born"
+!taş:taş V-IV-IR-AR ; ! "run over"
+!uç:uç V-IV-IR-AR ; ! "fly"
+!yat:yat V-IV-IR-AR ; ! "lay down"make
+
+!yit:yit V-IV-IR-AR ; ! "vanish"
+!şiş:şiş V-IV-IR-AR ; ! "swell"
 kımılda:kımılda V-IV-T-IR  ; ! "budge"
 kıpırda:kıpırda V-IV-T-IR  ; ! "budge"
 kısal:kısal V-IV-T-IR  ; ! "got shorter"
@@ -13736,7 +13756,7 @@ inle:inle V-IV-T-IR ; ! "sough"
 kana:kana V-IV-T-IR ; ! "bleed"
 kara:kara V-IV-T-IR ; ! "brown"
 kayna:kayna V-IV-T-IR ; ! "boil"
-
+biks:biks V-TV-T-AR ; ! "biks"
 
 LEXICON Interjections 
 
