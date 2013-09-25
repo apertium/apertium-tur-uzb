@@ -35,7 +35,7 @@
 
     <sdef n="org"    c="organization"/>
 
-    <sdef n="tit"    c="title"/>
+    <sdef n="title"    c="title"/>
 
 
 
@@ -278,6 +278,8 @@
     <!-- SECTION: Nouns -->
 
     <e><p><l>ev<s n="n"/></l><r>uy<s n="n"/></r></p></e>
+    <e><p><l>sonuç<s n="n"/></l><r>avj<s n="n"/></r></p></e>
+
     <e><p><l>hava<s n="n"/></l><r>hava<s n="n"/></r></p></e>
     <e><p><l>kedi<s n="n"/></l><r>mushuk<s n="n"/></r></p></e>
     <e><p><l>köpek<s n="n"/></l><r>it<s n="n"/></r></p></e>
@@ -1760,7 +1762,7 @@
 <e><p><l>nazari<s n="adj"/></l><r>nazariy<s n="adj"/></r></p></e>
 
 <e><p><l>siyasi<s n="adj"/></l><r>siyosiy<s n="adj"/></r></p></e>
-<e><p><l>ittihat<s n="adj"/></l><r>ittihod<s n="adj"/></r></p></e>
+<e><p><l>ittihat<s n="n"/></l><r>ittihod<s n="n"/></r></p></e>
 <e><p><l>laik<s n="adj"/></l><r>dunyoviy<s n="adj"/></r></p></e>
 <e><p><l>değer<s n="adj"/></l><r>sazovor<s n="adj"/></r></p></e>
 <e><p><l>milli<s n="adj"/></l><r>milliy<s n="adj"/></r></p></e>
@@ -1866,7 +1868,7 @@
 <e><p><l>şubat<s n="n"/></l><r>fevral<s n="n"/></r></p></e>
 <e><p><l>mart<s n="n"/></l><r>mart<s n="n"/></r></p></e>
 <e><p><l>nisan<s n="n"/></l><r>aprel<s n="n"/></r></p></e>
-<e><p><l>mayıs<s n="n"/></l><r>may<s n="n"/></r></p></e>
+<e><p><l>Mayıs<s n="n"/></l><r>may<s n="n"/></r></p></e>
 <e><p><l>hazıran<s n="n"/></l><r>iyun<s n="n"/></r></p></e>
 <e><p><l>temmuz<s n="n"/></l><r>iyul<s n="n"/></r></p></e>
 <e><p><l>eylül<s n="n"/></l><r>sentabr<s n="n"/></r></p></e>
@@ -2098,15 +2100,16 @@
 <e><p><l>Mustafa<s n="np"/></l><r>Mustafo<s n="np"/></r></p></e>
 <e><p><l>Atatürk<s n="np"/></l><r>Otaturk<s n="np"/></r></p></e>
 <e><p><l>Ankara<s n="np"/></l><r>Anqara<s n="np"/></r></p></e>
+<e><p><l>Balkan<s n="np"/></l><r>Balqon<s n="np"/></r></p></e>
 
 <e><p><l>Kamol<s n="np"/></l><r>Kamol<s n="np"/></r></p></e>
 <e><p><l>İstanbul<s n="np"/></l><r>Istanbul<s n="np"/></r></p></e>
-<e><p><l>Filastin<s n="np"/></l><r>Falastin<s n="np"/></r></p></e>
+<e><p><l>Filistin<s n="np"/></l><r>Falastin<s n="np"/></r></p></e>
 <e><p><l>Selanik<s n="np"/></l><r>Saloniki<s n="np"/></r></p></e>
 <e><p><l>Erzurum<s n="np"/></l><r>Arzirum<s n="np"/></r></p></e>
 <e><p><l>Anadolu<s n="np"/></l><r>Anatoliya<s n="np"/></r></p></e>
 <e><p><l>Şam<s n="np"/></l><r>Shom<s n="np"/></r></p></e>
-<e><p><l>Balkan<s n="np"/></l><r>Bolqan<s n="np"/></r></p></e>
+<e><p><l>Balkan<s n="np"/></l><r>Bolqon<s n="np"/></r></p></e>
 <e><p><l>Sivas<s n="np"/></l><r>Sivas<s n="np"/></r></p></e>
 <e><p><l>Rumeli<s n="np"/></l><r>Rumeli<s n="np"/></r></p></e>
 <e><p><l>Kemal<s n="np"/></l><r>Kamol<s n="np"/></r></p></e>
@@ -2291,7 +2294,7 @@
 <e><p><l>buçuk<s n="num"/></l><r>yarim<s n="num"/></r></p></e>
 
 
-<e><p><l>Paşa<s n="tit"/></l><r>Posho<s n="tit"/></r></p></e>
+<e><p><l>Paşa<s n="title"/></l><r>Posho<s n="title"/></r></p></e>
 
 
 
@@ -2306,6 +2309,8 @@
 	<e c="  0"><p><l>biz<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/></l><r>biz<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/></r></p></e>
 	<e c="  0"><p><l>siz<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/></l><r>sizlar<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/></r></p></e>
 	<e c="  0"><p><l>onlar<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></l><r>ular<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></r></p></e>
+
+	<e c="  0"><p><l>o<s n="prn"/><s n="dem"/></l><r>u<s n="prn"/><s n="dem"/></r></p></e>
 
     
      <!-- SECTION: Verbs -->
@@ -2365,6 +2370,8 @@
 <e><p><l>geçir<s n="v"/><s n="tv"/></l><r>o'tkaz<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>sinirla<s n="v"/><s n="tv"/></l><r>chekla<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>sür<s n="v"/><s n="tv"/></l><r>sur<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>katıl<s n="v"/><s n="iv"/></l><r>qatnash<s n="v"/><s n="iv"/></r></p></e>
+
 <e><p><l>yürüt<s n="v"/><s n="tv"/></l><r>yurit<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>kurdur<s n="v"/><s n="tv"/></l><r>qurdir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>asir<s n="v"/><s n="tv"/></l><r>oshir<s n="v"/><s n="tv"/></r></p></e>
@@ -2548,6 +2555,7 @@
     <e><p><l>al<s n="v"/><s n="tv"/></l><r>ol<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>bitir<s n="v"/><s n="tv"/></l><r>tugat<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>koy<s n="v"/><s n="tv"/></l><r>qo'y<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>başla<s n="v"/><s n="tv"/></l><r>boshlan<s n="v"/><s n="tv"/></r></p></e>
 
 
 
@@ -2555,6 +2563,10 @@
 
 
     <!-- SECTION: Adverbs -->
+    
+    <e><p><l>başında<s n="adv"/></l><r>dastlab<s n="adv"/></r></p></e>
+    <e><p><l>yavaş<s n="adv"/></l><r>asta-sekin<s n="adv"/></r></p></e>
+
 
 
  <!-- SECTION: Punctuation -->

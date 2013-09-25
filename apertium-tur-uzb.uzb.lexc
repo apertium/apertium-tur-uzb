@@ -1,12 +1,14 @@
 Multichar_Symbols
 
 %<n%>          ! Noun
+%<np%>          ! Proper noun
 %<adj%>
 %<adv%>
 %<cnjcoo%>     ! Co-ordinating conjunction  
 %<cnjadv%>
 %<cnjsub%>
 %<num%>
+%<prn%>
 
 %<px1sg%>            
 %<px3sp%>            
@@ -20,15 +22,6 @@ Multichar_Symbols
 %<abl%>            
 %<loc%>            
 %<ins%>            ! Instrumental=comitative 
-
-
-!!!! JAWOHL TWOL!!!!
-
-
-%{s%}		   ! Becomes "s" after a vowel, otherwise null
-%{i%}		   ! Becomes as "i" after a consonant, otherwise null
-%{E%}		   ! Becomes as "a" after a consonant, otherwise "y"	
-%{K%}
 
 !!!!!! MISC!!!!
 
@@ -89,6 +82,20 @@ Multichar_Symbols
 %<lpar%>
 %<rpar%>
 
+!!!! JAWOHL TWOL!!!!
+
+
+%{s%}		   ! Becomes "s" after a vowel, otherwise null
+%{i%}		   ! Becomes as "i" after a consonant, otherwise null
+%{E%}		   ! Becomes as "a" after a consonant, otherwise "y"	
+%{K%}
+
+%>
+
+%'
+%`
+%ʻ
+%  
 
 
 LEXICON Root
@@ -151,7 +158,7 @@ LEXICON VERB-IV
 %<v%>%<iv%>: PRES-CONT ;
 %<v%>%<iv%>: PRES-COND ;
 %<v%>%<iv%>: AORIST ;
-
+%<v%>%<iv%>: INDEF-PAST ; 
 %<v%>%<iv%>: PAST ;
 %<v%>%<iv%>: EVIDENTIAL-PAST ;
 %<v%>%<iv%>: NON-FINITE ;
@@ -244,7 +251,7 @@ LEXICON IMPERATIVE
 
 LEXICON INDEF-PAST
 
-%<past%>:%>gan PERS ;
+%<past%>:%>gan PERS2 ;
 
 LEXICON PAST
 
@@ -671,7 +678,6 @@ FA:FA MIST ;
 lab:lab MIST ; 
 iy:iy MIST ; 
 ar:ar MIST ; 
-S0:S0 MIST ;
 lgan:lgan MIST ; !""
 po:po MIST ; ! ""
 w:w MIST ; 
@@ -741,7 +747,7 @@ si:si MIST ; ! ""
 al:al MIST ; ! ""
 lari:lari MIST ; ! ""
 dagi:dagi MIST ; ! ""
-S0:S0 MIST ; ! ""
+S%0:S%0 MIST ; ! ""
 lon:lon MIST ; ! ""
 
 
@@ -1547,7 +1553,7 @@ e'tibor:e'tibor N1 ; ! "effect, prestige"
 tepa:tepa N1 ; ! "upper part, top"
 atrof:atrof N1 ; ! "surroundings"
 zobit:zobit N1 ; ! "officer"
-Ittihod:Ittihod N1 ; ! ""
+ittihod:ittihod N1 ; ! ""
 tan:tan N1 ; ! "body"
 joy:joy N1 ; ! "place"
 Hindiston:Hindiston NP-TOP ; ! "India"
@@ -2768,7 +2774,6 @@ otaturkchilik:otaturkchilik N1 ; ! "ataturkism"
 kamolizm:kamolizm N1 ; ! "kemalism"
 ta%'sir:ta%'sir N1 ; ! "influence"
 
-kalendar:kalendar N1 ; ! "calendar"
 
 
 
@@ -4638,6 +4643,7 @@ necha:necha DET-ITG ; ! " how many"
 
 LEXICON Verbs
 
+qatnash:qatnash VERB-IV ; ! "to attend"
 pasay:pasay VERB-TV ; ! "to lower"
 tarqal:tarqal VERB-TV ; ! "spread"
 gulla:gulla VERB-IV ; ! "to bloom"
@@ -4959,7 +4965,7 @@ atal:atal VERB-IV ; ! "to be named"
 ishla:ishla VERB-IV ; ! "to work, function"
 saqlan:saqlan VERB-IV ; ! "to be kept, saved"
 qoplan:qoplan VERB-IV ; ! "to be covered"
-boshlan:boshlan VERB-IV ; ! "to be started"
+boshlan:boshlan VERB-TV ; ! "to start"
 kirit:kirit VERB-IV ; ! "to cause or allow to enter"
 egalla:egalla VERB-TV ; ! "to take over, occupy"
 tog%':tog%' VERB-TV ; ! "to give birth"
@@ -5014,6 +5020,7 @@ toki:toki CC ; ! " so that"
 
 LEXICON Adverbs 
 
+asta%-sekin:asta%-sekin  ADV3 ; ! "slowly"
 batafsil:batafsil ADV1 ; ! "in detail"
 kamida:kamida ADV1 ; ! "at least"
 oldinga:oldinga ADV1 ; ! "forward"
@@ -5258,4 +5265,3 @@ LASTDIGIT-REST ; ! Use/Circ
 
 ! FIXME: We probably need a flag diacritic here, or an alternative '<percent>' lexicon
 %%:%% DIGITLEX ;  ! Use/Circ
-

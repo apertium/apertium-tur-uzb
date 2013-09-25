@@ -500,7 +500,7 @@ LEXICON NP1-TOP
 
 %<np%>%<top%>%<nom%>: # ;
 %<np%>%<top%>:%' N-INFL-COMMON-NONOM ;
-%<np%>%<top%>%<attr%>: # ;
+! %<np%>%<top%>%<attr%>: # ;
 
 LEXICON NP2-TOP
 
@@ -1800,7 +1800,7 @@ LEXICON DET-NEG
 
 LEXICON TIT 
 
-%<tit%>: # ; 
+%<title%>: # ; 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 !! Stem lexica
@@ -2087,7 +2087,7 @@ LEXICON Titles
 
 Profesör:Profesör TIT ; ! ""
 Dr:Dr TIT ; ! ""
-Paşa:Paşa TIT ; ! "pasha"
+paşa:paşa TIT ; ! "pasha"
 
 
 LEXICON Nouns
@@ -7438,7 +7438,7 @@ yön:yön N4 ; ! "on"
 
 ! Nationalities and other names of people
 
-Türk:Türk N3 ; ! "Turk"
+Türk:Türk N1 ; ! "Turk"
 Hırvat:Hırvat N3 ; ! ""
 Arnavut:Arnavut N3 ; ! ""
 Bulgar:Bulgar N3 ; ! ""
@@ -7469,6 +7469,7 @@ Yugoslav:Yugoslav N1 ; ! ""
 Boşnak:Boşnak N1 ; ! ""
 Amerikan:Amerikan N1 ; ! ""
 Yunanlı:Yunanlı N1 ; ! ""
+Yunan:Yunan N1 ; ! ""
 Osmanlı:Osmanlı N1 ; ! ""
 Yahudi:Yahudi N1 ; ! ""
 Afgan:Afgan N1 ; ! ""
@@ -7528,7 +7529,7 @@ sanatcı:sanatcı N1 ; ! "artist"
 
 LEXICON ProperNouns
 
-
+Filistin:Filistin NP1-TOP ; ! ""
 Milas:Milas NP1-TOP ; ! ' '
 Anadolu:Anadolu NP1-TOP ; ! "Anatolia"
 Sırbistan:Sırbistan NP1-TOP ; ! "Serbia"
@@ -12478,6 +12479,7 @@ herhalde:herhalde ADV3 ; ! "in any case"
 hiç:hiç ADV3 ; ! "none"
 hükmen:hükmen ADV3 ; ! "de jure"
 içeri:içeri ADV1 ; ! "indoor"
+başında:başında ADV3 ; ! "at the beginning"
 teferruatla:teferruatla ADV1 ; ! "w"
 ihtiyaten:ihtiyaten ADV3 ; ! "as precaution"
 ikindileri:ikindileri ADV3 ; !" in the afternoons"

@@ -163,6 +163,8 @@ SELECT Gen IF (1C Poss3) ;
 
 "<orqasindan>" SELECT Post IF (-1 Gen) ;
 
+"<mayda>" SELECT N IF (-1 Num) ; 
+
 
 # ATTRIBUTIVE ADJ
 
