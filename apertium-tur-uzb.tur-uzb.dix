@@ -1783,10 +1783,15 @@
 <e><p><l>özel<s n="adj"/></l><r>shaxsiy<s n="adj"/></r></p></e>
 <e><p><l>gündelik<s n="adj"/></l><r>kundalik<s n="adj"/></r></p></e>
 <e><p><l>dış<s n="adj"/></l><r>tashqi<s n="adj"/></r></p></e>
+<e><p><l>sosyal<s n="adj"/></l><r>ijtimoiy<s n="adj"/></r></p></e>
 
 <e><p><l>muharebe<s n="n"/></l><r>jang<s n="n"/></r></p></e>
 <e><p><l>Antant<s n="n"/></l><r>Antanta<s n="n"/></r></p></e>
 <e><p><l>kuruluş<s n="n"/></l><r>reja<s n="n"/></r></p></e>
+<e><p><l>anayasa<s n="n"/></l><r>konstitutsiya<s n="n"/></r></p></e>
+<e><p><l>sanay<s n="n"/></l><r>sanoat<s n="n"/></r></p></e>
+<e><p><l>himaye<s n="n"/></l><r>himoya<s n="n"/></r></p></e>
+<e><p><l>tatil<s n="n"/></l><r>dam<s n="n"/></r></p></e>
 
 <e><p><l>müttefik<s n="n"/></l><r>ittifoqchi<s n="n"/></r></p></e>
 <e><p><l>halifelik<s n="n"/></l><r>xalifalik<s n="n"/></r></p></e>
@@ -2606,7 +2611,7 @@
         <e><p><l>]<s n="rpar"/></l><r>]<s n="rpar"/></r></p></e>
 
         <e><re>[.\?;:!"]+</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
-        <e><p>    <l>-<s n="guio"/></l>    <r>-<s n="guio"/></r></p></e>
+        <e><p><l>-<s n="guio"/></l><r>-<s n="guio"/></r></p></e>
         <e><p><l>'<s n="apos"/></l><r>'<s n="apos"/></r></p></e>
         <e><re>%?[0-9]+([.,][0-9]+)*[.,]*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
 
