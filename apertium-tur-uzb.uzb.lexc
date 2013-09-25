@@ -1,6 +1,8 @@
 Multichar_Symbols
 
 %<n%>          ! Noun
+%<adj%>
+%<adv%>
 %<cnjcoo%>     ! Co-ordinating conjunction  
 %<cnjadv%>
 %<cnjsub%>
@@ -56,7 +58,8 @@ Multichar_Symbols
 %<pass%>
 
 
-
+%<attr%>
+%<subst%>
 
 %<p1%>
 %<p2%>
@@ -373,6 +376,7 @@ LEXICON POST
 LEXICON N1 ! Lexicon used for general nouns with no particularities. It takes PLURAL*-POSSESSIVE*-CASE in this order
 
 %<n%>: SUBST ;
+%<n%>%<attr%>: # ; 
 
 LEXICON MIST
 

@@ -17,6 +17,9 @@ LIST CS = cnjsub ;
 LIST Interj = ij ; 
 LIST Post = post ; 
 LIST Cop = cop ; 
+LIST Num = num ; 
+LIST Poss2 = px2sg ; 
+LIST Poss3 = px3sg px3sp ;
 
 LIST Px3Sp = px3sp ; 
 LIST Px2Sg = px2sg ; 
@@ -25,6 +28,7 @@ LIST Nom = nom ;
 LIST Gen = gen ; 
 LIST Abe = abe ; 
 LIST Dat = dat ;
+LIST Loc = loc ; 
 
 LIST Subst = subst ; 
 LIST Attr = attr ; 
@@ -74,6 +78,10 @@ REMOVE N + Abe IF (0 A) ;
 ## Unlikely readings can be discarded, we can write rules to select these in certain contexts.
 #
 
+#UGLY
+
+REMOVE Poss2 IF (0 Poss3 + Loc) (-1 Num);
+
 SELECT Adv IF (0 ("yarın")) ;
     ## Yarın gelir misin?
 
@@ -110,6 +118,15 @@ REMOVE N + Nom IF (0 Attr OR Nom) (1C Nom) ;
 SELECT Attr (0 Nom) (1C Px3Sp + Nom) ; 
     ## Girit Üniversitesi ekonomi öğretim üyesi ve ...
     
+#Construction gen + poss (ataturk'un cumhuriyeti)
+
+SELECT Poss3 IF (-1 Gen) ; 
+
+SELECT Gen IF (1C Poss3) ; 
+
+
+    
+
     
 ### POSTPOSITIONS
 
@@ -148,7 +165,11 @@ SELECT Attr (0 Nom) (1C Px3Sp + Nom) ;
 
 "<yana>" SELECT Post IF (-1 Abe) ;
 
-"<orqasindan>" SELECT Post IF (-1 Gen) ;
+"<arkasından>" SELECT Post IF (-1 Gen) ;
+
+## WORDS SPECIFIC
+
+"<yıl>" REMOVE Attr ;
 
 
 # ATTRIBUTIVE ADJ
@@ -157,6 +178,10 @@ SELECT Attr (0 Nom) (1C Px3Sp + Nom) ;
 
 SELECT Advl IF (1C FINITE) ; 
 
+#If an adjective is right before a numeral + noun it is an adjective for sure
+
+SELECT A IF (1C Num) (2C N) ;
+
 #If an adjective is right before the end of a sentence, we can safely expect it to be an adjective.
 
 REMOVE Advl IF (0 A)(1 EOS)
@@ -164,6 +189,8 @@ REMOVE Advl IF (0 A)(1 EOS)
 #If the following item cannot include a copula in its reading, discard subst from the adjective.
 
 REMOVE Subst IF (0 A) (1 EOS) (NOT 1 Cop) ;
+
+REMOVE Attr IF (0 N) (-1 A) ; 
 
 #VERBS
 
@@ -174,3 +201,10 @@ SELECT Past IF (1 EOS) ;
 #If we have a form which is both present as N1 or derivative gerund, select N1
 
  SELECT N IF (0 N) (0 Ger)
+
+
+#Remove V + V reading
+
+REMOVE V IF (1 FINITE) (2 EOS) ; 
+
+

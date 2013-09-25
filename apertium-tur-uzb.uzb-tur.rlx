@@ -18,8 +18,11 @@ LIST CS = cnjsub ;
 LIST Interj = ij ; 
 LIST Post = post ; 
 LIST Cop = cop ; 
-LIST IV = IV ; 
+LIST IV = iv ; 
+LIST TV = tv ; 
 LIST Poss = px1sg px2sg px3sg px1pl px2pl px3pl ; 
+LIST Poss3 = px3sg px3sp px3pl ;
+LIST Poss2 = px2sg ; 
 LIST Past = past ; 
 LIST Px3Sp = px3sp ; 
 LIST Px2Sg = px2sg ; 
@@ -83,7 +86,9 @@ REMOVE 3PS IF (NOT 1 EOS) ;
 
 # REMOVE the Intransitive if the previous item is in accusative form
 
-REMOVE IV IF (-1C Acc);
+REMOVE IV IF (-1C Acc) ;
+
+SELECT TV IF (-1C Acc) ;
 
 #If following item is an ADV, then select Pron reading
 
@@ -104,6 +109,12 @@ SELECT Prop IF (0 N) (0 Ant)(1 Cog) (-1 BOS);
 #In case we have an item present both as Noun and Adjective, select adjective if 1 is a noun. 
 
 REMOVE N + Nom IF (0 Attr OR Nom) (1C Nom) ;
+
+#Construction gen + poss (ataturk'un cumhuriyeti)
+
+SELECT Poss3 IF (-1 Gen) ; 
+
+SELECT Gen IF (1C Poss3) ; 
 
 
 #### POSTPOSITIONS ######
@@ -163,14 +174,24 @@ SELECT Advl IF (1C FINITE) ;
 
 REMOVE Advl IF (0 A)(1 EOS)
 
-#If the following item cannot include a copula in its reading, discard subst from the adjective.
+#If the following item does not include a copula in its reading, discard subst from the adjective.
 
 REMOVE Subst IF (0 A) (1 EOS) (NOT 1 Cop) ;
+
+#If an adjective is right before a numeral + noun it is an adjective for sure
+
+SELECT A IF (1C Num) (2C N) ;
+
 
 #VERBS
 
 #Select FINITE FORM (in this case past) if it is the last word of the sentence
 
 SELECT Past IF (1 EOS) ; 
+
+#Remove V + V reading
+
+REMOVE V IF (1 FINITE) (2 EOS) ; 
+
 
 
