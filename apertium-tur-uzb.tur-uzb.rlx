@@ -178,6 +178,7 @@ SELECT Gen IF (1C Poss3) ;
 
 SELECT Advl IF (1C FINITE) ; 
 
+
 #If an adjective is right before a numeral + noun it is an adjective for sure
 
 SELECT A IF (1C Num) (2C N) ;

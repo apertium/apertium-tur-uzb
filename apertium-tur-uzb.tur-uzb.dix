@@ -2541,22 +2541,8 @@
     <e><p><l>et<s n="v"/><s n="tv"/></l><r>et<s n="v"/><s n="tv"/></r></p></e> 
     <e><p><l>al<s n="v"/><s n="tv"/></l><r>ol<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>bitir<s n="v"/><s n="tv"/></l><r>tugat<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>koy<s n="v"/><s n="tv"/></l><r>qo'y<s n="v"/><s n="tv"/></r></p></e>
 
-
-
-<!-- SECTION: Punctuation -->
-	
-	        <e><p><l>,<s n="pnct"/></l><r>,<s n="cm"/></r></p></e>
-	        <e><p><l>(<s n="pnct"/></l><r>(<s n="lpar"/></r></p></e>
-	        <e><p><l>)<s n="pnct"/></l><r>)<s n="rpar"/></r></p></e>
-	        <e><p><l>[<s n="pnct"/></l><r>[<s n="lpar"/></r></p></e>
-	        <e><p><l>]<s n="pnct"/></l><r>]<s n="rpar"/></r></p></e>
-	
-	        <e><re>[.\?;:!"]+</re><p><l><s n="pnct"/></l><r><s n="sent"/></r></p></e>
-	        <e><p>    <l>-<s n="pnct"/></l>    <r>-<s n="guio"/></r>  </p>    </e>
-	        <e><p><l>'<s n="pnct"/></l><r>'<s n="apos"/></r></p></e>
-<e><re>%?[0-9]+([.,][0-9]+)*[.,]*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
-    
 
 
     <!-- SECTION: Proper nouns -->
