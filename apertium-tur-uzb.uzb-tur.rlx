@@ -3,7 +3,8 @@ SOFT-DELIMITERS = "<,>" ;
 
 LIST BOS = (>>>) sent ; # Beginning of sentence
 LIST EOS = (<<<) sent ; # End of sentence
-
+LIST Lpar = lpar;
+LIST Rpar = rpar ; 
 
 LIST N = n ; 
 LIST V = v ; 
@@ -26,6 +27,7 @@ LIST Poss2 = px2sg ;
 LIST Past = past ; 
 LIST Px3Sp = px3sp ; 
 LIST Px2Sg = px2sg ; 
+
 
 LIST 3PS = p3 sg ; 
 
@@ -165,6 +167,8 @@ SELECT Gen IF (1C Poss3) ;
 
 "<mayda>" SELECT N IF (-1 Num) ; 
 
+
+REMOVE Ger IF (1 Lpar) (4 EOS) ;
 
 # ATTRIBUTIVE ADJ
 
