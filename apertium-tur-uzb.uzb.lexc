@@ -9,6 +9,8 @@ Multichar_Symbols
 %<cnjsub%>
 %<num%>
 %<prn%>
+%<abbr%>
+
 
 %<px1sg%>            
 %<px3sp%>            
@@ -581,6 +583,11 @@ ular%<prn%>%<pers%>%<p3%>%<pl%>%<abl%>:ulardan # ;
 LEXICON TIT 
 
 %<title%>: # ; 
+
+LEXICON ABBR
+
+%<abbr%>: # ; 
+
 
 LEXICON INTERJ
 
@@ -2817,14 +2824,15 @@ ta%'sir:ta%'sir N1 ; ! "influence"
 
 !!!!SPECIAL!!!!
 
-km:km N1 ;  ! "km" ! FIXME: abbr
-ton:ton N1 ; ! "ton"
-cm:cm N1 ;  ! "cm"
-kvadrat:kvadrat N1 ; ! "^2"
-kilometr:kilometr N1 ; ! "kilometre"
-km2:km2 N1 ; ! "square km"
-mil:mil N1 ; ! ""
-kg:kg N1 ; ! ""
+km:km ABBR ;  ! "km" ! FIXME: abbr
+ton:ton ABBR ; ! "ton"
+cm:cm ABBR ;  ! "cm"
+kvadrat:kvadrat ABBR ; ! "^2"
+kilometr:kilometr ABBR ; ! "kilometre"
+km2:km2 ABBR ; ! "squar km"
+mil:mil ABBR ; ! ""
+kg:kg ABBR ; ! ""
+y%.:y%. ABBR ; ! ""
 
 
 !!!! TO REMOVE LATER!!!!

@@ -7,6 +7,16 @@
       <cat-item tags="n"/>
       <cat-item tags="n.*"/>
     </def-cat>
+    
+    <def-cat n="num">
+      <cat-item tags="num"/>
+      <cat-item tags="num.*"/>
+    </def-cat>
+    
+     <def-cat n="yil">
+       <cat-item lemma="y." tags="abbr"/>
+    </def-cat>
+        
    
   </section-def-cats>
   
@@ -59,6 +69,23 @@
         </out>
       </action>
     </rule>
+    
+        <rule comment="y."> 
+      <pattern>
+        <pattern-item n="num"/>
+        <pattern-item n="yil"/>
+      </pattern>
+      <action>
+        <out>
+          <lu>
+            <clip pos="1" side="tl" part="whole"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+    
+   
+    
     
   </section-rules>
 </transfer>
