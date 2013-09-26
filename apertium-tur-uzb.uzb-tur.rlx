@@ -67,7 +67,7 @@ REMOVE Imper IF (NOT 0C Imper) ;
 
 #There can be no gerund at the end of a sentence
 
-REMOVE Ger IF (1 EOS); 
+REMOVE Ger IF (1 EOS OR Lpar); 
 
 # Two nominatives in a row are pretty rare
 

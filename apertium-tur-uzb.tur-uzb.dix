@@ -1769,7 +1769,7 @@
 
 
 <e><p><l>iç<s n="n"/></l><r>ich<s n="n"/></r></p></e>
-<e><p><l>aile<s n="n"/></l><r>familiya<s n="n"/></r></p></e>
+<e><p><l>soyad<s n="n"/></l><r>familiya<s n="n"/></r></p></e>
 <e><p><l>alt<s n="n"/></l><r>ost<s n="n"/></r></p></e>
 <e><p><l>hususiyet<s n="n"/></l><r>xususiyat<s n="n"/></r></p></e>
 <e><p><l>gelişme<s n="n"/></l><r>rivoj<s n="n"/></r></p></e>
@@ -2053,7 +2053,7 @@
 <e><p><l>amaç<s n="n"/></l><r>obyekt<s n="n"/></r></p></e>
 <e><p><l>Ağustos<s n="n"/></l><r>avgust<s n="n"/></r></p></e>
 <e><p><l>yakın<s n="adj"/></l><r>yakin<s n="adj"/></r></p></e>
-<e><p><l>dolu<s n="adj"/></l><r>to'liq<s n="adj"/></r></p></e>
+<e><p><l>tam<s n="adj"/></l><r>to'liq<s n="adj"/></r></p></e>
 <e><p><l>iradeli<s n="adj"/></l><r>irodali<s n="adj"/></r></p></e>
 <e><p><l>mağlup<s n="adj"/></l><r>mag'lub<s n="adj"/></r></p></e>
 <e><p><l>kısa<s n="adj"/></l><r>qisqa<s n="adj"/></r></p></e>
@@ -2659,6 +2659,7 @@
     <e><p><l>parçalan<s n="v"/><s n="tv"/></l><r>parchalan<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>ol<s n="v"/><s n="iv"/></l><r>bo'l<s n="v"/><s n="iv"/></r></p></e>
      <e><p><l>başla<s n="v"/><s n="tv"/></l><r>boshla<s n="v"/><s n="tv"/></r></p></e>
+     <e><p><l>kanunu<b/>yürürlüğe<b/>sok<s n="v"/><s n="tv"/></l><r>joriy<b/>qil<s n="v"/><s n="tv"/></r></p></e>
 
     <e><p><l>et<s n="v"/><s n="tv"/></l><r>et<s n="v"/><s n="tv"/></r></p></e> 
     <e><p><l>al<s n="v"/><s n="tv"/></l><r>ol<s n="v"/><s n="tv"/></r></p></e>

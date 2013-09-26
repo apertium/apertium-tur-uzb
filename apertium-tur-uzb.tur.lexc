@@ -90,6 +90,7 @@ Multichar_Symbols
 %<neg%>            ! Negative    ! NOTE: also used to denote negation in verbs ! what do you mean firespeaker??
 %<ref%>            ! Reflexive
 
+%<gna3%>		   ! Converb 2
 %<gna2%>		   ! Converb 2
 %<gna1%>		   ! Converb 1
 
@@ -1360,6 +1361,8 @@ LEXICON NON-FINITE
 
 %<gna1%>:%>%{y%}%{A%}r%{A%}k # ;
 %<gna2%>:%>%{y%}%{I%}p # ;
+%<gna3%>:%>%{y%}%{I%}nc%{A%} # ;
+
 
 LEXICON CONDITIONAL
 
@@ -2099,7 +2102,7 @@ LEXICON Nouns
 !!!NEW!!!
 
 silüet:silüet N1 ; ! "silhouheuhtuehtee"
-
+soyad:soyad N1 ; ! "surname"
 sertifika:sertifika N1 ; ! "certificate"
 süt:süt N1 ; ! " milke"
 beraat:beraat N1 ; ! "exoneration"
@@ -12648,6 +12651,7 @@ tekrar:tekrar ADV3 ; ! "again"
 LEXICON Verbs 
 
 al:al V-TV-DIR-IR ; ! "take, buy"
+kanunu% yürürlüğe% sok:kanunu% yürürlüğe% sok V-TV-DIR-IR ; ! "to enact"
 derinleştir:derinleştir V-TV-T-IR ; ! "deepen"
 yap:yap V-TV-DIR-AR ; ! "make, do"
 bitir:bitir V-TV-DIR-AR ; ! "complete"

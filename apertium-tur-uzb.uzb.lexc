@@ -241,7 +241,8 @@ LEXICON NON-FINITE
 %<inf%>:%>moq CASE ;
 %<gna2%>:%>ib # ;
 %<part%>:%>ing SUBST ; 
-%<gna3%>:%>ish SUBST;
+%<gna3%>:%>gach # ;
+%<gna1%>:%>ish SUBST;
 %<gna4%>:%>ayotgan SUBST;
 
 
@@ -4787,6 +4788,7 @@ qozon:qozon VERB-TV ; ! "to earn, to win"
 organ:organ VERB-TV ; ! "to learn"
 tashlash:tashlash VERB-TV ; ! "(coop. of) to throw"
 ifodala:ifodala VERB-TV ; ! "to express"
+joriy% qil:joriy% qil VERB-TV ; ! "to put into action"
 o%'ta:o%'ta VERB-TV ; ! "to carry out"
 ishlab%chiqar:ishlab%chiqar VERB-TV ; ! "to produce"
 belgila:belgila VERB-TV ; ! "to mark"
