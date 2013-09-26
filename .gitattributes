@@ -20,8 +20,8 @@
 /challenge.txt -text
 /configure.ac -text
 /modes.xml -text
-/postedıt -text
 texts/ataturk-tr.txt -text
+texts/ataturk.tur.txt -text
 texts/ataturk.txt -text
 texts/test1 -text
 /tur-uzb.prob -text svneol=unset#unset
