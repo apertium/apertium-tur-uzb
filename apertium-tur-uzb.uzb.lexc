@@ -690,8 +690,6 @@ ar:ar MIST ;
 lgan:lgan MIST ; !""
 po:po MIST ; ! ""
 w:w MIST ; 
-b:b MIST ; 
-y:y MIST ; 
 m:m MIST ; 
 i:i MIST ; 
 a:a MIST ; 
@@ -699,8 +697,6 @@ q:q MIST ;
 s:s MIST ; 
 ng:ng MIST ; ! ""
 hoz:hoz MIST ; ! ""
-g:g MIST ; 
-k:k MIST ; 
 t:t MIST ; 	
 d:d MIST ; 
 v:v MIST ; 
@@ -711,7 +707,6 @@ j:j MIST ;
 r:r MIST ;
 n:n MIST ; 
 ning:ning MIST ; ! ""
-dan:dan MIST ; ! ""
 da:da MIST ; ! ""
 lar:lar MIST ; ! ""
 ni:ni MIST ; ! ""
@@ -722,14 +717,12 @@ f:f MIST ; ! !
 ba:ba MIST ; !!
 h:h MIST ; ! ""
 mln:mln MIST ; ! ""
-bo:bo MIST ; ! ""
 sh:sh MIST ; ! ""
 av:av MIST ; ! ""
 ta:ta MIST ; ! ""
 larda:larda MIST ; ! ""
 gacha:gacha MIST ; ! ""
 l:l MIST ; ! ""
-ko:ko MIST ; ! ""
 sh:sh MIST ; ! ""
 x:x MIST ; ! ""
 me:me MIST ; ! ""
@@ -2028,6 +2021,8 @@ qurilma:qurilma N1 ; ! "installation, building"
 tadbir:tadbir N1 ; ! "measure, action"
 islohot:islohot N1 ; ! "reform"
 qatlam:qatlam N1 ; ! "layer"
+ishg%'al:ishg%'al N1 ; ! "occupation"
+
 emizuvchi:emizuvchi A1 ; ! "nursing"
 qarbiy:qarbiy A1 ; ! "military"
 bo%'sh:bo%'sh A1 ; ! "free"
@@ -2163,6 +2158,7 @@ davom:davom N1 ; ! "continuation"
 bug%':bug%' N1 ; ! "vapor"
 neft:neft N1 ; ! "nafta"
 jamoat:jamoat N1 ; ! "society"
+tug%'yon:tug%'yon N1 ; ! "turmoil"
 vazn:vazn N1 ; ! "weight"
 masjid:masjid N1 ; ! "mosque"
 it:it N1 ; ! "dog"
@@ -4314,6 +4310,7 @@ boshqaruvi:boshqaruvi N1 ; ! "administrator"
 otaturkchilik:otaturkchilik N1 ; ! "ataturkism"
 kamolizm:kamolizm N1 ; ! "kemalism"
 ta%'sir:ta%'sir N1 ; ! "influence"
+sog'liq:sog'liq N1 ; | ! "health"
 xarakat:xarakat N1 ; ! "movement"
 kamolchilik:kamolchilik N1 ; ! "kemalism"
 davr:davr N1 ; ! "period"
@@ -4674,7 +4671,6 @@ bula:bula VERB-TV ; ! "to dip in"
 parchala:parchala VERB-TV ; ! "to break into piece"
 mag%'lub% et:mag%'lub% et VERB-TV; ! ""
 bit:bit VERB-IV ; ! "to end"
-qo%'llanil:qo%'llanil VERB-IV ; ! "to be used"
 o'tkaz:o'tkaz VERB-TV ; ! "to let pass"
 ajral:ajral VERB-IV ; ! "to split"
 o'ta:o'ta VERB-TV ; !  two meanings (to weed, to carry out duties)
@@ -4696,7 +4692,7 @@ aylantir:aylantir VERB-TV ; ! "to turn"
 tikla:tikla VERB-TV ; ! "to set up straight"
 joylashtir:joylashtir VERB-TV ; ! "to make settle"
 bajar:bajar VERB-TV ; ! "to execute"
-qo'llan:qo'llan VERB-IV ; ! "to use"
+qo'llan:qo'llan VERB-TV ; ! "to use"
 saylan:saylan VERB-IV ; ! "to be chosen"
 qoldir:qoldir VERB-TV ; ! "to leave"
 yop:yop VERB-TV ; ! "to close"
@@ -4786,7 +4782,6 @@ qo%'shil:qo%'shil VERB-IV ; ! "to join"
 gulla:gulla VERB-IV ; ! "to bloom"
 uch:uch VERB-IV ; ! "to fly"
 chiri:chiri VERB-IV ; ! "to rot"
-qo%'llanil:qo%'llanil VERB-IV ; ! "to be used"
 ko%'pay:ko%'pay VERB-IV ; ! "to increase"
 tanil:tanil VERB-IV ; ! "to be well known"
 to%'plan:to%'plan VERB-IV ; ! "to come together"
@@ -5044,6 +5039,7 @@ LEXICON Adverbs
 
 asta%-sekin:asta%-sekin  ADV3 ; ! "slowly"
 batafsil:batafsil ADV1 ; ! "in detail"
+qaraganda:qaraganda POST ; !" "in comparison"
 kamida:kamida ADV1 ; ! "at least"
 oldinga:oldinga ADV1 ; ! "forward"
 uncha:uncha ADV1 ; ! "not so much"

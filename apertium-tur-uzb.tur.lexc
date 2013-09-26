@@ -1854,6 +1854,7 @@ yana:yana POST ; ! ""
 
 ! Comitative
 
+kıyaslandığında:kıyaslandığında POST ; ! ""
 ilgili:ilgili POST ; ! "regarding"
 İlgili:İlgili POST ; ! """ HACK MT USE
 
@@ -11505,7 +11506,7 @@ primer:primer A4 ;  ! "primary"
 milyoner:milyoner A4 ;  ! "millionaire"
 koşer:koşer A4 ;  ! "kosher"
 otoriter:otoriter A4 ;  ! "authoritative"
-vatansever:vatansever A4 ;  ! "patriot"
+vatansever:vatansever N1 ;  ! "patriot"
 hayırsever:hayırsever A4 ;  ! "beneficient"
 misafirperver:misafirperver A4 ;  ! "hospitable"
 kadir:kadir A4 ;  ! "powerful, mighty"

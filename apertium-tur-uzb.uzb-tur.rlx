@@ -167,8 +167,9 @@ SELECT Gen IF (1C Poss3) ;
 
 "<mayda>" SELECT N IF (-1 Num) ; 
 
+"<qaraganda>" SELECT Post IF (-1 Dat) ; 
 
-REMOVE Ger IF (1 Lpar) (4 EOS) ;
+
 
 # ATTRIBUTIVE ADJ
 
