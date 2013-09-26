@@ -18,6 +18,9 @@
     <sdef n="lpar" c="Left parenthesis"/>
     <sdef n="rpar" c="Right parenthesis"/>
     <sdef n="cm" c="Comma"/>
+    <sdef n="attr" c="attrıbutıve"/>
+    <sdef n="pass" c="passive"/>
+
      <sdef n="sent"      c="Sentence marker"/>
 
 
@@ -129,7 +132,7 @@
 <e><p><l>adil<s n="adj"/></l><r>odil<s n="adj"/></r></p></e>
 <e><p><l>fiziksel<s n="adj"/></l><r>fizik<s n="adj"/></r></p></e>
 <e><p><l>ağır<s n="adj"/></l><r>zil<s n="adj"/></r></p></e>
-<e><p><l>türk<s n="adj"/></l><r>turkiy<s n="adj"/></r></p></e>
+<e><p><l>Türk<s n="n"/><s n="attr"/></l><r>turkiy<s n="adj"/></r></p></e>
 <e><p><l>siyasi<s n="adj"/></l><r>siyosiy<s n="adj"/></r></p></e>
 
 
@@ -1107,7 +1110,7 @@
 <e><p><l>değişim<s n="n"/></l><r>o'zgarish<s n="n"/></r></p></e>
 <e><p><l>tesis<s n="n"/></l><r>zavod<s n="n"/></r></p></e>
 <e><p><l>örnek<s n="n"/></l><r>namuna<s n="n"/></r></p></e>
-<e><p><l>numune<s n="n"/></l><r>namuna<s n="n"/></r></p></e>	
+<e><p><l>model<s n="n"/></l><r>namuna<s n="n"/></r></p></e>	
 <e><p><l>hususiyet<s n="n"/></l><r>xossa<s n="n"/></r></p></e>
 <e><p><l>alet<s n="n"/></l><r>asbob<s n="n"/></r></p></e>
 <e><p><l>vezir<s n="n"/></l><r>vazir<s n="n"/></r></p></e>
@@ -1231,7 +1234,7 @@
 <e><p><l>bölüm<s n="n"/></l><r>bo'lak<s n="n"/></r></p></e>
 <e><p><l>timur<s n="n"/></l><r>temuriy<s n="n"/></r></p></e>
 <e><p><l>usta<s n="n"/></l><r>usta<s n="n"/></r></p></e>
-<e><p><l>egilim<s n="n"/></l><r>tamoyil<s n="n"/></r></p></e>
+<e><p><l>eğilim<s n="n"/></l><r>tamoyil<s n="n"/></r></p></e>
 <e><p><l>özellik<s n="n"/></l><r>xossa<s n="n"/></r></p></e>
 <e><p><l>hane<s n="n"/></l><r>xona<s n="n"/></r></p></e>
 <e><p><l>katman<s n="n"/></l><r>qatlam<s n="n"/></r></p></e>
@@ -2408,7 +2411,7 @@
 <e><p><l>uç<s n="v"/><s n="iv"/></l><r>uch<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>çürü<s n="v"/><s n="iv"/></l><r>chiri<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>kullanıl<s n="v"/><s n="iv"/></l><r>qo'llanil<s n="v"/><s n="iv"/></r></p></e>
-<e><p><l>koyul<s n="v"/><s n="iv"/></l><r>qo'yil<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>koy<s n="v"/><s n="tv"/><s n="pass"/></l><r>qo'yil<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>art<s n="v"/><s n="iv"/></l><r>ko'pay<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>tanın<s n="v"/><s n="iv"/></l><r>tanil<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>toplan<s n="v"/><s n="iv"/></l><r>to'plan<s n="v"/><s n="iv"/></r></p></e>
@@ -2459,7 +2462,7 @@
 <e><p><l>dik<s n="v"/><s n="tv"/></l><r>tik<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>ilet<s n="v"/><s n="tv"/></l><r>topshir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>beze<s n="v"/><s n="tv"/></l><r>beza<s n="v"/><s n="tv"/></r></p></e>
-<e><p><l>azal<s n="v"/><s n="tv"/></l><r>kamaytiril<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>azal<s n="v"/><s n="iv"/></l><r>kamaytiril<s n="v"/><s n="iv"/></r></p></e>
 
 <e><p><l>geçir<s n="v"/><s n="tv"/></l><r>kechir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>iç<s n="v"/><s n="tv"/></l><r>ich<s n="v"/><s n="tv"/></r></p></e>
