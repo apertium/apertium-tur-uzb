@@ -5,6 +5,7 @@
     <sdef n="n"       c="Noun"/>
     <sdef n="adj"     c="Adjective"/>
     <sdef n="adv"     c="Adverb"/>
+    <sdef n="cop"     c="Copula"/>
     <sdef n="np"      c="Proper noun"/>
     <sdef n="post"    c="Postposition"/>
     <sdef n="prn"    c="pronoun"/>
@@ -51,7 +52,7 @@
      <sdef n="pl"    c="plural"/>
 
      <sdef n="pers"    c="persona"/>
-     <sdef n="p1"    c="pronoun"/>
+     <sdef n="p1"    c="first person"/>
      <sdef n="p2"    c="pronoun"/>
      <sdef n="p3"    c="pronoun"/>
    
@@ -63,6 +64,7 @@
 
   <section id="main" type="standard">
   
+   <e c="  0"><p><l>i<s n="cop"/></l><r>e<s n="cop"/></r></p></e>
       
   
       <!-- SECTION: Adjectives -->
