@@ -154,16 +154,25 @@ LEXICON CC
 
 LEXICON VERB-IV
 
-%<v%>%<iv%>: GERUND ;
-%<v%>%<iv%>: PRES-CONT ;
-%<v%>%<iv%>: PRES-COND ;
-%<v%>%<iv%>: AORIST ;
-%<v%>%<iv%>: INDEF-PAST ; 
-%<v%>%<iv%>: PAST ;
-%<v%>%<iv%>: EVIDENTIAL-PAST ;
-%<v%>%<iv%>: NON-FINITE ;
-%<v%>%<iv%>: PERMISSIVE ;
-%<v%>%<iv%>: IMPERATIVE ;
+%<v%>%<iv%>: VERB-IV-FULL ; 
+%<v%>%<iv%>%<pass%>:il VERB-IV-FULL ;
+%<v%>%<iv%>%<ref%>:in VERB-IV-FULL ;
+%<v%>%<iv%>%<neg%>:ma VERB-IV-FULL ;
+%<v%>%<iv%>%<pass%>%<neg%>:ilma VERB-IV-FULL ;
+
+
+LEXICON VERB-IV-FULL
+
+GERUND ;
+PRES-CONT ;
+PRES-COND ;
+AORIST ;
+INDEF-PAST ; 
+PAST ;
+EVIDENTIAL-PAST ;
+NON-FINITE ;
+PERMISSIVE ;
+IMPERATIVE ;
 
 
 
@@ -2021,6 +2030,7 @@ islohot:islohot N1 ; ! "reform"
 qatlam:qatlam N1 ; ! "layer"
 emizuvchi:emizuvchi A1 ; ! "nursing"
 qarbiy:qarbiy A1 ; ! "military"
+bo%'sh:bo%'sh A1 ; ! "free"
 tipli:tipli A1 ; ! "type"
 huquq:huquq N1 ; ! "law"
 tola:tola N1 ; ! "strand eg. strand of hair, field"
@@ -4263,7 +4273,6 @@ ekstra:ekstra A1 ; ! "super"
 dolzarb:dolzarb A1 ; ! "stunning"
 shaffof:shaffof A1 ; ! "transparent"
 pedagogik:pedagogik A1 ; ! "pedagogical"
-xam:xam A1 ; ! "bowed"
 tishli:tishli A1 ; ! "toothed"
 mavsumiy:mavsumiy A1 ; ! "seasonal"
 jinoiy:jinoiy A1 ; ! "criminal"
@@ -4307,7 +4316,7 @@ kamolizm:kamolizm N1 ; ! "kemalism"
 ta%'sir:ta%'sir N1 ; ! "influence"
 xarakat:xarakat N1 ; ! "movement"
 kamolchilik:kamolchilik N1 ; ! "kemalism"
-davr:davr A1 ; ! "period"
+davr:davr N1 ; ! "period"
 usmoniy:usmoniy A1 ; ! "Ottoman"
 ixcham:ixcham A1 ; ! "neat"
 oddiy:oddiy A1 ; ! "normal, usual"
@@ -4485,6 +4494,7 @@ asosiy:asosiy A1 ; ! "maiN"
 tashkil:tashkil N1 ; ! "organizing"
 umumiy:umumiy A1 ; ! "general"
 g%'olib:g%'olib N1 ; ! "winner"
+o%'g%'l:o%'g%'l N1 ; ! "son"
 qorong%'i:qorong%'i A1 ; ! "dark"
 zohir:zohir A1 ; ! "evident"
 ilohiy:ilohiy A1 ; ! "divine"
@@ -4921,7 +4931,7 @@ yaqinlash:yaqinlash VERB-IV ; ! "to approach"
 uyal:uyal VERB-IV ; ! "to be embarrassed"
 tirmash:tirmash VERB-IV ; ! "to climb"
 tiq:tiq VERB-TV ; ! "to cram into"
-top:top VERB-IV ; ! "to derive"
+tavallud% top:tavallud% top VERB-IV ; ! "to derive"
 to%'pla:to%'pla VERB-TV  ; ! "to collect"
 terla:terla VERB-IV ; ! "to sweat"
 tozala:tozala VERB-TV ; ! "to clean"
@@ -4999,7 +5009,7 @@ sun:sun VERB-TV ; ! "" ; ! "to offer, hold out"
 aniqlash:aniqlash VERB-TV ; ! "" "to become clear, specify"
 ishlab%chiqar:ishlab%chiq VERB-IV ; ! "" "work, process"
 lat:lat VERB-TV ; ! ""
-tug'ilgan:tug'ilgan VERB-IV ; ! "" "to born"
+tug'il:tug'il VERB-IV ; ! "" "to born"
 kamay:kamay VERB-IV ; ! "decrease"
 bulg%'an:bulg%'an VERB-IV ; ! "to be covered with"
 tushiril:tushiril VERB-IV ; ! "to be dropped"
@@ -5082,7 +5092,7 @@ doir:doir ADV1 ; ! "related to"
 mobaynida:mobaynida ADV1 ; ! "during"
 umuman:umuman ADV1 ; ! "in general"
 keyinchalik:keyinchalik ADV1 ; ! "afterwards"
-tashqi:tashqi ADV1 ; ! "external"
+tashqi:tashqi A1 ; ! "external"
 teng:teng ADV1 ; ! "equal"
 boshlab:boshlab ADV1 ; ! "at the begenning"
 o%'rtacha:o%'rtacha ADV1 ; ! "average"
