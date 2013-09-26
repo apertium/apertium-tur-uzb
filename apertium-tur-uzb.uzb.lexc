@@ -1135,6 +1135,7 @@ musiqa:musiqa N1 ; ! "music"
 kuch:kuch N1 ; ! "energy"
 sport:sport N1 ; ! "sport"
 kashf:kashf N1 ; ! "opening"
+bosh% shtab:bosh% shtab N1 ; ! "militar"
 hayot:hayot N1 ; ! "life"
 soglik:soglik N1 ; ! "health"
 ertalab:ertalab N1 ; ! "morning"
@@ -5003,7 +5004,8 @@ kamay:kamay VERB-IV ; ! "decrease"
 bulg%'an:bulg%'an VERB-IV ; ! "to be covered with"
 tushiril:tushiril VERB-IV ; ! "to be dropped"
 uchish:uchish VERB-IV ; ! "coop.of to fly"
-
+uzoqlash:uzoqlash VERB-IV ; ! "to get far from"
+chaqir:chaqir VERB-TV ; "to call"
 
 e:e VERB-COPULA ; ! "special copula"
 

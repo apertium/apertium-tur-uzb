@@ -1083,7 +1083,7 @@
 <e><p><l>alfabe<s n="n"/></l><r>alifba<s n="n"/></r></p></e>
 <e><p><l>insanlik<s n="n"/></l><r>insoniyat<s n="n"/></r></p></e>
 <e><p><l>barsak<s n="n"/></l><r>ichak<s n="n"/></r></p></e>
-<e><p><l>reis<s n="n"/></l><r>rais<s n="n"/></r></p></e>
+<e><p><l>başkalık<s n="n"/></l><r>rais<s n="n"/></r></p></e>
 <e><p><l>haşere<s n="n"/></l><r>hasharot<s n="n"/></r></p></e>
 <e><p><l>faydalanma<s n="n"/></l><r>foydalanish<s n="n"/></r></p></e>
 <e><p><l>varlik<s n="n"/></l><r>borlik<s n="n"/></r></p></e>
@@ -1420,7 +1420,10 @@
 <e><p><l>sen<s n="n"/></l><r>san<s n="n"/></r></p></e>
 <e><p><l>saf<s n="n"/></l><r>sof<s n="n"/></r></p></e>
 <e><p><l>meblag<s n="n"/></l><r>mablag'<s n="n"/></r></p></e>
-<e><p><l>gelisim<s n="n"/></l><r>taraqqiy<s n="n"/></r></p></e>
+<e><p><l>terakki<s n="n"/></l><r>taraqqiy<s n="n"/></r></p></e>
+
+<e><p><l>üye<s n="n"/></l><r>a'zo<s n="n"/></r></p></e>
+
 <e><p><l>kum<s n="n"/></l><r>qum<s n="n"/></r></p></e>
 <e><p><l>dumanlik<s n="n"/></l><r>tumanlik<s n="n"/></r></p></e>
 <e><p><l>şube<s n="n"/></l><r>shoxobcha<s n="n"/></r></p></e>
@@ -1819,7 +1822,7 @@
 <e><p><l>mecbur<s n="adj"/></l><r>majbur<s n="adj"/></r></p></e>
 <e><p><l>modern<s n="adj"/></l><r>hozirgi<s n="adj"/></r></p></e>
 
-<e><p><l>rehberlik<s n="n"/></l><r>raislik<s n="n"/></r></p></e>
+<e><p><l>başkanlık<s n="n"/></l><r>raislik<s n="n"/></r></p></e>
 <e><p><l>dış<s n="adj"/></l><r>tashqi<s n="adj"/></r></p></e>
 <e><p><l>şehir<s n="n"/></l><r>shahr<s n="n"/></r></p></e>
 <e><p><l>doğum<s n="n"/></l><r>tavallud<s n="n"/></r></p></e>
@@ -1845,9 +1848,11 @@
 <e><p><l>paşa<s n="n"/></l><r>posho<s n="n"/></r></p></e>
 <e><p><l>paşa<s n="n"/></l><r>sarkarda<s n="n"/></r></p></e>
 <e><p><l>meclis<s n="n"/></l><r>majlis<s n="n"/></r></p></e>
-<e><p><l>karargah<s n="n"/></l><r>shtab<s n="n"/></r></p></e>
+<e><p><l>harp<s n="n"/></l><r>shtab<s n="n"/></r></p></e>
 <e><p><l>bağımsızlık<s n="n"/></l><r>mustaqillik<s n="n"/></r></p></e>
 <e><p><l>ayrılık<s n="n"/></l><r>ziddiyat<s n="n"/></r></p></e>
+<e><p><l>harp<s n="n"/></l><r>bosh<s n="n"/></r></p></e>
+<e><p><l>harp<s n="n"/></l><r>bosh<b/>shtab<s n="n"/></r></p></e>
 
 <e><p><l>dizi<s n="n"/></l><r>tizim<s n="n"/></r></p></e>
 <e><p><l>dizim<s n="n"/></l><r>tizim<s n="n"/></r></p></e>
@@ -2015,7 +2020,7 @@
 <e><p><l>cisim<s n="n"/></l><r>jism<s n="n"/></r></p></e>
 <e><p><l>düşünce<s n="n"/></l><r>tushuncha<s n="n"/></r></p></e>
 <e><p><l>kıymet<s n="n"/></l><r>qiymat<s n="n"/></r></p></e>
-<e><p><l>cihan<s n="n"/></l><r>jahon<s n="n"/></r></p></e>
+<e><p><l>dünya<s n="n"/></l><r>jahon<s n="n"/></r></p></e>
 <e><p><l>sonuç<s n="n"/></l><r>xulosa<s n="n"/></r></p></e>
 <e><p><l>ilerleme<s n="n"/></l><r>yaxshilash<s n="n"/></r></p></e>
 <e><p><l>km2<s n="n"/></l><r>km2<s n="n"/></r></p></e>
@@ -2026,7 +2031,7 @@
 <e><p><l>halk<s n="n"/></l><r>xalx<s n="n"/></r></p></e>
 <e><p><l>devam<s n="n"/></l><r>davom<s n="n"/></r></p></e>
 
-<e><p><l>asker<s n="n"/></l><r>zobit<s n="n"/></r></p></e>
+<e><p><l>subay<s n="n"/></l><r>zobit<s n="n"/></r></p></e>
 <e><p><l>komün<s n="n"/></l><r>kommuna<s n="n"/></r></p></e>
 <e><p><l>coğrafya<s n="n"/></l><r>geografiya<s n="n"/></r></p></e>
 <e><p><l>sıkılık<s n="n"/></l><r>zichlik<s n="n"/></r></p></e>
@@ -2407,6 +2412,7 @@
      
      
 <e><p><l>mağlup<b/>et<s n="v"/><s n="tv"/></l><r>mag'lub<b/>et<s n="v"/><s n="tv"/></r></p></e>
+
 <e><p><l>bul<s n="v"/><s n="tv"/></l><r>top<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>gir<s n="v"/><s n="tv"/></l><r>kir<s n="v"/><s n="tv"/></r></p></e>
 
@@ -2421,7 +2427,7 @@
 <e><p><l>gönder<s n="v"/><s n="tv"/></l><r>yubor<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>taşlaş<s n="v"/><s n="tv"/></l><r>tashlash<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>açıkla<s n="v"/><s n="tv"/></l><r>ifodala<s n="v"/><s n="tv"/></r></p></e>
-<e><p><l>yürüt<s n="v"/><s n="tv"/></l><r>o'ta<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>tamamla<s n="v"/><s n="tv"/></l><r>o'ta<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>üret<s n="v"/><s n="tv"/></l><r>ishlab<b/>chiqar<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>işaretle<s n="v"/><s n="tv"/></l><r>belgila<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>mağlup<b/>et<s n="v"/><s n="tv"/></l><r>mağlub<b/>et<s n="v"/><s n="tv"/></r></p></e>
@@ -2432,7 +2438,7 @@
 <e><p><l>kur<s n="v"/><s n="tv"/></l><r>o'rnat<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>düşür<s n="v"/><s n="tv"/></l><r>tushir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>kuşat<s n="v"/><s n="tv"/></l><r>qamra<s n="v"/><s n="tv"/></r></p></e>
-<e><p><l>sık<s n="v"/><s n="tv"/></l><r>siq<s n="v"/><s n="tv"/></r></p></e><e><p><l>yürüt<s n="v"/><s n="tv"/></l><r>o'ta<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>sık<s n="v"/><s n="tv"/></l><r>siq<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>yap<s n="v"/><s n="tv"/></l><r>qil<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>belirle<s n="v"/><s n="tv"/></l><r>aniqla<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>taşı<s n="v"/><s n="tv"/></l><r>tashi<s n="v"/><s n="tv"/></r></p></e>
@@ -2444,8 +2450,9 @@
 <e><p><l>doğ<s n="v"/><s n="iv"/></l><r>tavallud<b/>top<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>doğ<s n="v"/><s n="iv"/></l><r>tug'il<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>yürü<s n="v"/><s n="iv"/></l><r>yur<s n="v"/><s n="iv"/></r></p></e>
-
 <e><p><l>piş<s n="v"/><s n="iv"/></l><r>pish<s n="v"/><s n="iv"/></r></p></e>
+
+<e><p><l>uzaklaş<s n="v"/><s n="iv"/></l><r>uzoqlash<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>benzemek<s n="v"/><s n="iv"/></l><r>o'xsha<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>faydalanıl<s n="v"/><s n="iv"/></l><r>foydalanil<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>katıl<s n="v"/><s n="iv"/></l><r>qatna<s n="v"/><s n="iv"/></r></p></e>
@@ -2674,8 +2681,8 @@
 
     <!-- SECTION: Adverbs -->
     
-    <e><p><l>başında<s n="adv"/></l><r>dastlab<s n="adv"/></r></p></e>
-    <e><p><l>yavaş<s n="adv"/></l><r>asta-sekin<s n="adv"/></r></p></e>
+    <e><p><l>ilk<b/>zamanlar<s n="adv"/></l><r>dastlab<s n="adv"/></r></p></e>
+    <e><p><l>yavaşça<s n="adv"/></l><r>asta-sekin<s n="adv"/></r></p></e>
     <e><p><l>şöyle<s n="adv"/></l><r>shunday<s n="adv"/></r></p></e>
     <e><p><l>zarfında<s n="adv"/></l><r>mobaynida<s n="adv"/></r></p></e>
 

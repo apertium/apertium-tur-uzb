@@ -11514,6 +11514,7 @@ milyoner:milyoner A4 ;  ! "millionaire"
 koşer:koşer A4 ;  ! "kosher"
 otoriter:otoriter A4 ;  ! "authoritative"
 vatansever:vatansever N1 ;  ! "patriot"
+terakki:terakki N1 ; ! "development"
 hayırsever:hayırsever A4 ;  ! "beneficient"
 misafirperver:misafirperver A4 ;  ! "hospitable"
 kadir:kadir A4 ;  ! "powerful, mighty"
@@ -12327,7 +12328,7 @@ devrimsel:devrimsel A1 ; ! "revolutionary"
 
 LEXICON Adverbs 
 
-
+ilk% zamanlar:ilk% zamanlar ADV3 ; ! "at first"
 bazen:bazen ADV3 ; ! "sometimes"
 defalarca:defalarca ADV3 ; ! "over and over"
 kolayca:kolayca ADV3 ; ! "easily"
@@ -12656,6 +12657,7 @@ derinleştir:derinleştir V-TV-T-IR ; ! "deepen"
 yap:yap V-TV-DIR-AR ; ! "make, do"
 bitir:bitir V-TV-DIR-AR ; ! "complete"
 
+uzaklaş:uzaklaş V-IV-DIR-IR ; ! "to get far from"
 gel:gel V-IV-DIR-IR ; ! "come"
 gel:gel V-IV-DIR-IR ; ! "come"
 yayınlan:yayınlan V-IV-DIR-IR ; ! "issue"
