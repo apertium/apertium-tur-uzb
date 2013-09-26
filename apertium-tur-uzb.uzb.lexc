@@ -2833,6 +2833,10 @@ km2:km2 ABBR ; ! "squar km"
 mil:mil ABBR ; ! ""
 kg:kg ABBR ; ! ""
 y%.:y%. ABBR ; ! ""
+avg%.:avg%. ABBR ;
+sent%.:sent%. ABBR ;
+okt%.:okt%. ABBR ; 
+noyab%.:noyab%. ABBR ;
 
 
 !!!! TO REMOVE LATER!!!!

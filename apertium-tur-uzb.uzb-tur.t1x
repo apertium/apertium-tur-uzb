@@ -16,6 +16,17 @@
      <def-cat n="yil">
        <cat-item lemma="y." tags="abbr"/>
     </def-cat>
+    
+    <def-cat n="aylar">
+   
+       <cat-item lemma="avg." tags="abbr"/>
+       <cat-item lemma="sent." tags="abbr"/>
+       <cat-item lemma="okt." tags="abbr"/>
+       <cat-item lemma="noyab." tags="abbr"/>
+       
+    </def-cat>
+
+
         
    
   </section-def-cats>
@@ -78,6 +89,28 @@
       <action>
         <out>
           <lu>
+            <clip pos="1" side="tl" part="whole"/>
+          </lu>
+        </out>
+      </action>
+    </rule>
+    
+    
+<rule comment="tarihi"> 
+      <pattern>
+        <pattern-item n="num"/>
+        <pattern-item n="yil"/>
+        <pattern-item n="num"/>
+        <pattern-item n="aylar"/>
+
+
+      </pattern>
+      <action>
+        <out>
+          <lu>            
+          
+            <clip pos="3" side="tl" part="whole"/>
+            <clip pos="4" side="tl" part="whole"/>
             <clip pos="1" side="tl" part="whole"/>
           </lu>
         </out>
