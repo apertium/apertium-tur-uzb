@@ -410,7 +410,8 @@ LEXICON CASE
 %<acc%>:%>%{y%}%{I%} CLIT ;
 %<loc%>:%>%{D%}%{A%} CLIT-GENERAL ;   
 %<abl%>:%>%{D%}%{A%}n CLIT-GENERAL ;  
-%<ins%>:%>%{y%}l%{A%} CLIT-GENERAL ;     
+%<ins%>:%>%{y%}l%{A%} CLIT-GENERAL ;  
+%<loc%>%<attr%>:%>%{D%}%{A%}k%{I%} CLIT-GENERAL ; 
 
 !!!! POSSESSIVES
 
@@ -2281,6 +2282,7 @@ halifelik:halifelik N1 ; ! "caliphate"h
 gelisim:gelisim N1 ; ! "siuation"
 numune:numune N1 ; ! "model"
 nazari:nazari A1 ; ! "doctrinaire"
+mağlup:mağlup%{v%} A1 ; ! "defeated"
 taktik:taktik N1 ; ! "tactical"
 şiddet:şiddet N1 ; ! "violence"
 üstün:üstün A1 ; ! "superior"
@@ -3395,7 +3397,7 @@ deformasyon:deformasyon N1 ; ! "deformation"
 defter:defter N1 ; ! "notebook"
 değer:değer N1 ; ! "worth"
 değer:değer A1 ; ! "worth"
-herakat:herakat A1 ; ! "action operation"
+herakat:herakat N1 ; ! "action operation"
 değim:değim N1 ; ! "value"
 değirmen:değirmen N1 ; ! "mill"
 değişim:değişim N1 ; ! "alteration"
@@ -7031,6 +7033,10 @@ nesir:nesir N1 ; ! "prose"
 neşir:neşir N1 ; ! "publication"
 nesne:nesne N1 ; ! "object"
 netice:netice N1 ; ! "consequence"
+prensip:prensip N1 ; ! "principle"
+laiklik:laiklik N1 ; ! "secularism"
+ayrılık:ayrılık N1 ; ! "speration"
+galip:galip N1 ; ! "winner"
 nevale:nevale N1 ; ! "food"
 neva:neva N1 ; ! "newa"
 nevi:nevi N1 ; ! "kind"
@@ -12155,7 +12161,8 @@ minör:minör A2 ;  ! ""
 provokatör:provokatör A4 ;  ! ""
 izolatör:izolatör A4 ;  ! ""
 garantör:garantör A4 ;  ! ""
-mecbur:mecbur A4 ;  ! ""
+mecbur:mecbur A1 ;  ! ""
+onur:onur A1 ; ! ""
 obur:obur A4 ;  ! ""
 bücür:bücür A4 ;  ! ""
 bodur:bodur A4 ;  ! ""
@@ -12300,6 +12307,7 @@ gereken:gereken A4 ;  ! ""
 kısa:kısa A1 ; ! "short"
 değerli:değerli A1 ; ! "different"
 iradeli:iradeli A1 ; ! "resolute"
+devrimsel:devrimsel A1 ; ! "revolutionary"
 
 
 LEXICON Adverbs 
@@ -12489,6 +12497,8 @@ herhalde:herhalde ADV3 ; ! "in any case"
 hiç:hiç ADV3 ; ! "none"
 hükmen:hükmen ADV3 ; ! "de jure"
 içeri:içeri ADV1 ; ! "indoor"
+zarfında:zarfında ADV3 ; ! "during"
+geçici:geçici ADV1 ; ! "momentaneouly"
 başında:başında ADV3 ; ! "at the beginning"
 teferruatla:teferruatla ADV1 ; ! "w"
 ihtiyaten:ihtiyaten ADV3 ; ! "as precaution"
@@ -12634,6 +12644,8 @@ bitir:bitir V-TV-DIR-AR ; ! "complete"
 gel:gel V-IV-DIR-IR ; ! "come"
 gel:gel V-IV-DIR-IR ; ! "come"
 yayınlan:yayınlan V-IV-DIR-IR ; ! "issue"
+imzalan:imzalan V-IV-DIR-IR ; ! "issue"
+hazırlan:hazırlan V-IV-DIR-IR ; 
 yayınla:yayınla V-TV-T-IR ; ! "publish"
 amaçla:amaçla V-TV-T-IR ; ! "accuse"
 gerçekleş:gerçekleş%{v%} V-IV-DIR-IR ; ! "to materialize"
@@ -12816,6 +12828,8 @@ büz:büz V-TV-DIR-AR ; ! "constrict"
 çel:çel V-TV-DIR-AR ; ! "tempt"
 çeliş:çeliş V-TV-DIR-IR ; ! "contradict"
 çevir:çevir V-TV-DIR-IR ; ! "translate"
+geri% çevir:geri% çevir V-TV-DIR-IR ; ! "redo"
+
 cezbet:cezbet V-TV-DIR-AR ; ! "attract"
 çıkar:çıkar V-TV-DIR-IR ; ! "eject, remove"
 çim:çim V-TV-DIR-AR ; ! "grass"

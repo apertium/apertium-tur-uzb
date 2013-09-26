@@ -255,7 +255,7 @@ LEXICON INDEF-PAST
 
 LEXICON PAST
 
-%<past%>:%>di PERS2 ;
+%<past%>:%>%di PERS2 ;
 
 LEXICON EVIDENTIAL-PAST
 
@@ -300,7 +300,7 @@ LEXICON PERS3
 %<p1%>%<sg%>:%>man  # ;
 %<p2%>%<sg%>:%>san  # ;
 %<p3%>%<sg%>:%>di  # ;
-%<p3%>%<sg%>:%>  # ;
+! %<p3%>%<sg%>:%>  # ;
 
 %<p3%>%<pl%>:%>siz # ;
 %<p1%>%<pl%>:%>miz  # ;
@@ -336,7 +336,7 @@ LEXICON DET-QNT
 
 LEXICON PRON-QNT 
 
-%<pron%>%<qnt%>: SUBST ;
+%<prn%>%<qnt%>: SUBST ;
 
 LEXICON DET-ITG
 
@@ -900,6 +900,7 @@ ahvol:ahvol N1 ; ! "condition"
 
 
 munisipalitet:munisipalitet N1 ; ! "municipality"
+yo%'nalish:yo%'nalish N1 ; ! "direction"
 to%'g%'il:to%'g%'il N1 ; ! "wheel"
 ibodat:ibodat N1 ; ! "worship"
 bog%'cha:bog%'cha N1 ; ! "garden
@@ -1627,7 +1628,6 @@ yillik:yillik N1 ; ! "anniversary"
 oy:oy N1 ; ! "month"
 muhit:muhit N1 ; ! "environment"
 Afrika:Afrika NP-TOP ; ! "Africa"
-o%'z:o%'z N1 ; ! "self"
 fuqaro:fuqaro N1 ; ! "citizen"
 xo%'jalik:xo%'jali%{K%} N1 ; ! "economy"
 mahkama:mahkama N1 ; ! "court"
@@ -2533,8 +2533,8 @@ politexnika:politexnika N1 ; ! "polytechinic"
 qutb:qutb N1 ; ! "pole"
 minora:minora N1 ; ! "minaret"
 tarmok:tarmok N1 ; ! "branch"
-suya{K%}:suya{K%} N1 ; ! "bone"
-raisli{K%}:raisli{K%} N1 ; ! "guidance"
+suyak:suya{K%} N1 ; ! "bone"
+raislik:raisli{K%} N1 ; ! "guidance"
 bosqinchi:bosqinchi N1 ; ! "aggressor"
 safdosh:safdosh N1 ; ! "party friend"
 qorako%'l:qorako%'l N1 ; ! "ashtrakan"
@@ -4482,8 +4482,9 @@ milliy:milliy A1 ; ! "national"
 ilmiy:ilmiy A1 ; ! "scientific"
 keng:keng A1 ; ! "broad"
 asosiy:asosiy A1 ; ! "maiN"
-tashkil:tashkil A1 ; ! "organizing"
+tashkil:tashkil N1 ; ! "organizing"
 umumiy:umumiy A1 ; ! "general"
+g%'olib:g%'olib N1 ; ! "winner"
 qorong%'i:qorong%'i A1 ; ! "dark"
 zohir:zohir A1 ; ! "evident"
 ilohiy:ilohiy A1 ; ! "divine"
@@ -4603,6 +4604,7 @@ hayotiy:hayotiy A1 ; ! "vital"
 odil:odil A1 ; ! "fair"
 fizik:fizik A1 ; ! "physical"
 zil:zil A1 ; ! "heavy"
+mag%'lub:mag%'lub A1 ; ! "defeated"
 
 
 
@@ -4644,7 +4646,7 @@ yuzlab:yuzlab DET-QNT ; ! "hundreds"
 butun:butun DET-QNT ; ! "all of it"
 minglab:minglab DET-QNT ; ! "thousands"
 ko%'plab:ko%'plab DET-QNT ; ! "hundreds"
-hamma:hamma PRON-QNT ; ! "all of them"
+hamma:hamma DET-QNT ; ! "all of them"
 Ayrimlar:Ayrimlar DET-DEM ; ! "some other"
 har:har DET-DEM ; ! "each"
 biron:biron DET-DEM ; ! "some"
@@ -5071,7 +5073,6 @@ xususan:xususan ADV1 ; ! "particularly"
 yanada:yanada ADV1 ; ! "and yet"
 binoan:binoan ADV1 ; ! "in accordance with"
 ilgari:ilgari ADV1 ; ! "before"
-ja:ja ADV1 ; ! "very"
 butunlay:butunlay ADV1 ; ! "completely"
 yilgacha:yilgacha ADV1 ; ! "until (that year)"   ???????????
 ana:ana ADV1 ; ! "there"
