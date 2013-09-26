@@ -110,7 +110,13 @@
           <lu>            
           
             <clip pos="3" side="tl" part="whole"/>
+          </lu>
+          <b pos="1"/>
+          <lu>            
             <clip pos="4" side="tl" part="whole"/>
+          </lu>
+          <b pos="2"/>
+          <lu>            
             <clip pos="1" side="tl" part="whole"/>
           </lu>
         </out>
