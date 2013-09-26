@@ -190,6 +190,12 @@ REMOVE Subst IF (0 A) (1 EOS) (NOT 1 Cop) ;
 SELECT A IF (1C Num) (2C N) ;
 
 
+# 2nd Singular Possessive
+
+REMOVE Poss2 IF (NOT 0 Gen)(1 Poss3) ;
+
+
+
 #VERBS
 
 #Select FINITE FORM (in this case past) if it is the last word of the sentence

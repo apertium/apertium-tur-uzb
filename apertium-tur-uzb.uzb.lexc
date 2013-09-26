@@ -161,6 +161,7 @@ LEXICON VERB-IV
 %<v%>%<iv%>%<ref%>:in VERB-IV-FULL ;
 %<v%>%<iv%>%<neg%>:ma VERB-IV-FULL ;
 %<v%>%<iv%>%<pass%>%<neg%>:ilma VERB-IV-FULL ;
+%<v%>%<iv%>%<ref%>%<neg%>:inma VERB-IV-FULL ;
 
 
 LEXICON VERB-IV-FULL
@@ -185,7 +186,12 @@ IMPERATIVE ;
 LEXICON VERB-TV
 
 %<v%>%<tv%>%<pass%>:il VERB-TV-FULL ;
+%<v%>%<tv%>%<pass%>%<neg%>:ilma VERB-TV-FULL ;
+
 %<v%>%<tv%>%<ref%>:in VERB-TV-FULL ;
+%<v%>%<tv%>%<ref%>%<neg%>:inma VERB-TV-FULL ;
+
+%<neg%>:ma VERB-TV-FULL ; 
 
 
 %<v%>%<tv%>: VERB-TV-FULL ;
@@ -193,7 +199,6 @@ LEXICON VERB-TV
 
 LEXICON VERB-TV-FULL
 
-%<neg%>: ma VERB-TV-FULL ; 
 GERUND ;
 PRES-CONT ;
 PRES-COND ;
@@ -2796,31 +2801,6 @@ boshqaruvi:boshqaruvi N1 ; ! "administrator"
 otaturkchilik:otaturkchilik N1 ; ! "ataturkism"
 kamolizm:kamolizm N1 ; ! "kemalism"
 ta%'sir:ta%'sir N1 ; ! "influence"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 !!!!SPECIAL!!!!
 
