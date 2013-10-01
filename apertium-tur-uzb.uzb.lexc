@@ -242,7 +242,7 @@ LEXICON NON-FINITE
 %<gna2%>:%>ib # ;
 %<part%>:%>ing SUBST ; 
 %<gna3%>:%>gach # ;
-%<gna1%>:%>ish SUBST;
+%<gna1%>:%>ish # ;
 %<gna4%>:%>ayotgan SUBST;
 
 
