@@ -2510,8 +2510,8 @@
 <e><p><l>sertlestir<s n="v"/><s n="tv"/></l><r>qot<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>güçlendir<s n="v"/><s n="tv"/></l><r>mustahkamla<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>yay<s n="v"/><s n="tv"/></l><r>yoy<s n="v"/><s n="tv"/></r></p></e>
-<e><p><l>temin%et<s n="v"/><s n="tv"/></l><r>ta'minla<s n="v"/><s n="tv"/></r></p></e>
-<e><p><l>ifade%et<s n="v"/><s n="tv"/></l><r>ifodala<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>temin<b/>et<s n="v"/><s n="tv"/></l><r>ta'minla<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>ifade<b/>et<s n="v"/><s n="tv"/></l><r>ifodala<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>aydinlat<s n="v"/><s n="tv"/></l><r>yorit<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>dök<s n="v"/><s n="tv"/></l><r>quy<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>ugurla<s n="v"/><s n="tv"/></l><r>quzat<s n="v"/><s n="tv"/></r></p></e>
@@ -2534,7 +2534,7 @@
 <e><p><l>gel<s n="v"/><s n="iv"/></l><r>kel<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>bit<s n="v"/><s n="iv"/></l><r>bit<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>ayril<s n="v"/><s n="iv"/></l><r>ajral<s n="v"/><s n="iv"/></r></p></e>
-<e><p><l>tayin%ol<s n="v"/><s n="iv"/></l><r>tayinlan<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>tayin<b/>ol<s n="v"/><s n="iv"/></l><r>tayinlan<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>alis<s n="v"/><s n="iv"/></l><r>moslash<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>çabala<s n="v"/><s n="iv"/></l><r>chiran<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>bak<s n="v"/><s n="iv"/></l><r>qara<s n="v"/><s n="iv"/></r></p></e>
@@ -2587,22 +2587,22 @@
  	<e><p><l>ver<s n="v"/><s n="tv"/></l><r>ber<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>gör<s n="v"/><s n="tv"/></l><r>ko'r<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>bekle<s n="v"/><s n="tv"/></l><r>kut<s n="v"/><s n="tv"/></r></p></e>
- 	<e><p><l>çikar<s n="v"/><s n="tv"/></l><r>olib%qoy<s n="v"/><s n="tv"/></r></p></e>
+ 	<e><p><l>çikar<s n="v"/><s n="tv"/></l><r>olib<b/>qoy<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>yönet<s n="v"/><s n="tv"/></l><r>boshqar<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>yet<s n="v"/><s n="tv"/></l><r>yet<s n="v"/><s n="iv"/></r></p></e>
  	<e><p><l>çal<s n="v"/><s n="tv"/></l><r>ogirla<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>ayaklanma<s n="v"/><s n="tv"/></l><r>qo'zg'al<s n="v"/><s n="iv"/></r></p></e>
- 	<e><p><l>vurgula<s n="v"/><s n="tv"/></l><r>urgu%ber<s n="v"/><s n="tv"/></r></p></e>
+ 	<e><p><l>vurgula<s n="v"/><s n="tv"/></l><r>urgu<b/>ber<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>uza<s n="v"/><s n="tv"/></l><r>uzay<s n="v"/><s n="iv"/></r></p></e>
  	<e><p><l>unut<s n="v"/><s n="tv"/></l><r>unut<s n="v"/><s n="tv"/></r></p></e>
- 	<e><p><l>um<s n="v"/><s n="tv"/></l><r>umid%qil<s n="v"/><s n="tv"/></r></p></e>
+ 	<e><p><l>um<s n="v"/><s n="tv"/></l><r>umid<b/>qil<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>tut<s n="v"/><s n="tv"/></l><r>tut<s n="v"/><s n="tv"/></r></p></e> 	
  	<e><p><l>yaz<s n="v"/><s n="tv"/></l><r>yoz<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>tasi<s n="v"/><s n="tv"/></l><r>tashi<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>tani<s n="v"/><s n="tv"/></l><r>tani<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>söyle<s n="v"/><s n="tv"/></l><r>de<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>kaç<s n="v"/><s n="tv"/></l><r>qoch<s n="v"/><s n="iv"/></r></p></e>
- 	<e><p><l>getir<s n="v"/><s n="tv"/></l><r>olib%kel<s n="v"/><s n="tv"/></r></p></e>
+ 	<e><p><l>getir<s n="v"/><s n="tv"/></l><r>olib<b/>kel<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>söyle<s n="v"/><s n="tv"/></l><r>ayt<s n="v"/><s n="tv"/></r></p></e>
 
  	<e><p><l>düş<s n="v"/><s n="tv"/></l><r>tush<s n="v"/><s n="iv"/></r></p></e>
@@ -2630,7 +2630,7 @@
  	<e><p><l>yüksel<s n="v"/><s n="tv"/></l><r>ko'taril<s n="v"/><s n="iv"/></r></p></e>
  	<e><p><l>yut<s n="v"/><s n="tv"/></l><r>yut<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>yayinla<s n="v"/><s n="tv"/></l><r>bos<s n="v"/><s n="tv"/></r></p></e>
- 	<e><p><l>yargila<s n="v"/><s n="tv"/></l><r>hakamlik%qil<s n="v"/><s n="tv"/></r></p></e>
+ 	<e><p><l>yargila<s n="v"/><s n="tv"/></l><r>hakamlik<b/>qil<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>yarala<s n="v"/><s n="tv"/></l><r>jarohatla<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>yap<s n="v"/><s n="tv"/></l><r>qil<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>yaklasmak<s n="v"/><s n="tv"/></l><r>yaqinlash<s n="v"/><s n="iv"/></r></p></e>
@@ -2641,9 +2641,9 @@
  	<e><p><l>topla<s n="v"/><s n="tv"/></l><r>to'pla<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>terle<s n="v"/><s n="tv"/></l><r>terla<s n="v"/><s n="iv"/></r></p></e>
  	<e><p><l>temizle<s n="v"/><s n="tv"/></l><r>tozala<s n="v"/><s n="tv"/></r></p></e>
- 	<e><p><l>tat<s n="v"/><s n="tv"/></l><r>ta'mini%bil<s n="v"/><s n="tv"/></r></p></e>
+ 	<e><p><l>tat<s n="v"/><s n="tv"/></l><r>ta'mini<b/>bil<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>tekrarla<s n="v"/><s n="tv"/></l><r>takrorla<s n="v"/><s n="tv"/></r></p></e>
- 	<e><p><l>tasla<s n="v"/><s n="tv"/></l><r>toshbo'ron%qil<s n="v"/><s n="tv"/></r></p></e>
+ 	<e><p><l>tasla<s n="v"/><s n="tv"/></l><r>toshbo'ron<b/>qil<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>tazele<s n="v"/><s n="tv"/></l><r>tozala<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>tart<s n="v"/><s n="tv"/></l><r>tort<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>tanis<s n="v"/><s n="tv"/></l><r>tanish<s n="v"/><s n="iv"/></r></p></e>
@@ -2652,11 +2652,11 @@
  	<e><p><l>sig<s n="v"/><s n="tv"/></l><r>sig<s n="v"/><s n="iv"/></r></p></e>
  	<e><p><l>sür<s n="v"/><s n="tv"/></l><r>hayda<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>sor<s n="v"/><s n="tv"/></l><r>so'ra<s n="v"/><s n="tv"/></r></p></e>
- 	<e><p><l>sömür<s n="v"/><s n="tv"/></l><r>expluatatsiya%qil<s n="v"/><s n="tv"/></r></p></e>
+ 	<e><p><l>sömür<s n="v"/><s n="tv"/></l><r>expluatatsiya<b/>qil<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>suçla<s n="v"/><s n="tv"/></l><r>aybla<s n="v"/><s n="tv"/></r></p></e>
- 	<e><p><l>sun<s n="v"/><s n="tv"/></l><r>taqdim%qil<s n="v"/><s n="tv"/></r></p></e>
+ 	<e><p><l>sun<s n="v"/><s n="tv"/></l><r>taqdim<b/>qil<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>soy<s n="v"/><s n="tv"/></l><r>arch<s n="v"/><s n="tv"/></r></p></e>
- 	<e><p><l>sorgula<s n="v"/><s n="tv"/></l><r>so'roq%qil<s n="v"/><s n="tv"/></r></p></e>
+ 	<e><p><l>sorgula<s n="v"/><s n="tv"/></l><r>so'roq<b/>qil<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>sok<s n="v"/><s n="tv"/></l><r>sol<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>sil<s n="v"/><s n="tv"/></l><r>o'chir<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>sap<s n="v"/><s n="tv"/></l><r>og<s n="v"/><s n="iv"/></r></p></e>
