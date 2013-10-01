@@ -2297,9 +2297,18 @@ samarali:samarali A1 ; ! "fruitful"
 suyuq:suyuq N1 ; ! "liquid"
 ko%'pchilik:ko%'pchilik N1 ; ! "majority"
 park:park N1 ; ! "park"
+vakolat:vakolat N1 ; ! "representation"
+respublikachilik:respublikachili%{K%} N1 ; ! "republicanism"
 oqibat:oqibat N1 ; ! "result"
+milliylashtirilish:milliylashtirilish N1 ; ! "nationalization"
+kodeks:kodeks N1 ; ! "code"
+millatparvarlik:millatparvarli%{%K} N1 ; ! "nationalism"
+xalqparvarlik:xalqparvarlik%{%K} N1 ; ! "populism"
+
 manaviy:manaviy A1 ; ! "spiritual"
 yuk:yuk N1 ; ! "load"
+iqtisod:iqtisod N1 ; ! ""
+shariat:shariat N1 ; ! "sharia"
 sharq:sharq N1 ; ! "east"
 don:don N1 ; ! "grain"
 optik:optik A1 ; ! "optical"
@@ -3969,7 +3978,7 @@ Francis:Francis NP-TOP ; ! "Francis"
 Besançon:Besançon NP-TOP ; ! "BesanÁon"
 chatqol:chatqol NP-TOP ; ! ***************
 Dijon:Dijon NP-TOP ; ! "Dijon"
-
+Izmir:Izmir NP-TOP ; ! "Izmir"
 
 
 
