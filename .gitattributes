@@ -20,7 +20,10 @@
 /autogen.sh -text
 /challenge.txt -text
 /configure.ac -text
+dev/bidix-missing-adj.dix -text
+dev/bidix-missing-adv.dix -text
 dev/bidix-missing-n.dix -text
+dev/bidix-missing-verbs.dix -text
 /modes.xml -text
 texts/ataturk-tr.txt -text
 texts/ataturk.tur.txt -text
