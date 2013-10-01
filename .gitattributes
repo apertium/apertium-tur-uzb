@@ -20,6 +20,7 @@
 /autogen.sh -text
 /challenge.txt -text
 /configure.ac -text
+dev/bidix-missing-n.dix -text
 /modes.xml -text
 texts/ataturk-tr.txt -text
 texts/ataturk.tur.txt -text
