@@ -208,3 +208,5 @@ REMOVE V IF (1 FINITE) (2 EOS) ;
 
 
 
+REMOVE Attr IF (1C Cop);
+   ## Shu bilan birga kamolchilik inqilobi kator salbiy xususiyatlarga xam ega edi.

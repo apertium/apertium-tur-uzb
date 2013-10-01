@@ -169,6 +169,10 @@
         <file name="apertium-tur-uzb.uzb-tur.t1x"/>
         <file name="uzb-tur.t1x.bin"/>
       </program>
+      <program name="apertium-transfer -n">
+        <file name="apertium-tur-uzb.uzb-tur.t2x"/>
+        <file name="uzb-tur.t2x.bin"/>
+      </program>
       <program name="hfst-proc $1">
         <file name="uzb-tur.autogen.hfst"/>
       </program>
@@ -196,6 +200,10 @@
       <program name="apertium-transfer -b">
         <file name="apertium-tur-uzb.uzb-tur.t1x"/>
         <file name="uzb-tur.t1x.bin"/>
+      </program>
+      <program name="apertium-transfer -n">
+        <file name="apertium-tur-uzb.uzb-tur.t2x"/>
+        <file name="uzb-tur.t2x.bin"/>
       </program>
       <program name="hfst-proc -d">
         <file name="uzb-tur.autogen.hfst"/>
@@ -289,6 +297,36 @@
       </program>
     </pipeline>
   </mode>
+
+  <mode name="uzb-tur-transfer2" install="no">
+    <pipeline>
+      <program name="hfst-proc -w">
+        <file name="uzb-tur.automorf.hfst"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="uzb-tur.rlx.bin"/>
+      </program>
+      <program name="apertium-tagger -g $2">
+        <file name="uzb-tur.prob"/>
+      </program>
+      <program name="apertium-pretransfer"/>
+      <program name="lt-proc -b">
+        <file name="uzb-tur.autobil.bin"/>
+      </program>
+      <program name="lrx-proc">
+        <file name="uzb-tur.autolex.bin"/>
+      </program>
+      <program name="apertium-transfer -b">
+        <file name="apertium-tur-uzb.uzb-tur.t1x"/>
+        <file name="uzb-tur.t1x.bin"/>
+      </program>
+      <program name="apertium-transfer -n">
+        <file name="apertium-tur-uzb.uzb-tur.t2x"/>
+        <file name="uzb-tur.t2x.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
 
 
 </modes>
