@@ -2109,6 +2109,7 @@ mir:mir N1 ; ! "ruler, commander"
 tegish:tegish N1 ; ! "share"
 magnit:magnit N1 ; ! "magnet"
 joy:joy N1 ; ! "place, location"
+g%'oziy:g%'oziy A1 ; ! "gazi"
 tayyorlash:tayyorlash N1 ; ! "preperation(s)"
 ul:ul N1 ; ! "son"
 Cher:Cher N1 ; ! "Cher-singer"
@@ -2238,7 +2239,7 @@ meros:meros N1 ; ! "legacy"
 folklor:folklor N1 ; ! "folklore"
 veterinariya:veterinariya N1 ; ! "veterinary"
 olmos:olmos N1 ; ! "diamond"
-
+programma:programma N1 ; ! "program"
 
 
 
@@ -2304,7 +2305,8 @@ milliylashtirilish:milliylashtirilish N1 ; ! "nationalization"
 kodeks:kodeks N1 ; ! "code"
 millatparvarlik:millatparvarli%{%K} N1 ; ! "nationalism"
 xalqparvarlik:xalqparvarlik%{%K} N1 ; ! "populism"
-
+shapka:shapka N1 ; ! "hat"
+osiy:osiy N1 ; ! "rebel"
 manaviy:manaviy A1 ; ! "spiritual"
 yuk:yuk N1 ; ! "load"
 iqtisod:iqtisod N1 ; ! ""
@@ -2341,7 +2343,7 @@ tirik:tirik A1 ; ! "alive"
 urug%':urug%' N1 ; ! "seed"
 sobiq:sobiq A1 ; ! "former"
 hisoblash:hisoblash N1 ; ! "counting"
-rahbarlik:rahbarlik N1 ; ! "guidance"
+rahbarlik:rahbarli%{K%} N1 ; ! "guidance"
 noyabr:noyabr N1 ; ! "november"
 qo%'mondon:qo%'mondon N1 ; ! "commander"
 e%'lon:e%'lon N1 ; ! "annoncement"
@@ -2828,6 +2830,8 @@ avg%.:avg%. ABBR ;
 sent%.:sent%. ABBR ;
 okt%.:okt%. ABBR ; 
 noyab%.:noyab%. ABBR ;
+apr%.:apr%. ABBR ; ! "april"
+avg:avg ABBR ; ! "august"
 
 
 !!!! TO REMOVE LATER!!!!
