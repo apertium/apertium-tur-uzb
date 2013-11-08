@@ -25,11 +25,14 @@ dev/bidix-missing-adv.dix -text
 dev/bidix-missing-n.dix -text
 dev/bidix-missing-np.dix -text
 dev/bidix-missing-verbs.dix -text
+dev/list-to-bidix.py -text
+dev/update-missing.sh -text
 /modes.xml -text
 texts/ataturk-tr.txt -text
 texts/ataturk.tur.txt -text
 texts/ataturk.txt -text
 texts/test1 -text
+texts/trt_01.uzb.txt -text
 /tur-uzb.prob -text svneol=unset#unset
 /update-morphs.bash -text
 /uzb-tur.prob -text svneol=unset#unset
