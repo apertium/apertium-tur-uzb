@@ -12,7 +12,7 @@ BASENAME=apertium-$(PREFIX1)
 
 TARGETS_COMMON =		\
 	$(PREFIX1).automorf.bin	\
-	$(PREFIX1).prob		\
+	#$(PREFIX1).prob		\
 	$(PREFIX1).rlx.bin	\
 	$(PREFIX1).autobil.bin	\
 	$(PREFIX1).autolex.bin	\
@@ -22,7 +22,7 @@ TARGETS_COMMON =		\
 	$(PREFIX1).t2x.bin	\
 	$(PREFIX1).t3x.bin	\
 	$(PREFIX2).automorf.bin	\
-	$(PREFIX2).prob		\
+	#$(PREFIX2).prob		\
 	$(PREFIX2).rlx.bin	\
 	$(PREFIX2).autobil.bin	\
 	$(PREFIX2).autolex.bin	\

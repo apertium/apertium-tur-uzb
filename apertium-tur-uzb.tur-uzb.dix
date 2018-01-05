@@ -388,7 +388,7 @@
 <e><p><l>konu<s n="n"/></l><r>mavzu<s n="n"/></r></p></e>
 <e><p><l>kad˝n<s n="n"/></l><r>ayol<s n="n"/></r></p></e>
 <e><p><l>ev<s n="n"/></l><r>uy<s n="n"/></r></p></e>
-<e><p><l>göz<s n="n"/></l><r>k'oz<s n="n"/></r></p></e>
+<e><p><l>göz<s n="n"/></l><r>ko'z<s n="n"/></r></p></e>
 <e><p><l>dünya<s n="n"/></l><r>dunyo<s n="n"/></r></p></e>
 <e><p><l>baş<s n="n"/></l><r>bosh<s n="n"/></r></p></e>
 <e><p><l>durum<s n="n"/></l><r>situatsiya<s n="n"/></r></p></e>
@@ -680,7 +680,7 @@
 <e><p><l>katil<s n="n"/></l><r>qotil<s n="n"/></r></p></e>
 <e><p><l>kavga<s n="n"/></l><r>q'avg'o<s n="n"/></r></p></e>
 <e><p><l>kayıt<s n="n"/></l><r>kayd<s n="n"/></r></p></e>
-<e><p><l>kaz<s n="n"/></l><r>q'oz<s n="n"/></r></p></e>
+<e><p><l>kaz<s n="n"/></l><r>qoz<s n="n"/></r></p></e>
 <e><p><l>kenar<s n="n"/></l><r>cheka<s n="n"/></r></p></e>
 <e><p><l>kere<s n="n"/></l><r>karra<s n="n"/></r></p></e>
 <e><p><l>kez<s n="n"/></l><r>marta<s n="n"/></r></p></e>
@@ -1461,7 +1461,7 @@
 <e><p><l>konu<s n="n"/></l><r>mavzu<s n="n"/></r></p></e>
 <e><p><l>kadın<s n="n"/></l><r>ayol<s n="n"/></r></p></e>
 <e><p><l>ev<s n="n"/></l><r>uy<s n="n"/></r></p></e>
-<e><p><l>göz<s n="n"/></l><r>k'oz<s n="n"/></r></p></e>
+<e><p><l>göz<s n="n"/></l><r>koz<s n="n"/></r></p></e>
 <e><p><l>dünya<s n="n"/></l><r>dunyo<s n="n"/></r></p></e>
 <e><p><l>baş<s n="n"/></l><r>bosh<s n="n"/></r></p></e>
 <e><p><l>durum<s n="n"/></l><r>situatsiya<s n="n"/></r></p></e>
@@ -2419,7 +2419,7 @@
 <e><p><l>mağlup<b/>et<s n="v"/><s n="tv"/></l><r>mag'lub<b/>et<s n="v"/><s n="tv"/></r></p></e>
 
 <e><p><l>bul<s n="v"/><s n="tv"/></l><r>top<s n="v"/><s n="tv"/></r></p></e>
-<e><p><l>gir<s n="v"/><s n="tv"/></l><r>kir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>gir<s n="v"/><s n="iv"/></l><r>kir<s n="v"/><s n="tv"/></r></p></e>
 
 <e><p><l>taşla<s n="v"/><s n="tv"/></l><r>tashla<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>kovala<s n="v"/><s n="tv"/></l><r>kuv<s n="v"/><s n="tv"/></r></p></e>
@@ -2577,7 +2577,7 @@
 <e><p><l>hareketlen<s n="v"/><s n="iv"/></l><r>harakatlan<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>yasaklan<s n="v"/><s n="iv"/></l><r>taqiqlan<s n="v"/><s n="iv"/></r></p></e>
  	 	<e><p><l>yaz<s n="v"/><s n="tv"/></l><r>yoz<s n="v"/><s n="tv"/></r></p></e>
- 	<e><p><l>ol<s n="v"/><s n="iv"/></l><r>b'ol<s n="v"/><s n="iv"/></r></p></e>
+ 	<e><p><l>ol<s n="v"/><s n="iv"/></l><r>bo'l<s n="v"/><s n="iv"/></r></p></e>
  	<e><p><l>ye<s n="v"/><s n="tv"/></l><r>ye<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>yika<s n="v"/><s n="tv"/></l><r>yuv<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>zıpla<s n="v"/><s n="tv"/></l><r>sakra<s n="v"/><s n="iv"/></r></p></e>
