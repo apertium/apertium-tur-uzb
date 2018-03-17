@@ -39,3 +39,8 @@ texts/trt_01.uzb.txt -text
 /tur-uzb.prob -text svneol=unset#unset
 /update-morphs.bash -text
 /uzb-tur.prob -text svneol=unset#unset
+*.dix linguist-language=XML linguist-detectable=true
+*.lrx linguist-language=XML linguist-detectable=true
+*.lsx linguist-language=XML linguist-detectable=true
+*.tsx linguist-language=XML linguist-detectable=true
+*.t[[:digit:]]x linguist-language=XML linguist-detectable=true
