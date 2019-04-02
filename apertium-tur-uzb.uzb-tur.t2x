@@ -1,211 +1,74 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<transfer>
+<?xml version="1.0" encoding="UTF-8"?>
+<interchunk>
   <section-def-cats>
-
-    <!-- this shouldn't include 'sent' or other punctuation -->
-    <def-cat n="main-reading">
-      <cat-item tags="n"/> <!-- In case of abessive SIZ it's <n>+<post.*> without the <nom> tag-->
-      <cat-item tags="n.*"/>
-      <cat-item tags="np.*"/>
-      <cat-item tags="adj"/>
-      <cat-item tags="adj.*"/>
-      <cat-item tags="num.*"/>
-      <cat-item tags="prn.*"/>
-      <cat-item tags="det.*"/>
-      <cat-item tags="v.*"/>
-      <cat-item tags="vaux.*"/>
-      <cat-item tags="adv.*"/>
-      <cat-item tags="post.*"/>
-      <cat-item tags="postadv.*"/>
-      <cat-item tags="cnjcoo.*"/>
-      <cat-item tags="cnjsub.*"/>
-      <cat-item tags="cnjadv.*"/>
-      <cat-item tags="ij.*"/>
-      <cat-item tags="abbr.*"/>
-      <cat-item tags="cop.*"/>
-      <cat-item tags="part.*"/>
-      <cat-item tags="ideo.*"/>
+    <def-cat n="ISTE">
+      <cat-item lemma="iste" tags="SV.*"/>
     </def-cat>
-
-    <def-cat n="sub-reading1">
-      <!-- Personal copulas and abessive/privative postposition -->
-      <cat-item tags="cop.*.p1.*"/>
-      <cat-item tags="cop.*.p2.*"/>
-      <cat-item tags="cop.*.p3.*"/>
-      <cat-item tags="cop.p1.*"/>
-      <cat-item tags="cop.p2.*"/>
-      <cat-item tags="cop.p3.*"/>
-      <cat-item lemma="сыз" tags="post.*"/>
+    <def-cat n="GER-DAT">
+      <cat-item tags="SV.ger.dat"/>
     </def-cat>
-
-    <def-cat n="sub-reading2">
-      <!-- Every other thing in Kazakh which most likely will be translated
-           with a clitic. Can appear after cat="sub-reading1" -->
-      <cat-item tags="qst"/>
-      <cat-item tags="mod_ass"/>
-      <cat-item tags="mod_ind"/>
-      <cat-item tags="emph"/>
-      <cat-item tags="mod"/>
-      <cat-item tags="postadv"/>
-      <cat-item lemma="да" tags="postadv"/>
-      <cat-item lemma="да" tags="cnjcoo"/>
-    </def-cat>
-
   </section-def-cats>
 
- <section-def-attrs>
-   <def-attr n="a_qst">
-     <attr-item tags="qst"/>
-   </def-attr>
- </section-def-attrs>
+  <section-def-attrs>
+    <def-attr n="a_ger">
+      <attr-item tags="ger"/>
+      <attr-item tags="ger_inf"/>
+    </def-attr>
+    <def-attr n="a_cas">
+      <attr-item tags="nom"/>
+      <attr-item tags="dat"/>
+      <attr-item tags="acc"/>
+      <attr-item tags="gen"/>
+    </def-attr>
+  </section-def-attrs>
 
- <section-def-vars>
-    <def-var n="a" v="~"/>
+  <section-def-vars>
+    <def-var n="number"/>
   </section-def-vars>
 
-  <section-def-lists>
-    <def-list n="tatar-clitics">
-      <list-item v="чы"/>
-      <list-item v="сана"/>
-      <list-item v="мы"/>
-      <list-item v="мыни"/>
-      <list-item v="ла"/>
-      <list-item v="дыр"/>
-      <list-item v="гына"/>
-      <list-item v="да"/>
-      <list-item v="ук"/>
-    </def-list>
-  </section-def-lists>
+  <section-def-macros>
+    <def-macro n="test1" npar="1">
+      <let>
+        <var n="number"/>
+        <lit v=""/>
+      </let>
+    </def-macro>
+  </section-def-macros>
 
   <section-rules>
 
-<!-- replace this when we add postgen
-    <rule comment="REGLA: 1;">
+    <rule comment="REGLA: GER-DAT ISTE">
       <pattern>
-        <pattern-item n="main-reading"/>
+        <pattern-item n="GER-DAT"/>
+        <pattern-item n="ISTE"/>
       </pattern>
       <action>
+        <let><clip pos="1" part="a_cas"/><lit-tag v="nom"/></let>
+        <let><clip pos="1" part="a_ger"/><lit-tag v="ger_inf"/></let>
         <out>
-          <var n="a"/>
-          <lu>
-            <clip pos="1" side="tl" part="whole"/>
-          </lu>
+          <chunk>
+            <clip pos="1" part="lem"/>
+            <clip pos="1" part="tags"/>
+            <clip pos="1" part="chcontent"/>
+          </chunk>
+          <b pos="1"/>
+          <chunk>
+            <clip pos="2" part="lem"/>
+            <clip pos="2" part="tags"/>
+            <clip pos="2" part="chcontent"/>
+          </chunk>
         </out>
       </action>
     </rule>
+  </section-rules>
+</interchunk>
+
+<!--
+Resources:
+    http://wiki.apertium.org/wiki/Chunking:_A_full_example
+    http://wiki.apertium.org/wiki/Chunking
+    http://wiki.apertium.org/wiki/Apertium_New_Language_Pair_HOWTO#Transfer_rules
+    http://wiki.apertium.org/wiki/A_long_introduction_to_transfer_rules
+    http://wiki.apertium.org/wiki/Transfer#Adding_structural_transfer_.28grammar.29_rules
 -->
 
-    <rule comment="REGLA: 2a;
-      For sequence [stem + personal copula/abessive + other clitics]">
-      <pattern>
-        <pattern-item n="main-reading"/>
-        <pattern-item n="sub-reading1"/> <!-- Personal copulas/Abessive -->
-        <pattern-item n="sub-reading2"/> <!-- All other clitics -->
-      </pattern>
-      <action>
-	<choose>
-	  <when>
-	    <test>
-	      <in caseless="yes">
-		<clip pos="3" side="tl" part="lem"/>
-		<list n="tatar-clitics"/>
-	      </in>
-	    </test>
-	    <out>
-	      <mlu>
-		<lu>
-		  <clip pos="1" side="tl" part="whole"/>
-		</lu>
-		<lu>
-		  <clip pos="2" side="tl" part="whole"/>
-		</lu>
-		<lu>
-		  <clip pos="3" side="tl" part="whole"/>
-		</lu>
-	      </mlu>
-	    </out>
-	  </when>
-	  <otherwise>
-	    <out>
-	      <mlu>
-		<lu>
-		  <clip pos="1" side="tl" part="whole"/>
-		</lu>
-		<lu>
-		  <clip pos="2" side="tl" part="whole"/>
-		</lu>
-	      </mlu>
-	      <b/>
-	      <lu>
-		<clip pos="3" side="tl" part="whole"/>
-	      </lu>
-	    </out>
-	  </otherwise>
-	</choose>
-      </action>
-    </rule>
-
-    <rule comment="REGLA: 2b; makes personal copulas/abessive to clitics">
-      <pattern>
-        <pattern-item n="main-reading"/>
-        <pattern-item n="sub-reading1"/> <!-- Personal copulas/Abessive -->
-      </pattern>
-      <action>
-        <out>
-          <mlu>
-            <lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-            <lu>
-              <clip pos="2" side="tl" part="whole"/>
-            </lu>
-          </mlu>
-        </out>
-      </action>
-    </rule>
-
-    <rule comment="REGLA:3;
-      makes stuff contained in list=tatar-clitics to clitics">
-      <pattern>
-	<pattern-item n="main-reading"/>
-	<pattern-item n="sub-reading2"/>
-      </pattern>
-      <action>
-	<choose>
-	  <when>
-	    <test>
-	        <in caseless="yes">
-	     	  <clip pos="2" side="tl" part="lem"/>
-		  <list n="tatar-clitics"/>
-	        </in>
-	    </test>
-	    <out>
-	      <mlu>
-		<lu>
-		  <clip pos="1" side="tl" part="whole"/>
-		</lu>
-		<lu>
-		  <clip pos="2" side="tl" part="whole"/>
-		</lu>
-	      </mlu>
-	    </out>
-	  </when>
-	  <otherwise>
-	    <out>
-	      <lu>
-		<clip pos="1" side="tl" part="whole"/>
-	      </lu>
-	      <b/>
-	      <lu>
-		<clip pos="2" side="tl" part="whole"/>
-	      </lu>
-	    </out>
-	  </otherwise>
-	</choose>
-      </action>
-    </rule>
-
-  </section-rules>
-
-</transfer>
