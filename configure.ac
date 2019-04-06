@@ -1,6 +1,6 @@
 AC_PREREQ(2.52)
 
-AC_INIT([Apertium Turkish-Uzbek], [0.2.0], [jonathan.north.washington@gmail.com], [apertium-tur-uzb], [http://wiki.apertium.org/wiki/Apertium-tur-uzb])
+AC_INIT([Apertium Turkish-Uzbek], [0.2.0], [ftyers@prompsit.com], [apertium-tur-uzb], [http://wiki.apertium.org/wiki/Apertium-tur-uzb])
 AM_INIT_AUTOMAKE
 
 AC_PROG_LN_S

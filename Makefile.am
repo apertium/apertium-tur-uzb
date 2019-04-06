@@ -10,27 +10,26 @@ PREFIX2=$(LANG2)-$(LANG1)
 
 BASENAME=apertium-$(PREFIX1)
 
-TARGETS_COMMON = $(PREFIX1).automorf.bin	\
+TARGETS_COMMON =		\
+	$(PREFIX1).automorf.bin	\
+	$(PREFIX1).prob		\
 	$(PREFIX1).rlx.bin	\
 	$(PREFIX1).autobil.bin	\
 	$(PREFIX1).autolex.bin	\
 	$(PREFIX1).autogen.bin	\
-	$(PREFIX1).autopgen.bin	\
 	$(PREFIX1).t1x.bin	\
 	$(PREFIX1).t2x.bin	\
 	$(PREFIX1).t3x.bin	\
 	$(PREFIX2).automorf.bin	\
+	$(PREFIX2).prob		\
 	$(PREFIX2).rlx.bin	\
 	$(PREFIX2).autobil.bin	\
 	$(PREFIX2).autolex.bin	\
 	$(PREFIX2).autogen.bin	\
-	$(PREFIX2).autopgen.bin	\
 	$(PREFIX2).t1x.bin	\
 	$(PREFIX2).t2x.bin	\
 	$(PREFIX2).t3x.bin
 
-#$(PREFIX1).prob		
-#$(PREFIX2).prob		
 
 # This include defines goals for install-modes, .deps/.d, autobil.prefixes and .mode files:
 @ap_include@
@@ -58,10 +57,8 @@ TARGETS_COMMON = $(PREFIX1).automorf.bin	\
 	lt-comp lr $@.att $@
 	@rm $@.att
 
-$(PREFIX1).automorf.bin: .deps/$(LANG1).automorf.hfst .deps/$(PREFIX1).autobil.prefixes
-	hfst-compose-intersect -1 .deps/$(LANG1).automorf.hfst -2 .deps/$(PREFIX1).autobil.prefixes -o .deps/$(PREFIX1).automorf.trimmed
-	hfst-fst2txt -i .deps/$(PREFIX1).automorf.trimmed -o .deps/$(PREFIX1).automorf.trimmed.att
-	lt-comp lr .deps/$(PREFIX1).automorf.trimmed.att $@
+$(PREFIX1).automorf.bin: $(AP_SRC1)/$(LANG1).automorf.bin $(PREFIX1).autobil.bin
+	lt-trim $(AP_SRC1)/$(LANG1).automorf.bin $(PREFIX1).autobil.bin $@
 
 # -------------------
 # Turkish generation:
@@ -92,10 +89,8 @@ $(PREFIX2).autogen.bin: $(AP_SRC1)/$(LANG1).autogen.bin
 	lt-comp lr $@.att $@
 	@rm $@.att
 
-$(PREFIX2).automorf.bin: .deps/$(LANG2).automorf.hfst .deps/$(PREFIX2).autobil.prefixes
-	hfst-compose-intersect -1 .deps/$(LANG2).automorf.hfst -2 .deps/$(PREFIX2).autobil.prefixes -o .deps/$(PREFIX2).automorf.trimmed
-	hfst-fst2txt -i .deps/$(PREFIX2).automorf.trimmed -o .deps/$(PREFIX2).automorf.trimmed.att
-	lt-comp lr .deps/$(PREFIX2).automorf.trimmed.att $@
+$(PREFIX2).automorf.bin: $(AP_SRC2)/$(LANG2).automorf.bin $(PREFIX2).autobil.bin
+	lt-trim $(AP_SRC2)/$(LANG2).automorf.bin $(PREFIX2).autobil.bin $@
 
 # -------------------
 # Uzbek generation:
