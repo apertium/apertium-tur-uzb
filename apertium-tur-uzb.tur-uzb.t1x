@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transfer default="chunk">
   <section-def-cats>
+    <def-cat n="ger">
+      <cat-item tags="v.*.ger.*"/>
+    </def-cat>
     <def-cat n="nom">
       <cat-item tags="n.*"/>
     </def-cat>
@@ -10,6 +13,10 @@
   </section-def-cats>
 
   <section-def-attrs>
+    <def-attr n="a_ger">
+      <attr-item tags="ger_abst"/>
+      <attr-item tags="ger"/>
+    </def-attr>
     <def-attr n="a_cas">
       <attr-item tags="nom"/>
     </def-attr>
@@ -29,6 +36,25 @@
   </section-def-macros>
 
   <section-rules>
+    <rule comment="REGLA: ger → ger_abst">
+      <pattern>
+        <pattern-item n="ger"/>
+      </pattern>
+      <action>
+        <let><clip pos="1" side="tl" part="a_ger"/><lit-tag v="ger_abst"/></let>
+        <out>
+          <chunk name="ger" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SENT"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
     <rule comment="REGLA: SENT">
       <pattern>
         <pattern-item n="sent"/>
