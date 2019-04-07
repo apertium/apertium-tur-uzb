@@ -1,4 +1,5 @@
 <dictionary type="sequential">
+<alphabet></alphabet>
 <sdefs>
 <sdef n="det"/>
 <sdef n="abl"/>

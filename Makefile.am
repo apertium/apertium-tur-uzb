@@ -15,7 +15,7 @@ TARGETS_COMMON =		\
 	$(PREFIX1).prob		\
 	$(PREFIX1).rlx.bin	\
 	$(PREFIX1).autobil.bin	\
-	$(PREFIX1).autosep.bin	\
+	$(PREFIX1).autoseq.bin	\
 	$(PREFIX1).autolex.bin	\
 	$(PREFIX1).autogen.bin	\
 	$(PREFIX1).t1x.bin	\
@@ -139,10 +139,10 @@ $(PREFIX2).autobil.bin: $(BASENAME).$(PREFIX1).dix
 ## Separable expression processing
 ###############################################################################
 
-$(PREFIX1).autosep.bin: $(BASENAME).$(PREFIX1).lsx
+$(PREFIX1).autoseq.bin: $(BASENAME).$(PREFIX1).lsx
 	lsx-comp lr $< $@
 
-$(PREFIX2).autosep.bin: $(BASENAME).$(PREFIX2).lsx
+$(PREFIX2).autoseq.bin: $(BASENAME).$(PREFIX2).lsx
 	lsx-comp lr $< $@
 
 ###############################################################################
