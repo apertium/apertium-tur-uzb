@@ -15,6 +15,7 @@ TARGETS_COMMON =		\
 	$(PREFIX1).prob		\
 	$(PREFIX1).rlx.bin	\
 	$(PREFIX1).autobil.bin	\
+	$(PREFIX1).autosep.bin	\
 	$(PREFIX1).autolex.bin	\
 	$(PREFIX1).autogen.bin	\
 	$(PREFIX1).t1x.bin	\
@@ -133,6 +134,16 @@ $(PREFIX1).autobil.bin: $(BASENAME).$(PREFIX1).dix
 $(PREFIX2).autobil.bin: $(BASENAME).$(PREFIX1).dix
 	apertium-validate-dictionary $<
 	lt-comp rl $< $@
+
+###############################################################################
+## Separable expression processing
+###############################################################################
+
+$(PREFIX1).autosep.bin: $(BASENAME).$(PREFIX1).lsx
+	lsx-comp lr $< $@
+
+$(PREFIX2).autosep.bin: $(BASENAME).$(PREFIX2).lsx
+	lsx-comp lr $< $@
 
 ###############################################################################
 ## Lexical selection rules
