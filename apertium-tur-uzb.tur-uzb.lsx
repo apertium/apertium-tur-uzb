@@ -1,0 +1,13 @@
+<dictionary type="sequential">
+<sdefs>
+<sdef n="det"/>
+<sdef n="abl"/>
+<sdef n="dem"/>
+<sdef n="n"/>
+<sdef n="cnjadv"/>
+</sdefs>
+<section id="main" type="standard">
+<e><p><l>bu<s n="det"/><s n="dem"/><j/>yüz<s n="n"/><s n="abl"/></l>
+      <r>bu<b/>yüzden<s n="cnjadv"/></r></p></e>
+</section>
+</dictionary>
