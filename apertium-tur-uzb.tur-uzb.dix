@@ -401,6 +401,7 @@
 <e><p><l>para<s n="n"/></l><r>pul<s n="n"/></r></p></e>
 <e><p><l>anne<s n="n"/></l><r>ona<s n="n"/></r></p></e>
 <e><p><l>baba<s n="n"/></l><r>ota<s n="n"/></r></p></e>
+<e><p><l>baba<s n="n"/></l><r>ato<s n="n"/></r></p></e>
 <e><p><l>hayat<s n="n"/></l><r>hayot<s n="n"/></r></p></e>
 <e><p><l>bilgi<s n="n"/></l><r>bilim<s n="n"/></r></p></e>
 <e><p><l>an<s n="n"/></l><r>on<s n="n"/></r></p></e>
@@ -1239,7 +1240,7 @@
 <e><p><l>toprak<s n="n"/></l><r>tuproq<s n="n"/></r></p></e>
 <e><p><l>bölüm<s n="n"/></l><r>boʻlak<s n="n"/></r></p></e>
 <e><p><l>timur<s n="n"/></l><r>temuriy<s n="n"/></r></p></e>
-<e><p><l>usta<s n="n"/></l><r>usta<s n="n"/></r></p></e>
+<e><p><l>üstad<s n="n"/></l><r>ustoz<s n="n"/></r></p></e>
 <e><p><l>eğilim<s n="n"/></l><r>tamoyil<s n="n"/></r></p></e>
 <e><p><l>özellik<s n="n"/></l><r>xossa<s n="n"/></r></p></e>
 <e><p><l>hane<s n="n"/></l><r>xona<s n="n"/></r></p></e>
@@ -1473,6 +1474,7 @@
 <e><p><l>kız<s n="n"/></l><r>kiz<s n="n"/></r></p></e>
 <e><p><l>para<s n="n"/></l><r>pul<s n="n"/></r></p></e>
 <e><p><l>anne<s n="n"/></l><r>ona<s n="n"/></r></p></e>
+<e><p><l>anne<s n="n"/></l><r>momo<s n="n"/></r></p></e>
 <e><p><l>baba<s n="n"/></l><r>ota<s n="n"/></r></p></e>
 <e><p><l>hayat<s n="n"/></l><r>hayot<s n="n"/></r></p></e>
 <e><p><l>bilgi<s n="n"/></l><r>bilim<s n="n"/></r></p></e>
@@ -2241,6 +2243,8 @@
 <e><p><l>grenoble<s n="np"/></l><r>grenoble<s n="np"/></r></p></e>
 <e><p><l>caen<s n="np"/></l><r>caen<s n="np"/></r></p></e>
         <e><p><l>Özbekistan<s n="np"/></l><r>Oʻzbekiston<s n="np"/></r></p></e>
+        <e><p><l>Kazakistan<s n="np"/></l><r>Qozogʻiston<s n="np"/></r></p></e>
+        <e><p><l>Afganistan<s n="np"/></l><r>Afgʻoniston<s n="np"/></r></p></e>
         <e><p><l>Taşkent<s n="np"/></l><r>Toshkent<s n="np"/></r></p></e>
         <e><p><l>Reyhan<s n="np"/></l><r>Reyhan<s n="np"/></r></p></e>
         <e><p><l>Türkmenistan<s n="np"/></l><r>Turkmaniston<s n="np"/></r></p></e>
@@ -2420,7 +2424,8 @@
 
 <e><p><l>bul<s n="v"/><s n="tv"/></l><r>top<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>gir<s n="v"/><s n="iv"/></l><r>kir<s n="v"/><s n="tv"/></r></p></e>
-
+<e><p><l>kutlan<s n="v"/><s n="iv"/></l><r>nishonlan<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>karşılaş<s n="v"/><s n="tv"/></l><r>uchra<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>oyna<s n="v"/><s n="tv"/></l><r>oʻyna<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>taşla<s n="v"/><s n="tv"/></l><r>tashla<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>kovala<s n="v"/><s n="tv"/></l><r>kuv<s n="v"/><s n="tv"/></r></p></e>
@@ -3419,6 +3424,7 @@
     <e><p><l>melek<s n="n"/></l><r>farishta<s n="n"/></r></p></e>
     <e><p><l>felsefeci<s n="n"/></l><r>faylasuf<s n="n"/></r></p></e>
     <e><p><l>filozof<s n="n"/></l><r>faylasuf<s n="n"/></r></p></e>
+    <e><p><l>filozof<s n="n"/></l><r>filosof<s n="n"/></r></p></e>
     <e><p><l>çiftçi<s n="n"/></l><r>fermer<s n="n"/></r></p></e>
     <e><p><l>çiftlik<b/>sahibi<s n="n"/></l><r>fermer<s n="n"/></r></p></e>
     <e><p><l>halk<b/>bilimi<s n="n"/></l><r>folklor<s n="n"/></r></p></e>
