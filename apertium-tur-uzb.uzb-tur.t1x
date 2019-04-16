@@ -29,6 +29,10 @@
       <cat-item tags="past.*"/>
     </def-cat>
 
+   <def-cat n="post">
+      <cat-item tags="post"/>
+    </def-cat>
+
     <def-cat n="sent">
       <cat-item tags="sent"/>
     </def-cat>
