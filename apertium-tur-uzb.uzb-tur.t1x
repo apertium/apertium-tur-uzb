@@ -1,8 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transfer default="chunk">
   <section-def-cats>
-    <def-cat n="nom">
+    <def-cat n="noun">
       <cat-item tags="n.*"/>
+      <cat-item tags="n"/>
+      <cat-item tags="np"/>
+      <cat-item tags="np.*"/>
+    </def-cat>
+
+    <def-cat n="num">
+      <cat-item tags="num.*"/>
+      <cat-item tags="num"/>
     </def-cat>
 
     <def-cat n="ekan">
@@ -367,6 +375,168 @@
 	     <clip pos="1" side="tl" part="a_pers_nbr"/>
           </lu>
    	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: n+post -> n.nom+post">
+      <pattern>
+        <pattern-item n="noun"/>
+        <pattern-item n="post"/>
+      </pattern>
+      <action>
+ <let>
+          <clip pos="1" side="tl" part="a_cas"/>
+	<lit-tag v="nom"/>
+        </let>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag> 
+            </tags>
+		<lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+<b/>
+	<lu>
+              <clip pos="2" side="tl" part="whole"/>
+	</lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: n+post -> n.acc+post">
+      <pattern>
+        <pattern-item n="noun"/>
+        <pattern-item n="post"/>
+      </pattern>
+      <action>
+ <let>
+          <clip pos="1" side="tl" part="a_cas"/>
+	<lit-tag v="acc"/>
+        </let>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag> 
+            </tags>
+		<lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+<b/>
+	<lu>
+              <clip pos="2" side="tl" part="whole"/>
+	</lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: n+post -> n.dat+post">
+      <pattern>
+        <pattern-item n="noun"/>
+        <pattern-item n="post"/>
+      </pattern>
+      <action>
+ <let>
+          <clip pos="1" side="tl" part="a_cas"/>
+	<lit-tag v="dat"/>
+        </let>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag> 
+            </tags>
+		<lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+<b/>
+	<lu>
+              <clip pos="2" side="tl" part="whole"/>
+	</lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: num+post -> num.nom+post">
+      <pattern>
+        <pattern-item n="num"/>
+        <pattern-item n="post"/>
+      </pattern>
+      <action>
+ <let>
+          <clip pos="1" side="tl" part="a_cas"/>
+	<lit-tag v="nom"/>
+        </let>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag> 
+            </tags>
+		<lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+<b/>
+	<lu>
+              <clip pos="2" side="tl" part="whole"/>
+	</lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: num+post -> num.acc+post">
+      <pattern>
+        <pattern-item n="num"/>
+        <pattern-item n="post"/>
+      </pattern>
+      <action>
+ <let>
+          <clip pos="1" side="tl" part="a_cas"/>
+	<lit-tag v="acc"/>
+        </let>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag> 
+            </tags>
+		<lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+<b/>
+	<lu>
+              <clip pos="2" side="tl" part="whole"/>
+	</lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: num+post -> num.dat+post">
+      <pattern>
+        <pattern-item n="num"/>
+        <pattern-item n="post"/>
+      </pattern>
+      <action>
+ <let>
+          <clip pos="1" side="tl" part="a_cas"/>
+	<lit-tag v="dat"/>
+        </let>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag> 
+            </tags>
+		<lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+<b/>
+	<lu>
+              <clip pos="2" side="tl" part="whole"/>
+	</lu>
+          </chunk>
         </out>
       </action>
     </rule>
