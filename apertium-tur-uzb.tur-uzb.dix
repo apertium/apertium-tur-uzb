@@ -143,7 +143,6 @@
 <e><p><l>inanılmaz<s n="adj"/></l><r>atoyijon<s n="adj"/></r></p></e>
 <e><p><l>klasik<s n="adj"/></l><r>klassik<s n="adj"/></r></p></e>
 <e><p><l>taraflı<s n="adj"/></l><r>qirrali<s n="adj"/></r></p></e>
-<e><p><l>koltuklu<s n="adj"/></l><r>seated<s n="adj"/></r></p></e>
 <e><p><l>teknolojik<s n="adj"/></l><r>texnologik<s n="adj"/></r></p></e>
 <e><p><l>zor<s n="adj"/></l><r>qiyin<s n="adj"/></r></p></e>
 <e><p><l>antik<s n="adj"/></l><r>qadimgi<s n="adj"/></r></p></e>
@@ -555,7 +554,7 @@
 <e><p><l>bomba<s n="n"/></l><r>bomba<s n="n"/></r></p></e>
 <e><p><l>boy<s n="n"/></l><r>boʻy<s n="n"/></r></p></e>
 <e><p><l>buyuru<s n="n"/></l><r>buyruq<s n="n"/></r></p></e>
-<e><p><l>buz<s n="n"/></l><r>ice<s n="n"/></r></p></e>
+
 <e><p><l>canavar<s n="n"/></l><r>maxluq<s n="n"/></r></p></e>
 <e><p><l>çavuş<s n="n"/></l><r>serjant<s n="n"/></r></p></e>
 <e><p><l>çay<s n="n"/></l><r>choy<s n="n"/></r></p></e>
@@ -1010,7 +1009,6 @@
 <e><p><l>beyin<s n="n"/></l><r>miya<s n="n"/></r></p></e>
 <e><p><l>dağ<s n="n"/></l><r>togʻ<s n="n"/></r></p></e>
 <e><p><l>ilişki<s n="n"/></l><r>munosabat<s n="n"/></r></p></e>
-<e><p><l>kabile<s n="n"/></l><r>tribe<s n="n"/></r></p></e>
 <e><p><l>imparatorluk<s n="n"/></l><r>imperiya<s n="n"/></r></p></e>
 <e><p><l>gaz<s n="n"/></l><r>gaz<s n="n"/></r></p></e>
 <e><p><l>iktisat<s n="n"/></l><r>iqtisodiyot<s n="n"/></r></p></e>
@@ -1210,7 +1208,6 @@
 <e><p><l>bezek<s n="n"/></l><r>bezak<s n="n"/></r></p></e>
 <e><p><l>süsleme<s n="n"/></l><r>bezak<s n="n"/></r></p></e>
 <e><p><l>aparat<s n="n"/></l><r>apparat<s n="n"/></r></p></e>
-<e><p><l>kaynak<s n="n"/></l><r>resource<s n="n"/></r></p></e>
 <e><p><l>görünüş<s n="n"/></l><r>gul<s n="n"/></r></p></e>
 <e><p><l>ambar<s n="n"/></l><r>ombor<s n="n"/></r></p></e>
 <e><p><l>yer solucanı<s n="n"/></l><r>chuvalchang<s n="n"/></r></p></e>
@@ -1417,7 +1414,7 @@
 <e><p><l>boy<s n="n"/></l><r>boʻy<s n="n"/></r></p></e>
 <e><p><l>kalinlik<s n="n"/></l><r>qalinlik<s n="n"/></r></p></e>
 <e><p><l>el<s n="n"/></l><r>el<s n="n"/></r></p></e>
-<e><p><l>Nobel<s n="n"/></l><r>Nobel<s n="n"/></r></p></e>
+<e><p><l>Nobel<s n="np"/><s n="al"/></l><r>Nobel<s n="np"/><s n="al"/></r></p></e>
 <e><p><l>ticaret<s n="n"/></l><r>kasaba<s n="n"/></r></p></e>
 <e><p><l>ip<s n="n"/></l><r>ip<s n="n"/></r></p></e>
 <e><p><l>müzik<s n="n"/></l><r>musiqiy<s n="n"/></r></p></e>
@@ -1651,7 +1648,6 @@
 <e><p><l>alçı<s n="n"/></l><r>ganch<s n="n"/></r></p></e>
 <e><p><l>ders<s n="n"/></l><r>dars<s n="n"/></r></p></e>
 <e><p><l>bozuk<b/>para<s n="n"/></l><r>tanga<s n="n"/></r></p></e>
-<e><p><l>minyatür<s n="n"/></l><r>miniature<s n="n"/></r></p></e>
 <e><p><l>oluş<s n="n"/></l><r>boʻlish<s n="n"/></r></p></e>
 <e><p><l>ahlak<s n="n"/></l><r>axloq<s n="n"/></r></p></e>
 <e><p><l>kemik<s n="n"/></l><r>suyak<s n="n"/></r></p></e>
@@ -1688,7 +1684,7 @@
 <e><p><l>yiyecek<s n="n"/></l><r>oziq-ovqat<s n="n"/></r></p></e>
 <e><p><l>koku<s n="n"/></l><r>is<s n="n"/></r></p></e>
 <e><p><l>kare<s n="n"/></l><r>toʻrtburchak<s n="n"/></r></p></e>
-<e><p><l>yüz<s n="n"/></l><r>face<s n="n"/></r></p></e>
+
 <e><p><l>kubbe<s n="n"/></l><r>gumbaz<s n="n"/></r></p></e>
 <e><p><l>telekomünikasyon<s n="n"/></l><r>telekommunikatsiya<s n="n"/></r></p></e>
 <e><p><l>icat<s n="n"/></l><r>ixtiro<s n="n"/></r></p></e>
@@ -2043,7 +2039,6 @@
 <e><p><l>dünya<s n="n"/></l><r>jahon<s n="n"/></r></p></e>
 <e><p><l>sonuç<s n="n"/></l><r>xulosa<s n="n"/></r></p></e>
 <e><p><l>ilerleme<s n="n"/></l><r>yaxshilash<s n="n"/></r></p></e>
-<e><p><l>km2<s n="n"/></l><r>km2<s n="n"/></r></p></e>
 <e><p><l>kişi<s n="n"/></l><r>nafar<s n="n"/></r></p></e>
 <e><p><l>kir<s n="n"/></l><r>kir<s n="n"/></r></p></e>
 <e><p><l>terkip<s n="n"/></l><r>tarkib<s n="n"/></r></p></e>
