@@ -170,7 +170,7 @@
 <e><p><l>öyle<s n="adv"/></l><r>unday<s n="adv"/></r></p></e>
 <e><p><l>böyle<s n="adv"/></l><r>bunday<s n="adv"/></r></p></e>
 <e><p><l>akıllıca<s n="adv"/></l><r>aqlli<s n="adv"/></r></p></e>
-<e><p><l>amiyane<s n="adv"/></l><r>madaniyatsiz<s n="adv"/></r></p></e>
+<e><p><l>amiyane<s n="adj"/></l><r>madaniyatsiz<s n="adj"/></r></p></e>
 <e><p><l>önce<s n="adv"/></l><r>avval<s n="adv"/></r></p></e>
 <e><p><l>aşağı<s n="adv"/></l><r>past<s n="adv"/></r></p></e>
 <e><p><l>azıcık<s n="adv"/></l><r>biroz<s n="adv"/></r></p></e>
@@ -687,7 +687,7 @@
 <e><p><l>kadın<s n="n"/></l><r>xotin<s n="n"/></r></p></e>
 <e><p><l>kahvaltı<s n="n"/></l><r>nonushta<s n="n"/></r></p></e>
 <e><p><l>kahve<s n="n"/></l><r>qahva<s n="n"/></r></p></e>
-<e><p><l>kaltak<s n="n"/></l><r>yengil oyoq<s n="n"/></r></p></e>
+<e><p><l>kaltak<s n="n"/></l><r>yengil<b/>oyoq<s n="n"/></r></p></e>
 <e><p><l>kanıt<s n="n"/></l><r>dalil<s n="n"/></r></p></e>
 <e><p><l>kar<s n="n"/></l><r>qor<s n="n"/></r></p></e>
 <e><p><l>kat<s n="n"/></l><r>qat<s n="n"/></r></p></e>
@@ -768,7 +768,7 @@
 <e><p><l>tedavi<s n="n"/></l><r>davolash<s n="n"/></r></p></e>
 <e><p><l>tehdit<s n="n"/></l><r>tahdid<s n="n"/></r></p></e>
 <e><p><l>teklif<s n="n"/></l><r>taklif<s n="n"/></r></p></e>
-<e><p><l>tercih<s n="n"/></l><r>afzal koʻrish<s n="n"/></r></p></e>
+<e><p><l>tercih<s n="n"/></l><r>afzal<b/>koʻrish<s n="n"/></r></p></e>
 <e><p><l>teslim<s n="n"/></l><r>taslim<s n="n"/></r></p></e>
 <e><p><l>test<s n="n"/></l><r>analiz<s n="n"/></r></p></e>
 <e><p><l>test<s n="n"/></l><r>test<s n="n"/></r></p></e>
@@ -1185,7 +1185,7 @@
 <e><p><l>temsilci<s n="n"/></l><r>namoyanda<s n="n"/></r></p></e>
 <e><p><l>gemi<s n="n"/></l><r>gemi<s n="n"/></r></p></e>
 <e><p><l>erkek<s n="n"/></l><r>erkak<s n="n"/></r></p></e>
-<e><p><l>anıklama<s n="n"/></l><r>preparation<s n="n"/></r></p></e>
+
 <e><p><l>Rus<s n="n"/></l><r>rus<s n="n"/></r></p></e>
 <e><p><l>birlik<s n="n"/></l><r>birlik<s n="n"/></r></p></e>
 <e><p><l>destan<s n="n"/></l><r>doston<s n="n"/></r></p></e>
@@ -1397,7 +1397,6 @@
 <e><p><l>doğu<s n="n"/></l><r>sharq<s n="n"/></r></p></e>
 <e><p><l>tahıl<s n="n"/></l><r>don<s n="n"/></r></p></e>
 <e><p><l>eşya<s n="n"/></l><r>ashyo<s n="n"/></r></p></e>
-<e><p><l>İskender<s n="n"/></l><r>Aleksandr<s n="n"/></r></p></e>
 <e><p><l>özgürlük<s n="n"/></l><r>ozodlik<s n="n"/></r></p></e>
 <e><p><l>koruma<s n="n"/></l><r>muhofaza<s n="n"/></r></p></e>
 <e><p><l>huzur<s n="n"/></l><r>tinch<s n="n"/></r></p></e>
@@ -1529,7 +1528,6 @@
 <e><p><l>açı<s n="n"/></l><r>burchak<s n="n"/></r></p></e>
 <e><p><l>parça<s n="n"/></l><r>parcha<s n="n"/></r></p></e>
 <e><p><l>gazete<s n="n"/></l><r>roʻznoma<s n="n"/></r></p></e>
-<e><p><l>yapı<s n="n"/></l><r>structure<s n="n"/></r></p></e>
 <e><p><l>doktor<s n="n"/></l><r>doʻxtir<s n="n"/></r></p></e>
 <e><p><l>görev<s n="n"/></l><r>vazifa<s n="n"/></r></p></e>
 <e><p><l>amaç<s n="n"/></l><r>maqsad<s n="n"/></r></p></e>
@@ -3923,8 +3921,8 @@
        <e><p><l>km2<s n="abbr"/></l><r>km2<s n="abbr"/></r></p></e>
        <e><p><l>NGC<s n="abbr"/></l><r>NGC<s n="abbr"/></r></p></e>
        <e><p><l>IC<s n="abbr"/></l><r>IC<s n="abbr"/></r></p></e>
-       <e><p><l>ABD<s n="abbr"/></l><r>AQSH<s n="abbr"/></r></p></e>
-       <e><p><l>ABD<s n="abbr"/></l><r>AQS<s n="abbr"/></r></p></e>
+       <e><p><l>ABD<s n="np"/><s n="top"/></l><r>AQSH<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>ABD<s n="np"/><s n="top"/></l><r>AQSh<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>kadim<s n="abbr"/></l><r>qad<s n="abbr"/></r></p></e>
        <e><p><l>kg<s n="abbr"/></l><r>kg<s n="abbr"/></r></p></e>
        <e><p><l>ch<s n="abbr"/></l><r>ch<s n="abbr"/></r></p></e>
@@ -3959,7 +3957,7 @@
        <e><p><l>hesaplan<s n="v"/><s n="iv"/></l><r>hisoblan<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>kullanıl<s n="v"/><s n="iv"/></l><r>ishlan<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>tasarlan<s n="v"/><s n="iv"/></l><r>moʻljallan<s n="v"/><s n="iv"/></r></p></e>
-   <e><p><l>tasarla<s n="v"/><s n="tv"/></l><r>moʻljalla<s n="v"/><s n="iv"/></r></p></e>
+   <e><p><l>tasarla<s n="v"/><s n="tv"/></l><r>moʻljalla<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>çık<s n="v"/><s n="iv"/></l><r>chiq<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>gir<s n="v"/><s n="iv"/></l><r>kir<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>var<s n="v"/><s n="iv"/></l><r>bor<s n="v"/><s n="iv"/></r></p></e>
@@ -4002,7 +4000,7 @@
        <e><p><l>Arslan<s n="np"/><s n="ant"/><s n="m"/></l><r>Arslon<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>Alişer<s n="np"/><s n="ant"/><s n="m"/></l><r>Alisher<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>Timur<s n="np"/><s n="ant"/><s n="m"/></l><r>Temur<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-       <e><p><l>kaç<s n="det"/><s n="dem"/></l><r>qancha<s n="det"/><s n="dem"/></r></p></e>
+       <e><p><l>kaç<s n="det"/><s n="dem"/></l><r>qancha<s n="prn"/><s n="itg"/></r></p></e>
 
        <e><p><l>drama<s n="n"/></l><r>drama<s n="n"/></r></p></e>
        <e><p><l>terma<s n="n"/></l><r>terma<s n="n"/></r></p></e>
@@ -4042,15 +4040,15 @@
        <e><p><l>Anhalt<s n="np"/><s n="top"/></l><r>Anhalt<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>Piemont<s n="np"/><s n="top"/></l><r>Piemont<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>FA<s n="abbr"/></l><r>FA<s n="abbr"/></r></p></e>
-       <e><p><l>ABD<s n="abbr"/></l><r>AQSh<s n="abbr"/></r></p></e>
        <e><p><l>si<s n="abbr"/></l><r>si<s n="abbr"/></r></p></e>
+       <e><p><l>m<s n="abbr"/></l><r>m<s n="abbr"/></r></p></e>
        <e><p><l>sn<s n="abbr"/></l><r>sek<s n="abbr"/></r></p></e>
        <e><p><l>Latin<s n="n"/></l><r>lot<s n="abbr"/></r></p></e>
        <e><p><l>gibi<s n="post"/></l><r>singari<s n="post"/></r></p></e>
        <e><p><l>yine<b/>de<s n="adv"/></l><r>yanada<s n="adv"/></r></p></e>
        <e><p><l>önce<s n="adv"/></l><r>oldin<s n="adv"/></r></p></e>
        <e><p><l>daha<b/>çok<s n="adv"/></l><r>koʻproq<s n="adv"/></r></p></e>
-       <e><p><l>bağışla<s n="v"/><s n="iv"/></l><r>bagʻishla<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>bağışla<s n="v"/><s n="tv"/></l><r>bagʻishla<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>kesinleş<s n="v"/><s n="iv"/></l><r>aniqlash<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>denil<s n="v"/><s n="iv"/></l><r>deyil<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>belirtil<s n="v"/><s n="iv"/></l><r>belgilan<s n="v"/><s n="iv"/></r></p></e>
