@@ -260,7 +260,7 @@
 <e><p><l>meğer<s n="cnjadv"/></l><r>magar<s n="cnjadv"/></r></p></e>
 <e><p><l>meğerse<s n="cnjadv"/></l><r>magar<s n="cnjadv"/></r></p></e>
 <e><p><l>mesela<s n="cnjadv"/></l><r>masalan<s n="cnjadv"/></r></p></e>
-<e><p><l>nasılsa<s n="cnjadv"/></l><r>qandayd˝r<s n="cnjadv"/></r></p></e>
+<e><p><l>nasılsa<s n="cnjadv"/></l><r>qandaydir<s n="cnjadv"/></r></p></e>
 <e><p><l>neyse<s n="cnjadv"/></l><r>mayli<s n="cnjadv"/></r></p></e>
 <e><p><l>olsun<s n="cnjadv"/></l><r>boʻlsin<s n="cnjadv"/></r></p></e>
 <e><p><l>oysa<s n="cnjadv"/></l><r>holbuki<s n="cnjadv"/></r></p></e>
@@ -2435,7 +2435,6 @@
 <e><p><l>tamamla<s n="v"/><s n="tv"/></l><r>oʻta<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>üret<s n="v"/><s n="tv"/></l><r>ishlab<b/>chiqar<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>işaretle<s n="v"/><s n="tv"/></l><r>belgila<s n="v"/><s n="tv"/></r></p></e>
-<e><p><l>mağlup<b/>et<s n="v"/><s n="tv"/></l><r>mağlub<b/>et<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>çevir<s n="v"/><s n="tv"/></l><r>qaytar<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>sun<s n="v"/><s n="tv"/></l><r>kirit<s n="v"/><s n="tv"/></r></p></e>
 
@@ -2453,7 +2452,6 @@
 <e><p><l>ölçül<s n="v"/><s n="iv"/></l><r>oʻlchan<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>örüş<s n="v"/><s n="iv"/></l><r>toʻqish<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>dur<s n="v"/><s n="iv"/></l><r>tur<s n="v"/><s n="iv"/></r></p></e>
-<e><p><l>doğ<s n="v"/><s n="iv"/></l><r>tavallud<b/>top<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>doğ<s n="v"/><s n="iv"/></l><r>tugʻil<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>yürü<s n="v"/><s n="iv"/></l><r>yur<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>piş<s n="v"/><s n="iv"/></l><r>pish<s n="v"/><s n="iv"/></r></p></e>
@@ -4185,8 +4183,8 @@
        <e><p><l>ihtisas<s n="n"/></l><r>ixtisos<s n="n"/></r></p></e>
        <e><p><l>hararet<s n="n"/></l><r>harorat<s n="n"/></r></p></e>
        <e><p><l>kağıt<s n="n"/></l><r>qogʻoz<s n="n"/></r></p></e>
-       <e><p><l>ya<s n="cnjcoo"/></l><r>ya<s n="cnjcoo"/></r></p></e>
-       <e><p><l>SB<s n="np"/><s n="top"/></l><r>SB<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>ya<s n="cnjadv"/></l><r>ya<s n="cnjadv"/></r></p></e>
+       <e><p><l>SB<s n="abbr"/></l><r>SB<s n="abbr"/></r></p></e>
        <e><p><l>Campania<s n="np"/><s n="top"/></l><r>Campania<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>Virginia<s n="np"/><s n="top"/></l><r>Virginia<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>Atlantik<s n="np"/><s n="top"/></l><r>Atlantika<s n="np"/><s n="top"/></r></p></e>
@@ -4223,9 +4221,9 @@
        <e><p><l>uzmanlaş<s n="v"/><s n="iv"/></l><r>ixtisoslash<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>eri<s n="v"/><s n="iv"/></l><r>eri<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>ilgilen<s n="v"/><s n="iv"/></l><r>shugʻullan<s n="v"/><s n="iv"/></r></p></e>
-       <e><p><l>isimlen<s n="v"/><s n="iv"/></l><r>nomlan<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>isimlendiril<s n="v"/><s n="iv"/></l><r>nomlan<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>belirlen<s n="v"/><s n="iv"/></l><r>aniqlan<s n="v"/><s n="iv"/></r></p></e>
-       <e><p><l>betim<s n="v"/><s n="iv"/></l><r>tasvirlan<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>betimlen<s n="v"/><s n="iv"/></l><r>tasvirlan<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>sakla<s n="v"/><s n="tv"/></l><r>saqla<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>betimle<s n="v"/><s n="tv"/></l><r>tasvirla<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>sar<s n="v"/><s n="tv"/></l><r>oʻral<s n="v"/><s n="tv"/></r></p></e>
