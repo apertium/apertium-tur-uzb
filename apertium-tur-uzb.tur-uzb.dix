@@ -1176,7 +1176,7 @@
 <e><p><l>çalı<s n="n"/></l><r>buta<s n="n"/></r></p></e>
 <e><p><l>depozito<s n="n"/></l><r>yotqizik<s n="n"/></r></p></e>
 <e><p><l>liman<s n="n"/></l><r>port<s n="n"/></r></p></e>
-<e><p><l>Timur<s n="n"/></l><r>Temuriy<s n="n"/></r></p></e>
+<e><p><l>Timurlu<s n="n"/></l><r>Temuriy<s n="n"/></r></p></e>
 <e><p><l>araç gereç<s n="n"/></l><r>jihoz<s n="n"/></r></p></e>
 <e><p><l>cihaz<s n="n"/></l><r>jihoz<s n="n"/></r></p></e>
 <e><p><l>yazar<s n="n"/></l><r>yozuvchi<s n="n"/></r></p></e>
@@ -3679,7 +3679,6 @@
     <e><p><l>füze<s n="n"/></l><r>raketa<s n="n"/></r></p></e>
     <e><p><l>roket<s n="n"/></l><r>raketa<s n="n"/></r></p></e>
     <e><p><l>resmen<s n="adv"/></l><r>rasman<s n="adv"/></r></p></e>
-    <e><p><l>resmi<b/>olarak<s n="n"/></l><r>rasman<s n="n"/></r></p></e>
     <e><p><l>röntgen<s n="n"/></l><r>rentgen<s n="n"/></r></p></e>
     <e><p><l>lastik<s n="n"/></l><r>rezina<s n="n"/></r></p></e>
     <e><p><l>din<b/>adamı<s n="n"/></l><r>ruhoniy<s n="n"/></r></p></e>
@@ -3861,7 +3860,6 @@
        <e><p><l>Muhammed<s n="np"/><s n="ant"/><s n="m"/></l><r>Muhammad<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>William<s n="np"/><s n="ant"/><s n="m"/></l><r>William<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>Jan<s n="np"/><s n="ant"/><s n="m"/></l><r>Jan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-       <e><p><l>Jan<s n="np"/><s n="ant"/><s n="m"/></l><r>Jan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>John<s n="np"/><s n="ant"/><s n="m"/></l><r>John<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>Ebu<s n="np"/><s n="ant"/><s n="m"/></l><r>Abu<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 
@@ -3944,6 +3942,7 @@
        <e><p><l>ta<s n="adv"/></l><r>ta<s n="adv"/></r></p></e>
        <e><p><l>tekrar<s n="adv"/></l><r>qayta<s n="adv"/></r></p></e>
        <e><p><l>bazen<s n="adv"/></l><r>baʼzan<s n="adv"/></r></p></e>
+       <e><p><l>bazen<s n="adv"/></l><r>baʻzan<s n="adv"/></r></p></e>
        <e><p><l>başla<s n="v"/><s n="iv"/></l><r>boshla<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>denil<s n="v"/><s n="iv"/></l><r>deyiladi<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>yay<s n="v"/><s n="iv"/></l><r>tarqal<s n="v"/><s n="iv"/></r></p></e>
@@ -4143,6 +4142,97 @@
        <e><p><l>gözet<s n="v"/><s n="tv"/></l><r>kuzat<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>çek<s n="v"/><s n="tv"/></l><r>uz<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>kır<s n="v"/><s n="tv"/></l><r>uz<s n="v"/><s n="tv"/></r></p></e>
+
+       <e><p><l>Land<s n="np"/><s n="cog"/><s n="mf"/></l><r>Land<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+       <e><p><l>ilk<s n="adj"/></l><r>oldingi<s n="adj"/></r></p></e>
+       <e><p><l>dereceli<s n="adj"/></l><r>darajali<s n="adj"/></r></p></e>
+       <e><p><l>jeolojik<s n="adj"/></l><r>geologik<s n="adj"/></r></p></e>
+       <e><p><l>arkeolojik<s n="adj"/></l><r>arxeologik<s n="adj"/></r></p></e>
+       <e><p><l>subtropik<s n="adj"/></l><r>subtropik<s n="adj"/></r></p></e>
+       <e><p><l>optik<s n="adj"/></l><r>optik<s n="adj"/></r></p></e>
+       <e><p><l>profesyonel<s n="adj"/></l><r>professional<s n="adj"/></r></p></e>
+       <e><p><l>kıtasal<s n="adj"/></l><r>kontinental<s n="adj"/></r></p></e>
+       <e><p><l>tok<s n="adj"/></l><r>toʻq<s n="adj"/></r></p></e>
+       <e><p><l>Sovyet<s n="adj"/></l><r>sovet<s n="adj"/></r></p></e>
+       <e><p><l>terkibi<s n="adj"/></l><r>tarkibiy<s n="adj"/></r></p></e>
+       <e><p><l>sınırsal<s n="adj"/></l><r>hududiy<s n="adj"/></r></p></e>
+       <e><p><l>sosyal<s n="adj"/></l><r>maishiy<s n="adj"/></r></p></e>
+       <e><p><l>manevi<s n="adj"/></l><r>maʼnaviy<s n="adj"/></r></p></e>
+       <e><p><l>bei<s n="np"/><s n="al"/></l><r>bei<s n="np"/><s n="al"/></r></p></e>
+       <e><p><l>Mahmud<s n="np"/><s n="ant"/><s n="m"/></l><r>Mahmud<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>Hüseyin<s n="np"/><s n="ant"/><s n="m"/></l><r>Husayn<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>Aleksandr<s n="np"/><s n="ant"/><s n="m"/></l><r>Aleksandr<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>Lewis<s n="np"/><s n="ant"/><s n="m"/></l><r>Lewis<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>Albert<s n="np"/><s n="ant"/><s n="m"/></l><r>Albert<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>kale<s n="n"/></l><r>qalʼa<s n="n"/></r></p></e>
+       <e><p><l>and<s n="n"/></l><r>and<s n="n"/></r></p></e>
+       <e><p><l>gri<s n="n"/></l><r>kulrang<s n="n"/></r></p></e>
+       <e><p><l>ölçüm<s n="n"/></l><r>oʻlchash<s n="n"/></r></p></e>
+       <e><p><l>kaynak<s n="n"/></l><r>manbai<s n="n"/></r></p></e>
+       <e><p><l>bağ<s n="n"/></l><r>bogʻi<s n="n"/></r></p></e>
+       <e><p><l>oyunculuk<s n="n"/></l><r>hunarmandchilik<s n="n"/></r></p></e>
+       <e><p><l>oyuncu<s n="n"/></l><r>hunarmandchilik<s n="n"/></r></p></e>
+       <e><p><l>olma<s n="n"/></l><r>ekanlik<s n="n"/></r></p></e>
+       <e><p><l>matematik<s n="n"/></l><r>matematik<s n="n"/></r></p></e>
+       <e><p><l>optik<s n="n"/></l><r>optik<s n="n"/></r></p></e>
+       <e><p><l>helak<s n="n"/></l><r>halok<s n="n"/></r></p></e>
+       <e><p><l>metal<s n="n"/></l><r>metal<s n="n"/></r></p></e>
+       <e><p><l>kristal<s n="n"/></l><r>kristall<s n="n"/></r></p></e>
+       <e><p><l>im<s n="n"/></l><r>im<s n="n"/></r></p></e>
+       <e><p><l>Kazak<s n="n"/></l><r>qozoq<s n="n"/></r></p></e>
+       <e><p><l>takvim<s n="n"/></l><r>taqvimlar<s n="n"/></r></p></e>
+       <e><p><l>kömür<s n="n"/></l><r>koʻmir<s n="n"/></r></p></e>
+       <e><p><l>ihtisas<s n="n"/></l><r>ixtisos<s n="n"/></r></p></e>
+       <e><p><l>hararet<s n="n"/></l><r>harorat<s n="n"/></r></p></e>
+       <e><p><l>kağıt<s n="n"/></l><r>qogʻoz<s n="n"/></r></p></e>
+       <e><p><l>ya<s n="cnjcoo"/></l><r>ya<s n="cnjcoo"/></r></p></e>
+       <e><p><l>SB<s n="np"/><s n="top"/></l><r>SB<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>Campania<s n="np"/><s n="top"/></l><r>Campania<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>Virginia<s n="np"/><s n="top"/></l><r>Virginia<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>Atlantik<s n="np"/><s n="top"/></l><r>Atlantika<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>Jura<s n="np"/><s n="top"/></l><r>Jura<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>Kore<s n="np"/><s n="top"/></l><r>Koreya<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>Steiermark<s n="np"/><s n="top"/></l><r>Shtiriya<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>Madrid<s n="np"/><s n="top"/></l><r>Madrid<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>Celalabad<s n="np"/><s n="top"/></l><r>Jalolobod<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>Gironde<s n="np"/><s n="top"/></l><r>Gironde<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>Orne<s n="np"/><s n="top"/></l><r>Orne<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>Indre<s n="np"/><s n="top"/></l><r>Indre<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>Sainte<s n="np"/><s n="top"/></l><r>Sainte<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>Marth<s n="np"/><s n="top"/></l><r>Marth<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>Missisippi<s n="np"/><s n="top"/></l><r>Mississippi<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>Michigan<s n="np"/><s n="top"/></l><r>Michigan<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>Karakalpakistan<s n="np"/><s n="top"/></l><r>Qoraqalpogʻiston<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>Atlantiques<s n="np"/><s n="top"/></l><r>Atlantiques<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>Pyrenees<s n="np"/><s n="top"/></l><r>Pyrénées<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>Illinois<s n="np"/><s n="top"/></l><r>Illinois<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>Bakü<s n="np"/><s n="top"/></l><r>Boku<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>Cizzak<s n="np"/><s n="top"/></l><r>Jizzax<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>SSC<s n="abbr"/></l><r>SSR<s n="abbr"/></r></p></e>
+       <e><p><l>BMT<s n="abbr"/></l><r>BMT<s n="abbr"/></r></p></e>
+       <e><p><l>Ba<s n="abbr"/></l><r>ba<s n="abbr"/></r></p></e>
+       <e><p><l>Sb<s n="abbr"/></l><r>Sb<s n="abbr"/></r></p></e>
+       <e><p><l>Sc<s n="abbr"/></l><r>Sc<s n="abbr"/></r></p></e>
+       <e><p><l>milyar<s n="abbr"/></l><r>mlrd<s n="abbr"/></r></p></e>
+       <e><p><l>Fransızca<s n="abbr"/></l><r>frans<s n="abbr"/></r></p></e>
+       <e><p><l>öncelikle<s n="adv"/></l><r>oldingi<s n="adv"/></r></p></e>
+       <e><p><l>ilkin<s n="adv"/></l><r>oldingi<s n="adv"/></r></p></e>
+       <e><p><l>yaşa<s n="v"/><s n="iv"/></l><r>yasha<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>faydalan<s n="v"/><s n="iv"/></l><r>foydalanib<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>hesaplaş<s n="v"/><s n="iv"/></l><r>hisoblash<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>uzmanlaş<s n="v"/><s n="iv"/></l><r>ixtisoslash<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>eri<s n="v"/><s n="iv"/></l><r>eri<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>ilgilen<s n="v"/><s n="iv"/></l><r>shugʻullan<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>isimlen<s n="v"/><s n="iv"/></l><r>nomlan<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>belirlen<s n="v"/><s n="iv"/></l><r>aniqlan<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>betim<s n="v"/><s n="iv"/></l><r>tasvirlan<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>sakla<s n="v"/><s n="tv"/></l><r>saqla<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>betimle<s n="v"/><s n="tv"/></l><r>tasvirla<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>sar<s n="v"/><s n="tv"/></l><r>oʻral<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>besle<s n="v"/><s n="tv"/></l><r>boq<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>ger<s n="v"/><s n="tv"/></l><r>dir<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>gözet<s n="v"/><s n="tv"/></l><r>qarat<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>bezet<s n="v"/><s n="tv"/></l><r>bezat<s n="v"/><s n="tv"/></r></p></e>
 
 
    </section>
