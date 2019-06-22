@@ -21,6 +21,14 @@
       <cat-item tags="cop.evid.*"/>
     </def-cat>
 
+   <def-cat n="prn_pers">
+      <cat-item tags="prn.pers.*"/>
+    </def-cat>
+
+<def-cat n="uchun">
+      <cat-item lemma="uchun" tags="post"/>
+    </def-cat>
+
    <def-cat n="ifi">
       <cat-item tags="ifi.*"/>
     </def-cat>
@@ -527,6 +535,33 @@
  <let>
           <clip pos="1" side="tl" part="a_cas"/>
 	<lit-tag v="dat"/>
+        </let>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag> 
+            </tags>
+		<lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+<b/>
+	<lu>
+              <clip pos="2" side="tl" part="whole"/>
+	</lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: men uchun -> benim için">
+      <pattern>
+        <pattern-item n="prn_pers"/>
+        <pattern-item n="uchun"/>
+      </pattern>
+      <action>
+ <let>
+          <clip pos="1" side="tl" part="a_cas"/>
+	<lit-tag v="gen"/>
         </let>
         <out>
           <chunk name="n" case="caseFirstWord">
