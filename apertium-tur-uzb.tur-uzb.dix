@@ -302,6 +302,7 @@
 <e><p><l>bütün<s n="det"/><s n="qnt"/></l><r>butun<s n="det"/><s n="qnt"/></r></p></e>
 <e><p><l>hepsi<s n="det"/><s n="qnt"/></l><r>hamma<s n="det"/><s n="qnt"/></r></p></e>
 <e><p><l>hepsi<s n="prn"/><s n="qnt"/></l><r>hamma<s n="prn"/><s n="qnt"/><s n="px3sp"/></r></p></e>
+<e><p><l>bazı<s n="prn"/><s n="qnt"/></l><r>ba’zi<s n="prn"/><s n="qnt"/></r></p></e>
 
 
 
@@ -1206,7 +1207,7 @@
 <e><p><l>aparat<s n="n"/></l><r>apparat<s n="n"/></r></p></e>
 <e><p><l>görünüş<s n="n"/></l><r>gul<s n="n"/></r></p></e>
 <e><p><l>ambar<s n="n"/></l><r>ombor<s n="n"/></r></p></e>
-<e><p><l>yer solucanı<s n="n"/></l><r>chuvalchang<s n="n"/></r></p></e>
+<e><p><l>yer<b/>solucanı<s n="n"/></l><r>chuvalchang<s n="n"/></r></p></e>
 <e><p><l>mikroorganizma<s n="n"/></l><r>mikroorganizm<s n="n"/></r></p></e>
 <e><p><l>yılan<s n="n"/></l><r>ilon<s n="n"/></r></p></e>
 <e><p><l>alaşım<s n="n"/></l><r>qotishma<s n="n"/></r></p></e>
