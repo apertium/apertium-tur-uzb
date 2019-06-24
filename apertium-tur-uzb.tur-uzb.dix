@@ -64,6 +64,8 @@
      <sdef n="p1"    c="first person"/>
      <sdef n="p2"    c="pronoun"/>
      <sdef n="p3"    c="pronoun"/>
+
+     <sdef n="px3sp"    c="third person possessive"/>
    
      <sdef n="lquot"     c=""/>
      <sdef n="quot"      c=""/>
@@ -299,6 +301,7 @@
 <e><p><l>birçok<s n="det"/><s n="qnt"/></l><r>koʻplab<s n="det"/><s n="qnt"/></r></p></e>
 <e><p><l>bütün<s n="det"/><s n="qnt"/></l><r>butun<s n="det"/><s n="qnt"/></r></p></e>
 <e><p><l>hepsi<s n="det"/><s n="qnt"/></l><r>hamma<s n="det"/><s n="qnt"/></r></p></e>
+<e><p><l>hepsi<s n="prn"/><s n="qnt"/></l><r>hamma<s n="prn"/><s n="qnt"/><s n="px3sp"/></r></p></e>
 
 
 
@@ -2401,6 +2404,7 @@
 	<e c="  0"><p><l>o<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/></l><r>u<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/></r></p></e>
 	<e c="  0"><p><l>biz<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/></l><r>biz<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/></r></p></e>
 	<e c="  0"><p><l>siz<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/></l><r>sizlar<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/></r></p></e>
+	<e c="  0"><p><l>siz<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/></l><r>siz<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/></r></p></e>
 	<e c="  0"><p><l>onlar<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></l><r>ular<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></r></p></e>
 
 	<e c="  0"><p><l>o<s n="prn"/><s n="dem"/></l><r>u<s n="prn"/><s n="dem"/></r></p></e>
@@ -2410,6 +2414,11 @@
 	<e c="  0"><p><l>şu<s n="prn"/><s n="dem"/></l><r>shu<s n="prn"/><s n="dem"/></r></p></e>
 	<e c="  0"><p><l>bu<s n="prn"/><s n="dem"/></l><r>bu<s n="prn"/><s n="dem"/></r></p></e>
 	<e c="  0"><p><l>hangi<s n="prn"/><s n="itg"/></l><r>qaysi<s n="prn"/><s n="itg"/></r></p></e>
+<e c="  0"><p><l>herhangi<s n="prn"/><s n="itg"/></l><r>biron<s n="prn"/><s n="itg"/></r></p></e>
+<e c="  0"><p><l>kim<s n="prn"/><s n="itg"/></l><r>kim<s n="prn"/><s n="itg"/></r></p></e>
+<e c="  0"><p><l>ne<s n="prn"/><s n="itg"/></l><r>nima<s n="prn"/><s n="itg"/></r></p></e>
+<e c="  0"><p><l>ne<s n="adv"/><s n="itg"/></l><r>nima<s n="adv"/><s n="itg"/></r></p></e>
+<e c="  0"><p><l>neden<s n="adv"/><s n="itg"/></l><r>nega<s n="adv"/><s n="itg"/></r></p></e>
 	<e c="  0"><p><l>o<s n="prn"/><s n="dem"/></l><r>o<s n="prn"/><s n="dem"/></r></p></e>
 
     
