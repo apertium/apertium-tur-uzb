@@ -4457,6 +4457,80 @@
        <e><p><l>oku<s n="v"/><s n="tv"/></l><r>oʻqi<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ettir<s n="v"/><s n="tv"/></l><r>ettir<s n="v"/><s n="tv"/></r></p></e>
 
+<!-- words from bible -->
+
+     <e><p><l>Meryem<s n="np"/><s n="ant"/><s n="f"/></l><r>Maryam<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+       <e><p><l>ulu<s n="adj"/></l><r>ulug<s n="adj"/></r></p></e>
+       <e><p><l>isimli<s n="adj"/></l><r>ismli<s n="adj"/></r></p></e>
+       <e><p><l>imanlı<s n="adj"/></l><r>imonli<s n="adj"/></r></p></e>
+       <e><p><l>mahkum<s n="adj"/></l><r>mahkum<s n="adj"/></r></p></e>
+       <e><p><l>gerçek<s n="adj"/></l><r>chin<s n="adj"/></r></p></e>
+       <e><p><l>hayran<s n="adj"/></l><r>hayron<s n="adj"/></r></p></e>
+       <e><p><l>zahir<s n="adj"/></l><r>zohir<s n="adj"/></r></p></e>
+       <e><p><l>günahkar<s n="adj"/></l><r>gunohkor<s n="adj"/></r></p></e>
+       <e><p><l>ebedi<s n="adj"/></l><r>abadiy<s n="adj"/></r></p></e>
+       <e><p><l>semavi<s n="adj"/></l><r>samoviy<s n="adj"/></r></p></e>
+       <e><p><l>yalnız<s n="adj"/></l><r>yolg‘iz<s n="adj"/></r></p></e>
+       <e><p><l>değil<b/>mi<b/>ki<s n="ij"/></l><r>nahotki<s n="ij"/></r></p></e>
+       <e><p><l>amin<s n="ij"/></l><r>omin<s n="ij"/></r></p></e>
+       <e><p><l>ey<s n="ij"/></l><r>ey<s n="ij"/></r></p></e>
+       <e><p><l>vay<s n="ij"/></l><r>voy<s n="ij"/></r></p></e>
+       <e><p><l>İncil<s n="np"/><s n="al"/></l><r>Injil<s n="np"/><s n="al"/></r></p></e>
+       <e><p><l>Tevrat<s n="np"/><s n="al"/></l><r>Tavrot<s n="np"/><s n="al"/></r></p></e>
+       <e><p><l>Yakup<s n="np"/><s n="ant"/><s n="m"/></l><r>Yoqub<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>Herod<s n="np"/><s n="ant"/><s n="m"/></l><r>Hirod<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>Davud<s n="np"/><s n="ant"/><s n="m"/></l><r>Dovud<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>Simon<s n="np"/><s n="ant"/><s n="m"/></l><r>Simun<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>Yahuda<s n="np"/><s n="ant"/><s n="m"/></l><r>Yahudo<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>İsa<s n="np"/><s n="ant"/><s n="m"/></l><r>Iso<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>Musa<s n="np"/><s n="ant"/><s n="m"/></l><r>Muso<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>Yahya<s n="np"/><s n="ant"/><s n="m"/></l><r>Yahyo<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>Paul<s n="np"/><s n="ant"/><s n="m"/></l><r>Pavlus<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>Petrus<s n="np"/><s n="ant"/><s n="m"/></l><r>Butrus<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>Pilatus<s n="np"/><s n="ant"/><s n="m"/></l><r>Pilat<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>kılış<s n="n"/></l><r>qila<s n="n"/></r></p></e>
+       <e><p><l>Tanrı<s n="n"/></l><r>Xudovand<s n="n"/></r></p></e>
+       <e><p><l>haç<s n="n"/></l><r>xoch<s n="n"/></r></p></e>
+       <e><p><l>tanık<s n="n"/></l><r>guvoh<s n="n"/></r></p></e>
+       <e><p><l>imanlı<s n="n"/></l><r>imonli<s n="n"/></r></p></e>
+       <e><p><l>hayırlı<s n="n"/></l><r>xayrli<s n="n"/></r></p></e>
+       <e><p><l>an<s n="n"/></l><r>zahoti<s n="n"/></r></p></e>
+       <e><p><l>krallık<s n="n"/></l><r>shohlik<s n="n"/></r></p></e>
+       <e><p><l>tanıklık<s n="n"/></l><r>guvohlik<s n="n"/></r></p></e>
+       <e><p><l>oğul<s n="n"/></l><r>o‘g‘il<s n="n"/></r></p></e>
+       <e><p><l>selam<s n="n"/></l><r>salom<s n="n"/></r></p></e>
+       <e><p><l>gerçek<s n="n"/></l><r>chin<s n="n"/></r></p></e>
+       <e><p><l>alim<s n="n"/></l><r>ulamo<s n="n"/></r></p></e>
+       <e><p><l>laf<s n="n"/></l><r>gap<s n="n"/></r></p></e>
+       <e><p><l>kalabalık<s n="n"/></l><r>xaloyiq<s n="n"/></r></p></e>
+       <e><p><l>günahkar<s n="n"/></l><r>gunohkor<s n="n"/></r></p></e>
+       <e><p><l>nasihat<s n="n"/></l><r>nasihat<s n="n"/></r></p></e>
+       <e><p><l>sünnet<s n="n"/></l><r>sunnat<s n="n"/></r></p></e>
+       <e><p><l>Rab<s n="n"/></l><r>Hazrat<s n="n"/></r></p></e>
+       <e><p><l>Rabbi<s n="n"/></l><r>Rabbiy<s n="n"/></r></p></e>
+       <e><p><l>Farisi<s n="n"/></l><r>farziy<s n="n"/></r></p></e>
+       <e><p><l>yalnız<s n="n"/></l><r>yolg‘iz<s n="n"/></r></p></e>
+       <e><p><l>yağ<s n="n"/></l><r>yog‘<s n="n"/></r></p></e>
+       <e><p><l>ila<s n="cnjcoo"/></l><r>ila<s n="cnjcoo"/></r></p></e>
+       <e><p><l>İsrail<s n="np"/><s n="top"/></l><r>Isroil<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>Yeruşalim<s n="np"/><s n="top"/></l><r>Quddus<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>göre<s n="post"/></l><r>yarasha<s n="post"/></r></p></e>
+       <e><p><l>böylece<s n="adv"/></l><r>shu<b/>tariqa<s n="adv"/></r></p></e>
+       <e><p><l>cevaben<s n="adv"/></l><r>javoban<s n="adv"/></r></p></e>
+       <e><p><l>yalnız<s n="adv"/></l><r>yolg‘iz<s n="adv"/></r></p></e>
+       <e><p><l>yerine<b/>gel<s n="v"/><s n="iv"/></l><r>bajo<b/>bo‘l<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>yerine<b/>gel<s n="v"/><s n="iv"/></l><r>bajo<b/>keltir<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>de<s n="v"/><s n="tv"/></l><r>deyish<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>kıl<s n="v"/><s n="tv"/></l><r>qil<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>taşı<s n="v"/><s n="tv"/></l><r>ko‘tar<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>çağır<s n="v"/><s n="tv"/></l><r>chaqir<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>yerine<b/>getir<s n="v"/><s n="tv"/></l><r>bajo<b/>keltir<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>buyur<s n="v"/><s n="tv"/></l><r>buyur<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>işit<s n="v"/><s n="tv"/></l><r>eshit<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>de<s n="v"/><s n="tv"/></l><r>ayt<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>kov<s n="v"/><s n="tv"/></l><r>quv<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>süz<s n="v"/><s n="tv"/></l><r>suz<s n="v"/><s n="tv"/></r></p></e>
+
 
    </section>
    
