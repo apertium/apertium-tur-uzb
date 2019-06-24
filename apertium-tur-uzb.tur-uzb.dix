@@ -2421,6 +2421,7 @@
 <e c="  0"><p><l>ne<s n="adv"/><s n="itg"/></l><r>nima<s n="adv"/><s n="itg"/></r></p></e>
 <e c="  0"><p><l>neden<s n="adv"/><s n="itg"/></l><r>nega<s n="adv"/><s n="itg"/></r></p></e>
 	<e c="  0"><p><l>o<s n="prn"/><s n="dem"/></l><r>o<s n="prn"/><s n="dem"/></r></p></e>
+<e c="  0"><p><l>nere<s n="prn"/><s n="itg"/></l><r>qayer<s n="prn"/><s n="itg"/></r></p></e>
 
     
      <!-- SECTION: Verbs -->
@@ -4531,7 +4532,57 @@
        <e><p><l>kov<s n="v"/><s n="tv"/></l><r>quv<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>süz<s n="v"/><s n="tv"/></l><r>suz<s n="v"/><s n="tv"/></r></p></e>
 
-
+   <e><p><l>nasip<s n="adj"/></l><r>nasib<s n="adj"/></r></p></e>
+       <e><p><l>münasip<s n="adj"/></l><r>munosib<s n="adj"/></r></p></e>
+       <e><p><l>salih<s n="adj"/></l><r>solih<s n="adj"/></r></p></e>
+       <e><p><l>pak<s n="adj"/></l><r>pok<s n="adj"/></r></p></e>
+       <e><p><l>fakir<s n="adj"/></l><r>kambag‘al<s n="adj"/></r></p></e>
+       <e><p><l>haram<s n="adj"/></l><r>harom<s n="adj"/></r></p></e>
+       <e><p><l>sadık<s n="adj"/></l><r>sodiq<s n="adj"/></r></p></e>
+       <e><p><l>layık<s n="adj"/></l><r>loyiq<s n="adj"/></r></p></e>
+       <e><p><l>hazır<s n="adj"/></l><r>tayyor<s n="adj"/></r></p></e>
+       <e><p><l>zalim<s n="adj"/></l><r>yovuz<s n="adj"/></r></p></e>
+       <e><p><l>yavuz<s n="adj"/></l><r>yovuz<s n="adj"/></r></p></e>
+       <e><p><l>Pesah<s n="np"/><s n="al"/></l><r>Fisih<s n="np"/><s n="al"/></r></p></e>
+       <e><p><l>Korintliler<s n="np"/><s n="al"/></l><r>Corinthians<s n="np"/><s n="al"/></r></p></e>
+       <e><p><l>Barnabas<s n="np"/><s n="ant"/><s n="m"/></l><r>Barnabo<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>Timoteos<s n="np"/><s n="ant"/><s n="m"/></l><r>Timo<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>Yuhanna<s n="np"/><s n="ant"/><s n="m"/></l><r>Yuhanno<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>İlyas<s n="np"/><s n="ant"/><s n="m"/></l><r>Ilyos<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>Matta<s n="np"/><s n="ant"/><s n="m"/></l><r>Matthew<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+       <e><p><l>vesvese<s n="n"/></l><r>vasvasa<s n="n"/></r></p></e>
+       <e><p><l>tapınak<s n="n"/></l><r>ma’bad<s n="n"/></r></p></e>
+       <e><p><l>padişah<s n="n"/></l><r>podshoh<s n="n"/></r></p></e>
+       <e><p><l>bağış<s n="n"/></l><r>bag‘ish<s n="n"/></r></p></e>
+       <e><p><l>fakir<s n="n"/></l><r>kambag‘al<s n="n"/></r></p></e>
+       <e><p><l>aksakal<s n="n"/></l><r>oqsoqol<s n="n"/></r></p></e>
+       <e><p><l>yemin<s n="n"/></l><r>qasam<s n="n"/></r></p></e>
+       <e><p><l>haram<s n="n"/></l><r>harom<s n="n"/></r></p></e>
+       <e><p><l>oluş<s n="n"/></l><r>ekan<s n="n"/></r></p></e>
+       <e><p><l>zulüm<s n="n"/></l><r>quvg‘in<s n="n"/></r></p></e>
+       <e><p><l>şan<s n="n"/></l><r>shon<s n="n"/></r></p></e>
+       <e><p><l>şeytan<s n="n"/></l><r>shayton<s n="n"/></r></p></e>
+       <e><p><l>şifa<s n="n"/></l><r>shifo<s n="n"/></r></p></e>
+       <e><p><l>hamd<b/>ü<b/>sena<s n="n"/></l><r>hamdu<b/>sano<s n="n"/></r></p></e>
+       <e><p><l>müjde<s n="n"/></l><r>xushxabar<s n="n"/></r></p></e>
+       <e><p><l>kurtuluş<s n="n"/></l><r>xalos<s n="n"/></r></p></e>
+       <e><p><l>muhabbet<s n="n"/></l><r>muhabbat<s n="n"/></r></p></e>
+       <e><p><l>takat<s n="n"/></l><r>toqat<s n="n"/></r></p></e>
+       <e><p><l>kudret<s n="n"/></l><r>qudrat<s n="n"/></r></p></e>
+       <e><p><l>işit<s n="n"/></l><r>eshit<s n="n"/></r></p></e>
+       <e><p><l>gerçek<s n="n"/></l><r>rost<s n="n"/></r></p></e>
+       <e><p><l>olunca<s n="adv"/></l><r>bo‘lgach<s n="adv"/></r></p></e>
+       <e><p><l>işitince<s n="adv"/></l><r>eshitgach<s n="adv"/></r></p></e>
+       <e><p><l>ruhen<s n="adv"/></l><r>ruhan<s n="adv"/></r></p></e>
+       <e><p><l>zira<s n="adv"/></l><r>zero<s n="adv"/></r></p></e>
+       <e><p><l>git<s n="v"/><s n="iv"/></l><r>ketish<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>ol<s n="v"/><s n="iv"/></l><r>ol<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>inan<s n="v"/><s n="iv"/></l><r>ishon<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>bağışla<s n="v"/><s n="tv"/></l><r>bag‘ishla<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>tut<s n="v"/><s n="tv"/></l><r>ushla<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>takip<b/>et<s n="v"/><s n="tv"/></l><r>ergash<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>kıl<s n="v"/><s n="tv"/></l><r>qilish<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>söyle<s n="v"/><s n="tv"/></l><r>gapir<s n="v"/><s n="tv"/></r></p></e>
    </section>
    
    </dictionary>
