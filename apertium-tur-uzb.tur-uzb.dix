@@ -2415,6 +2415,8 @@
 	<e c="  0"><p><l>şu<s n="prn"/><s n="dem"/></l><r>shu<s n="prn"/><s n="dem"/></r></p></e>
 	<e c="  0"><p><l>bu<s n="prn"/><s n="dem"/></l><r>bu<s n="prn"/><s n="dem"/></r></p></e>
 	<e c="  0"><p><l>hangi<s n="prn"/><s n="itg"/></l><r>qaysi<s n="prn"/><s n="itg"/></r></p></e>
+<e c="  0"><p><l>ne<b/>zaman<s n="adv"/><s n="itg"/></l><r>qachon<s n="adv"/><s n="itg"/></r></p></e>
+<e c="  0"><p><l>ne<b/>kadar<s n="adv"/><s n="itg"/></l><r>naqadar<s n="adv"/><s n="itg"/></r></p></e>
 <e c="  0"><p><l>herhangi<s n="prn"/><s n="itg"/></l><r>biron<s n="prn"/><s n="itg"/></r></p></e>
 <e c="  0"><p><l>kim<s n="prn"/><s n="itg"/></l><r>kim<s n="prn"/><s n="itg"/></r></p></e>
 <e c="  0"><p><l>ne<s n="prn"/><s n="itg"/></l><r>nima<s n="prn"/><s n="itg"/></r></p></e>
@@ -4517,6 +4519,7 @@
        <e><p><l>Yeruşalim<s n="np"/><s n="top"/></l><r>Quddus<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>göre<s n="post"/></l><r>yarasha<s n="post"/></r></p></e>
        <e><p><l>böylece<s n="adv"/></l><r>shu<b/>tariqa<s n="adv"/></r></p></e>
+       <e><p><l>yol<s n="n"/></l><r>tariqa<s n="n"/></r></p></e>
        <e><p><l>cevaben<s n="adv"/></l><r>javoban<s n="adv"/></r></p></e>
        <e><p><l>yalnız<s n="adv"/></l><r>yolg‘iz<s n="adv"/></r></p></e>
        <e><p><l>yerine<b/>gel<s n="v"/><s n="iv"/></l><r>bajo<b/>bo‘l<s n="v"/><s n="iv"/></r></p></e>
