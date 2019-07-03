@@ -9,6 +9,12 @@
       <cat-item tags="np.*"/>
     </def-cat>
 
+    <def-cat n="n_attr">
+      <cat-item tags="n.attr.*"/>
+      <cat-item tags="n.attr"/>
+    </def-cat>
+
+
     <def-cat n="num">
       <cat-item tags="num.*"/>
       <cat-item tags="num"/>
@@ -232,6 +238,7 @@
   </section-def-macros>
 
   <section-rules>
+
     <rule comment="REGLA: SENT">
       <pattern>
         <pattern-item n="sent"/>
@@ -368,6 +375,26 @@
       </action>
     </rule>
 
+
+<rule comment="REGLA: n_attr">
+      <pattern>
+        <pattern-item n="n_attr"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag> 
+            </tags>
+		<lu>
+	<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="n"/>
+             <lit-tag v="attr"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
 
 <!--rules for statistical training
 <rule comment="REGLA: n+post -> n.nom+post">
