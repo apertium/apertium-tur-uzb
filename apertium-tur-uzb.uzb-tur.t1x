@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <transfer default="chunk">
   <section-def-cats>
+
     <def-cat n="noun">
       <cat-item tags="n.*"/>
       <cat-item tags="n"/>
@@ -26,17 +27,18 @@
       <cat-item tags="prn.pers.*"/>
     </def-cat>
 
-<def-cat n="uchun">
+    <def-cat n="uchun">
       <cat-item lemma="uchun" tags="post"/>
-    </def-cat>
-
-   <def-cat n="ifi">
-      <cat-item tags="ifi.*"/>
     </def-cat>
 
    <def-cat n="past">
       <cat-item tags="v.*.past.*"/>
       <cat-item tags="v.*.past"/>
+    </def-cat>
+
+   <def-cat n="aor">
+      <cat-item tags="v.*.aor.*"/>
+      <cat-item tags="v.*.aor"/>
     </def-cat>
 
    <def-cat n="post">
@@ -89,7 +91,6 @@
       <attr-item tags="cog"/>
       <attr-item tags="ant"/>
     </def-attr>
-
 
 
     <def-attr n="a_tns">
@@ -305,69 +306,6 @@
       </action>
     </rule>
 
-<rule comment="regla: ifi (ketdi → gitti)">
-      <pattern>
-        <pattern-item n="ifi"/>
-      </pattern>
-      <action>
-	<let>
-          <clip pos="1" side="tl" part="a_tns"/>
-	<lit-tag v="ifi"/>
-        </let>
-        <out>
-        <chunk name="v" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
-            </tags>
-          <lu>
-		<clip pos="1" side="tl" part="lem"/>
-             <lit-tag v="v"/>
-             <clip pos="1" side="tl" part="a_tra"/>
- 	     <clip pos="1" side="tl" part="a_pass"/>
- 	     <clip pos="1" side="tl" part="a_abil"/>
- 	     <clip pos="1" side="tl" part="a_neg"/>
-	     <lit-tag v="ifi"/>
-	     <lit v="+i"/>
-	     <lit-tag v="cop.aor"/>
-	     <clip pos="1" side="tl" part="a_pers_nbr"/>
-          </lu>
-   	 </chunk>
-        </out>
-      </action>
-    </rule>
-
-
-<rule comment="regla: past (ketgan → gitti)">
-      <pattern>
-        <pattern-item n="past"/>
-      </pattern>
-      <action>
-	<let>
-          <clip pos="1" side="tl" part="a_tns"/>
-	<lit-tag v=""/>
-        </let>
-        <out>
-        <chunk name="v" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SV"/></tag>
-            </tags>
-          <lu>
-	<clip pos="1" side="tl" part="lem"/>
-             <lit-tag v="v"/>
-             <clip pos="1" side="tl" part="a_tra"/>
- 	     <clip pos="1" side="tl" part="a_pass"/>
- 	     <clip pos="1" side="tl" part="a_abil"/>
- 	     <clip pos="1" side="tl" part="a_neg"/>
-	     <lit-tag v="past"/>
-	     <lit v="+i"/>
-	     <lit-tag v="cop.aor"/>
-	     <clip pos="1" side="tl" part="a_pers_nbr"/>
-          </lu>
-   	 </chunk>
-        </out>
-      </action>
-    </rule>
-
 <rule comment="regla: past (ketgan → gitmiş)">
       <pattern>
         <pattern-item n="past"/>
@@ -399,6 +337,39 @@
       </action>
     </rule>
 
+<rule comment="regla: aor (keladi → gelir)">
+      <pattern>
+        <pattern-item n="aor"/>
+      </pattern>
+      <action>
+	<let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v=""/>
+        </let>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="aor"/>
+	     <lit v="+i"/>
+	     <lit-tag v="cop.aor"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+<!--rules for statistical training
 <rule comment="REGLA: n+post -> n.nom+post">
       <pattern>
         <pattern-item n="noun"/>
@@ -587,6 +558,7 @@
         </out>
       </action>
     </rule>
+-->
 
   </section-rules>
 </transfer>
