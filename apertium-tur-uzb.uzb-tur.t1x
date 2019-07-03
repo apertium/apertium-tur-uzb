@@ -15,6 +15,11 @@
     </def-cat>
 
 
+    <def-cat n="ref">
+      <cat-item tags="v.*.ref.*"/>
+      <cat-item tags="v.*.ref"/>
+    </def-cat>
+
     <def-cat n="num">
       <cat-item tags="num.*"/>
       <cat-item tags="num"/>
@@ -98,6 +103,10 @@
       <attr-item tags="ant"/>
     </def-attr>
 
+
+<def-attr n="a_ref">
+      <attr-item tags="ref"/>
+    </def-attr>
 
     <def-attr n="a_tns">
       <attr-item tags="aor"/>
@@ -369,6 +378,29 @@
 	     <lit v="+i"/>
 	     <lit-tag v="cop.aor"/>
 	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+<rule comment="regla: ref->pass (qilindi → yapıldı)">
+      <pattern>
+        <pattern-item n="ref"/>
+      </pattern>
+      <action>
+	<let>
+          <clip pos="1" side="tl" part="a_ref"/>
+	<lit-tag v="pass"/>
+        </let>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="whole"/>
           </lu>
    	 </chunk>
         </out>
