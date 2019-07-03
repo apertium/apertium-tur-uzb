@@ -14,7 +14,8 @@
     </def-cat>
 
     <def-cat n="ekan">
-      <cat-item tags="cop.aor.evid.*"/>
+      <cat-item tags="cop.kan.*"/>
+      <cat-item tags="cop.kan"/>
     </def-cat>
 
    <def-cat n="emish">
@@ -34,7 +35,8 @@
     </def-cat>
 
    <def-cat n="past">
-      <cat-item tags="past.*"/>
+      <cat-item tags="v.*.past.*"/>
+      <cat-item tags="v.*.past"/>
     </def-cat>
 
    <def-cat n="post">
@@ -200,6 +202,9 @@
       <attr-item tags="abil"/>
     </def-attr>
 
+ <def-attr n="a_kan">
+      <attr-item tags="kan"/>
+    </def-attr>
 
  <def-attr n="a_frm">
       <attr-item tags="frm"/>
@@ -252,7 +257,11 @@
       <action>
 	<let>
           <clip pos="1" side="tl" part="a_cop"/>
-	<lit-tag v="cop"/>
+	<lit-tag v=""/>
+        </let>
+	<let>
+          <clip pos="1" side="tl" part="a_kan"/>
+	<lit-tag v=""/>
         </let>
         <out>
         <chunk name="cop" case="caseFirstWord">
@@ -290,7 +299,6 @@
           <lu>
 	     <lit v="i"/>
 	     <lit-tag v="cop.dub.aor"/>
-	     <clip pos="1" side="tl" part="a_pers_nbr"/>
           </lu>
    	 </chunk>
         </out>
@@ -336,7 +344,7 @@
       <action>
 	<let>
           <clip pos="1" side="tl" part="a_tns"/>
-	<lit-tag v="ifi"/>
+	<lit-tag v=""/>
         </let>
         <out>
         <chunk name="v" case="caseFirstWord">
@@ -344,13 +352,13 @@
               <tag><lit-tag v="SV"/></tag>
             </tags>
           <lu>
-		<clip pos="1" side="tl" part="lem"/>
+	<clip pos="1" side="tl" part="lem"/>
              <lit-tag v="v"/>
              <clip pos="1" side="tl" part="a_tra"/>
  	     <clip pos="1" side="tl" part="a_pass"/>
  	     <clip pos="1" side="tl" part="a_abil"/>
  	     <clip pos="1" side="tl" part="a_neg"/>
-	     <lit-tag v="ifi"/>
+	     <lit-tag v="past"/>
 	     <lit v="+i"/>
 	     <lit-tag v="cop.aor"/>
 	     <clip pos="1" side="tl" part="a_pers_nbr"/>
@@ -367,7 +375,7 @@
       <action>
 	<let>
           <clip pos="1" side="tl" part="a_tns"/>
-	<lit-tag v="past"/>
+	<lit-tag v=""/>
         </let>
         <out>
         <chunk name="v" case="caseFirstWord">
