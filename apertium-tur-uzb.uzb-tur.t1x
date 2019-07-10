@@ -22,6 +22,10 @@
     </def-cat>
 
 
+  <def-cat n="permissive">
+      <cat-item tags="v.*.perm"/>
+    </def-cat>
+
     <def-cat n="ref">
       <cat-item tags="v.*.ref.*"/>
       <cat-item tags="v.*.ref"/>
@@ -153,6 +157,11 @@
 
   <def-attr n="a_dub">
       <attr-item tags="dub"/>
+    </def-attr>
+
+
+ <def-attr n="a_prm">
+      <attr-item tags="perm"/>
     </def-attr>
 
  <def-attr n="a_gm">
@@ -329,6 +338,34 @@
 	<clip pos="1" side="tl" part="whole"/>
 	     <lit v="+i"/>
 	     <lit-tag v="cop.aor.p3.sg.gm"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: permissive (bersin.perf → versin.imp)">
+      <pattern>
+        <pattern-item n="permissive"/>
+      </pattern>
+      <action>
+	<let>
+          <clip pos="1" side="tl" part="a_prf"/>
+	<lit-tag v="imp"/>
+        </let>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+		<clip pos="1" side="tl" part="lem"/>
+ <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="imp.p3.sg"/>
           </lu>
    	 </chunk>
         </out>
