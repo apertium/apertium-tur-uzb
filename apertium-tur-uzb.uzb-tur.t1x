@@ -9,6 +9,13 @@
       <cat-item tags="np.*"/>
     </def-cat>
 
+ <def-cat n="noun-dir">
+      <cat-item tags="n.*"/>
+    <cat-item tags="adj.*"/>
+      <cat-item tags="np.*"/>
+      <cat-item tags="v.*"/>
+    </def-cat>
+
     <def-cat n="n_attr">
       <cat-item tags="n.attr.*"/>
       <cat-item tags="n.attr"/>
@@ -32,6 +39,10 @@
 
    <def-cat n="emish">
       <cat-item tags="cop.evid.*"/>
+    </def-cat>
+
+    <def-cat n="dir">
+	<cat-item lemma="e" tags="cop"/>
     </def-cat>
 
    <def-cat n="prn_pers">
@@ -291,6 +302,33 @@
 	     <lit v="i"/>
 	     <lit-tag v="cop.dub.aor"/>
 	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: -dir (cop → gm (general modal.))"> <!--better if handled in lexc, so hopefully this is temporary -->
+      <pattern>
+        <pattern-item n="noun-dir"/>
+        <pattern-item n="dir"/>
+      </pattern>
+      <action>
+	<let>
+          <clip pos="2" side="tl" part="a_cop"/>
+	<lit-tag v=""/>
+        </let>
+        <out>
+        <chunk name="cop" case="caseFirstWord">
+            <tags>
+              <tag>
+	<lit-tag v="SV"/>
+		</tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="whole"/>
+	     <lit v="+i"/>
+	     <lit-tag v="cop.aor.p3.sg.gm"/>
           </lu>
    	 </chunk>
         </out>
