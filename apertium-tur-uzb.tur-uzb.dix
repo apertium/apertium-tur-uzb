@@ -225,7 +225,7 @@
 
 
     <!-- SECTION: Conjunctions -->
-
+    <e><p><l>ne<s n="cnjcoo"/></l><r>na<s n="cnjcoo"/></r></p></e>
     <e><p><l>ve<s n="cnjcoo"/></l><r>va<s n="cnjcoo"/></r></p></e>
     <e><p><l>ise<s n="cnjcoo"/></l><r>esa<s n="cnjcoo"/></r></p></e>
     <e><p><l>da<s n="cnjcoo"/></l><r>ham<s n="cnjcoo"/></r></p></e>
@@ -4310,7 +4310,6 @@
        <e><p><l>Tirmiz<s n="np"/><s n="top"/></l><r>Termiz<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>Sa<s n="abbr"/></l><r>Sa<s n="abbr"/></r></p></e>
        <e><p><l>ba<s n="abbr"/></l><r>ba<s n="abbr"/></r></p></e>
-       <e><p><l>na<s n="abbr"/></l><r>na<s n="abbr"/></r></p></e>
        <e><p><l>Sbc<s n="abbr"/></l><r>SBc<s n="abbr"/></r></p></e>
        <e><p><l>prof<s n="abbr"/></l><r>prof<s n="abbr"/></r></p></e>
        <e><p><l>Ağustos<s n="n"/></l><r>avg<s n="abbr"/></r></p></e>
