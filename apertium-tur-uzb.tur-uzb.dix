@@ -2054,7 +2054,6 @@
 
 <e><p><l>teşkil<s n="n"/></l><r>tashkil<s n="n"/></r></p></e>
 <e><p><l>galaksi<s n="n"/></l><r>galaktika<s n="n"/></r></p></e>
-<e><p><l>un<s n="n"/></l><r>un<s n="n"/></r></p></e>
 <e><p><l>ses<s n="n"/></l><r>un<s n="n"/></r></p></e>
 <e><p><l>köken<s n="n"/></l><r>asl<s n="n"/></r></p></e>
 <e><p><l>mahsul<s n="n"/></l><r>hasil<s n="n"/></r></p></e>
@@ -4648,6 +4647,7 @@
        <e><p><l>borazan<s n="n"/></l><r>karnay<s n="n"/></r></p></e>
        <e><p><l>vahiy<s n="n"/></l><r>vahiy<s n="n"/></r></p></e>
        <e><p><l>aziz<s n="n"/></l><r>aziz<s n="n"/></r></p></e>
+       <e><p><l>nikah<s n="n"/></l><r>nikoh<s n="n"/></r></p></e>
        <e><p><l>Yahudiye<s n="np"/><s n="top"/></l><r>Yahudiya<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>ile<s n="post"/></l><r>bilanoq<s n="post"/></r></p></e>
        <e><p><l>eğer<s n="adv"/></l><r>agarda<s n="adv"/></r></p></e>
@@ -4660,7 +4660,7 @@
        <e><p><l>mıhla<s n="v"/><s n="tv"/></l><r>mixla<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>sor<s n="v"/><s n="tv"/></l><r>so‘rash<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>dirilt<s n="v"/><s n="tv"/></l><r>tirilt<s n="v"/><s n="tv"/></r></p></e>
-
+       <e><p><l>yakınlaş<s n="v"/><s n="iv"/></l><r>yaqinlash<s n="v"/><s n="iv"/></r></p></e>
 
    </section>
    

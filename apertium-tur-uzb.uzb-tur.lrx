@@ -1,7 +1,15 @@
 <rules>
 
 <rule>
- <match lemma="hamjamiyat" tags="n.*"><select lemma="toplum" tags="n.*"/></match>
+ <match lemma="hamjamiyat" tags="n.*">
+<select lemma="toplum" tags="n.*"/>
+</match>
+</rule> 
+
+<rule>
+ <match lemma="u" tags="prn.*">
+<select lemma="o" tags="prn.*"/>
+</match>
 </rule> 
 
 </rules>
