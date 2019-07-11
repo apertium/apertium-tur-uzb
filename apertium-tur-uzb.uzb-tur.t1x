@@ -30,6 +30,10 @@
       <cat-item tags="v.*.fut_plan.*"/>
     </def-cat>
 
+  <def-cat n="gpr_fut_plan">
+      <cat-item tags="v.*.gpr_fut_plan"/>
+    </def-cat>
+
     <def-cat n="ref">
       <cat-item tags="v.*.ref.*"/>
       <cat-item tags="v.*.ref"/>
@@ -146,6 +150,7 @@
       <attr-item tags="ger_past"/>
       <attr-item tags="gpr_rsub"/>
       <attr-item tags="gpr_fut"/>
+      <attr-item tags="gpr_fut_plan"/>
       <attr-item tags="ger"/>
       <attr-item tags="ger_inf"/>
     </def-attr>
@@ -451,7 +456,7 @@
       </action>
     </rule>
 
-<rule comment="regla: fut_plan (ajralmoqchi → ayrılacak)">
+<rule comment="regla: fut_plan (ajralmoqchiman → ayrılacağım)">
       <pattern>
         <pattern-item n="fut_plan"/>
       </pattern>
@@ -476,6 +481,29 @@
 	     <lit v="+i"/>
 	     <lit-tag v="cop.aor"/>
 	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: fut_plan (ketmoqchi → gidecek)">
+      <pattern>
+        <pattern-item n="gpr_fut_plan"/>
+      </pattern>
+      <action>
+	<let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v="gpr_fut"/>
+        </let>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="whole"/>
+
           </lu>
    	 </chunk>
         </out>
