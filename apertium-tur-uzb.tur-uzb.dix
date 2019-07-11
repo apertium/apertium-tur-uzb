@@ -149,6 +149,7 @@
 <e><p><l>teknolojik<s n="adj"/></l><r>texnologik<s n="adj"/></r></p></e>
 <e><p><l>zor<s n="adj"/></l><r>qiyin<s n="adj"/></r></p></e>
 <e><p><l>antik<s n="adj"/></l><r>qadimgi<s n="adj"/></r></p></e>
+<e><p><l>eski<s n="adj"/></l><r>qadimgi<s n="adj"/></r></p></e>
 <e><p><l>hayati<s n="adj"/></l><r>hayotiy<s n="adj"/></r></p></e>
 <e><p><l>adil<s n="adj"/></l><r>odil<s n="adj"/></r></p></e>
 <e><p><l>fiziksel<s n="adj"/></l><r>fizik<s n="adj"/></r></p></e>
@@ -231,7 +232,7 @@
     <e><p><l>da<s n="cnjcoo"/></l><r>ham<s n="cnjcoo"/></r></p></e>
     <e><p><l>ve<s n="cnjcoo"/></l><r>va<s n="cnjcoo"/></r></p></e>
 <e><p><l>ama<s n="cnjcoo"/></l><r>ammo<s n="cnjcoo"/></r></p></e>
-<e><p><l>fakat<s n="cnjcoo"/></l><r>faqat<s n="cnjcoo"/></r></p></e>
+<e><p><l>yalnız<s n="cnjadv"/></l><r>faqat<s n="cnjcoo"/></r></p></e>
 <e><p><l>ile<s n="cnjcoo"/></l><r>bilan<s n="cnjcoo"/></r></p></e>
 <e><p><l>veya<s n="cnjcoo"/></l><r>yoki<s n="cnjcoo"/></r></p></e>
 <e><p><l>da<s n="cnjcoo"/></l><r>ham<s n="cnjcoo"/></r></p></e>
@@ -253,7 +254,7 @@
 <e><p><l>bilakis<s n="cnjadv"/></l><r>bilʻaks<s n="cnjadv"/></r></p></e>
 <e><p><l>bile<s n="cnjadv"/></l><r>hatto<s n="cnjadv"/></r></p></e>
 <e><p><l>demek<s n="cnjadv"/></l><r>demak<s n="cnjadv"/></r></p></e>
-<e><p><l>fakat<s n="cnjadv"/></l><r>faqat<s n="cnjadv"/></r></p></e>
+<e><p><l>yalnız<s n="cnjadv"/></l><r>faqat<s n="cnjadv"/></r></p></e>
 <e><p><l>hatta<s n="cnjadv"/></l><r>hattoki<s n="cnjadv"/></r></p></e>
 <e><p><l>işte<s n="cnjadv"/></l><r>mana<s n="cnjadv"/></r></p></e>
 <e><p><l>keşke<s n="cnjadv"/></l><r>koshki<s n="cnjadv"/></r></p></e>
@@ -278,7 +279,7 @@
 <e><p><l>zaten<s n="cnjadv"/></l><r>zotan<s n="cnjadv"/></r></p></e>
 <e><p><l>zira<s n="cnjadv"/></l><r>zora<s n="cnjadv"/></r></p></e>
 <e><p><l>yoksa<s n="cnjadv"/></l><r>yoʻqsa<s n="cnjadv"/></r></p></e>
-    <e><p><l>diye<s n="cnjsub"/></l><r>deb<s n="cnjsub"/></r></p></e>
+<e><p><l>diye<s n="cnjsub"/></l><r>deb<s n="cnjsub"/></r></p></e>
 <e><p><l>ayrıca<s n="cnjadv"/></l><r>ustiga<s n="cnjadv"/></r></p></e>
 
 
