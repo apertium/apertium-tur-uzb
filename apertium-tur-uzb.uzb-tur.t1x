@@ -57,6 +57,12 @@
       <cat-item lemma="uchun" tags="post"/>
     </def-cat>
 
+
+  <def-cat n="ger_past">
+      <cat-item tags="v.*.ger_past.*"/>
+      <cat-item tags="v.*.ger_past"/>
+    </def-cat>
+
    <def-cat n="past">
       <cat-item tags="v.*.past.*"/>
       <cat-item tags="v.*.past"/>
@@ -423,6 +429,29 @@
 	     <lit v="+i"/>
 	     <lit-tag v="cop.aor"/>
 	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+<rule comment="regla: ger_past (ketganlar → gidenler)">
+      <pattern>
+        <pattern-item n="ger_past"/>
+      </pattern>
+      <action>
+	<let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v="ger_impf"/>
+        </let>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+		<clip pos="1" side="tl" part="whole"/>
           </lu>
    	 </chunk>
         </out>
