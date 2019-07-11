@@ -554,9 +554,7 @@
 <e><p><l>batı<s n="n"/></l><r>kunbotar<s n="n"/></r></p></e>
 <e><p><l>bebek<s n="n"/></l><r>chaqalog<s n="n"/></r></p></e>
 <e><p><l>bira<s n="n"/></l><r>pivo<s n="n"/></r></p></e>
-<e><p><l>birleşik<s n="n"/></l><r>birlashgan<s n="n"/></r></p></e>
 <e><p><l>bit<s n="n"/></l><r>bit<s n="n"/></r></p></e>
-<e><p><l>bölüm<s n="n"/></l><r>boʻlim<s n="n"/></r></p></e>
 <e><p><l>bomba<s n="n"/></l><r>bomba<s n="n"/></r></p></e>
 <e><p><l>boy<s n="n"/></l><r>boʻy<s n="n"/></r></p></e>
 <e><p><l>buyuru<s n="n"/></l><r>buyruq<s n="n"/></r></p></e>
@@ -603,13 +601,8 @@
 <e><p><l>batı<s n="n"/></l><r>kunbotar<s n="n"/></r></p></e>
 <e><p><l>bebek<s n="n"/></l><r>chaqalog<s n="n"/></r></p></e>
 <e><p><l>bira<s n="n"/></l><r>pivo<s n="n"/></r></p></e>
-<e><p><l>birleşik<s n="n"/></l><r>birlashgan<s n="n"/></r></p></e>
-<e><p><l>bit<s n="n"/></l><r>bit<s n="n"/></r></p></e>
-<e><p><l>bölüm<s n="n"/></l><r>boʻlim<s n="n"/></r></p></e>
-<e><p><l>bomba<s n="n"/></l><r>bomba<s n="n"/></r></p></e>
-<e><p><l>boy<s n="n"/></l><r>boʻy<s n="n"/></r></p></e>
-<e><p><l>buyuru<s n="n"/></l><r>buyruq<s n="n"/></r></p></e>
-<e><p><l>buz<s n="n"/></l><r>ice<s n="n"/></r></p></e>
+<e><p><l>birleşik<s n="adj"/></l><r>birlashgan<s n="adj"/></r></p></e>
+<e><p><l>buyruk<s n="n"/></l><r>buyruq<s n="n"/></r></p></e>
 <e><p><l>canavar<s n="n"/></l><r>maxluq<s n="n"/></r></p></e>
 <e><p><l>çavuş<s n="n"/></l><r>serjant<s n="n"/></r></p></e>
 <e><p><l>çay<s n="n"/></l><r>choy<s n="n"/></r></p></e>
@@ -1582,10 +1575,8 @@
 <e><p><l>bölüm<s n="n"/></l><r>boʻlim<s n="n"/></r></p></e>
 <e><p><l>bomba<s n="n"/></l><r>bomba<s n="n"/></r></p></e>
 <e><p><l>boy<s n="n"/></l><r>boʻy<s n="n"/></r></p></e>
-<e><p><l>buyuru<s n="n"/></l><r>buyruq<s n="n"/></r></p></e>
-<e><p><l>buz<s n="n"/></l><r>ice<s n="n"/></r></p></e>
+<e><p><l>buz<s n="n"/></l><r>muz<s n="n"/></r></p></e>
 <e><p><l>canavar<s n="n"/></l><r>maxluq<s n="n"/></r></p></e>
-<e><p><l>oğul<s n="n"/></l><r>oʻgʻl<s n="n"/></r></p></e>
 
 <e><p><l>çavuş<s n="n"/></l><r>serjant<s n="n"/></r></p></e>
 <e><p><l>çay<s n="n"/></l><r>choy<s n="n"/></r></p></e>
@@ -1608,13 +1599,13 @@
 <e><p><l>çarpma<s n="n"/></l><r>koʻpaytirish<s n="n"/></r></p></e>
 <e><p><l>bahar<s n="n"/></l><r>bahor<s n="n"/></r></p></e>
 <e><p><l>oğul<s n="n"/></l><r>oʻgʻil<b/>bola<s n="n"/></r></p></e>
-
+<e><p><l>oğul<s n="n"/></l><r>oʻgʻil<s n="n"/></r></p></e>
 <e><p><l>rezerv<s n="n"/></l><r>qoʻriqxona<s n="n"/></r></p></e>
 <e><p><l>tasavvur<s n="n"/></l><r>tasavvur<s n="n"/></r></p></e>
 <e><p><l>özleştirme<s n="n"/></l><r>oʻzlashtirish<s n="n"/></r></p></e>
 <e><p><l>om<s n="n"/></l><r>om<s n="n"/></r></p></e>
 <e><p><l>kahve<s n="n"/></l><r>kofe<s n="n"/></r></p></e>
-<e><p><l>yarı<b/>iletken<s n="n"/></l><r><s n="n"/>yarimoʻtkazgich</r></p></e>
+<e><p><l>yarı<b/>iletken<s n="adj"/></l><r><s n="adj"/>yarimoʻtkazgich</r></p></e>
 <e><p><l>lenf<s n="n"/></l><r>limfa<s n="n"/></r></p></e>
 <e><p><l>jips<s n="n"/></l><r>gips<s n="n"/></r></p></e>
 <e><p><l>hacı<s n="n"/></l><r>hoji<s n="n"/></r></p></e>
@@ -4501,7 +4492,6 @@
        <e><p><l>an<s n="n"/></l><r>zahoti<s n="n"/></r></p></e>
        <e><p><l>krallık<s n="n"/></l><r>shohlik<s n="n"/></r></p></e>
        <e><p><l>tanıklık<s n="n"/></l><r>guvohlik<s n="n"/></r></p></e>
-       <e><p><l>oğul<s n="n"/></l><r>o‘g‘il<s n="n"/></r></p></e>
        <e><p><l>selam<s n="n"/></l><r>salom<s n="n"/></r></p></e>
        <e><p><l>gerçek<s n="n"/></l><r>chin<s n="n"/></r></p></e>
        <e><p><l>alim<s n="n"/></l><r>ulamo<s n="n"/></r></p></e>
