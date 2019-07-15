@@ -12,4 +12,39 @@
 </match>
 </rule> 
 
+
+<rule>
+ <match lemma="aholi" tags="n.*">
+<select lemma="halk" tags="n.*"/>
+</match>
+</rule>
+
+<rule>
+    <match lemma="ham" tags="cnjcoo">
+      <select lemma="da" tags="cnjcoo"/>
+    </match>
+  </rule>
+
+<rule>
+    <match lemma="qil" tags="v.*">
+      <select lemma="et" tags="v.*"/>
+    </match>
+  </rule>
+
+<rule>
+    <match tags="n.acc.*"/>
+    <match lemma="qil" tags="v.*">
+      <select lemma="yap" tags="v.*"/>
+    </match>
+  </rule>
+
+<rule>
+<or>
+<match lemma="gʻolib"/>
+</or>
+    <match lemma="qil" tags="v.*">
+      <select lemma="kıl" tags="v.*"/>
+    </match>
+  </rule>
+
 </rules>
