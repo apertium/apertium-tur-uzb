@@ -230,12 +230,10 @@
     <e><p><l>ve<s n="cnjcoo"/></l><r>va<s n="cnjcoo"/></r></p></e>
     <e><p><l>ise<s n="cnjcoo"/></l><r>esa<s n="cnjcoo"/></r></p></e>
     <e><p><l>da<s n="cnjcoo"/></l><r>ham<s n="cnjcoo"/></r></p></e>
-    <e><p><l>ve<s n="cnjcoo"/></l><r>va<s n="cnjcoo"/></r></p></e>
 <e><p><l>ama<s n="cnjcoo"/></l><r>ammo<s n="cnjcoo"/></r></p></e>
 <e><p><l>yalnız<s n="cnjadv"/></l><r>faqat<s n="cnjcoo"/></r></p></e>
 <e><p><l>ile<s n="cnjcoo"/></l><r>bilan<s n="cnjcoo"/></r></p></e>
 <e><p><l>veya<s n="cnjcoo"/></l><r>yoki<s n="cnjcoo"/></r></p></e>
-<e><p><l>da<s n="cnjcoo"/></l><r>ham<s n="cnjcoo"/></r></p></e>
 <e><p><l>ancak<s n="cnjcoo"/></l><r>biroq<s n="cnjcoo"/></r></p></e>
 <e><p><l>hem<s n="cnjcoo"/></l><r>ham<s n="cnjcoo"/></r></p></e>
 <e><p><l>lakin<s n="cnjcoo"/></l><r>lekin<s n="cnjcoo"/></r></p></e>
@@ -378,6 +376,7 @@
     <e><p><l>hisse<s n="n"/></l><r>hissa<s n="n"/></r></p></e> 
     <e><p><l>engel<s n="n"/></l><r>toʻsiq<s n="n"/></r></p></e> 
     <e><p><l>aile<s n="n"/></l><r>oila<s n="n"/></r></p></e> 
+    <e><p><l>halk<s n="n"/></l><r>aholi<s n="n"/></r></p></e> 
     <e><p><l>nüfus<s n="n"/></l><r>aholi<s n="n"/></r></p></e> 
     <e><p><l>cumhurbaşkan<s n="n"/></l><r>prezident<s n="n"/></r></p></e> 
     <e><p><l>terörizm<s n="n"/></l><r>terrorizm<s n="n"/></r></p></e> 
@@ -2528,6 +2527,7 @@
 <e><p><l>azal<s n="v"/><s n="iv"/></l><r>kamaytiril<s n="v"/><s n="iv"/></r></p></e>
 
 <e><p><l>geçir<s n="v"/><s n="tv"/></l><r>kechir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>geçir<s n="v"/><s n="tv"/></l><r>affet<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>iç<s n="v"/><s n="tv"/></l><r>ich<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>uyuştur<s n="v"/><s n="tv"/></l><r>uyushtir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>sulandır<s n="v"/><s n="tv"/></l><r>suyultir<s n="v"/><s n="tv"/></r></p></e>
@@ -4517,6 +4517,7 @@
        <e><p><l>yerine<b/>gel<s n="v"/><s n="iv"/></l><r>bajo<b/>kel<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>de<s n="v"/><s n="tv"/></l><r>deyish<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>kıl<s n="v"/><s n="tv"/></l><r>qil<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>et<s n="v"/><s n="tv"/></l><r>qil<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>taşı<s n="v"/><s n="tv"/></l><r>ko‘tar<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>çağır<s n="v"/><s n="tv"/></l><r>chaqir<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>yerine<b/>getir<s n="v"/><s n="tv"/></l><r>bajo<b/>keltir<s n="v"/><s n="tv"/></r></p></e>
@@ -4558,9 +4559,11 @@
        <e><p><l>şeytan<s n="n"/></l><r>shayton<s n="n"/></r></p></e>
        <e><p><l>şifa<s n="n"/></l><r>shifo<s n="n"/></r></p></e>
        <e><p><l>hamd<b/>ü<b/>sena<s n="n"/></l><r>hamdu<b/>sano<s n="n"/></r></p></e>
+       <e><p><l>başbakan<s n="n"/></l><r>bosh<b/>vazir<s n="n"/></r></p></e>
        <e><p><l>müjde<s n="n"/></l><r>xushxabar<s n="n"/></r></p></e>
        <e><p><l>kurtuluş<s n="n"/></l><r>xalos<s n="n"/></r></p></e>
        <e><p><l>muhabbet<s n="n"/></l><r>muhabbat<s n="n"/></r></p></e>
+       <e><p><l>şehvet<s n="n"/></l><r>shahvat<s n="n"/></r></p></e>
        <e><p><l>takat<s n="n"/></l><r>toqat<s n="n"/></r></p></e>
        <e><p><l>kudret<s n="n"/></l><r>qudrat<s n="n"/></r></p></e>
        <e><p><l>gerçek<s n="n"/></l><r>rost<s n="n"/></r></p></e>
@@ -4594,6 +4597,8 @@
        <e><p><l>diri<s n="adj"/></l><r>barhayot<s n="adj"/></r></p></e>
        <e><p><l>aziz<s n="adj"/></l><r>aziz<s n="adj"/></r></p></e>
        <e><p><l>azat<s n="adj"/></l><r>forig‘<s n="adj"/></r></p></e>
+       <e><p><l>nadan<s n="adj"/></l><r>nodon<s n="adj"/></r></p></e>
+       <e><p><l>bilge<s n="adj"/></l><r>dono<s n="adj"/></r></p></e>
        <e><p><l>ha<s n="ij"/></l><r>xoh<s n="ij"/></r></p></e>
        <e><p><l>şimdi<s n="ij"/></l><r>axir<s n="ij"/></r></p></e>
        <e><p><l>Zebur<s n="np"/><s n="al"/></l><r>Zabur<s n="np"/><s n="al"/></r></p></e>
@@ -4606,6 +4611,7 @@
        <e><p><l>şükran<s n="n"/></l><r>shukrona<s n="n"/></r></p></e>
        <e><p><l>ceza<s n="n"/></l><r>jiza<s n="n"/></r></p></e>
        <e><p><l>azap<s n="n"/></l><r>azab<s n="n"/></r></p></e>
+       <e><p><l>ayıp<s n="n"/></l><r>ayb<s n="n"/></r></p></e>
        <e><p><l>feryat<s n="n"/></l><r>faryod<s n="n"/></r></p></e>
        <e><p><l>sevinç<s n="n"/></l><r>sevinch<s n="n"/></r></p></e>
        <e><p><l>barış<s n="n"/></l><r>borish<s n="n"/></r></p></e>
@@ -4637,6 +4643,7 @@
        <e><p><l>arzu<s n="n"/></l><r>orzu<s n="n"/></r></p></e>
        <e><p><l>borazan<s n="n"/></l><r>karnay<s n="n"/></r></p></e>
        <e><p><l>vahiy<s n="n"/></l><r>vahiy<s n="n"/></r></p></e>
+       <e><p><l>lanet<s n="n"/></l><r>la’nat<s n="n"/></r></p></e>
        <e><p><l>aziz<s n="n"/></l><r>aziz<s n="n"/></r></p></e>
        <e><p><l>nikah<s n="n"/></l><r>nikoh<s n="n"/></r></p></e>
        <e><p><l>Yahudiye<s n="np"/><s n="top"/></l><r>Yahudiya<s n="np"/><s n="top"/></r></p></e>
