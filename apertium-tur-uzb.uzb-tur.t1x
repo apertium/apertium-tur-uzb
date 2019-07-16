@@ -9,6 +9,16 @@
       <cat-item tags="np.*"/>
     </def-cat>
 
+    <def-cat n="lı">
+	<cat-item lemma="li" tags="post"/>
+	<cat-item lemma="li" tags="post.*"/>
+    </def-cat>
+
+  <def-cat n="sız">
+	<cat-item lemma="siz" tags="post"/>
+	<cat-item lemma="siz" tags="post.*"/>
+    </def-cat>
+
  <def-cat n="noun-dir">
       <cat-item tags="n.*"/>
     <cat-item tags="adj.*"/>
@@ -581,6 +591,50 @@
              <lit-tag v="attr"/>
             </lu>
           </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: n+lı (almalı  → elmalı)">
+      <pattern>
+        <pattern-item n="noun"/>
+        <pattern-item n="lı"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+		<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="n"/>
+	     <lit v="+lı"/>
+	     <lit-tag v="post"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: n+sız (musiqasiz  → müziksiz)">
+      <pattern>
+        <pattern-item n="noun"/>
+        <pattern-item n="sız"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+		<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="n"/>
+	     <lit v="+sız"/>
+	     <lit-tag v="post"/>
+          </lu>
+   	 </chunk>
         </out>
       </action>
     </rule>
