@@ -1870,7 +1870,7 @@
 <e><p><l>maksat<s n="n"/></l><r>maqsad<s n="n"/></r></p></e>
 <e><p><l>geliştirme<s n="n"/></l><r>rivojlantirish<s n="n"/></r></p></e>
 <e><p><l>sıra<s n="n"/></l><r>qator<s n="n"/></r></p></e>
-<e><p><l>Buhara<s n="np"/></l><r>Buxoro<s n="np"/></r></p></e>
+
 
 
 
@@ -1908,7 +1908,7 @@
 <e><p><l>etraf<s n="n"/></l><r>atrof<s n="n"/></r></p></e>
 <e><p><l>ten<s n="n"/></l><r>tan<s n="n"/></r></p></e>
 
-<e><p><l>Hindistan<s n="np"/></l><r>Hindiston<s n="np"/></r></p></e>
+
 <e><p><l>doktor<s n="n"/></l><r>vrach<s n="n"/></r></p></e>
 <e><p><l>tasarruf<s n="n"/></l><r>tasarruf<s n="n"/></r></p></e>
 <e><p><l>gerileme<s n="n"/></l><r>inqiroz<s n="n"/></r></p></e>
@@ -1928,7 +1928,7 @@
 <e><p><l>rehber<s n="n"/></l><r>dastur<s n="n"/></r></p></e>
 <e><p><l>taktik<s n="n"/></l><r>taktika<s n="n"/></r></p></e>
 <e><p><l>dikkat<s n="n"/></l><r>nazar<s n="n"/></r></p></e>
-<e><p><l>kemalism<s n="n"/></l><r>kamolchilik<s n="n"/></r></p></e>
+<e><p><l>kemalizm<s n="n"/></l><r>kamolchilik<s n="n"/></r></p></e>
 <e><p><l>halk<s n="n"/></l><r>xalx<s n="n"/></r></p></e>
 <e><p><l>destek<s n="n"/></l><r>tayanch<s n="n"/></r></p></e>
 <e><p><l>sağlık<s n="n"/></l><r>sogʻliq<s n="n"/></r></p></e>
@@ -2204,7 +2204,8 @@
 <e><p><l>Jaen<s n="np"/><s n="top"/></l><r>jaen<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Viyana<s n="np"/><s n="top"/></l><r>vena<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Sakarya<s n="np"/><s n="top"/></l><r>Sakariyo<s n="np"/><s n="top"/></r></p></e>
-
+<e><p><l>Hindistan<s n="np"/><s n="top"/></l><r>Hindiston<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Buhara<s n="np"/><s n="top"/></l><r>Buxoro<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Villers<s n="np"/><s n="top"/></l><r>villers<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Azerbaycan<s n="np"/><s n="top"/></l><r>ozarbayjon<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Herat<s n="np"/><s n="top"/></l><r>hirot<s n="np"/><s n="top"/></r></p></e>
@@ -2250,7 +2251,7 @@
 <e><p><l>İran<s n="np"/><s n="top"/></l><r>Eron<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Ukrayna<s n="np"/><s n="top"/></l><r>Ukraina<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Britanya<s n="np"/><s n="top"/></l><r>Britaniya<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Babür<s n="np"/></l><r>Bobur<s n="np"/><s n="top"/></r></p></e>
+
 <e><p><l>İngiltere<s n="np"/><s n="top"/></l><r>Angliya<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Fransa<s n="np"/><s n="top"/></l><r>Fransiya<s n="np"/><s n="top"/></r></p></e>
 
@@ -2348,7 +2349,7 @@
 
 
     <!-- SECTION: Prop - nounsNOMMASC -->
-
+<e><p><l>Babür<s n="np"/><s n="ant"/></l><r>Bobur<s n="np"/><s n="ant"/></r></p></e>
         <e><p><l>Takdir<s n="np"/><s n="ant"/><s n="m"/></l><r>Taqdr<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
         <e><p><l>Kurbankuli<s n="np"/><s n="ant"/><s n="m"/></l><r>Kurbankuli<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
         <e><p><l>Berdimuhammedov<s n="np"/><s n="cog"/><s n="mf"/></l><r>Berdimuhammedov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
