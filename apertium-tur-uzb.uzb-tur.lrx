@@ -7,6 +7,13 @@
 </rule> 
 
 <rule>
+ <match lemma="koʻpchilik" tags="adj">
+<select lemma="büyük" tags="adj"/>
+<select lemma="qism" tags="n.*"/>
+</match>
+</rule> 
+
+<rule>
  <match lemma="u" tags="prn.*">
 <select lemma="o" tags="prn.*"/>
 </match>
