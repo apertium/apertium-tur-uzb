@@ -39,6 +39,18 @@
   </rule>
 
 <rule>
+
+<or>
+    <match tags="n.*.acc"/>
+    <match tags="adj.*.acc"/>
+    <match tags="prn.*"/>
+</or>
+    <match lemma="kechir" tags="v.*">
+      <select lemma="affet" tags="v.*"/>
+    </match>
+  </rule>
+
+<rule>
 <or>
 <match lemma="gʻolib"/>
 </or>
