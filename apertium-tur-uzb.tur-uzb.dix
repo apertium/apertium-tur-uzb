@@ -74,7 +74,7 @@
      <sdef n="ij"        c="Interjection"/>
      <sdef n="abbr"      c="Abbreviation"/>
 
-    
+     <sdef n="gen"      c="Genitive"/>
 
   </sdefs>
 
@@ -133,6 +133,7 @@
 <e><p><l>esaslı<s n="adj"/></l><r>asosli<s n="adj"/></r></p></e>
 <e><p><l>efsanevi<s n="adj"/></l><r>afsonaviy<s n="adj"/></r></p></e>
 <e><p><l>aşık<s n="adj"/></l><r>oshiq<s n="adj"/></r></p></e>
+<e><p><l>başka<s n="adj"/><s n="subst"/><s n="pl"/><s n="px3sp"/><s n="gen"/></l><r>boshqa<s n="adj"/><s n="subst"/><s n="pl"/><s n="gen"/></r></p></e>
 <e><p><l>başka<s n="adj"/></l><r>boshqa<s n="adj"/></r></p></e>
 <e><p><l>başka<s n="adj"/></l><r>boshqa<s n="adv"/></r></p></e>
 <e><p><l>metamorfik<s n="adj"/></l><r>metamorfik<s n="adj"/></r></p></e>
