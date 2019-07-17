@@ -14,6 +14,11 @@
 	<cat-item lemma="li" tags="post.*"/>
     </def-cat>
 
+    <def-cat n="bilan">
+	<cat-item lemma="bilan" tags="post"/>
+	<cat-item lemma="bilan" tags="cnjcoo"/>
+    </def-cat>
+
   <def-cat n="sız">
 	<cat-item lemma="siz" tags="post"/>
 	<cat-item lemma="siz" tags="post.*"/>
@@ -639,6 +644,56 @@
       </action>
     </rule>
 
+
+<rule comment="regla: prn+bilan (u bilan  → onunla)">
+      <pattern>
+        <pattern-item n="prn_pers"/>
+        <pattern-item n="bilan"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="prn.pers"/>
+		<clip pos="1" side="tl" part="a_pers_nbr"/>
+	     <lit-tag v="ins"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: men uchun -> benim için">
+      <pattern>
+        <pattern-item n="prn_pers"/>
+        <pattern-item n="uchun"/>
+      </pattern>
+      <action>
+ <let>
+          <clip pos="1" side="tl" part="a_cas"/>
+	<lit-tag v="gen"/>
+        </let>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag> 
+            </tags>
+		<lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+<b/>
+	<lu>
+              <clip pos="2" side="tl" part="whole"/>
+	</lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 <!--rules for statistical training
 <rule comment="REGLA: n+post -> n.nom+post">
       <pattern>
@@ -802,32 +857,7 @@
       </action>
     </rule>
 
-<rule comment="REGLA: men uchun -> benim için">
-      <pattern>
-        <pattern-item n="prn_pers"/>
-        <pattern-item n="uchun"/>
-      </pattern>
-      <action>
- <let>
-          <clip pos="1" side="tl" part="a_cas"/>
-	<lit-tag v="gen"/>
-        </let>
-        <out>
-          <chunk name="n" case="caseFirstWord">
-            <tags>
-              <tag><lit-tag v="SN"/></tag> 
-            </tags>
-		<lu>
-              <clip pos="1" side="tl" part="whole"/>
-            </lu>
-<b/>
-	<lu>
-              <clip pos="2" side="tl" part="whole"/>
-	</lu>
-          </chunk>
-        </out>
-      </action>
-    </rule>
+<
 -->
 
   </section-rules>
