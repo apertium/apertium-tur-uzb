@@ -355,6 +355,7 @@
     <e><p><l>sertifika<s n="n"/></l><r>sertifika<s n="n"/></r></p></e>
     <e><p><l>gösteri<s n="n"/></l><r>tomosha<s n="n"/></r></p></e>
     <e><p><l>dans<s n="n"/></l><r>raqs<s n="n"/></r></p></e>
+    <e><p><l>raks<s n="n"/></l><r>raqs<s n="n"/></r></p></e>
     <e><p><l>taraf<s n="n"/></l><r>tomon<s n="n"/></r></p></e>
     <e><p><l>sever<s n="n"/></l><r>sevor<s n="n"/></r></p></e>
     <e><p><l>resim<s n="n"/></l><r>rasm<s n="n"/></r></p></e>
@@ -715,7 +716,7 @@
 <e><p><l>memur<s n="n"/></l><r>xizmatchi<s n="n"/></r></p></e>
 <e><p><l>mesele<s n="n"/></l><r>masala<s n="n"/></r></p></e>
 <e><p><l>millet<s n="n"/></l><r>millat<s n="n"/></r></p></e>
-<e><p><l>mücadele<s n="n"/></l><r>kurash<s n="n"/></r></p></e>
+<e><p><l>savaş<s n="n"/></l><r>kurash<s n="n"/></r></p></e>
 <e><p><l>müthiş<s n="n"/></l><r>mudhish<s n="n"/></r></p></e>
 <e><p><l>nefes<s n="n"/></l><r>nafas<s n="n"/></r></p></e>
 <e><p><l>nefret<s n="n"/></l><r>nafrat<s n="n"/></r></p></e>
@@ -1391,6 +1392,7 @@
 <e><p><l>mozole<s n="n"/></l><r>maqbara<s n="n"/></r></p></e>
 <e><p><l>sıvı<s n="n"/></l><r>suyuq<s n="n"/></r></p></e>
 <e><p><l>çoğunluk<s n="n"/></l><r>koʻpchilik<s n="n"/></r></p></e>
+<e><p><l>büyük<s n="adj"/></l><r>koʻpchilik<s n="adj"/></r></p></e>
 <e><p><l>park<s n="n"/></l><r>park<s n="n"/></r></p></e>
 <e><p><l>akıbet<s n="n"/></l><r>oqibat<s n="n"/></r></p></e>
 <e><p><l>yük<s n="n"/></l><r>yuk<s n="n"/></r></p></e>
@@ -2526,9 +2528,8 @@
 <e><p><l>ilet<s n="v"/><s n="tv"/></l><r>topshir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>beze<s n="v"/><s n="tv"/></l><r>beza<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>azal<s n="v"/><s n="iv"/></l><r>kamaytiril<s n="v"/><s n="iv"/></r></p></e>
-
+<e><p><l>affet<s n="v"/><s n="tv"/></l><r>kechir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>geçir<s n="v"/><s n="tv"/></l><r>kechir<s n="v"/><s n="tv"/></r></p></e>
-<e><p><l>geçir<s n="v"/><s n="tv"/></l><r>affet<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>iç<s n="v"/><s n="tv"/></l><r>ich<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>uyuştur<s n="v"/><s n="tv"/></l><r>uyushtir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>sulandır<s n="v"/><s n="tv"/></l><r>suyultir<s n="v"/><s n="tv"/></r></p></e>
@@ -4613,6 +4614,7 @@
        <e><p><l>Netanyahu<s n="np"/><s n="cog"/><s n="mf"/></l><r>Netanyahu<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
        <e><p><l>kırk<s n="num"/></l><r>qirq<s n="num"/></r></p></e>
        <e><p><l>irade<s n="n"/></l><r>iroda<s n="n"/></r></p></e>
+       <e><p><l>mezhep<s n="n"/></l><r>mazhab<s n="n"/></r></p></e>
        <e><p><l>üzgünlük<s n="n"/></l><r>xafa<s n="n"/></r></p></e>
        <e><p><l>şükran<s n="n"/></l><r>shukrona<s n="n"/></r></p></e>
        <e><p><l>ceza<s n="n"/></l><r>jiza<s n="n"/></r></p></e>
