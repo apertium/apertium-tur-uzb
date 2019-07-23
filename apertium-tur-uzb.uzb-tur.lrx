@@ -27,6 +27,18 @@
 </rule>
 
 <rule>
+ <match lemma="nisbat" tags="n.*">
+<select lemma="oran" tags="n.*"/>
+</match>
+</rule>
+
+<rule>
+ <match lemma="turar-joy" tags="n.*">
+<select lemma="gayrımenkul" tags="n.*"/>
+</match>
+</rule>
+
+<rule>
     <match lemma="ham" tags="cnjcoo">
       <select lemma="da" tags="cnjcoo"/>
     </match>
