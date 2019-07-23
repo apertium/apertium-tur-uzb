@@ -76,12 +76,14 @@
 
      <sdef n="gen"      c="Genitive"/>
 
+    <sdef n="qst"    c="Question"/>
+
   </sdefs>
 
   <section id="main" type="standard">
   
    <e c="  0"><p><l>i<s n="cop"/></l><r>e<s n="cop"/></r></p></e>
-      
+   <e c="  0"><p><l>mı<s n="qst"/></l><r>mi<s n="qst"/></r></p></e>
   
       <!-- SECTION: Adjectives -->
       
