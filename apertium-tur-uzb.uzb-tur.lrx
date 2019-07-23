@@ -9,8 +9,8 @@
 <rule>
  <match lemma="koʻpchilik" tags="adj">
 <select lemma="büyük" tags="adj"/>
-<select lemma="qism" tags="n.*"/>
-</match>
+    </match>
+<match lemma="qism" tags="n.*"/>
 </rule> 
 
 <rule>
@@ -46,7 +46,6 @@
   </rule>
 
 <rule>
-
 <or>
     <match tags="n.*.acc"/>
     <match tags="adj.*.acc"/>
@@ -56,8 +55,8 @@
       <select lemma="affet" tags="v.*"/>
     </match>
   </rule>
-
 <rule>
+
 <or>
 <match lemma="gʻolib"/>
 </or>
