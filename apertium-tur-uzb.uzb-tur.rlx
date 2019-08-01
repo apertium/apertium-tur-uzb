@@ -206,6 +206,9 @@ SELECT Past IF (1 EOS) ;
 
 REMOVE V IF (1 FINITE) (2 EOS) ; 
 
+SELECT Ger_impf IF (-1 N) (1 N) ;
+#yer olgan tasvir
+
 
 
 REMOVE Attr IF (1C Cop);
