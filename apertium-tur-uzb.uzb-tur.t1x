@@ -471,7 +471,7 @@
     </rule>
 
 
-<rule comment="regla: ger_past (ketganlar → gidenler)">
+<rule comment="regla: ger_past (ketganlar → gitmişler)">
       <pattern>
         <pattern-item n="ger_past"/>
       </pattern>
@@ -479,6 +479,28 @@
 	<let>
           <clip pos="1" side="tl" part="a_tns"/>
 	<lit-tag v="ger_pabs"/>
+        </let>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+		<clip pos="1" side="tl" part="whole"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: ger_past (ketganlar → gidenler)">
+      <pattern>
+        <pattern-item n="ger_past"/>
+      </pattern>
+      <action>
+	<let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v="ger_impf"/>
         </let>
         <out>
         <chunk name="v" case="caseFirstWord">
