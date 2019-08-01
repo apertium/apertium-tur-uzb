@@ -91,6 +91,11 @@
       <cat-item tags="v.*.past"/>
     </def-cat>
 
+  <def-cat n="prog">
+      <cat-item tags="v.*.prog.*"/>
+      <cat-item tags="v.*.prog"/>
+    </def-cat>
+
    <def-cat n="aor">
       <cat-item tags="v.*.aor.*"/>
       <cat-item tags="v.*.aor"/>
@@ -162,6 +167,7 @@
       <attr-item tags="fut"/>
       <attr-item tags="fut_plan"/>
       <attr-item tags="past"/>
+      <attr-item tags="prog"/>
       <attr-item tags="ger_past"/>
       <attr-item tags="gpr_rsub"/>
       <attr-item tags="gpr_fut"/>
@@ -465,6 +471,37 @@
             </tags>
           <lu>
 		<clip pos="1" side="tl" part="whole"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: prog (ketgan → gitmiş)">
+      <pattern>
+        <pattern-item n="prog"/>
+      </pattern>
+      <action>
+	<let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v=""/>
+        </let>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+		<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="prog"/>
+	     <lit v="+i"/>
+	     <lit-tag v="cop.aor"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
           </lu>
    	 </chunk>
         </out>
