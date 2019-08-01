@@ -9,6 +9,22 @@
       <cat-item tags="np.*"/>
     </def-cat>
 
+
+  <def-cat n="qst_lemma">
+      <cat-item tags="n.*"/>
+      <cat-item tags="np.*"/>
+      <cat-item tags="adj"/>
+      <cat-item tags="adv"/>
+      <cat-item tags="adj.*"/>
+      <cat-item tags="adv.*"/>
+      <cat-item tags="v.*"/>
+      <cat-item tags="post.*"/>
+    </def-cat>
+
+  <def-cat n="qst">
+	<cat-item lemma="mi" tags="qst"/>
+    </def-cat>
+
     <def-cat n="lı">
 	<cat-item lemma="li" tags="post"/>
 	<cat-item lemma="li" tags="post.*"/>
@@ -725,6 +741,30 @@
 <b/>
 	<lu>
               <clip pos="2" side="tl" part="whole"/>
+	</lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: bor mi -> var mı"> <!-- to be refined -->
+      <pattern>
+        <pattern-item n="qst_lemma"/>
+        <pattern-item n="qst"/>
+      </pattern>
+      <action>
+
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag> 
+            </tags>
+		<lu>
+              <clip pos="1" side="tl" part="whole"/>
+ <lit v="+mı"/>
+	     <lit-tag v="qst"/>
+ <lit v="+i"/>
+	     <lit-tag v="cop.aor.p3.sg"/>
 	</lu>
           </chunk>
         </out>
