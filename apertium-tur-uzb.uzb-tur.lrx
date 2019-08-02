@@ -73,13 +73,21 @@
       <select lemma="affet" tags="v.*"/>
     </match>
   </rule>
-<rule>
 
+
+<rule>
 <or>
 <match lemma="gʻolib"/>
 </or>
     <match lemma="qil" tags="v.*">
       <select lemma="kıl" tags="v.*"/>
+    </match>
+  </rule>
+
+<rule>
+<match lemma="ort"/>
+    <match lemma="kuzat" tags="v.*">
+      <select lemma="gözle" tags="v.*"/>
     </match>
   </rule>
 
