@@ -51,6 +51,13 @@
   </rule>
 
 <rule>
+    <match lemma="ovqat" tags="n.*">
+      <select lemma="yemek" tags="n.*"/>
+    </match>
+  </rule>
+
+
+<rule>
     <match lemma="qadam qo‘y" tags="v.*">
       <select lemma="adım at" tags="v.*"/>
     </match>
