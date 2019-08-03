@@ -9,22 +9,6 @@
       <cat-item tags="np.*"/>
     </def-cat>
 
-
-  <def-cat n="qst_lemma">
-      <cat-item tags="n.*"/>
-      <cat-item tags="np.*"/>
-      <cat-item tags="adj"/>
-      <cat-item tags="adv"/>
-      <cat-item tags="adj.*"/>
-      <cat-item tags="adv.*"/>
-      <cat-item tags="v.*"/>
-      <cat-item tags="post.*"/>
-    </def-cat>
-
-  <def-cat n="qst">
-	<cat-item lemma="mi" tags="qst"/>
-    </def-cat>
-
     <def-cat n="lı">
 	<cat-item lemma="li" tags="post"/>
 	<cat-item lemma="li" tags="post.*"/>
@@ -38,6 +22,28 @@
   <def-cat n="sız">
 	<cat-item lemma="siz" tags="post"/>
 	<cat-item lemma="siz" tags="post.*"/>
+    </def-cat>
+
+
+  <def-cat n="clit_lemma">
+      <cat-item tags="n.*"/>
+      <cat-item tags="np.*"/>
+      <cat-item tags="adj"/>
+      <cat-item tags="adv"/>
+      <cat-item tags="adj.*"/>
+      <cat-item tags="adv.*"/>
+      <cat-item tags="v.iv.*"/>
+      <cat-item tags="v.tv.*"/>
+      <cat-item tags="post.*"/>
+    </def-cat>
+
+
+  <def-cat n="qst">
+	<cat-item lemma="mi" tags="qst"/>
+    </def-cat>
+
+  <def-cat n="ki">
+	<cat-item lemma="ki" tags="cnjadv"/>
     </def-cat>
 
  <def-cat n="noun-dir">
@@ -95,7 +101,6 @@
     <def-cat n="uchun">
       <cat-item lemma="uchun" tags="post"/>
     </def-cat>
-
 
 
   <def-cat n="gna_when">
@@ -212,6 +217,10 @@
 
   <def-attr n="a_dub">
       <attr-item tags="dub"/>
+    </def-attr>
+
+  <def-attr n="a_ki">
+      <attr-item tags="cnjadv"/>
     </def-attr>
 
 
@@ -823,7 +832,7 @@
 
 <rule comment="REGLA: bor mi -> var mı"> <!-- to be refined -->
       <pattern>
-        <pattern-item n="qst_lemma"/>
+        <pattern-item n="clit_lemma"/>
         <pattern-item n="qst"/>
       </pattern>
       <action>
@@ -844,6 +853,31 @@
         </out>
       </action>
     </rule>
+
+<rule comment="REGLA: x-ki -> x ki"> 
+      <pattern>
+        <pattern-item n="ki"/>
+      </pattern>
+      <action>
+ 	<let>
+          <clip pos="1" side="tl" part="whole"/>
+	<lit-tag v=""/>
+        </let>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag> 
+            </tags>
+		<lu>
+         
+ <lit v="ki"/>
+	     <lit-tag v="cnjadv"/>
+	</lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
 
 <!--rules for statistical training
 <rule comment="REGLA: n+post -> n.nom+post">
