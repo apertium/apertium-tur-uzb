@@ -4456,6 +4456,7 @@
        <e><p><l>faydalan<s n="v"/><s n="iv"/></l><r>foydalan<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>yat<s n="v"/><s n="iv"/></l><r>yot<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>dön<s n="v"/><s n="iv"/></l><r>qayt<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>değ<s n="v"/><s n="iv"/></l><r>tek<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>onar<s n="v"/><s n="tv"/></l><r>taʼmirla<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>oku<s n="v"/><s n="tv"/></l><r>oʻqi<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ettir<s n="v"/><s n="tv"/></l><r>ettir<s n="v"/><s n="tv"/></r></p></e>
@@ -4587,8 +4588,8 @@
        <e><p><l>takip<b/>et<s n="v"/><s n="tv"/></l><r>ergash<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>kıl<s n="v"/><s n="tv"/></l><r>qilish<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>söyle<s n="v"/><s n="tv"/></l><r>gapir<s n="v"/><s n="tv"/></r></p></e>
-
-   <e><p><l>üzgün<s n="adj"/></l><r>xafa<s n="adj"/></r></p></e>
+       <e><p><l>san<s n="v"/><s n="tv"/></l><r>oʻyla<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>üzgün<s n="adj"/></l><r>xafa<s n="adj"/></r></p></e>
        <e><p><l>biricik<s n="adj"/></l><r>birgina<s n="adj"/></r></p></e>
        <e><p><l>faş<s n="adj"/></l><r>fosh<s n="adj"/></r></p></e>
        <e><p><l>sevgili<s n="adj"/></l><r>sevikli<s n="adj"/></r></p></e>
@@ -4664,6 +4665,7 @@
        <e><p><l>Hanefi<s n="n"/></l><r>Hanafiya<s n="n"/></r></p></e>
        <e><p><l>yabancı<s n="n"/></l><r>xorijlik<s n="n"/></r></p></e>
        <e><p><l>artış<s n="n"/></l><r>ortish<s n="n"/></r></p></e>
+       <e><p><l>deve<s n="n"/></l><r>tuya<s n="n"/></r></p></e>
        <e><p><l>gerginlik<s n="n"/></l><r>keskinlik<s n="n"/></r></p></e>
        <e><p><l>gayrımenkul<s n="n"/></l><r>turar-joy<s n="n"/></r></p></e>
        <e><p><l>gayrımenkul<s n="n"/></l><r>turar<b/>joy<s n="n"/></r></p></e>
@@ -4683,6 +4685,7 @@
        <e><p><l>dirilt<s n="v"/><s n="tv"/></l><r>tirilt<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>yakınlaş<s n="v"/><s n="iv"/></l><r>yaqinlash<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>adım<b/>at<s n="v"/><s n="iv"/></l><r>qadam<b/>qo‘y<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>yardım<b/>et<s n="v"/><s n="iv"/></l><r>yordam<b/>ber<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>koy<s n="v"/><s n="tv"/></l><r>qo‘y<s n="v"/><s n="tv"/></r></p></e>
    </section>
    
