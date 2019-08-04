@@ -124,6 +124,8 @@
    <def-cat n="past">
       <cat-item tags="v.*.past.*"/>
       <cat-item tags="v.*.past"/>
+      <cat-item tags="v.*.past.evid"/>
+      <cat-item tags="v.*.past.evid.*"/>
     </def-cat>
 
   <def-cat n="prog">
@@ -199,6 +201,7 @@
       <attr-item tags="prog2"/>
       <attr-item tags="aorp"/>
       <attr-item tags="ifi"/>
+      <attr-item tags="evid"/>
       <attr-item tags="fut"/>
       <attr-item tags="fut_plan"/>
       <attr-item tags="past"/>
@@ -266,6 +269,10 @@
 
     <def-attr n="a_cmp">
       <attr-item tags="comp"/>
+    </def-attr>
+
+<def-attr n="a_evid">
+      <attr-item tags="evid"/>
     </def-attr>
 
     <def-attr n="a_kadar">
@@ -469,7 +476,7 @@
       <action>
 	<let>
           <clip pos="1" side="tl" part="a_tns"/>
-	<lit-tag v=""/>
+	<lit-tag v="evid"/>
         </let>
         <out>
         <chunk name="v" case="caseFirstWord">
@@ -844,15 +851,17 @@
             </tags>
 		<lu>
               <clip pos="1" side="tl" part="whole"/>
- <lit v="+mı"/>
+ 	<lit v="+mı"/>
 	     <lit-tag v="qst"/>
- <lit v="+i"/>
+ 	<lit v="+i"/>
 	     <lit-tag v="cop.aor.p3.sg"/>
 	</lu>
           </chunk>
         </out>
       </action>
     </rule>
+
+
 
 <rule comment="REGLA: x-ki -> x ki"> 
       <pattern>
@@ -869,8 +878,7 @@
               <tag><lit-tag v="SN"/></tag> 
             </tags>
 		<lu>
-         
- <lit v="ki"/>
+ 	<lit v="ki"/>
 	     <lit-tag v="cnjadv"/>
 	</lu>
           </chunk>
