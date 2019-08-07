@@ -392,6 +392,7 @@
     <e><p><l>mektup<s n="n"/></l><r>maktub<s n="n"/></r></p></e> 
     <e><p><l>ilçe<s n="n"/></l><r>tuman<s n="n"/></r></p></e> 
     <e><p><l>matbaa<s n="n"/></l><r>matbuot<s n="n"/></r></p></e>
+    <e><p><l>terörist<s n="n"/></l><r>terrorist<s n="n"/></r></p></e> 
     <e><p><l>terör<s n="n"/></l><r>terror<s n="n"/></r></p></e> 
     <e><p><l>toplum<s n="n"/></l><r>hamjamiyat<s n="n"/></r></p></e> 
     <e><p><l>cemiyet<s n="n"/></l><r>hamjamiyat<s n="n"/></r></p></e> 
@@ -4689,6 +4690,9 @@
        <e><p><l>adım<b/>at<s n="v"/><s n="iv"/></l><r>qadam<b/>qo‘y<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>yardım<b/>et<s n="v"/><s n="iv"/></l><r>yordam<b/>ber<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>koy<s n="v"/><s n="tv"/></l><r>qo‘y<s n="v"/><s n="tv"/></r></p></e>
+
+
+       <e><p><l>PKK<s n="np"/><s n="org"/></l><r>PKK<s n="np"/><s n="org"/></r></p></e>
    </section>
    
    </dictionary>
