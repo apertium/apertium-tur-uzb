@@ -51,6 +51,14 @@
 	<cat-item lemma="nafar" tags="n.*"/>
     </def-cat>
 
+
+ <def-cat n="emas">
+	<cat-item lemma="emas" tags="adj.*"/>
+	<cat-item lemma="emas" tags="adj"/>
+	<cat-item lemma="e" tags="cop.neg.gpr_fut"/>
+	<cat-item lemma="e" tags="v.*.neg.gpr_fut"/>
+    </def-cat>
+
  <def-cat n="noun-dir">
       <cat-item tags="n.*"/>
     <cat-item tags="adj.*"/>
@@ -74,6 +82,7 @@
 
   <def-cat n="gpr_fut_plan">
       <cat-item tags="v.*.gpr_fut_plan"/>
+      <cat-item tags="v.*.gpr_fut_plan.*"/>
     </def-cat>
 
     <def-cat n="ref">
@@ -619,6 +628,38 @@
       </action>
     </rule>
 
+
+<rule comment="regla: fut_plan neg(ketmoqchi emes → gitmecek)">
+      <pattern>
+        <pattern-item n="gpr_fut_plan"/>
+        <pattern-item n="emas"/>      
+</pattern>
+      <action>
+	<let>
+          <clip pos="2" side="tl" part="whole"/>
+	<lit-tag v=""/>
+        </let>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+	     <lit-tag v="neg.fut"/>
+	     <lit v="+i"/>
+	     <lit-tag v="cop.aor.p3.sg"/>
+	  
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
 <rule comment="regla: fut_plan (ajralmoqchiman → ayrılacağım)">
       <pattern>
         <pattern-item n="fut_plan"/>
@@ -672,6 +713,8 @@
         </out>
       </action>
     </rule>
+
+
 
 <rule comment="regla: aor (keladi → gelir)">
       <pattern>
