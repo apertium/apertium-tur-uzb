@@ -38,12 +38,17 @@
     </def-cat>
 
 
+
   <def-cat n="qst">
 	<cat-item lemma="mi" tags="qst"/>
     </def-cat>
 
   <def-cat n="ki">
 	<cat-item lemma="ki" tags="cnjadv"/>
+    </def-cat>
+
+ <def-cat n="nafar">
+	<cat-item lemma="nafar" tags="n.*"/>
     </def-cat>
 
  <def-cat n="noun-dir">
@@ -880,6 +885,34 @@
 		<lu>
  	<lit v="ki"/>
 	     <lit-tag v="cnjadv"/>
+	</lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: 14 nefer x  -> 14 x">
+      <pattern>
+        <pattern-item n="num"/>
+        <pattern-item n="nafar"/>
+        <pattern-item n="noun"/>
+      </pattern>
+      <action>
+ <let>
+          <clip pos="2" side="tl" part="whole"/>
+	<lit-tag v=""/>
+        </let>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag> 
+            </tags>
+		<lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+<b/>
+	<lu>
+              <clip pos="3" side="tl" part="whole"/>
 	</lu>
           </chunk>
         </out>
