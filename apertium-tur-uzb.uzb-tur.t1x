@@ -24,6 +24,9 @@
 	<cat-item lemma="siz" tags="post.*"/>
     </def-cat>
 
+  <def-cat n="foiz">
+	<cat-item lemma="foiz" tags="n.*"/>
+    </def-cat>
 
   <def-cat n="clit_lemma">
       <cat-item tags="n.*"/>
@@ -962,6 +965,38 @@
       </action>
     </rule>
 
+
+<rule comment="regla: foiz (9 foiz  → yüzde 9)">
+      <pattern>
+        <pattern-item n="num"/>
+        <pattern-item n="foiz"/>
+      </pattern>
+      <action>
+<let>
+          <clip pos="1" side="tl" part="a_subst"/>
+	<lit-tag v=""/>
+        </let>
+        <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+	<clip pos="2" side="tl" part="lem"/>
+     <lit-tag v="n"/>
+ 	<clip pos="2" side="tl" part="a_pos"/>
+ 	<clip pos="2" side="tl" part="a_cas"/>
+
+            </lu>
+<b/>
+	<lu>
+	<clip pos="1" side="tl" part="lem"/>
+              <lit-tag v="num"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
 
 <!--rules for statistical training
 <rule comment="REGLA: n+post -> n.nom+post">
