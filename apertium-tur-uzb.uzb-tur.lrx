@@ -13,6 +13,14 @@
 <match lemma="qism" tags="n.*"/>
 </rule> 
 
+
+<rule>
+ <match lemma="bal" tags="n.*">
+<select lemma="oy" tags="n.*"/>
+    </match>
+<match tags="num"/>
+</rule> 
+
 <rule>
  <match lemma="u" tags="prn.*">
 <select lemma="o" tags="prn.*"/>
