@@ -4690,9 +4690,10 @@
        <e><p><l>adım<b/>at<s n="v"/><s n="iv"/></l><r>qadam<b/>qo‘y<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>yardım<b/>et<s n="v"/><s n="iv"/></l><r>yordam<b/>ber<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>koy<s n="v"/><s n="tv"/></l><r>qo‘y<s n="v"/><s n="tv"/></r></p></e>
-
-
+       <e><p><l>oy<s n="n"/></l><r>bal<s n="n"/></r></p></e>
+       <e><p><l>yüzde<s n="n"/></l><r>foiz<s n="n"/></r></p></e>
        <e><p><l>PKK<s n="np"/><s n="org"/></l><r>PKK<s n="np"/><s n="org"/></r></p></e>
+       <e><p><l>AKP<s n="np"/><s n="org"/></l><r>AKP<s n="np"/><s n="org"/></r></p></e>
    </section>
    
    </dictionary>
