@@ -92,6 +92,16 @@
 
 <rule>
 <or>
+    <match tags="prn.*"/>
+    <match tags="adv.*"/>
+</or>
+    <match lemma="qil" tags="v.*">
+      <select lemma="yap" tags="v.*"/>
+    </match>
+  </rule>
+
+<rule>
+<or>
 <match lemma="gʻolib"/>
 </or>
     <match lemma="qil" tags="v.*">
