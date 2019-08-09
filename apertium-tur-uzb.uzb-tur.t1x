@@ -28,6 +28,12 @@
 	<cat-item lemma="foiz" tags="n.*"/>
     </def-cat>
 
+ <def-cat n="kerak">
+	<cat-item lemma="kerak" tags="adj"/>
+	<cat-item lemma="kerak" tags="adj.*"/>
+	<cat-item lemma="kerak" tags="n.*"/>
+    </def-cat>
+
   <def-cat n="clit_lemma">
       <cat-item tags="n.*"/>
       <cat-item tags="np.*"/>
@@ -93,6 +99,11 @@
       <cat-item tags="v.*.ref"/>
     </def-cat>
 
+ <def-cat n="cond">
+      <cat-item tags="v.*.cond.*"/>
+      <cat-item tags="v.*.cond"/>
+    </def-cat>
+
     <def-cat n="num">
       <cat-item tags="num.*"/>
       <cat-item tags="num"/>
@@ -137,6 +148,13 @@
       <cat-item tags="v.*.gpr_rsub"/>
     </def-cat>
 
+<def-cat n="ger_abst_poss">
+      <cat-item tags="v.*.ger_abst.*"/>
+    </def-cat>
+
+<def-cat n="ger_abst_nom">
+      <cat-item tags="v.*.ger_abst.nom"/>
+    </def-cat>
 
    <def-cat n="past">
       <cat-item tags="v.*.past.*"/>
@@ -212,6 +230,7 @@
     </def-attr>
 
     <def-attr n="a_tns">
+      <attr-item tags="cond"/>
       <attr-item tags="aor"/>
       <attr-item tags="aor2"/>
       <attr-item tags="prog"/>
@@ -223,6 +242,7 @@
       <attr-item tags="fut_plan"/>
       <attr-item tags="past"/>
       <attr-item tags="prog"/>
+      <attr-item tags="ger_abst"/>
       <attr-item tags="ger_past"/>
       <attr-item tags="gpr_rsub"/>
       <attr-item tags="gpr_fut"/>
@@ -984,8 +1004,6 @@
           <lu>
 	<clip pos="2" side="tl" part="lem"/>
      <lit-tag v="n.nom"/>
-
-
             </lu>
 <b/>
 	<lu>
@@ -993,6 +1011,83 @@
               <lit-tag v="num.subst"/>
  	<clip pos="2" side="tl" part="a_pos"/>
  	<clip pos="2" side="tl" part="a_cas"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: gereklilik1 (  ketiş kerak → gitmek gerek)">
+      <pattern>
+        <pattern-item n="ger_abst_nom"/>
+      </pattern>
+      <action>
+<let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v="ger_inf"/>
+        </let>
+        <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="whole"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: gereklilik1 (  ketişim kerak → gitmem gerek)">
+      <pattern>
+        <pattern-item n="ger_abst_poss"/>
+      </pattern>
+      <action>
+<let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v="ger"/>
+        </let>
+        <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="whole"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+<rule comment="regla: gereklilik2 (  ketsam kerak → gitmem gerek)">
+      <pattern>
+        <pattern-item n="cond"/>
+        <pattern-item n="kerak"/>
+      </pattern>
+      <action>
+<let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v=""/>
+        </let>
+        <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="lem"/>
+<lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="nec"/>
+	     <lit v="+i"/>
+	     <lit-tag v="cop.aor"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
           </lu>
    	 </chunk>
         </out>
