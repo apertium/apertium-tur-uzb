@@ -406,6 +406,7 @@
 <e><p><l>gün<s n="n"/></l><r>kun<s n="n"/></r></p></e>
 <e><p><l>iş<s n="n"/></l><r>ish<s n="n"/></r></p></e>
 <e><p><l>şey<s n="n"/></l><r>narsa<s n="n"/></r></p></e>
+<e><p><l>vakit<s n="n"/></l><r>vaqt<s n="n"/></r></p></e>
 <e><p><l>zaman<s n="n"/></l><r>vaqt<s n="n"/></r></p></e>
 <e><p><l>zaman<s n="n"/></l><r>time<s n="n"/></r></p></e>
 <e><p><l>çocuk<s n="n"/></l><r>bola<s n="n"/></r></p></e>
@@ -1460,8 +1461,6 @@
 <e><p><l>gün<s n="n"/></l><r>kun<s n="n"/></r></p></e>
 <e><p><l>iş<s n="n"/></l><r>ish<s n="n"/></r></p></e>
 <e><p><l>şey<s n="n"/></l><r>narsa<s n="n"/></r></p></e>
-<e><p><l>zaman<s n="n"/></l><r>vaqt<s n="n"/></r></p></e>
-<e><p><l>zaman<s n="n"/></l><r>time<s n="n"/></r></p></e>
 <e><p><l>çocuk<s n="n"/></l><r>bola<s n="n"/></r></p></e>
 <e><p><l>yol<s n="n"/></l><r>yoʻl<s n="n"/></r></p></e>
 <e><p><l>konu<s n="n"/></l><r>mavzu<s n="n"/></r></p></e>
