@@ -150,10 +150,12 @@
 
 <def-cat n="ger_abst_poss">
       <cat-item tags="v.*.ger_abst.*"/>
+      <cat-item tags="v.*.ger_inf.*"/>
     </def-cat>
 
 <def-cat n="ger_abst_nom">
       <cat-item tags="v.*.ger_abst.nom"/>
+      <cat-item tags="v.*.ger_inf.nom"/>
     </def-cat>
 
    <def-cat n="past">
