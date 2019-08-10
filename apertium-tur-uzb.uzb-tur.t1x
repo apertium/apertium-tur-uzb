@@ -797,7 +797,7 @@
  	     <clip pos="1" side="tl" part="a_pass"/>
  	     <clip pos="1" side="tl" part="a_abil"/>
  	     <clip pos="1" side="tl" part="a_neg"/>
-	     <lit-tag v="prog_inf"/>
+	     <lit-tag v="ger_inf.loc"/>
 	     <lit v="+i"/>
 	     <lit-tag v="cop.aor"/>
 	     <clip pos="1" side="tl" part="a_pers_nbr"/>
