@@ -60,7 +60,6 @@
 	<cat-item lemma="nafar" tags="n.*"/>
     </def-cat>
 
-
  <def-cat n="emas">
 	<cat-item lemma="emas" tags="adj.*"/>
 	<cat-item lemma="emas" tags="adj"/>
@@ -1056,6 +1055,7 @@
 <rule comment="regla: gereklilik1 (  ketiş kerak → gitmek gerek)">
       <pattern>
         <pattern-item n="ger_abst_nom"/>
+        <pattern-item n="kerak"/>
       </pattern>
       <action>
 <let>
@@ -1069,6 +1069,10 @@
             </tags>
           <lu>
 	<clip pos="1" side="tl" part="whole"/>
+ </lu>
+<b/>
+<lu>
+	<clip pos="2" side="tl" part="whole"/>
           </lu>
    	 </chunk>
         </out>
@@ -1078,6 +1082,7 @@
 <rule comment="regla: gereklilik1 (  ketişim kerak → gitmem gerek)">
       <pattern>
         <pattern-item n="ger_abst_poss"/>
+        <pattern-item n="kerak"/>
       </pattern>
       <action>
 <let>
@@ -1091,6 +1096,10 @@
             </tags>
           <lu>
 	<clip pos="1" side="tl" part="whole"/>
+</lu>
+<b/>
+<lu>
+	<clip pos="2" side="tl" part="whole"/>
           </lu>
    	 </chunk>
         </out>
@@ -1124,6 +1133,34 @@
 	     <lit v="+i"/>
 	     <lit-tag v="cop.aor"/>
 	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+<rule comment="regla: gerund için (  qilish için → etmek için)">
+      <pattern>
+        <pattern-item n="ger_abst_nom"/>
+        <pattern-item n="uchun"/>
+      </pattern>
+      <action>
+<let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v="ger_inf"/>
+        </let>
+        <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="whole"/>
+</lu>
+<b/>
+<lu>
+	<clip pos="2" side="tl" part="whole"/>
           </lu>
    	 </chunk>
         </out>
