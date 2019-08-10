@@ -150,6 +150,7 @@
 
 <def-cat n="prog_inf">
       <cat-item tags="v.*.prog_inf.*"/>
+      <cat-item tags="v.*.prog_fut.*"/>
     </def-cat>
 
 <def-cat n="ger_abst_poss">
