@@ -148,6 +148,10 @@
       <cat-item tags="v.*.gpr_rsub"/>
     </def-cat>
 
+<def-cat n="prog_inf">
+      <cat-item tags="v.*.prog_inf.*"/>
+    </def-cat>
+
 <def-cat n="ger_abst_poss">
       <cat-item tags="v.*.ger_abst.*"/>
       <cat-item tags="v.*.ger_inf.*"/>
@@ -772,6 +776,35 @@
       </action>
     </rule>
 
+
+
+<rule comment="regla: prog_inf (ketmoqdaman → gitmekteyim)">
+      <pattern>
+        <pattern-item n="prog_inf"/>
+      </pattern>
+      <action>
+
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="prog_inf"/>
+	     <lit v="+i"/>
+	     <lit-tag v="cop.aor"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
 
 <rule comment="regla: ref->pass (qilindi → yapıldı)">
       <pattern>
