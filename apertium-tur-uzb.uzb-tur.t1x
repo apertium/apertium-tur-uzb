@@ -167,6 +167,8 @@
       <cat-item tags="v.*.past"/>
       <cat-item tags="v.*.past.evid"/>
       <cat-item tags="v.*.past.evid.*"/>
+   <cat-item tags="v.*.past.evid.ifi"/>
+      <cat-item tags="v.*.past.evid.ifi.*"/>
     </def-cat>
 
   <def-cat n="prog">
