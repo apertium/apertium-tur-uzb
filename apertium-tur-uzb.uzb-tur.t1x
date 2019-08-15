@@ -129,6 +129,10 @@
       <cat-item lemma="uchun" tags="post"/>
     </def-cat>
 
+<def-cat n="sari">
+      <cat-item lemma="sari" tags="post"/>
+    </def-cat>
+
 
   <def-cat n="gna_when">
       <cat-item tags="v.*.ger_past.loc"/>
@@ -143,6 +147,15 @@
 
 
   <def-cat n="gpr_rsub">
+      <cat-item tags="v.*.gpr_rsub.*"/>
+      <cat-item tags="v.*.gpr_rsub"/>
+    </def-cat>
+
+
+
+  <def-cat n="ger_past-rsub">
+      <cat-item tags="v.*.ger_past.*"/>
+      <cat-item tags="v.*.ger_past"/>
       <cat-item tags="v.*.gpr_rsub.*"/>
       <cat-item tags="v.*.gpr_rsub"/>
     </def-cat>
@@ -167,7 +180,7 @@
       <cat-item tags="v.*.past"/>
       <cat-item tags="v.*.past.evid"/>
       <cat-item tags="v.*.past.evid.*"/>
-   <cat-item tags="v.*.evid"/>
+      <cat-item tags="v.*.evid"/>
       <cat-item tags="v.*.evid.*"/>
     </def-cat>
 
@@ -1163,6 +1176,37 @@
 <b/>
 <lu>
 	<clip pos="2" side="tl" part="whole"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: -gan sari ( o'tgan sari → geçtikçe)">
+      <pattern>
+        <pattern-item n="ger_past-rsub"/>
+        <pattern-item n="sari"/>
+      </pattern>
+      <action>
+<let>
+          <clip pos="1" side="tl" part="a_tns"/>
+	<lit-tag v=""/>
+        </let>
+        <out>
+        <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="lem"/>
+<lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="gpr_past.subst.sim"/>
+	     <lit v="+i"/>
+	     <lit-tag v="cop.aor.p3.sg"/>
           </lu>
    	 </chunk>
         </out>
