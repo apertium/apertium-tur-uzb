@@ -2691,7 +2691,7 @@
     <e><p><l>al<s n="v"/><s n="tv"/></l><r>ol<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>bitir<s n="v"/><s n="tv"/></l><r>tugat<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>koy<s n="v"/><s n="tv"/></l><r>qoʻy<s n="v"/><s n="tv"/></r></p></e>
-    <e><p><l>başla<s n="v"/><s n="tv"/></l><r>boshlan<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>başla<s n="v"/><s n="tv"/></l><r>boshla<s n="v"/><s n="tv"/></r></p></e>
 
 
 
@@ -4406,7 +4406,7 @@
        <e><p><l>sarı<s n="adj"/></l><r>sari<s n="adj"/></r></p></e>
        <e><p><l>aylık<s n="adj"/></l><r>oylik<s n="adj"/></r></p></e>
        <e><p><l>otomatik<s n="adj"/></l><r>avtomatik<s n="adj"/></r></p></e>
-       <e><p><l>ılımlı<s n="adj"/></l><r>moʻʼtadil<s n="adj"/></r></p></e>
+       <e><p><l>ılımlı<s n="adj"/></l><r>moʻtadil<s n="adj"/></r></p></e>
        <e><p><l>kolay<s n="adj"/></l><r>oson<s n="adj"/></r></p></e>
        <e><p><l>mutlak<s n="adj"/></l><r>mutlaq<s n="adj"/></r></p></e>
        <e><p><l>kararlı<s n="adj"/></l><r>barqaror<s n="adj"/></r></p></e>
@@ -4696,6 +4696,7 @@
        <e><p><l>yakınlaş<s n="v"/><s n="iv"/></l><r>yaqinlash<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>adım<b/>at<s n="v"/><s n="iv"/></l><r>qadam<b/>qo‘y<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>yardım<b/>et<s n="v"/><s n="iv"/></l><r>yordam<b/>ber<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>çevir<s n="v"/><s n="tv"/></l><r>qayir<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>koy<s n="v"/><s n="tv"/></l><r>qo‘y<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>oy<s n="n"/></l><r>bal<s n="n"/></r></p></e>
        <e><p><l>yüzde<s n="n"/></l><r>foiz<s n="n"/></r></p></e>
