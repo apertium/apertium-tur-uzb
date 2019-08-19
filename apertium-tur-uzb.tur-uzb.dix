@@ -2399,6 +2399,9 @@
     
     <!-- SECTION: Pronouns -->
 
+       <e><p><l>kendi<s n="prn"/><s n="ref"/></l><r>oʻz<s n="prn"/><s n="ref"/></r></p></e>
+
+
 	<e c="  0"><p><l>ben<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/></l><r>men<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/></r></p></e>
 	<e c="  0"><p><l>sen<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/></l><r>sen<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/></r></p></e>
 	<e c="  0"><p><l>o<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/></l><r>u<s n="prn"/><s n="pers"/><s n="p3"/><s n="sg"/></r></p></e>
@@ -3897,6 +3900,7 @@
        <e><p><l>belediye<s n="n"/></l><r>munisipalitet<s n="n"/></r></p></e>
        <e><p><l>petrol<s n="n"/></l><r>neft<s n="n"/></r></p></e>
        <e><p><l>öz<s n="n"/></l><r>oʻz<s n="n"/></r></p></e>
+
        <e><p><l>hem<b/>de<s n="cnjcoo"/></l><r>hamda<s n="cnjcoo"/></r></p></e>
        <e><p><l>Lombardia<s n="np"/><s n="top"/></l><r>Lombardia<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>Penisilvanya<s n="np"/><s n="top"/></l><r>Pennsylvania<s n="np"/><s n="top"/></r></p></e>
