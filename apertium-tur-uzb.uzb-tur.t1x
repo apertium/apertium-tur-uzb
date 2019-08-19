@@ -9,6 +9,10 @@
       <cat-item tags="np.*"/>
     </def-cat>
 
+<def-cat n="abbr">
+      <cat-item tags="abbr.nom"/>
+    </def-cat>
+
     <def-cat n="lı">
 	<cat-item lemma="li" tags="post"/>
 	<cat-item lemma="li" tags="post.*"/>
@@ -1188,7 +1192,7 @@
         <pattern-item n="sari"/>
       </pattern>
       <action>
-<let>
+	<let>
           <clip pos="1" side="tl" part="a_tns"/>
 	<lit-tag v=""/>
         </let>
@@ -1199,7 +1203,7 @@
             </tags>
           <lu>
 	<clip pos="1" side="tl" part="lem"/>
-<lit-tag v="v"/>
+	<lit-tag v="v"/>
              <clip pos="1" side="tl" part="a_tra"/>
  	     <clip pos="1" side="tl" part="a_pass"/>
  	     <clip pos="1" side="tl" part="a_abil"/>
@@ -1209,6 +1213,25 @@
 	     <lit-tag v="cop.aor.p3.sg"/>
           </lu>
    	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="REGLA: n+post -> n.nom+post">
+      <pattern>
+        <pattern-item n="abbr"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag> 
+            </tags>
+		<lu>
+              <clip pos="1" side="tl" part="lem"/>
+	     <lit-tag v="abbr"/>
+            </lu>
+          </chunk>
         </out>
       </action>
     </rule>
