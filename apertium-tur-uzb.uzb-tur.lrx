@@ -59,6 +59,12 @@
   </rule>
 
 <rule>
+    <match lemma="boʻl" tags="v.*">
+      <select lemma="ol" tags="v.*"/>
+    </match>
+  </rule>
+
+<rule>
     <match lemma="ovqat" tags="n.*">
       <select lemma="yemek" tags="n.*"/>
     </match>
