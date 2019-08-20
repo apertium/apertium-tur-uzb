@@ -46,7 +46,8 @@
      <sdef n="acr"       c="Acronym"/>
      <sdef n="al"        c="Other"/>
 
-    
+    <sdef n="nom"    c="nominative"/>    
+
     <sdef n="det"    c="determinative"/>
     <sdef n="ind"    c="indeterminate"/>
     <sdef n="dem"    c="demonstrative"/>
@@ -3882,7 +3883,7 @@
        <e><p><l>John<s n="np"/><s n="ant"/><s n="m"/></l><r>John<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>Ebu<s n="np"/><s n="ant"/><s n="m"/></l><r>Abu<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 
-       <e><p><l>işbu<s n="det"/><s n="dem"/></l><r>ushbu<s n="prn"/><s n="dem"/></r></p></e>
+       <e><p><l>işbu<s n="det"/><s n="dem"/></l><r>ushbu<s n="prn"/><s n="dem"/><s n="nom"/></r></p></e>
        <e><p><l>derece<s n="n"/></l><r>temperatura<s n="n"/></r></p></e>
        <e><p><l>müze<s n="n"/></l><r>muze<s n="n"/></r></p></e>
        <e><p><l>dağ<s n="n"/></l><r>dag<s n="n"/></r></p></e>
