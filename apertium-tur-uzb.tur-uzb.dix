@@ -2273,7 +2273,7 @@
 <e><p><l>Harezm<s n="np"/><s n="top"/></l><r>Xorazm<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Sibirya<s n="np"/><s n="top"/></l><r>Sibir<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Kafkasya<s n="np"/><s n="top"/></l><r>Kavkaz<s n="np"/><s n="top"/></r></p></e>
-<e><p><l>Brazilya<s n="np"/><s n="top"/></l><r>Braziliya<s n="np"/><s n="top"/></r></p></e>
+<e><p><l>Brezilya<s n="np"/><s n="top"/></l><r>Braziliya<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Maveraünnehir<s n="np"/><s n="top"/></l><r>Movarounnahr<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Polonya<s n="np"/><s n="top"/></l><r>Polsha<s n="np"/><s n="top"/></r></p></e>
 <e><p><l>Pakistan<s n="np"/><s n="top"/></l><r>Pokiston<s n="np"/><s n="top"/></r></p></e>
@@ -2985,10 +2985,7 @@
     <e><p><l>sivri<s n="adj"/></l><r>oʻtkir<s n="adj"/></r></p></e>
     <e><p><l>yaman<s n="adj"/></l><r>oʻtkir<s n="adj"/></r></p></e>
     <e><p><l>süvari<s n="adj"/></l><r>otliq<s n="adj"/></r></p></e>
-    <e><p><l>nihaî<s n="adj"/></l><r>oxirgi<s n="adj"/></r></p></e>
     <e><p><l>son<s n="adj"/></l><r>oxirgi<s n="adj"/></r></p></e>
-    <e><p><l>sonraki<s n="adj"/></l><r>oxirgi<s n="adj"/></r></p></e>
-    <e><p><l>uçtaki<s n="adj"/></l><r>oxirgi<s n="adj"/></r></p></e>
     <e><p><l>benzer<s n="adj"/></l><r>oʻxshash<s n="adj"/></r></p></e>
     <e><p><l>benzeyen<s n="adj"/></l><r>oʻxshash<s n="adj"/></r></p></e>
     <e><p><l>örnek<s n="adj"/></l><r>oʻxshash<s n="adj"/></r></p></e>
@@ -4069,7 +4066,7 @@
        <e><p><l>SSCB<s n="np"/><s n="top"/></l><r>SSSR<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>Dakota<s n="np"/><s n="top"/></l><r>Dakota<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>Hiva<s n="np"/><s n="top"/></l><r>Xiva<s n="np"/><s n="top"/></r></p></e>
-       <e><p><l>Katalunya<s n="np"/><s n="top"/></l><r>Kataloniya<s n="np"/><s n="top"/></r></p></e>
+       <e><p><l>Katalonya<s n="np"/><s n="top"/></l><r>Kataloniya<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>Endülüs<s n="np"/><s n="top"/></l><r>Andalusiya<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>Bad<s n="np"/><s n="top"/></l><r>Bad<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>Tennessee<s n="np"/><s n="top"/></l><r>Tennessee<s n="np"/><s n="top"/></r></p></e>
@@ -4553,6 +4550,7 @@
        <e><p><l>sadık<s n="adj"/></l><r>sodiq<s n="adj"/></r></p></e>
        <e><p><l>layık<s n="adj"/></l><r>loyiq<s n="adj"/></r></p></e>
        <e><p><l>hazır<s n="adj"/></l><r>tayyor<s n="adj"/></r></p></e>
+       <e><p><l>günümüze<s n="adv"/></l><r>kunimizgacha<s n="adv"/></r></p></e>
        <e><p><l>zalim<s n="adj"/></l><r>yovuz<s n="adj"/></r></p></e>
        <e><p><l>yavuz<s n="adj"/></l><r>yovuz<s n="adj"/></r></p></e>
        <e><p><l>Pesah<s n="np"/><s n="al"/></l><r>Fisih<s n="np"/><s n="al"/></r></p></e>
@@ -4705,9 +4703,11 @@
        <e><p><l>oy<s n="n"/></l><r>bal<s n="n"/></r></p></e>
        <e><p><l>naz<s n="n"/></l><r>noz<s n="n"/></r></p></e>
        <e><p><l>yüzde<s n="n"/></l><r>foiz<s n="n"/></r></p></e>
+       <e><p><l>tatlı<s n="n"/></l><r>shirinlik<s n="n"/></r></p></e>
+       <e><p><l>revani<s n="n"/></l><r>revani<s n="n"/></r></p></e>
        <e><p><l>PKK<s n="np"/><s n="org"/></l><r>PKK<s n="np"/><s n="org"/></r></p></e>
        <e><p><l>AKP<s n="np"/><s n="org"/></l><r>AKP<s n="np"/><s n="org"/></r></p></e>
-
+      <e><p><l>cezalandır<s n="v"/><s n="tv"/></l><r>jazolantir<s n="v"/><s n="tv"/></r></p></e>
 
        <e><p><l>doğru<s n="post"/></l><r>sari<s n="post"/></r></p></e>
    </section>
