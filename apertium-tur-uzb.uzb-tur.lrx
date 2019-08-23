@@ -58,7 +58,7 @@
     </match>
   </rule>
 
-<rule>
+  <rule>
     <match lemma="boʻl" tags="v.*">
       <select lemma="ol" tags="v.*"/>
     </match>
