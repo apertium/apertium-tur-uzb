@@ -1355,7 +1355,7 @@
 <e><p><l>istasyon<s n="n"/></l><r>stansiya<s n="n"/></r></p></e>
 <e><p><l>polimer<s n="n"/></l><r>polimer<s n="n"/></r></p></e>
 <e><p><l>tartışma<s n="n"/></l><r>nizo<s n="n"/></r></p></e>
-<e><p><l>hünerli<s n="n"/></l><r>hunarmand<s n="n"/></r></p></e>
+<e><p><l>hünerli<s n="adj"/></l><r>hunarmand<s n="adj"/></r></p></e>
 <e><p><l>çalılık<s n="n"/></l><r>butazor<s n="n"/></r></p></e>
 <e><p><l>oturan<s n="n"/></l><r>yashovchi<s n="n"/></r></p></e>
 <e><p><l>volkan<s n="n"/></l><r>vulkan<s n="n"/></r></p></e>
@@ -3276,6 +3276,7 @@
     <e><p><l>henüz<s n="adv"/></l><r>hali<s n="adv"/></r></p></e>
     <e><p><l>eskiden<s n="adv"/></l><r>ilgari<s n="adv"/></r></p></e>
     <e><p><l>önce<s n="adv"/></l><r>ilgari<s n="adv"/></r></p></e>
+    <e><p><l>önce<s n="n"/></l><r>ilgari<s n="n"/></r></p></e>
     <e><p><l>önceleri<s n="adv"/></l><r>ilgari<s n="adv"/></r></p></e>
 
     <e><p><l>gayet<s n="adv"/></l><r>juda<s n="adv"/></r></p></e>
@@ -4188,7 +4189,7 @@
        <e><p><l>kaynak<s n="n"/></l><r>manbai<s n="n"/></r></p></e>
        <e><p><l>bağ<s n="n"/></l><r>bogʻi<s n="n"/></r></p></e>
        <e><p><l>oyunculuk<s n="n"/></l><r>hunarmandchilik<s n="n"/></r></p></e>
-       <e><p><l>oyuncu<s n="n"/></l><r>hunarmandchilik<s n="n"/></r></p></e>
+       <e><p><l>oyuncu<s n="n"/></l><r>hunarmandchi<s n="n"/></r></p></e>
        <e><p><l>olma<s n="n"/></l><r>ekanlik<s n="n"/></r></p></e>
        <e><p><l>matematik<s n="n"/></l><r>matematik<s n="n"/></r></p></e>
        <e><p><l>optik<s n="n"/></l><r>optik<s n="n"/></r></p></e>
