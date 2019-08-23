@@ -101,6 +101,11 @@
       <cat-item tags="v.*.gpr_fut_plan.*"/>
     </def-cat>
 
+   <def-cat n="ref_ifi">
+      <cat-item tags="v.*.ref.ifi.*"/>
+      <cat-item tags="v.*.ref.ifi"/>
+    </def-cat>
+
     <def-cat n="ref">
       <cat-item tags="v.*.ref.*"/>
       <cat-item tags="v.*.ref"/>
@@ -426,7 +431,36 @@
       </action>
     </rule>
 
-<rule comment="regla: ref->pass (qilindi → yapıldı)">
+<rule comment="regla: ref->pass for ifi (qilindi → yapıldı)">
+      <pattern>
+        <pattern-item n="ref_ifi"/>
+      </pattern>
+      <action>
+	<let>
+          <clip pos="1" side="tl" part="a_ref"/>
+	<lit-tag v="pass"/>
+        </let>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+	     <lit-tag v="pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+ 	     <clip pos="1" side="tl" part="a_tns"/>
+	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: ref->pass (qilingan → yapılmış)">
       <pattern>
         <pattern-item n="ref"/>
       </pattern>
@@ -456,6 +490,7 @@
         </out>
       </action>
     </rule>
+
 
 
 <rule comment="regla: ekan (ekan → (i)miş)"> 
