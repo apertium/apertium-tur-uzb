@@ -3939,7 +3939,7 @@
        <e><p><l>IC<s n="abbr"/></l><r>IC<s n="abbr"/><s n="nom"/></r></p></e>
        <e><p><l>ABD<s n="np"/><s n="top"/></l><r>AQSH<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>ABD<s n="np"/><s n="top"/></l><r>AQSh<s n="np"/><s n="top"/></r></p></e>
-       <e><p><l>kadim<s n="abbr"/></l><r>qad<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>kadim<s n="adj"/></l><r>qad<s n="abbr"/><s n="nom"/></r></p></e>
        <e><p><l>kg<s n="abbr"/></l><r>kg<s n="abbr"/><s n="nom"/></r></p></e>
        <e><p><l>ch<s n="abbr"/></l><r>ch<s n="abbr"/><s n="nom"/></r></p></e>
        <e><p><l>doğu<s n="abbr"/></l><r>sh<s n="abbr"/><s n="nom"/></r></p></e>
@@ -3948,9 +3948,9 @@
        <e><p><l>sm<s n="abbr"/></l><r>sm<s n="abbr"/><s n="nom"/></r></p></e>
        <e><p><l>güney<s n="n"/></l><r>jan<s n="abbr"/><s n="nom"/></r></p></e>
        <e><p><l>milyon<s n="num"/></l><r>mln<s n="abbr"/><s n="nom"/></r></p></e>
-       <e><p><l>Yunanca<s n="n"/></l><r>yun<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>Yunanca<s n="n"/><s n="nom"/></l><r>yun<s n="abbr"/><s n="nom"/></r></p></e>
        <e><p><l>sonra<s n="adv"/></l><r>av<s n="abbr"/><s n="nom"/></r></p></e>
-       <e><p><l>Özbekçe<s n="n"/></l><r>uz<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>Özbekçe<s n="n"/><s n="nom"/></l><r>uz<s n="abbr"/><s n="nom"/></r></p></e>
        <e><p><l>kadar<s n="post"/></l><r>gacha<s n="post"/></r></p></e>
        <e><p><l>yoluyla<s n="post"/></l><r>orqali<s n="post"/></r></p></e>
        <e><p><l>yıldan<b/>yıla<s n="adv"/></l><r>yilgacha<s n="adv"/></r></p></e>
@@ -4139,7 +4139,7 @@
        <e><p><l>si<s n="abbr"/></l><r>si<s n="abbr"/><s n="nom"/></r></p></e>
        <e><p><l>m<s n="abbr"/></l><r>m<s n="abbr"/><s n="nom"/></r></p></e>
        <e><p><l>sn<s n="abbr"/></l><r>sek<s n="abbr"/><s n="nom"/></r></p></e>
-       <e><p><l>Latince<s n="n"/></l><r>lot<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>Latince<s n="n"/><s n="nom"/></l><r>lot<s n="abbr"/><s n="nom"/></r></p></e>
        <e><p><l>gibi<s n="post"/></l><r>singari<s n="post"/></r></p></e>
        <e><p><l>yine<b/>de<s n="adv"/></l><r>yanada<s n="adv"/></r></p></e>
        <e><p><l>önce<s n="adv"/></l><r>oldin<s n="adv"/></r></p></e>
@@ -4231,8 +4231,8 @@
        <e><p><l>Ba<s n="abbr"/></l><r>ba<s n="abbr"/><s n="nom"/></r></p></e>
        <e><p><l>Sb<s n="abbr"/></l><r>Sb<s n="abbr"/><s n="nom"/></r></p></e>
        <e><p><l>Sc<s n="abbr"/></l><r>Sc<s n="abbr"/><s n="nom"/></r></p></e>
-       <e><p><l>milyar<s n="abbr"/></l><r>mlrd<s n="abbr"/><s n="nom"/></r></p></e>
-       <e><p><l>Fransızca<s n="abbr"/></l><r>frans<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>milyar<s n="num"/></l><r>mlrd<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>Fransızca<s n="n"/><s n="nom"/></l><r>frans<s n="abbr"/><s n="nom"/></r></p></e>
        <e><p><l>öncelikle<s n="adv"/></l><r>oldingi<s n="adv"/></r></p></e>
        <e><p><l>ilkin<s n="adv"/></l><r>oldingi<s n="adv"/></r></p></e>
        <e><p><l>yaşa<s n="v"/><s n="iv"/></l><r>yasha<s n="v"/><s n="iv"/></r></p></e>
@@ -4317,9 +4317,9 @@
        <e><p><l>ba<s n="abbr"/></l><r>ba<s n="abbr"/><s n="nom"/></r></p></e>
        <e><p><l>Sbc<s n="abbr"/></l><r>SBc<s n="abbr"/><s n="nom"/></r></p></e>
        <e><p><l>prof<s n="abbr"/></l><r>prof<s n="abbr"/><s n="nom"/></r></p></e>
-       <e><p><l>Ağustos<s n="n"/></l><r>avg<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>Ağustos<s n="n"/><s n="nom"/></l><r>avg<s n="abbr"/><s n="nom"/></r></p></e>
        <e><p><l>as<s n="abbr"/></l><r>as<s n="abbr"/><s n="nom"/></r></p></e>
-       <e><p><l>matematik<s n="n"/></l><r>mat<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>matematik<s n="n"/><s n="nom"/></l><r>mat<s n="abbr"/><s n="nom"/></r></p></e>
        <e><p><l>da<s n="adv"/></l><r>da<s n="adv"/></r></p></e>
        <e><p><l>olsa<b/>da<s n="adv"/></l><r>boʻlsada<s n="adv"/></r></p></e>
        <e><p><l>fikrine<b/>göre<s n="adv"/></l><r>fikricha<s n="adv"/></r></p></e>
