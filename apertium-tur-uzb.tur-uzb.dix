@@ -76,7 +76,7 @@
      <sdef n="abbr"      c="Abbreviation"/>
 
      <sdef n="gen"      c="Genitive"/>
-
+     <sdef n="caus"     c="Causative"/>
     <sdef n="qst"    c="Question"/>
 
   </sdefs>
@@ -1812,7 +1812,6 @@
 <e><p><l>uzak<s n="adj"/></l><r>uzak<s n="adj"/></r></p></e>
 <e><p><l>devrimsel<s n="adj"/></l><r>inqilobiy<s n="adj"/></r></p></e>
 <e><p><l>güçlü<s n="adj"/></l><r>kuchli<s n="adj"/></r></p></e>
-<e><p><l>doğum<s n="adj"/></l><r>tavallud<s n="adj"/></r></p></e>
 <e><p><l>ayrılmış<s n="adj"/></l><r>ayrim<s n="adj"/></r></p></e>
 <e><p><l>muharebe<s n="n"/></l><r>jang<s n="n"/></r></p></e>
 <e><p><l>özel<s n="adj"/></l><r>shaxsiy<s n="adj"/></r></p></e>
@@ -2471,6 +2470,7 @@
 <e><p><l>örüş<s n="v"/><s n="iv"/></l><r>toʻqish<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>dur<s n="v"/><s n="iv"/></l><r>tur<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>doğ<s n="v"/><s n="iv"/></l><r>tugʻil<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>doğ<s n="v"/><s n="iv"/></l><r>tavallud<b/>top<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>yürü<s n="v"/><s n="iv"/></l><r>yur<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>piş<s n="v"/><s n="iv"/></l><r>pish<s n="v"/><s n="iv"/></r></p></e>
 
@@ -2501,7 +2501,7 @@
 <e><p><l>katıl<s n="v"/><s n="iv"/></l><r>qatnash<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>göster<s n="v"/><s n="tv"/></l><r>koʻrsat<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>yürüt<s n="v"/><s n="tv"/></l><r>yurit<s n="v"/><s n="tv"/></r></p></e>
-<e><p><l>kurdur<s n="v"/><s n="tv"/></l><r>qurdir<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>kur<s n="v"/><s n="tv"/><s n="caus"/></l><r>qurdir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>aşır<s n="v"/><s n="tv"/></l><r>oshir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>belirle<s n="v"/><s n="tv"/></l><r>aniqla<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>döndür<s n="v"/><s n="tv"/></l><r>aylantir<s n="v"/><s n="tv"/></r></p></e>
@@ -3134,7 +3134,7 @@
     <e><p><l>kararlı<s n="adj"/></l><r>turgʻun<s n="adj"/></r></p></e>
     <e><p><l>oturaklı<s n="adj"/></l><r>turgʻun<s n="adj"/></r></p></e>
     <e><p><l>sağlam<s n="adj"/></l><r>turgʻun<s n="adj"/></r></p></e>
-    <e><p><l>bitişik<b/>olan<s n="adj"/></l><r>tutash<s n="adj"/></r></p></e>
+    <e><p><l>bitişik<s n="adj"/></l><r>tutash<s n="adj"/></r></p></e>
     <e><p><l>büyük<s n="adj"/></l><r>ulkan<s n="adj"/></r></p></e>
     <e><p><l>iri<s n="adj"/></l><r>ulkan<s n="adj"/></r></p></e>
     <e><p><l>kodaman<s n="adj"/></l><r>ulkan<s n="adj"/></r></p></e>
