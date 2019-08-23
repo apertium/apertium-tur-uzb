@@ -3934,23 +3934,23 @@
        <e><p><l>Lot<s n="np"/><s n="top"/></l><r>Lot<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>Pfalz<s n="np"/><s n="top"/></l><r>Pfalz<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>Franche-Comté<s n="np"/><s n="top"/></l><r>Franche-Comté<s n="np"/><s n="top"/></r></p></e>
-       <e><p><l>km2<s n="abbr"/></l><r>km2<s n="abbr"/></r></p></e>
-       <e><p><l>NGC<s n="abbr"/></l><r>NGC<s n="abbr"/></r></p></e>
-       <e><p><l>IC<s n="abbr"/></l><r>IC<s n="abbr"/></r></p></e>
+       <e><p><l>km2<s n="abbr"/></l><r>km2<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>NGC<s n="abbr"/></l><r>NGC<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>IC<s n="abbr"/></l><r>IC<s n="abbr"/><s n="nom"/></r></p></e>
        <e><p><l>ABD<s n="np"/><s n="top"/></l><r>AQSH<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>ABD<s n="np"/><s n="top"/></l><r>AQSh<s n="np"/><s n="top"/></r></p></e>
-       <e><p><l>kadim<s n="abbr"/></l><r>qad<s n="abbr"/></r></p></e>
-       <e><p><l>kg<s n="abbr"/></l><r>kg<s n="abbr"/></r></p></e>
-       <e><p><l>ch<s n="abbr"/></l><r>ch<s n="abbr"/></r></p></e>
-       <e><p><l>doğu<s n="abbr"/></l><r>sh<s n="abbr"/></r></p></e>
-       <e><p><l>Si<s n="abbr"/></l><r>si<s n="abbr"/></r></p></e>
-       <e><p><l>mm<s n="abbr"/></l><r>mm<s n="abbr"/></r></p></e>
-       <e><p><l>sm<s n="abbr"/></l><r>sm<s n="abbr"/></r></p></e>
-       <e><p><l>güney<s n="n"/></l><r>jan<s n="abbr"/></r></p></e>
-       <e><p><l>milyon<s n="num"/></l><r>mln<s n="abbr"/></r></p></e>
-       <e><p><l>Yunanca<s n="n"/></l><r>yun<s n="abbr"/></r></p></e>
-       <e><p><l>sonra<s n="adv"/></l><r>av<s n="abbr"/></r></p></e>
-       <e><p><l>Özbekçe<s n="n"/></l><r>uz<s n="abbr"/></r></p></e>
+       <e><p><l>kadim<s n="abbr"/></l><r>qad<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>kg<s n="abbr"/></l><r>kg<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>ch<s n="abbr"/></l><r>ch<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>doğu<s n="abbr"/></l><r>sh<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>Si<s n="abbr"/></l><r>si<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>mm<s n="abbr"/></l><r>mm<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>sm<s n="abbr"/></l><r>sm<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>güney<s n="n"/></l><r>jan<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>milyon<s n="num"/></l><r>mln<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>Yunanca<s n="n"/></l><r>yun<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>sonra<s n="adv"/></l><r>av<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>Özbekçe<s n="n"/></l><r>uz<s n="abbr"/><s n="nom"/></r></p></e>
        <e><p><l>kadar<s n="post"/></l><r>gacha<s n="post"/></r></p></e>
        <e><p><l>yoluyla<s n="post"/></l><r>orqali<s n="post"/></r></p></e>
        <e><p><l>yıldan<b/>yıla<s n="adv"/></l><r>yilgacha<s n="adv"/></r></p></e>
@@ -4135,11 +4135,11 @@
        <e><p><l>Elsas<s n="np"/><s n="top"/></l><r>Elzas<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>Anhalt<s n="np"/><s n="top"/></l><r>Anhalt<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>Piemont<s n="np"/><s n="top"/></l><r>Piemont<s n="np"/><s n="top"/></r></p></e>
-       <e><p><l>FA<s n="abbr"/></l><r>FA<s n="abbr"/></r></p></e>
-       <e><p><l>si<s n="abbr"/></l><r>si<s n="abbr"/></r></p></e>
-       <e><p><l>m<s n="abbr"/></l><r>m<s n="abbr"/></r></p></e>
-       <e><p><l>sn<s n="abbr"/></l><r>sek<s n="abbr"/></r></p></e>
-       <e><p><l>Latince<s n="n"/></l><r>lot<s n="abbr"/></r></p></e>
+       <e><p><l>FA<s n="abbr"/></l><r>FA<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>si<s n="abbr"/></l><r>si<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>m<s n="abbr"/></l><r>m<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>sn<s n="abbr"/></l><r>sek<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>Latince<s n="n"/></l><r>lot<s n="abbr"/><s n="nom"/></r></p></e>
        <e><p><l>gibi<s n="post"/></l><r>singari<s n="post"/></r></p></e>
        <e><p><l>yine<b/>de<s n="adv"/></l><r>yanada<s n="adv"/></r></p></e>
        <e><p><l>önce<s n="adv"/></l><r>oldin<s n="adv"/></r></p></e>
@@ -4204,7 +4204,7 @@
        <e><p><l>hararet<s n="n"/></l><r>harorat<s n="n"/></r></p></e>
        <e><p><l>kağıt<s n="n"/></l><r>qogʻoz<s n="n"/></r></p></e>
        <e><p><l>ya<s n="cnjadv"/></l><r>ya<s n="cnjadv"/></r></p></e>
-       <e><p><l>SB<s n="abbr"/></l><r>SB<s n="abbr"/></r></p></e>
+       <e><p><l>SB<s n="abbr"/></l><r>SB<s n="abbr"/><s n="nom"/></r></p></e>
        <e><p><l>Campania<s n="np"/><s n="top"/></l><r>Campania<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>Virginia<s n="np"/><s n="top"/></l><r>Virginia<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>Atlantik<s n="np"/><s n="top"/></l><r>Atlantika<s n="np"/><s n="top"/></r></p></e>
@@ -4226,13 +4226,13 @@
        <e><p><l>Illinois<s n="np"/><s n="top"/></l><r>Illinois<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>Bakü<s n="np"/><s n="top"/></l><r>Boku<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>Cizzak<s n="np"/><s n="top"/></l><r>Jizzax<s n="np"/><s n="top"/></r></p></e>
-       <e><p><l>SSC<s n="abbr"/></l><r>SSR<s n="abbr"/></r></p></e>
-       <e><p><l>BMT<s n="abbr"/></l><r>BMT<s n="abbr"/></r></p></e>
-       <e><p><l>Ba<s n="abbr"/></l><r>ba<s n="abbr"/></r></p></e>
-       <e><p><l>Sb<s n="abbr"/></l><r>Sb<s n="abbr"/></r></p></e>
-       <e><p><l>Sc<s n="abbr"/></l><r>Sc<s n="abbr"/></r></p></e>
-       <e><p><l>milyar<s n="abbr"/></l><r>mlrd<s n="abbr"/></r></p></e>
-       <e><p><l>Fransızca<s n="abbr"/></l><r>frans<s n="abbr"/></r></p></e>
+       <e><p><l>SSC<s n="abbr"/></l><r>SSR<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>BMT<s n="abbr"/></l><r>BMT<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>Ba<s n="abbr"/></l><r>ba<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>Sb<s n="abbr"/></l><r>Sb<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>Sc<s n="abbr"/></l><r>Sc<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>milyar<s n="abbr"/></l><r>mlrd<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>Fransızca<s n="abbr"/></l><r>frans<s n="abbr"/><s n="nom"/></r></p></e>
        <e><p><l>öncelikle<s n="adv"/></l><r>oldingi<s n="adv"/></r></p></e>
        <e><p><l>ilkin<s n="adv"/></l><r>oldingi<s n="adv"/></r></p></e>
        <e><p><l>yaşa<s n="v"/><s n="iv"/></l><r>yasha<s n="v"/><s n="iv"/></r></p></e>
@@ -4313,13 +4313,13 @@
        <e><p><l>Vermont<s n="np"/><s n="top"/></l><r>Vermont<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>Haut<s n="np"/><s n="top"/></l><r>Haut<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>Tirmiz<s n="np"/><s n="top"/></l><r>Termiz<s n="np"/><s n="top"/></r></p></e>
-       <e><p><l>Sa<s n="abbr"/></l><r>Sa<s n="abbr"/></r></p></e>
-       <e><p><l>ba<s n="abbr"/></l><r>ba<s n="abbr"/></r></p></e>
-       <e><p><l>Sbc<s n="abbr"/></l><r>SBc<s n="abbr"/></r></p></e>
-       <e><p><l>prof<s n="abbr"/></l><r>prof<s n="abbr"/></r></p></e>
-       <e><p><l>Ağustos<s n="n"/></l><r>avg<s n="abbr"/></r></p></e>
-       <e><p><l>as<s n="abbr"/></l><r>as<s n="abbr"/></r></p></e>
-       <e><p><l>matematik<s n="n"/></l><r>mat<s n="abbr"/></r></p></e>
+       <e><p><l>Sa<s n="abbr"/></l><r>Sa<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>ba<s n="abbr"/></l><r>ba<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>Sbc<s n="abbr"/></l><r>SBc<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>prof<s n="abbr"/></l><r>prof<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>Ağustos<s n="n"/></l><r>avg<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>as<s n="abbr"/></l><r>as<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>matematik<s n="n"/></l><r>mat<s n="abbr"/><s n="nom"/></r></p></e>
        <e><p><l>da<s n="adv"/></l><r>da<s n="adv"/></r></p></e>
        <e><p><l>olsa<b/>da<s n="adv"/></l><r>boʻlsada<s n="adv"/></r></p></e>
        <e><p><l>fikrine<b/>göre<s n="adv"/></l><r>fikricha<s n="adv"/></r></p></e>
@@ -4385,10 +4385,10 @@
        <e><p><l>Allier<s n="np"/><s n="top"/></l><r>Allier<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>Château<s n="np"/><s n="top"/></l><r>Château<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>Hazar<s n="np"/><s n="top"/></l><r>Kaspiy<s n="np"/><s n="top"/></r></p></e>
-       <e><p><l>Sbc<s n="abbr"/></l><r>Sbc<s n="abbr"/></r></p></e>
-       <e><p><l>pedagoji<s n="n"/></l><r>ped<s n="abbr"/></r></p></e>
-       <e><p><l>min<s n="abbr"/></l><r>min<s n="abbr"/></r></p></e>
-       <e><p><l>st<s n="abbr"/></l><r>st<s n="abbr"/></r></p></e>
+       <e><p><l>Sbc<s n="abbr"/></l><r>Sbc<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>pedagoji<s n="n"/></l><r>ped<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>min<s n="abbr"/></l><r>min<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>st<s n="abbr"/></l><r>st<s n="abbr"/><s n="nom"/></r></p></e>
        <e><p><l>aynen<s n="adv"/></l><r>aynan<s n="adv"/></r></p></e>
        <e><p><l>karşılaş<s n="v"/><s n="iv"/></l><r>uchra<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>beslen<s n="v"/><s n="iv"/></l><r>oziqlan<s n="v"/><s n="iv"/></r></p></e>
@@ -4450,10 +4450,10 @@
        <e><p><l>Pegas<s n="np"/><s n="top"/></l><r>Pegas<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>Côtes<s n="np"/><s n="top"/></l><r>Côtes<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>Karasu<s n="np"/><s n="top"/></l><r>Qorasuv<s n="np"/><s n="top"/></r></p></e>
-       <e><p><l>HES<s n="abbr"/></l><r>GES<s n="abbr"/></r></p></e>
-       <e><p><l>SBbc<s n="abbr"/></l><r>SBbc<s n="abbr"/></r></p></e>
+       <e><p><l>HES<s n="abbr"/></l><r>GES<s n="abbr"/><s n="nom"/></r></p></e>
+       <e><p><l>SBbc<s n="abbr"/></l><r>SBbc<s n="abbr"/><s n="nom"/></r></p></e>
 
-       <e><p><l>SBs<s n="abbr"/></l><r>SBs<s n="abbr"/></r></p></e>
+       <e><p><l>SBs<s n="abbr"/></l><r>SBs<s n="abbr"/><s n="nom"/></r></p></e>
        <e><p><l>kadar<s n="post"/></l><r>cha<s n="post"/></r></p></e>
        <e><p><l>biraz<s n="adv"/></l><r>birmuncha<s n="adv"/></r></p></e>
        <e><p><l>yazın<s n="adv"/></l><r>iyulniki<s n="adv"/></r></p></e>
