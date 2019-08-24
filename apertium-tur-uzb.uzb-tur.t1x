@@ -101,7 +101,12 @@
       <cat-item tags="v.*.gpr_fut_plan.*"/>
     </def-cat>
 
-   <def-cat n="ref_ifi">
+   <def-cat n="gpr_pres">
+      <cat-item tags="v.*.gpr_pres"/>
+      <cat-item tags="v.*.gpr_pres.*"/>
+    </def-cat>
+
+ <def-cat n="ref_ifi">
       <cat-item tags="v.*.ref.ifi.*"/>
       <cat-item tags="v.*.ref.ifi"/>
     </def-cat>
@@ -559,6 +564,29 @@
     </rule>
 
 
+<rule comment="regla: gpr_pres (qilayotgan → yapan)">
+      <pattern>
+        <pattern-item n="gpr_pres"/>
+      </pattern>
+      <action>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+ 	     <clip pos="1" side="tl" part="a_pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+             <lit-tag v="ger_impf.nom"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
 
 <rule comment="regla: ekan (ekan → (i)miş)"> 
       <pattern>
