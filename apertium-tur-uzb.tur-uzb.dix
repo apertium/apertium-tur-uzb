@@ -197,7 +197,7 @@
 <e><p><l>gerisingeriye<s n="adv"/></l><r>orqaga<s n="adv"/></r></p></e>
 <e><p><l>gitgide<s n="adv"/></l><r>bosqichmabosqich<s n="adv"/></r></p></e>
 <e><p><l>gıyaben<s n="adv"/></l><r>yoqligida<s n="adv"/></r></p></e>
-<e><p><l>hakimane<s n="adv"/></l><r>jiddiy<s n="adv"/></r></p></e>
+<e><p><l>ciddi<s n="adv"/></l><r>jiddiy<s n="adv"/></r></p></e>
 <e><p><l>ilk<s n="adv"/></l><r>birinchidan<s n="adv"/></r></p></e>
 <e><p><l>irticalen<s n="adv"/></l><r>toygarliksiz<s n="adv"/></r></p></e>
 <e><p><l>kısmen<s n="adv"/></l><r>qisman<s n="adv"/></r></p></e>
@@ -446,7 +446,7 @@
 <e><p><l>söz<s n="n"/></l><r>soʻz<s n="n"/></r></p></e>
 <e><p><l>sistem<s n="n"/></l><r>sistema<s n="n"/></r></p></e>
 <e><p><l>kitap<s n="n"/></l><r>kitob<s n="n"/></r></p></e>
-
+<e><p><l>inanç<s n="n"/></l><r>e’tiqod<s n="n"/></r></p></e>
 <e><p><l>inanç<s n="n"/></l><r>eʻtimod<s n="n"/></r></p></e>
 <e><p><l>dükkan<s n="n"/></l><r>doʻkon<s n="n"/></r></p></e>
 <e><p><l>kitap<s n="n"/></l><r>kitob<s n="n"/></r></p></e>
@@ -3984,7 +3984,7 @@
        <e><p><l>karıştır<s n="v"/><s n="tv"/></l><r>atala<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>kullan<s n="v"/><s n="tv"/></l><r>ishla<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>dayandır<s n="v"/><s n="tv"/></l><r>asosla<s n="v"/><s n="tv"/></r></p></e>
-    <e><p><l>dayandırıl<s n="v"/><s n="tv"/></l><r>asoslan<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>dayan<s n="v"/><s n="tv"/></l><r>asoslan<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>öğren<s n="v"/><s n="tv"/></l><r>oʻrgan<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>çıkar<s n="v"/><s n="tv"/></l><r>chiqar<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>yarat<s n="v"/><s n="tv"/></l><r>yarat<s n="v"/><s n="tv"/></r></p></e>
