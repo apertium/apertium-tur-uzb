@@ -106,7 +106,6 @@
       <cat-item tags="v.*.ref.ifi"/>
     </def-cat>
 
-
  <def-cat n="ref_gperf">
       <cat-item tags="v.*.ref.gna_perf.*"/>
       <cat-item tags="v.*.ref.gna_perf"/>
@@ -533,14 +532,6 @@
         <pattern-item n="ekan"/>
       </pattern>
       <action>
-	<let>
-          <clip pos="1" side="tl" part="a_cop"/>
-	<lit-tag v=""/>
-        </let>
-	<let>
-          <clip pos="1" side="tl" part="a_kan"/>
-	<lit-tag v=""/>
-        </let>
         <out>
         <chunk name="cop" case="caseFirstWord">
             <tags>
@@ -550,8 +541,7 @@
             </tags>
           <lu>
 	     <lit v="i"/>
-	     <lit-tag v="cop.dub.aor"/>
-	     <clip pos="1" side="tl" part="a_pers_nbr"/>
+	     <lit-tag v="cop.gna_ken"/>
           </lu>
    	 </chunk>
         </out>
@@ -612,6 +602,7 @@
         </out>
       </action>
     </rule>
+
 
 <rule comment="regla: emish (emish → (i)miş)"> 
       <pattern>
