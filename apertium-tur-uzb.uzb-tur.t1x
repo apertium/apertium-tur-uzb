@@ -106,6 +106,11 @@
       <cat-item tags="v.*.ref.ifi"/>
     </def-cat>
 
+ <def-cat n="ref_gpast">
+      <cat-item tags="v.*.ref.ger_past.*"/>
+      <cat-item tags="v.*.ref.ger_past"/>
+    </def-cat>
+
  <def-cat n="ref_gperf">
       <cat-item tags="v.*.ref.gna_perf.*"/>
       <cat-item tags="v.*.ref.gna_perf"/>
@@ -458,6 +463,34 @@
  	     <clip pos="1" side="tl" part="a_abil"/>
  	     <clip pos="1" side="tl" part="a_neg"/>
 	     <lit-tag v="gna_perf"/>
+          </lu>
+   	 </chunk>
+        </out>
+      </action>
+    </rule>
+
+<rule comment="regla: ref->pass for ger_past (qilingan → yapılan)">
+      <pattern>
+        <pattern-item n="ref_gpast"/>
+      </pattern>
+      <action>
+	<let>
+          <clip pos="1" side="tl" part="a_ref"/>
+	<lit-tag v="pass"/>
+        </let>
+        <out>
+        <chunk name="v" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SV"/></tag>
+            </tags>
+          <lu>
+	<clip pos="1" side="tl" part="lem"/>
+             <lit-tag v="v"/>
+             <clip pos="1" side="tl" part="a_tra"/>
+	     <lit-tag v="pass"/>
+ 	     <clip pos="1" side="tl" part="a_abil"/>
+ 	     <clip pos="1" side="tl" part="a_neg"/>
+	     <lit-tag v="ger_impf.nom"/>
           </lu>
    	 </chunk>
         </out>
