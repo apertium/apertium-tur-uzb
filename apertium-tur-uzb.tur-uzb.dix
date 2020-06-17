@@ -102,7 +102,8 @@
    <e c="  0"><p><l>yakın<s n="adj"/></l><r>yaqin<s n="adj"/></r></p></e>
    <e c="  0"><p><l>gelecek<s n="adj"/></l><r>kelgusi<s n="adj"/></r></p></e>
    <e c="  0"><p><l>uluslararası<s n="adj"/></l><r>xalqaro<s n="adj"/></r></p></e>
-   <e c="  0"><p><l>küçük<s n="adj"/></l><r>kichik<s n="adj"/></r></p></e>
+   <e><p><l>küçük<s n="adj"/></l><r>kichik<s n="adj"/></r></p></e>
+   <e><p><l>küçük<s n="adj"/></l><r>mayda<s n="adj"/></r></p></e>
       <e c="  0"><p><l>güncel<s n="adj"/></l><r>joriy<s n="adj"/></r></p></e>
 
    <e><p><l>var<s n="adj"/></l><r>bor<s n="adj"/></r></p></e>
@@ -160,6 +161,7 @@
 <e><p><l>ağır<s n="adj"/></l><r>zil<s n="adj"/></r></p></e>
 <e><p><l>Türki<s n="adj"/></l><r>turkiy<s n="adj"/></r></p></e>
 <e><p><l>siyasi<s n="adj"/></l><r>siyosiy<s n="adj"/></r></p></e>
+<e><p><l>mutlu<s n="adj"/></l><r>xursand<s n="adj"/></r></p></e>
 
 
 
@@ -169,7 +171,7 @@
    
    <!-- SECTION: Adverbs -->
 
-
+<e><p><l>beraber<s n="adv"/></l><r>birga<s n="adv"/></r></p></e>
       <e c="  0"><p><l>hür<s n="adv"/></l><r>erkin<s n="adv"/></r></p></e>
       <e><p><l>içeri<s n="adv"/></l><r>ichida<s n="adv"/></r></p></e>
 <e><p><l>öte<s n="adv"/></l><r>boshqa<s n="adv"/></r></p></e>
@@ -224,6 +226,7 @@
 <e><p><l>sonra<s n="adv"/></l><r>soʻng<s n="adv"/></r></p></e>
 <e><p><l>geçici<s n="adv"/></l><r>vaqtincha<s n="adv"/></r></p></e>
 <e><p><l>teferruatla<s n="adv"/></l><r>batafsil<s n="adv"/></r></p></e>
+<e><p><l>çabukça<s n="adv"/></l><r>zudlik<b/>bilan<s n="adv"/></r></p></e>
 
 
 
@@ -241,6 +244,7 @@
 <e><p><l>ancak<s n="cnjcoo"/></l><r>biroq<s n="cnjcoo"/></r></p></e>
 <e><p><l>hem<s n="cnjcoo"/></l><r>ham<s n="cnjcoo"/></r></p></e>
 <e><p><l>lakin<s n="cnjcoo"/></l><r>lekin<s n="cnjcoo"/></r></p></e>
+<e><p><l>fakat<s n="cnjcoo"/></l><r>faqat<s n="cnjcoo"/></r></p></e>
 <e><p><l>veyahut<s n="cnjcoo"/></l><r>yoki<s n="cnjcoo"/></r></p></e>
 <e><p><l>kah<s n="cnjcoo"/></l><r>goh<s n="cnjcoo"/></r></p></e>
 <e><p><l>ki<s n="cnjsub"/></l><r>ki<s n="cnjsub"/></r></p></e>
@@ -361,7 +365,7 @@
     <e><p><l>dans<s n="n"/></l><r>raqs<s n="n"/></r></p></e>
     <e><p><l>raks<s n="n"/></l><r>raqs<s n="n"/></r></p></e>
     <e><p><l>taraf<s n="n"/></l><r>tomon<s n="n"/></r></p></e>
-    <e><p><l>sever<s n="n"/></l><r>sevor<s n="n"/></r></p></e>
+    <e><p><l>sever<s n="n"/></l><r>sevar<s n="n"/></r></p></e>
     <e><p><l>resim<s n="n"/></l><r>rasm<s n="n"/></r></p></e>
     <e><p><l>dünya<s n="n"/></l><r>dunyo<s n="n"/></r></p></e>
     <e><p><l>hayal<s n="n"/></l><r>xayol<s n="n"/></r></p></e>
@@ -533,7 +537,7 @@
 <e><p><l>miktar<s n="n"/></l><r>miqdor<s n="n"/></r></p></e>
 <e><p><l>meydan<s n="n"/></l><r>maydon<s n="n"/></r></p></e>
 <e><p><l>ölçü<s n="n"/></l><r>olcham<s n="n"/></r></p></e>
-<e><p><l>bahçe<s n="n"/></l><r>bog<s n="n"/></r></p></e>
+<e><p><l>bahçe<s n="n"/></l><r>bogʻ<s n="n"/></r></p></e>
 <e><p><l>malzeme<s n="n"/></l><r>gazlama<s n="n"/></r></p></e>
 <e><p><l>iz<s n="n"/></l><r>iz<s n="n"/></r></p></e>
 <e><p><l>istek<s n="n"/></l><r>talab<s n="n"/></r></p></e>
@@ -656,6 +660,7 @@
 <e><p><l>fırsat<s n="n"/></l><r>fursat<s n="n"/></r></p></e>
 <e><p><l>futbol<s n="n"/></l><r>futbol<s n="n"/></r></p></e>
 <e><p><l>gece<s n="n"/></l><r>kecha<s n="n"/></r></p></e>
+<e><p><l>dün<s n="n"/></l><r>kecha<s n="n"/></r></p></e>
 <e><p><l>gelin<s n="n"/></l><r>kelin<s n="n"/></r></p></e>
 <e><p><l>gem<s n="n"/></l><r>suvluq<s n="n"/></r></p></e>
 <e><p><l>general<s n="n"/></l><r>general<s n="n"/></r></p></e>
@@ -1194,7 +1199,7 @@
 <e><p><l>temsilci<s n="n"/></l><r>namoyanda<s n="n"/></r></p></e>
 <e><p><l>gemi<s n="n"/></l><r>gemi<s n="n"/></r></p></e>
 <e><p><l>erkek<s n="n"/></l><r>erkak<s n="n"/></r></p></e>
-
+<e><p><l>oğlan<s n="n"/></l><r>yigit<s n="n"/></r></p></e>
 <e><p><l>Rus<s n="n"/></l><r>rus<s n="n"/></r></p></e>
 <e><p><l>birlik<s n="n"/></l><r>birlik<s n="n"/></r></p></e>
 <e><p><l>destan<s n="n"/></l><r>doston<s n="n"/></r></p></e>
@@ -2432,6 +2437,7 @@
      <!-- SECTION: Verbs -->
      
      
+<e><p><l>sev<s n="v"/><s n="tv"/></l><r>sev<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>mağlup<b/>et<s n="v"/><s n="tv"/></l><r>magʻlub<b/>et<s n="v"/><s n="tv"/></r></p></e>
 
 <e><p><l>bul<s n="v"/><s n="tv"/></l><r>top<s n="v"/><s n="tv"/></r></p></e>
@@ -2507,6 +2513,7 @@
 <e><p><l>belirle<s n="v"/><s n="tv"/></l><r>aniqla<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>döndür<s n="v"/><s n="tv"/></l><r>aylantir<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>dön<s n="v"/><s n="iv"/></l><r>aylan<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>koş<s n="v"/><s n="iv"/></l><r>yugur<s n="v"/><s n="iv"/></r></p></e>
 
 <e><p><l>dik<s n="v"/><s n="tv"/></l><r>tikla<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>yerleştir<s n="v"/><s n="tv"/></l><r>joylashtir<s n="v"/><s n="tv"/></r></p></e>
@@ -2593,7 +2600,10 @@
 <e><p><l>git<s n="v"/><s n="iv"/></l><r>ket<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>eriş<s n="v"/><s n="iv"/></l><r>erish<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>hareketlen<s n="v"/><s n="iv"/></l><r>harakatlan<s n="v"/><s n="iv"/></r></p></e>
-	<e><p><l>yasaklan<s n="v"/><s n="iv"/></l><r>taqiqlan<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>yasaklan<s n="v"/><s n="iv"/></l><r>taqiqlan<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>uyu<s n="v"/><s n="iv"/></l><r>uxla<s n="v"/><s n="iv"/></r></p></e>
+
+
  	<e><p><l>yaz<s n="v"/><s n="tv"/></l><r>yoz<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>ol<s n="v"/><s n="iv"/></l><r>boʻl<s n="v"/><s n="iv"/></r></p></e>
  	<e><p><l>ye<s n="v"/><s n="tv"/></l><r>ye<s n="v"/><s n="tv"/></r></p></e>
@@ -2876,7 +2886,6 @@
     <e><p><l>özgü<s n="adj"/></l><r>maxsus<s n="adj"/></r></p></e>
 
     <e><p><l>ince<s n="adj"/></l><r>mayda<s n="adj"/></r></p></e>
-    <e><p><l>küçük<s n="adj"/></l><r>mayda<s n="adj"/></r></p></e>
     <e><p><l>ufak<s n="adj"/></l><r>mayda<s n="adj"/></r></p></e>
     <e><p><l>yumuşak<s n="adj"/></l><r>mayin<s n="adj"/></r></p></e>
     <e><p><l>mezkur<s n="adj"/></l><r>mazkur<s n="adj"/></r></p></e>
@@ -3782,6 +3791,7 @@
     <e><p><l>duygu<s n="n"/></l><r>tuygʻu<s n="n"/></r></p></e>
     <e><p><l>kardeş<s n="n"/></l><r>uka<s n="n"/></r></p></e>
     <e><p><l>küçük<b/>kardeş<s n="n"/></l><r>uka<s n="n"/></r></p></e>
+    <e><p><l>kız<b/>kardeş<s n="n"/></l><r>singil<s n="n"/></r></p></e>
     <e><p><l>eleman<s n="n"/></l><r>unsur<s n="n"/></r></p></e>
     <e><p><l>öğe<s n="n"/></l><r>unsur<s n="n"/></r></p></e>
     <e><p><l>unsur<s n="n"/></l><r>unsur<s n="n"/></r></p></e>
@@ -4009,6 +4019,7 @@
        <e><p><l>güney<s n="adj"/></l><r>janubiy<s n="adj"/></r></p></e>
        <e><p><l>yapay<s n="adj"/></l><r>sunʻiy<s n="adj"/></r></p></e>
        <e><p><l>yok<s n="ij"/></l><r>yoʻq<s n="ij"/></r></p></e>
+       <e><p><l>hayır<s n="ij"/></l><r>yoʻq<s n="ij"/></r></p></e>
        <e><p><l>La<s n="np"/><s n="al"/></l><r>La<s n="np"/><s n="al"/></r></p></e>
        <e><p><l>Virgo<s n="np"/><s n="al"/></l><r>Sunbula<s n="np"/><s n="al"/></r></p></e>
        <e><p><l>Mac<s n="np"/><s n="al"/></l><r>Mac<s n="np"/><s n="al"/></r></p></e>
@@ -4326,6 +4337,8 @@
        <e><p><l>kaç<s n="adv"/></l><r>nechta<s n="adv"/></r></p></e>
        <e><p><l>neredeyse<s n="adv"/></l><r>qariyb<s n="adv"/></r></p></e>
        <e><p><l>daim<s n="adv"/></l><r>doim<s n="adv"/></r></p></e>
+       <e><p><l>her<b/>daim<s n="adv"/></l><r>har<b/>doim<s n="adv"/></r></p></e>
+       <e><p><l>her<b/>zaman<s n="adv"/></l><r>har<b/>doim<s n="adv"/></r></p></e>
        <e><p><l>avlan<s n="v"/><s n="iv"/></l><r>ovlan<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>çalış<s n="v"/><s n="iv"/></l><r>ishlay<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>kullan<s n="v"/><s n="tv"/></l><r>qoʻlla<s n="v"/><s n="tv"/></r></p></e>
