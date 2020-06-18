@@ -213,20 +213,21 @@
 <e><p><l>daha<s n="adv"/></l><r>badtar<s n="adv"/></r></p></e>
 <e><p><l>ardından<s n="adv"/></l><r>axtarish<s n="adv"/></r></p></e>
 
-<e><p><l>en<b/>azından<s n="adv"/></l><r>kamida<s n="adv"/></r></p></e>
+<e><p><l>en<b/>azından<s n="adv"/></l><r>kamida<s n="adv"/></r></p></e>   <!-- Will be moved to MWE later-->
 <e><p><l>ileri<s n="adv"/></l><r>oldinga<s n="adv"/></r></p></e>
 <e><p><l>anca<s n="adv"/></l><r>uncha<s n="adv"/></r></p></e>
-<e><p><l>bir<b/>daha<s n="adv"/></l><r>qaytadan<s n="adv"/></r></p></e>
+<e><p><l>bir<b/>daha<s n="adv"/></l><r>qaytadan<s n="adv"/></r></p></e>   <!-- Will be moved to MWE later-->
 <e><p><l>görünüşte<s n="adv"/></l><r>chogʻi<s n="adv"/></r></p></e>
 <e><p><l>sonra<s n="adv"/></l><r>oʻtgach<s n="adv"/></r></p></e>
 <e><p><l>evvela<s n="adv"/></l><r>avvalo<s n="adv"/></r></p></e>
-<e><p><l>aşağıda<b/>belirtildiği<b/>gibi<s n="adv"/></l><r>quyidagicha<s n="adv"/></r></p></e>
+<e><p><l>aşağıda<b/>belirtildiği<b/>gibi<s n="adv"/></l><r>quyidagicha<s n="adv"/></r></p></e>  <!-- Will be moved to MWE later-->
 <e><p><l>çok<s n="adv"/></l><r>zab<s n="adv"/></r></p></e>
 <e><p><l>sonra<s n="adv"/></l><r>keyinchalik<s n="adv"/></r></p></e>
 <e><p><l>sonra<s n="adv"/></l><r>soʻng<s n="adv"/></r></p></e>
 <e><p><l>geçici<s n="adv"/></l><r>vaqtincha<s n="adv"/></r></p></e>
 <e><p><l>teferruatla<s n="adv"/></l><r>batafsil<s n="adv"/></r></p></e>
-<e><p><l>çabukça<s n="adv"/></l><r>zudlik<b/>bilan<s n="adv"/></r></p></e>
+<e><p><l>çabukça<s n="adv"/></l><r>zudlik<b/>bilan<s n="adv"/></r></p></e> <!-- Will be moved to MWE later-->
+<e><p><l>dün<s n="adv"/></l><r>kecha<s n="adv"/></r></p></e>
 
 
 
@@ -301,7 +302,7 @@
     <!-- SECTION: Determinatives -->
     
 <e><p><l>bir<s n="det"/><s n="ind"/></l><r>bir<s n="det"/><s n="ind"/></r></p></e>
-<e><p><l>herhangi<s n="det"/><s n="ind"/></l><r>har<b/>qanday<s n="det"/><s n="ind"/></r></p></e>
+<e><p><l>herhangi<s n="det"/><s n="ind"/></l><r>har<b/>qanday<s n="det"/><s n="ind"/></r></p></e>  <!-- Will be moved to MWE later-->
 
 <e><p><l>her<s n="det"/><s n="dem"/></l><r>barcha<s n="det"/><s n="dem"/></r></p></e>
 <e><p><l>yüzlerce<s n="det"/><s n="qnt"/></l><r>yuzlab<s n="det"/><s n="qnt"/></r></p></e>
@@ -365,7 +366,7 @@
     <e><p><l>dans<s n="n"/></l><r>raqs<s n="n"/></r></p></e>
     <e><p><l>raks<s n="n"/></l><r>raqs<s n="n"/></r></p></e>
     <e><p><l>taraf<s n="n"/></l><r>tomon<s n="n"/></r></p></e>
-    <e><p><l>sever<s n="n"/></l><r>sevar<s n="n"/></r></p></e>
+    <e><p><l>sever<s n="adj"/></l><r>sevar<s n="adj"/></r></p></e>
     <e><p><l>resim<s n="n"/></l><r>rasm<s n="n"/></r></p></e>
     <e><p><l>dünya<s n="n"/></l><r>dunyo<s n="n"/></r></p></e>
     <e><p><l>hayal<s n="n"/></l><r>xayol<s n="n"/></r></p></e>
@@ -660,7 +661,6 @@
 <e><p><l>fırsat<s n="n"/></l><r>fursat<s n="n"/></r></p></e>
 <e><p><l>futbol<s n="n"/></l><r>futbol<s n="n"/></r></p></e>
 <e><p><l>gece<s n="n"/></l><r>kecha<s n="n"/></r></p></e>
-<e><p><l>dün<s n="n"/></l><r>kecha<s n="n"/></r></p></e>
 <e><p><l>gelin<s n="n"/></l><r>kelin<s n="n"/></r></p></e>
 <e><p><l>gem<s n="n"/></l><r>suvluq<s n="n"/></r></p></e>
 <e><p><l>general<s n="n"/></l><r>general<s n="n"/></r></p></e>
@@ -3790,8 +3790,8 @@
     <e><p><l>yumurta<s n="n"/></l><r>tuxum<s n="n"/></r></p></e>
     <e><p><l>duygu<s n="n"/></l><r>tuygʻu<s n="n"/></r></p></e>
     <e><p><l>kardeş<s n="n"/></l><r>uka<s n="n"/></r></p></e>
-    <e><p><l>küçük<b/>kardeş<s n="n"/></l><r>uka<s n="n"/></r></p></e>
-    <e><p><l>kız<b/>kardeş<s n="n"/></l><r>singil<s n="n"/></r></p></e>
+    <e><p><l>küçük<b/>kardeş<s n="n"/></l><r>uka<s n="n"/></r></p></e>  <!-- Will be moved to MWE later-->
+    <e><p><l>kız<b/>kardeş<s n="n"/></l><r>singil<s n="n"/></r></p></e>  <!-- Will be moved to MWE later-->
     <e><p><l>eleman<s n="n"/></l><r>unsur<s n="n"/></r></p></e>
     <e><p><l>öğe<s n="n"/></l><r>unsur<s n="n"/></r></p></e>
     <e><p><l>unsur<s n="n"/></l><r>unsur<s n="n"/></r></p></e>
