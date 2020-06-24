@@ -10,6 +10,18 @@
       <select lemma="energía" tags="n.*"/>
     </match>
   </rule>
+<rule weight="0.1"> <!--select katta by default -->
+  <match lemma="büyük" tags="adj.*">
+    <select lemma="katta"/>
+  </match>
+</rule>
+<rule weight="1"> <!-- select katta if the next word is "bir" -->
+  <match lemma="büyük" tags="adj.*">
+    <select lemma="katta"/>
+  </match>
+  <match lemma="bir"/>
+</rule>
+
 </rules>
 
 <!-- 
