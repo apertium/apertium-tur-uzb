@@ -2705,7 +2705,7 @@
     <e><p><l>bitir<s n="v"/><s n="tv"/></l><r>tugat<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>koy<s n="v"/><s n="tv"/></l><r>qoʻy<s n="v"/><s n="tv"/></r></p></e>
     <e c="0"><p><l>seyret<s n="v"/><s n="tv"/></l><r>koʻr<s n="v"/><s n="tv"/></r></p></e>
-    <e><p><l>seyret<s n="v"/><s n="tv"/></l><r>tomosha% qil<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>seyret<s n="v"/><s n="tv"/></l><r>tomosha<b/>qil<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>say<s n="v"/><s n="tv"/></l><r>sana<s n="v"/><s n="tv"/></r></p></e>
      <e><p><l>konuş<s n="v"/><s n="iv"/></l><r>gapir<s n="v"/><s n="iv"/></r></p></e>
 
@@ -3968,7 +3968,7 @@
        <e><p><l>kadar<s n="post"/></l><r>gacha<s n="post"/></r></p></e>
        <e><p><l>yoluyla<s n="post"/></l><r>orqali<s n="post"/></r></p></e>
        <e><p><l>yıldan<b/>yıla<s n="adv"/></l><r>yilgacha<s n="adv"/></r></p></e>
-       <e><p><l>kaç<s n="det"/><s n="qnt"/></l><r>necha<s n="adv"/></r></p></e>
+       <e><p><l>kaç<s n="det"/><s n="qnt"/></l><r>necha<s n="det"/><s n="qnt"/></r></p></e>
        <e><p><l>yine<s n="adv"/></l><r>yana<s n="adv"/></r></p></e>
        <e><p><l>ta<s n="adv"/></l><r>ta<s n="adv"/></r></p></e>
        <e><p><l>tekrar<s n="adv"/></l><r>qayta<s n="adv"/></r></p></e>
@@ -4449,14 +4449,14 @@
        <e><p><l>ahşapçılık<s n="n"/></l><r>yogʻochsozlik<s n="n"/></r></p></e>
        <e><p><l>nişan<s n="n"/></l><r>orden<s n="n"/></r></p></e>
        <e><p><l>karın<s n="n"/></l><r>qorin<s n="n"/></r></p></e>
-       <e><p><l>üstün<s n="adj"/></l><r>ustun<s n="adj"/></r></p></e>
+       <e><p><l>sütün<s n="adj"/></l><r>ustun<s n="adj"/></r></p></e>
        <e><p><l>sütün<s n="n"/></l><r>sutun<s n="n"/></r></p></e>
        <e><p><l>salyangoz<s n="n"/></l><r>shilliq<s n="n"/></r></p></e>
        <e><p><l>olma<s n="n"/></l><r>boʻlganliq<s n="n"/></r></p></e>
        <e><p><l>ırmak<s n="n"/></l><r>irmoq<s n="n"/></r></p></e>
        <e><p><l>Tatar<s n="n"/></l><r>tatar<s n="n"/></r></p></e>
        <e><p><l>memur<s n="n"/></l><r>meʻmor<s n="n"/></r></p></e>
-       <e><p><l>liste<s n="n"/></l><r>ro`yhat<s n="n"/></r></p></e>
+       <e><p><l>liste<s n="n"/></l><r>roʻyhat<s n="n"/></r></p></e>
        <e><p><l>kuvvet<s n="n"/></l><r>quvvat<s n="n"/></r></p></e>
        <e><p><l>tuğla<s n="n"/></l><r>gʻisht<s n="n"/></r></p></e>
        <e><p><l>Kaliforniya<s n="np"/><s n="top"/></l><r>California<s n="np"/><s n="top"/></r></p></e>
