@@ -114,7 +114,7 @@ S: _ ;
 !!!!!!!!!!!!!!!
 
 tense > tense : pres aor ;  ! ifi past, pri pres, fti fut;
-fin_nonfin > fin_nonfin : pres aor,
+fin_nonfin > fin_nonfin : pres aor, ger ger_abst,
 	gna_impf gna_perf, ger_impf ger_past; ! these two might not be necessary?  copied from t1x
 
 !!!!!!!!!!!!!!!
@@ -200,7 +200,7 @@ cop: (if (1.fin_nonfin in tense)
 !!!!!!!!!!!!!!!
 
 PP ->
-		20: NP ?(1.case=ins) [$lemh=менен] { 1[case=nom] _ менен@post } |
+		20: NP ?(1.case=ins) [$lemh=bilan] { 1[case=nom] _ bilan@post } |
 		NP %post {
 			1[case=(
 				if (2.lemh in post_acc)
