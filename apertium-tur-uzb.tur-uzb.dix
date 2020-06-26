@@ -238,6 +238,7 @@
     <e><p><l>ve<s n="cnjcoo"/></l><r>va<s n="cnjcoo"/></r></p></e>
     <e><p><l>ise<s n="cnjcoo"/></l><r>esa<s n="cnjcoo"/></r></p></e>
     <e><p><l>da<s n="cnjcoo"/></l><r>ham<s n="cnjcoo"/></r></p></e>
+    <e><p><l>de<s n="cnjcoo"/></l><r>ham<s n="cnjcoo"/></r></p></e>
 <e><p><l>ama<s n="cnjcoo"/></l><r>ammo<s n="cnjcoo"/></r></p></e>
 <e><p><l>yalnız<s n="cnjadv"/></l><r>faqat<s n="cnjcoo"/></r></p></e>
 <e><p><l>ile<s n="cnjcoo"/></l><r>bilan<s n="cnjcoo"/></r></p></e>
@@ -312,6 +313,8 @@
 <e><p><l>hepsi<s n="det"/><s n="qnt"/></l><r>hamma<s n="det"/><s n="qnt"/></r></p></e>
 <e><p><l>hepsi<s n="prn"/><s n="qnt"/></l><r>hamma<s n="prn"/><s n="qnt"/><s n="px3sp"/></r></p></e>
 <e><p><l>bazı<s n="prn"/><s n="qnt"/><s n="nom"/></l><r>baʻzi<s n="prn"/><s n="ind"/><s n="nom"/></r></p></e>
+<e><p><l>hiçbir<s n="det"/><s n="qnt"/></l><r>hech<s n="det"/><s n="qnt"/></r></p></e>
+<e><p><l>hiçbir<b/>şey<s n="prn"/></l><r>hech<b/>narsa<s n="prn"/></r></p></e>  <!-- Will be moved to MWE later-->
 
 
 
@@ -862,7 +865,6 @@
 <e><p><l>hal<s n="n"/></l><r>hol<s n="n"/></r></p></e>
 <e><p><l>azap<s n="n"/></l><r>azop<s n="n"/></r></p></e>
 <e><p><l>çırak<s n="n"/></l><r>shogird<s n="n"/></r></p></e>
-<e><p><l>kul<s n="n"/></l><r>qul<s n="n"/></r></p></e>
 <e><p><l>hitap<s n="n"/></l><r>xitob<s n="n"/></r></p></e>
 <e><p><l>secde<s n="n"/></l><r>sajda<s n="n"/></r></p></e>
 <e><p><l>kötülük<s n="n"/></l><r>yomonlik<s n="n"/></r></p></e>
@@ -906,7 +908,6 @@
 <e><p><l>hal<s n="n"/></l><r>hol<s n="n"/></r></p></e>
 <e><p><l>azap<s n="n"/></l><r>azop<s n="n"/></r></p></e>
 <e><p><l>çırak<s n="n"/></l><r>shogird<s n="n"/></r></p></e>
-<e><p><l>kul<s n="n"/></l><r>qul<s n="n"/></r></p></e>
 <e><p><l>Yahudi<s n="n"/></l><r>yahudi<s n="n"/></r></p></e>
 <e><p><l>hitap<s n="n"/></l><r>xitob<s n="n"/></r></p></e>
 <e><p><l>secde<s n="n"/></l><r>sajda<s n="n"/></r></p></e>
@@ -948,7 +949,6 @@
 <e><p><l>tohum<s n="n"/></l><r>urugʻ<s n="n"/></r></p></e>
 <e><p><l>yahudi<s n="n"/></l><r>yahudiy<s n="n"/></r></p></e>
 <e><p><l>dağ<s n="n"/></l><r>togʻ<s n="n"/></r></p></e>
-<e><p><l>kul<s n="n"/></l><r>qul<s n="n"/></r></p></e>
 <e><p><l>insan<s n="n"/></l><r>ahl<s n="n"/></r></p></e>
 <e><p><l>dünya<s n="n"/></l><r>yer<s n="n"/></r></p></e>
 <e><p><l>gündüz<s n="n"/></l><r>kunduz<s n="n"/></r></p></e>
@@ -2371,6 +2371,9 @@
 <e><p><l>Atatürk<s n="np"/><s n="cog"/><s n="mf"/></l><r>Otaturk<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e><p><l>Kemal<s n="np"/><s n="ant"/><s n="m"/></l><r>Kamol<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e><p><l>Ali<s n="np"/><s n="ant"/><s n="m"/></l><r>Ali<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e><p><l>Ahmet<s n="np"/><s n="ant"/><s n="m"/></l><r>Ahmad<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e><p><l>Müge<s n="np"/><s n="ant"/><s n="f"/></l><r>Muge<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+<e><p><l>Melike<s n="np"/><s n="ant"/><s n="f"/></l><r>Malika<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
 
 
 <!-- SECTION: NUMERALS -->
@@ -2479,6 +2482,12 @@
 <e><p><l>doğ<s n="v"/><s n="iv"/></l><r>tavallud<b/>top<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>yürü<s n="v"/><s n="iv"/></l><r>yur<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>piş<s n="v"/><s n="iv"/></l><r>pish<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>gül<s n="v"/><s n="iv"/></l><r>kul<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>düşün<s n="v"/><s n="tv"/></l><r>oʻyla<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>iste<s n="v"/><s n="tv"/></l><r>xohla<s n="v"/><s n="tv"/></r></p></e>
+<e><p><l>gez<s n="v"/><s n="iv"/></l><r>kez<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>gezin<s n="v"/><s n="iv"/></l><r>kezib<b/>yur<s n="v"/><s n="iv"/></r></p></e>
+
 
 <e><p><l>uzaklaş<s n="v"/><s n="iv"/></l><r>uzoqlash<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>benzemek<s n="v"/><s n="iv"/></l><r>oʻxsha<s n="v"/><s n="iv"/></r></p></e>
@@ -2562,6 +2571,8 @@
 <e><p><l>alış<s n="v"/><s n="iv"/></l><r>moslash<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>çabala<s n="v"/><s n="iv"/></l><r>chiran<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>bak<s n="v"/><s n="iv"/></l><r>qara<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>bakın<s n="v"/><s n="iv"/></l><r>qara<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>ara<s n="v"/><s n="iv"/></l><r>qidir<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>koyul<s n="v"/><s n="iv"/></l><r>qoʻyil<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>sınırlan<s n="v"/><s n="iv"/></l><r>chegaralan<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>at<s n="v"/><s n="iv"/></l><r>tashla<s n="v"/><s n="iv"/></r></p></e>
@@ -3641,8 +3652,9 @@
     <e><p><l>oyun<s n="n"/></l><r>oʻyin<s n="n"/></r></p></e>
     <e><p><l>kuş<s n="n"/></l><r>parranda<s n="n"/></r></p></e>
     <e><p><l>kuşlar<s n="n"/></l><r>parranda<s n="n"/></r></p></e>
+    <e><p><l>alt<s n="n"/></l><r>tag<s n="n"/></r></p></e> <!--This translation(tag) weighs more than "ost" IMHO -->
     <e><p><l>alt<s n="n"/></l><r>past<s n="n"/></r></p></e>
-     <e><p><l>dert<s n="n"/></l><r>dard<s n="n"/></r></p></e>
+    <e><p><l>dert<s n="n"/></l><r>dard<s n="n"/></r></p></e>
     <e><p><l>lezzetli<s n="adj"/></l><r>mazali<s n="adj"/></r></p></e>
     <e><p><l>aşağı<s n="adj"/></l><r>past<s n="adj"/></r></p></e>
     <e><p><l>düşük<s n="adj"/></l><r>past<s n="adj"/></r></p></e>
@@ -4344,7 +4356,7 @@
        <e><p><l>her<b/>daim<s n="adv"/></l><r>har<b/>doim<s n="adv"/></r></p></e>
        <e><p><l>her<b/>zaman<s n="adv"/></l><r>har<b/>doim<s n="adv"/></r></p></e>
        <e><p><l>avlan<s n="v"/><s n="iv"/></l><r>ovlan<s n="v"/><s n="iv"/></r></p></e>
-       <e><p><l>çalış<s n="v"/><s n="iv"/></l><r>ishlay<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>çalış<s n="v"/><s n="iv"/></l><r>ishla<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>kullan<s n="v"/><s n="tv"/></l><r>qoʻlla<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ger<s n="v"/><s n="tv"/></l><r>choʻz<s n="v"/><s n="tv"/></r></p></e>
 
@@ -4727,6 +4739,10 @@
       <e><p><l>cezalandır<s n="v"/><s n="tv"/></l><r>jazolantir<s n="v"/><s n="tv"/></r></p></e>
 
        <e><p><l>doğru<s n="post"/></l><r>sari<s n="post"/></r></p></e>
+       <e><p><l>masa<s n="n"/></l><r>stol<s n="n"/></r></p></e>
+
+
+
    </section>
    
    </dictionary>

@@ -22,6 +22,20 @@
   <match lemma="bir"/>
 </rule>
 
+
+<rule weight="0.1"> <!--select ishla by default -->
+  <match lemma="çalış" tags="v.*">
+    <select lemma="ishla" tags ="v.*"/>
+  </match>
+</rule>
+<rule weight="1"> <!-- select harakat qil if the previous word is ger.dat type word-->
+  <match tags="v.*.dat"/> <!-- dative gerund forms -->
+  <match lemma="çalış" tags="v.*">
+    <select lemma="harakat qil" tags="v.*"/>
+  </match>
+</rule>
+
+
 </rules>
 
 <!-- 
