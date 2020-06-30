@@ -228,7 +228,9 @@
 <e><p><l>teferruatla<s n="adv"/></l><r>batafsil<s n="adv"/></r></p></e>
 <e><p><l>çabukça<s n="adv"/></l><r>zudlik<b/>bilan<s n="adv"/></r></p></e> <!-- Will be moved to MWE later-->
 <e><p><l>dün<s n="adv"/></l><r>kecha<s n="adv"/></r></p></e>
-
+<e><p><l>ora<s n="adv"/></l><r>u% yer<s n="adv"/></r></p></e>
+<e><p><l>bura<s n="adv"/></l><r>bu% yer<s n="adv"/></r></p></e>
+<e><p><l>şura<s n="adv"/></l><r>shu% yer<s n="adv"/></r></p></e>
 
 
 
@@ -431,6 +433,7 @@
 <e><p><l>ülke<s n="n"/></l><r>mamlakat<s n="n"/></r></p></e>
 <e><p><l>ülke<s n="n"/></l><r>oʻlka<s n="n"/></r></p></e>
 <e><p><l>ses<s n="n"/></l><r>sas<s n="n"/></r></p></e>
+<e><p><l>ses<s n="n"/></l><r>ovoz<s n="n"/></r></p></e>
 <e><p><l>kız<s n="n"/></l><r>kiz<s n="n"/></r></p></e>
 <e><p><l>para<s n="n"/></l><r>pul<s n="n"/></r></p></e>
 <e><p><l>anne<s n="n"/></l><r>ona<s n="n"/></r></p></e>
@@ -3164,6 +3167,7 @@
     <e><p><l>büyük<s n="adj"/></l><r>ulugʻ<s n="adj"/></r></p></e>
     <e><p><l>meşhur<s n="adj"/></l><r>ulugʻ<s n="adj"/></r></p></e>
     <e><p><l>ulu<s n="adj"/></l><r>ulugʻ<s n="adj"/></r></p></e>
+    <e><p><l>ulu<s n="adj"/></l><r>katta<s n="adj"/></r></p></e>
     <e><p><l>ünlü<s n="adj"/></l><r>ulugʻ<s n="adj"/></r></p></e>
     <e><p><l>üniversel<s n="adj"/></l><r>universal<s n="adj"/></r></p></e>
     <e><p><l>uzun<s n="adj"/></l><r>uzun<s n="adj"/></r></p></e>
@@ -4498,7 +4502,7 @@
 <!-- words from bible -->
 
      <e><p><l>Meryem<s n="np"/><s n="ant"/><s n="f"/></l><r>Maryam<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
-       <e><p><l>ulu<s n="adj"/></l><r>ulug<s n="adj"/></r></p></e>
+       <!-- <e><p><l>ulu<s n="adj"/></l><r>ulug<s n="adj"/></r></p></e> --> 
        <e><p><l>isimli<s n="adj"/></l><r>ismli<s n="adj"/></r></p></e>
        <e><p><l>imanlı<s n="adj"/></l><r>imonli<s n="adj"/></r></p></e>
        <e><p><l>mahkum<s n="adj"/></l><r>mahkum<s n="adj"/></r></p></e>
@@ -4566,6 +4570,7 @@
        <e><p><l>yerine<b/>getir<s n="v"/><s n="tv"/></l><r>bajo<b/>keltir<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>buyur<s n="v"/><s n="tv"/></l><r>buyur<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>işit<s n="v"/><s n="tv"/></l><r>eshit<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>duy<s n="v"/><s n="tv"/></l><r>eshit<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>de<s n="v"/><s n="tv"/></l><r>ayt<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>kov<s n="v"/><s n="tv"/></l><r>quv<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>süz<s n="v"/><s n="tv"/></l><r>suz<s n="v"/><s n="tv"/></r></p></e>
