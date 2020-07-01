@@ -1,5 +1,26 @@
 <rules>
+  <rule weight ="1">
+  <match lemma="çok" tags="adj.*">
+    <select lemma="juda" tags="adj.*"/>
+  </match>
+  </rule>  
+
+
+  <rule weight="0.1"> <!--select katta by default -->
+  <match lemma="büyük" tags="adj.*">
+    <select lemma="katta"/>
+  </match>
+  </rule>
+
+  <rule weight="1"> <!-- select katta if the next word is "bir" -->
+  <match lemma="büyük" tags="adj.*">
+    <select lemma="katta"/>
+  </match>
+  <match lemma="bir"/>
+  </rule>
+
   <!-- 
+    Example:
     This rule chooses "energía" as the translation of "power" when it is preceded by "wind". 
     Add your own rules within <rule> here, using the resources below as a guide 
   -->
@@ -10,31 +31,6 @@
       <select lemma="energía" tags="n.*"/>
     </match>
   </rule>
-<rule weight="0.1"> <!--select katta by default -->
-  <match lemma="büyük" tags="adj.*">
-    <select lemma="katta"/>
-  </match>
-</rule>
-<rule weight="1"> <!-- select katta if the next word is "bir" -->
-  <match lemma="büyük" tags="adj.*">
-    <select lemma="katta"/>
-  </match>
-  <match lemma="bir"/>
-</rule>
-
-
-<rule weight="0.1"> <!--select ishla by default -->
-  <match lemma="çalış" tags="v.*">
-    <select lemma="ishla" tags ="v.*"/>
-  </match>
-</rule>
-<rule weight="1"> <!-- select harakat qil if the previous word is ger.dat type word-->
-  <match tags="v.*.dat"/> <!-- dative gerund forms -->
-  <match lemma="çalış" tags="v.*">
-    <select lemma="harakat qil" tags="v.*"/>
-  </match>
-</rule>
-
 
 </rules>
 

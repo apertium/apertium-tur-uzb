@@ -207,7 +207,7 @@
 <e><p><l>masumane<s n="adv"/></l><r>aybsiz<s n="adv"/></r></p></e>
 <e><p><l>zor<s n="adv"/></l><r>arang<s n="adv"/></r></p></e>
 <e><p><l>en<s n="adv"/></l><r>eng<s n="adv"/></r></p></e>
-
+<e><p><l>çok<s n="adv"/></l><r>juda<s n="adv"/></r></p></e>
 <e><p><l>çok<s n="adv"/></l><r>koʻp<s n="adv"/></r></p></e>
 <e><p><l>daha<s n="adv"/></l><r>battar<s n="adv"/></r></p></e>
 <e><p><l>daha<s n="adv"/></l><r>badtar<s n="adv"/></r></p></e>
@@ -231,6 +231,7 @@
 <e><p><l>ora<s n="adv"/></l><r>u% yer<s n="adv"/></r></p></e>
 <e><p><l>bura<s n="adv"/></l><r>bu% yer<s n="adv"/></r></p></e>
 <e><p><l>şura<s n="adv"/></l><r>shu% yer<s n="adv"/></r></p></e>
+<e><p><l>yeterince<s n="adv"/></l><r>yetarlicha<s n="adv"/></r></p></e>
 
 
 
@@ -2628,10 +2629,10 @@
  	<e><p><l>ver<s n="v"/><s n="tv"/></l><r>ber<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>gör<s n="v"/><s n="tv"/></l><r>koʻr<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>bekle<s n="v"/><s n="tv"/></l><r>kut<s n="v"/><s n="tv"/></r></p></e>
- 	<e><p><l>çıkar<s n="v"/><s n="tv"/></l><r>olib<b/>qoy<s n="v"/><s n="tv"/></r></p></e>
+ 	<e><p><l>çıkar<s n="v"/><s n="tv"/></l><r>olib<b/>qoʻy<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>yönet<s n="v"/><s n="tv"/></l><r>boshqar<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>yet<s n="v"/><s n="iv"/></l><r>yet<s n="v"/><s n="iv"/></r></p></e>
- 	<e><p><l>çal<s n="v"/><s n="tv"/></l><r>ogirla<s n="v"/><s n="tv"/></r></p></e>
+ 	<e><p><l>çal<s n="v"/><s n="tv"/></l><r>oʻgʻirla<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>ayaklan<s n="v"/><s n="iv"/></l><r>qoʻzgʻal<s n="v"/><s n="iv"/></r></p></e>
  	<e><p><l>vurgula<s n="v"/><s n="tv"/></l><r>urgu<b/>ber<s n="v"/><s n="tv"/></r></p></e>
  	<e><p><l>uza<s n="v"/><s n="tv"/></l><r>uzay<s n="v"/><s n="iv"/></r></p></e>
