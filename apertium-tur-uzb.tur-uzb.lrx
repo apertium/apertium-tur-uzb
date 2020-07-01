@@ -1,29 +1,36 @@
 <rules>
-  <rule weight ="1">
-  <match lemma="çok" tags="adj.*">
-    <select lemma="juda" tags="adj.*"/>
+
+  <rule weight ="1">  <!-- default -->
+  <match lemma="alt" tags="n">
+    <select lemma="tag" tags="n"/>
   </match>
   </rule>  
 
+  <rule weight ="1">  <!-- default -->
+  <match lemma="at" tags="v.tv">
+    <select lemma="ot" tags="v.tv"/>
+  </match>
+  </rule>  
 
-  <rule weight="0.1"> <!--select katta by default -->
-  <match lemma="büyük" tags="adj.*">
-    <select lemma="katta"/>
+  <rule weight ="1">  <!-- default -->
+  <match lemma="çok" tags="adj">
+    <select lemma="juda" tags="adj"/>
+  </match>
+  </rule>  
+
+  <rule weight="1"> <!-- default -->
+  <match lemma="büyük" tags="adj">
+    <select lemma="katta" tags="adj"/>
   </match>
   </rule>
 
-  <rule weight="1"> <!-- select katta if the next word is "bir" -->
-  <match lemma="büyük" tags="adj.*">
-    <select lemma="katta"/>
-  </match>
-  <match lemma="bir"/>
-  </rule>
+ 
 
   <!-- 
     Example:
     This rule chooses "energía" as the translation of "power" when it is preceded by "wind". 
     Add your own rules within <rule> here, using the resources below as a guide 
-  -->
+
 
   <rule>
     <match lemma="wind"/>
@@ -31,7 +38,16 @@
       <select lemma="energía" tags="n.*"/>
     </match>
   </rule>
+  
+  Outdated:(keeping it, might come handy later)
+  <rule weight="1">
+  <match lemma="büyük" tags="adj">
+    <select lemma="katta" tags="adj"/>
+  </match>
+  <match lemma="bir"/>
+  </rule>
 
+  -->
 </rules>
 
 <!-- 
