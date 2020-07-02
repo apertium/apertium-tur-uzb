@@ -418,7 +418,7 @@
 <e><p><l>şey<s n="n"/></l><r>narsa<s n="n"/></r></p></e>
 <e><p><l>vakit<s n="n"/></l><r>vaqt<s n="n"/></r></p></e>
 <e><p><l>zaman<s n="n"/></l><r>vaqt<s n="n"/></r></p></e>
-<e><p><l>zaman<s n="n"/></l><r>time<s n="n"/></r></p></e>
+<!-- <e><p><l>zaman<s n="n"/></l><r>time<s n="n"/></r></p></e> -->
 <e><p><l>çocuk<s n="n"/></l><r>bola<s n="n"/></r></p></e>
 <e><p><l>yol<s n="n"/></l><r>yoʻl<s n="n"/></r></p></e>
 <e><p><l>konu<s n="n"/></l><r>mavzu<s n="n"/></r></p></e>
@@ -1100,7 +1100,7 @@
 <e><p><l>fizik<s n="n"/></l><r>fizika<s n="n"/></r></p></e>
 <e><p><l>dağlık<s n="n"/></l><r>togʻlik<s n="n"/></r></p></e>
 <e><p><l>basınç<s n="n"/></l><r>bosim<s n="n"/></r></p></e>
-<e><p><l>konuşmacı<s n="n"/></l><r>soʻzlashuvcu<s n="n"/></r></p></e>
+<e><p><l>konuşmacı<s n="n"/></l><r>soʻzlashuvchi<s n="n"/></r></p></e>
 <e><p><l>gen<s n="n"/></l><r>gen<s n="n"/></r></p></e>
 <e><p><l>fonksiyon<s n="n"/></l><r>funksiya<s n="n"/></r></p></e>
 <e><p><l>komite<s n="n"/></l><r>qomita<s n="n"/></r></p></e>
@@ -2165,9 +2165,11 @@
 <e><p><l>ile<s n="post"/></l><r>-la<s n="post"/></r></p></e>
 <e><p><l>kadar<s n="post"/></l><r>qadar<s n="post"/></r></p></e>
 <e><p><l>hakkında<s n="post"/></l><r>haqida<s n="post"/></r></p></e>
-<e><p><l>boyunca<s n="post"/></l><r>boʻyincha<s n="post"/></r></p></e>
+<e><p><l>boyunca<s n="post"/></l><r>boʻylab<s n="post"/></r></p></e>
+<e><p><l>boyunca<s n="post"/></l><r>davomida<s n="post"/></r></p></e>
 <e><p><l>kala<s n="post"/></l><r>kam<s n="post"/></r></p></e>
-<e><p><l>ardından<s n="post"/></l><r>orqasından<s n="post"/></r></p></e>
+<e><p><l>ardından<s n="post"/></l><r>ortıdan<s n="post"/></r></p></e>
+<e><p><l>ardından<s n="post"/></l><r>orqasıdan<s n="post"/></r></p></e>
 <e><p><l>doğru<s n="post"/></l><r>tomon<s n="post"/></r></p></e>
 <e><p><l>göre<s n="post"/></l><r>koʻra<s n="post"/></r></p></e>
 <e><p><l>kadar<s n="post"/></l><r>qadar<s n="post"/></r></p></e>
@@ -2479,7 +2481,7 @@
 <e><p><l>topla<s n="v"/><s n="tv"/></l><r>toʻpla<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>seç<s n="v"/><s n="tv"/></l><r>tanla<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>ölçül<s n="v"/><s n="iv"/></l><r>oʻlchan<s n="v"/><s n="iv"/></r></p></e>
-<e><p><l>örüş<s n="v"/><s n="iv"/></l><r>toʻqish<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>ör<s n="v"/><s n="iv"/></l><r>toʻqi<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>dur<s n="v"/><s n="iv"/></l><r>tur<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>doğ<s n="v"/><s n="tv"/></l><r>tugʻil<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>doğ<s n="v"/><s n="tv"/></l><r>tavallud<b/>top<s n="v"/><s n="tv"/></r></p></e>
@@ -2723,7 +2725,8 @@
     <e c="0"><p><l>seyret<s n="v"/><s n="tv"/></l><r>koʻr<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>seyret<s n="v"/><s n="tv"/></l><r>tomosha<b/>qil<s n="v"/><s n="tv"/></r></p></e>
     <e><p><l>say<s n="v"/><s n="tv"/></l><r>sana<s n="v"/><s n="tv"/></r></p></e>
-     <e><p><l>konuş<s n="v"/><s n="iv"/></l><r>gapir<s n="v"/><s n="iv"/></r></p></e>
+    <e><p><l>konuş<s n="v"/><s n="tv"/></l><r>gapir<s n="v"/><s n="tv"/></r></p></e>
+    <e><p><l>konuş<s n="v"/><s n="tv"/></l><r>gaplash<s n="v"/><s n="tv"/></r></p></e>
 
 
 
@@ -4116,6 +4119,7 @@
        <e><p><l>Puy<s n="np"/><s n="top"/></l><r>Puy<s n="np"/><s n="top"/></r></p></e>
        <e><p><l>hiç<s n="adv"/></l><r>hech<s n="adv"/></r></p></e>
        <e><p><l>hiç<b/>zaman<s n="adv"/></l><r>hech<b/>qachon<s n="adv"/></r></p></e>
+       <e><p><l>hiçbir<b/>zaman<s n="adv"/></l><r>hech<b/>qachon<s n="adv"/></r></p></e>
        <e><p><l>nasıl<s n="adv"/></l><r>qanday<s n="adv"/></r></p></e>
        <e><p><l>göç<s n="v"/><s n="iv"/></l><r>koʻch<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>sarıl<s n="v"/><s n="iv"/></l><r>oʻral<s n="v"/><s n="iv"/></r></p></e>
@@ -4363,7 +4367,8 @@
        <e><p><l>her<b/>daim<s n="adv"/></l><r>har<b/>doim<s n="adv"/></r></p></e>
        <e><p><l>her<b/>zaman<s n="adv"/></l><r>har<b/>doim<s n="adv"/></r></p></e>
        <e><p><l>avlan<s n="v"/><s n="iv"/></l><r>ovlan<s n="v"/><s n="iv"/></r></p></e>
-       <e><p><l>çalış<s n="v"/><s n="iv"/></l><r>ishla<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>çalış<s n="v"/><s n="tv"/></l><r>ishla<s n="v"/><s n="tv"/></r></p></e>
+       <e><p><l>çalış<s n="v"/><s n="tv"/></l><r>harakat<b/>qil<s n="v"/><s n="tv"/></r></p></e> <!--MWE later -->
        <e><p><l>kullan<s n="v"/><s n="tv"/></l><r>qoʻlla<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>ger<s n="v"/><s n="tv"/></l><r>choʻz<s n="v"/><s n="tv"/></r></p></e>
 
@@ -4748,6 +4753,7 @@
 
        <e><p><l>doğru<s n="post"/></l><r>sari<s n="post"/></r></p></e>
        <e><p><l>masa<s n="n"/></l><r>stol<s n="n"/></r></p></e>
+       <e><p><l>tercüme<s n="n"/></l><r>tarjima<s n="n"/></r></p></e>
 
 
 
