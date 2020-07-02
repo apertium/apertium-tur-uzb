@@ -1,6 +1,47 @@
 <rules>
 
   <rule weight ="1">  <!-- default -->
+  <match lemma="ardından" tags="post">
+    <select lemma="ortidan" tags="post"/>
+  </match>
+  </rule>  
+
+  <rule weight ="1">  <!-- default -->
+  <match lemma="çalış" tags="v.tv.*">
+    <select lemma="ishla" tags="v.tv.*"/>
+  </match>
+  </rule>  
+  <rule weight ="2">  <!-- default -->
+  <match lemma="*" tags="v.*.dat" /> <!-- if konuş comes after dative gerund (Ex: tercüme etmeye çalıştı) -->
+  <match lemma="çalış" tags="v.tv.*">
+    <select lemma="harakat qil" tags="v.tv.*"/>
+  </match>
+  </rule>  
+
+
+  <rule weight ="1">  <!-- default -->
+  <match lemma="konuş" tags="v.tv">
+    <select lemma="gapir" tags="v.tv"/>
+  </match>
+  </rule>  
+  <rule weight ="2">
+  <or>
+	<match lemma="*" tags="*.ins" /> <!-- if konuş comes after noun/pronoun+Instrumental(comitative) (Ex: Köpekle konuştum)  -->
+	<match lemma="ile" tags="post" /> <!-- if konuş comes after ile (Ex: Ay ile konuştum)  -->
+  </or>
+  <match lemma="konuş" tags="v.tv.*">
+    <select lemma="gaplash" tags="v.tv.*"/>
+  </match>
+  </rule>  
+
+
+  <rule weight ="1">  <!-- default -->
+  <match lemma="ile" tags="post">
+    <select lemma="bilan" tags="post"/>
+  </match>
+  </rule>  
+
+  <rule weight ="1">  <!-- default -->
   <match lemma="alt" tags="n">
     <select lemma="tag" tags="n"/>
   </match>
