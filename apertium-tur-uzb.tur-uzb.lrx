@@ -1,6 +1,33 @@
 <rules>
 
   <rule weight ="1">  <!-- default -->
+  <match lemma="güzel" tags="adj">
+    <select lemma="goʻzal" tags="adj"/>
+  </match>
+  </rule>
+  <rule weight ="2">
+  <match lemma="çok"/> <!-- if güzel comes after çok, it means "very good"(mostly) (Ex: Hava bugün çok güzel) -->
+  <match lemma="güzel" tags="adj">
+    <select lemma="ajoyib" tags="adj"/>
+  </match>
+  </rule>
+
+
+  <rule weight ="1">  <!-- default -->
+  <match lemma="boyunca" tags="post">
+    <select lemma="boʻylab" tags="post"/>
+  </match>
+  </rule>  
+  <rule weight ="2"> <!-- if boyunca comes after a number followed by a noun (Ex: iki gün boyunca) --> <!-- Currently not working -->
+  <match lemma="*" tags="num" /> <!-- just any number? -->
+  <match lemma="*" tags="n.*" /> <!-- just any noun? -->
+  <match lemma="boyunca" tags="post">
+    <select lemma="davomida" tags="post"/>
+  </match>
+  </rule>  
+
+
+  <rule weight ="1">  <!-- default -->
   <match lemma="ardından" tags="post">
     <select lemma="ortidan" tags="post"/>
   </match>
@@ -60,8 +87,8 @@
   </rule>  
 
   <rule weight="1"> <!-- default -->
-  <match lemma="büyük" tags="adj">
-    <select lemma="katta" tags="adj"/>
+  <match lemma="büyük">
+    <select lemma="katta"/>
   </match>
   </rule>
 
