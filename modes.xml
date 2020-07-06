@@ -23,17 +23,8 @@
       <program name="lrx-proc">
         <file name="tur-uzb.autolex.bin"/>
       </program>
-      <program name="apertium-transfer -b">
-        <file name="apertium-tur-uzb.tur-uzb.t1x"/>
-        <file name="tur-uzb.t1x.bin"/>
-      </program>
-      <program name="apertium-interchunk">
-        <file name="apertium-tur-uzb.tur-uzb.t2x"/>
-        <file name="tur-uzb.t2x.bin"/>
-      </program>
-      <program name="apertium-postchunk">
-        <file name="apertium-tur-uzb.tur-uzb.t3x"/>
-        <file name="tur-uzb.t3x.bin"/>
+      <program name="rtx-proc">
+        <file name="tur-uzb.rtx.bin"/>
       </program>
       <program name="lt-proc $1">
         <file name="tur-uzb.autogen.bin"/>
