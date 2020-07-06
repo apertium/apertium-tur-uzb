@@ -1,121 +1,18 @@
 <rules>
 
-  <rule weight ="1">  <!-- default -->
-  <match lemma="güzel" tags="adj">
-    <select lemma="goʻzal" tags="adj"/>
-  </match>
-  </rule>
-  <rule weight ="2">
-  <match lemma="çok"/> <!-- if güzel comes after çok, it means "very good"(mostly) (Ex: Hava bugün çok güzel) -->
-  <match lemma="güzel" tags="adj">
-    <select lemma="ajoyib" tags="adj"/>
-  </match>
-  </rule>
-
-
-  <rule weight ="1">  <!-- default -->
-  <match lemma="boyunca" tags="post">
-    <select lemma="boʻylab" tags="post"/>
-  </match>
-  </rule>  
-  <rule weight ="2"> <!-- if boyunca comes after a number followed by a noun (Ex: iki gün boyunca) --> <!-- Currently not working -->
-  <match lemma="*" tags="num" /> <!-- just any number? -->
-  <match lemma="*" tags="n.*" /> <!-- just any noun? -->
-  <match lemma="boyunca" tags="post">
-    <select lemma="davomida" tags="post"/>
-  </match>
-  </rule>  
-
-
-  <rule weight ="1">  <!-- default -->
-  <match lemma="ardından" tags="post">
-    <select lemma="ortidan" tags="post"/>
-  </match>
-  </rule>  
-
-  <rule weight ="1">  <!-- default -->
-  <match lemma="çalış" tags="v.tv.*">
-    <select lemma="ishla" tags="v.tv.*"/>
-  </match>
-  </rule>  
-  <rule weight ="2">  <!-- default -->
-  <match lemma="*" tags="v.*.dat" /> <!-- if konuş comes after dative gerund (Ex: tercüme etmeye çalıştı) -->
-  <match lemma="çalış" tags="v.tv.*">
-    <select lemma="harakat qil" tags="v.tv.*"/>
-  </match>
-  </rule>  
-
-
-  <rule weight ="1">  <!-- default -->
-  <match lemma="konuş" tags="v.tv">
-    <select lemma="gapir" tags="v.tv"/>
-  </match>
-  </rule>  
-  <rule weight ="2">
-  <or>
-	<match lemma="*" tags="*.ins" /> <!-- if konuş comes after noun/pronoun+Instrumental(comitative) (Ex: Köpekle konuştum)  -->
-	<match lemma="ile" tags="post" /> <!-- if konuş comes after ile (Ex: Ay ile konuştum)  -->
-  </or>
-  <match lemma="konuş" tags="v.tv.*">
-    <select lemma="gaplash" tags="v.tv.*"/>
-  </match>
-  </rule>  
-
-
-  <rule weight ="1">  <!-- default -->
-  <match lemma="ile" tags="post">
-    <select lemma="bilan" tags="post"/>
-  </match>
-  </rule>  
-
-  <rule weight ="1">  <!-- default -->
-  <match lemma="alt" tags="n">
-    <select lemma="tag" tags="n"/>
-  </match>
-  </rule>  
-
-  <rule weight ="1">  <!-- default -->
-  <match lemma="at" tags="v.tv">
-    <select lemma="ot" tags="v.tv"/>
-  </match>
-  </rule>  
-
-  <rule weight ="1">  <!-- default -->
-  <match lemma="çok" tags="adj">
-    <select lemma="juda" tags="adj"/>
-  </match>
-  </rule>  
-
-  <rule weight="1"> <!-- default -->
-  <match lemma="büyük">
-    <select lemma="katta"/>
-  </match>
-  </rule>
-
- 
-
-  <!-- 
-    Example:
-    This rule chooses "energía" as the translation of "power" when it is preceded by "wind". 
-    Add your own rules within <rule> here, using the resources below as a guide 
-
-
-  <rule>
-    <match lemma="wind"/>
-    <match lemma="power" tags="n.*">
-      <select lemma="energía" tags="n.*"/>
+<rule weight="1"> 
+    <match lemma="boyunca" tags="post">
+    <select lemma="bo'ylab" tags="post"/>
     </match>
-  </rule>
-  
-  Outdated:(keeping it, might come handy later)
-  <rule weight="1">
-  <match lemma="büyük" tags="adj">
-    <select lemma="katta" tags="adj"/>
-  </match>
-  <match lemma="bir"/>
-  </rule>
+</rule>
 
-  -->
+<rule weight="2"> 
+    <match lemma="*" tags="num"/>
+    <match lemma="*" tags="n.*"/>
+    <match lemma="boyunca" tags="post*">
+    <select lemma="davomida" tags="post"/>
+    </match>
+</rule>
 </rules>
 
 <!-- 
