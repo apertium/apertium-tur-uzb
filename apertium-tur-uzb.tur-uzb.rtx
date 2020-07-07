@@ -15,7 +15,7 @@ tense = pres past fut ifi fut aor imp unac prog nec ;
 vadj = gpr_past gpr_impf gpr_fut gpr_hab gpr_pot gpr_ppot gpr_unac gpr_aor ;
 vadv = gna_perf gna_impf gna_cond gna_ken ;
 ger = ger_past ger_fut ger ger_unac ger_aor ger_inf ;
-inf = prc_perf prc_impf prc_vol prc_cond prc_fplan prc_plan ;
+inf = prc_perf prc_impf prc_vol prc_cond prc_fplan prc_plan prc;
 nonfin = [vadj] [vadv] [ger] [inf] ;
 fin_nonfin = [tense] [vadj] [vadv] [ger] [inf] ;
 comp = comp ;
@@ -39,9 +39,9 @@ voice_c = pass ;
 ! caus.pass is loads more common than pass.caus
 ! technically caus.caus is also possible
 
-verbs_acc = кара ;
-post_acc = карай ;
-post_dat = карата ;
+verbs_acc = qara ;
+post_acc = qaray ;
+post_dat = qarata ;
 
 advl = advl ;
 
