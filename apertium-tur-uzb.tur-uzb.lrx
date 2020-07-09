@@ -1,5 +1,19 @@
 <rules>
 
+
+  <rule weight ="1">  <!-- default -->
+  <match lemma="saklan" tags="v.*">
+    <select lemma="bekin" tags="v.*"/>
+  </match>
+  </rule>
+
+
+  <rule weight ="1">  <!-- default -->
+  <match lemma="küçük" tags="adj">
+    <select lemma="kichik" tags="adj"/>
+  </match>
+  </rule>
+
   <rule weight ="1">  <!-- default -->
   <match lemma="dışarı">
     <select lemma="tashqari"/>
@@ -23,41 +37,41 @@
   <match lemma="boyunca" tags="post">
     <select lemma="boʻylab" tags="post"/>
   </match>
-  </rule>  
+  </rule>
   <rule weight ="2"> <!-- if boyunca comes after a number followed by a noun (Ex: iki gün boyunca) --> <!-- Currently not working -->
   <match lemma="*" tags="num" /> <!-- just any number? -->
   <match lemma="*" tags="n.*" /> <!-- just any noun? -->
   <match lemma="boyunca" tags="post">
     <select lemma="davomida" tags="post"/>
   </match>
-  </rule>  
+  </rule>
 
 
   <rule weight ="1">  <!-- default -->
   <match lemma="ardından" tags="post">
     <select lemma="ortidan" tags="post"/>
   </match>
-  </rule>  
+  </rule>
 
 
   <rule weight ="1">  <!-- default -->
   <match lemma="çalış" tags="v.tv.*">
     <select lemma="ishla" tags="v.tv.*"/>
   </match>
-  </rule>  
+  </rule>
   <rule weight ="2">  <!-- default -->
   <match lemma="*" tags="v.*.dat" /> <!-- if konuş comes after dative gerund (Ex: tercüme etmeye çalıştı) -->
   <match lemma="çalış" tags="v.tv.*">
     <select lemma="harakat qil" tags="v.tv.*"/>
   </match>
-  </rule>  
+  </rule>
 
 
   <rule weight ="1">  <!-- default -->
   <match lemma="konuş" tags="v.tv">
     <select lemma="gapir" tags="v.tv"/>
   </match>
-  </rule>  
+  </rule>
   <rule weight ="2">
   <or>
 	<match lemma="*" tags="*.ins" /> <!-- if konuş comes after noun/pronoun+Instrumental(comitative) (Ex: Köpekle konuştum)  -->
@@ -66,32 +80,32 @@
   <match lemma="konuş" tags="v.tv.*">
     <select lemma="gaplash" tags="v.tv.*"/>
   </match>
-  </rule>  
+  </rule>
 
 
   <rule weight ="1">  <!-- default -->
   <match lemma="ile" tags="post">
     <select lemma="bilan" tags="post"/>
   </match>
-  </rule>  
+  </rule>
 
   <rule weight ="1">  <!-- default -->
   <match lemma="alt" tags="n">
     <select lemma="tag" tags="n"/>
   </match>
-  </rule>  
+  </rule>
 
   <rule weight ="1">  <!-- default -->
   <match lemma="at" tags="v.tv">
     <select lemma="ot" tags="v.tv"/>
   </match>
-  </rule>  
+  </rule>
 
   <rule weight ="1">  <!-- default -->
   <match lemma="çok" tags="adj">
     <select lemma="juda" tags="adj"/>
   </match>
-  </rule>  
+  </rule>
 
   <rule weight="1"> <!-- default -->
   <match lemma="büyük">
@@ -99,11 +113,11 @@
   </match>
   </rule>
 
- 
-  <!-- 
+
+  <!--
     Example:
-    This rule chooses "energía" as the translation of "power" when it is preceded by "wind". 
-    Add your own rules within <rule> here, using the resources below as a guide 
+    This rule chooses "energía" as the translation of "power" when it is preceded by "wind".
+    Add your own rules within <rule> here, using the resources below as a guide
 
   Outdated:(keeping it, might come handy later)
   <rule weight="1">
@@ -116,11 +130,10 @@
   -->
 </rules>
 
-<!-- 
-Resources: 
+<!--
+Resources:
     http://wiki.apertium.org/wiki/How_to_get_started_with_lexical_selection_rules
     http://wiki.apertium.org/wiki/Constraint-based_lexical_selection
     http://wiki.apertium.org/wiki/Lexical_selection
     http://wiki.apertium.org/wiki/Learning_rules_from_parallel_and_non-parallel_corpora
 -->
-

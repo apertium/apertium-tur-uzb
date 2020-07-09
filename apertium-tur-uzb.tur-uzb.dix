@@ -233,6 +233,8 @@
 <e><p><l>şura<s n="adv"/></l><r>shu<b />yer<s n="adv"/></r></p></e>
 <e><p><l>yeterince<s n="adv"/></l><r>yetarlicha<s n="adv"/></r></p></e>
 <e><p><l>bu<b/>yüzden<s n="adv"/></l><r>shuning<b/>uchun<s n="adv"/></r></p></e> <!-- Will be moved to MWE later-->
+<e><p><l>şu<b/>anda<s n="adv"/></l><r>hozir<s n="adv"/></r></p></e> <!-- Will be moved to MWE later-->
+<e><p><l>birlikte<s n="adv"/></l><r>birga<s n="adv"/></r></p></e>
 
 
 
@@ -1203,6 +1205,7 @@
 <e><p><l>gemi<s n="n"/></l><r>gemi<s n="n"/></r></p></e>
 <e><p><l>erkek<s n="n"/></l><r>erkak<s n="n"/></r></p></e>
 <e><p><l>oğlan<s n="n"/></l><r>yigit<s n="n"/></r></p></e>
+<e><p><l>oğlan<b />çocuğu<s n="n"/></l><r>bolakay<s n="n"/></r></p></e>
 <e><p><l>Rus<s n="n"/></l><r>rus<s n="n"/></r></p></e>
 <e><p><l>birlik<s n="n"/></l><r>birlik<s n="n"/></r></p></e>
 <e><p><l>destan<s n="n"/></l><r>doston<s n="n"/></r></p></e>
@@ -2600,6 +2603,8 @@
 <e><p><l>hazırlan<s n="v"/><s n="iv"/></l><r>tayyorlan<s n="v"/><s n="iv"/></r></p></e>
 
 <e><p><l>saklan<s n="v"/><s n="iv"/></l><r>saqlan<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>saklan<s n="v"/><s n="iv"/></l><r>bekin<s n="v"/><s n="iv"/></r></p></e>
+<e><p><l>saklan<s n="v"/><s n="iv"/></l><r>berkin<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>görün<s n="v"/><s n="iv"/></l><r>koʻrin<s n="v"/><s n="iv"/></r></p></e>
 <e><p><l>ücretlendir<s n="v"/><s n="tv"/></l><r>zaryadlan<s n="v"/><s n="tv"/></r></p></e>
 <e><p><l>dökül<s n="v"/><s n="iv"/></l><r>quyil<s n="v"/><s n="iv"/></r></p></e>
