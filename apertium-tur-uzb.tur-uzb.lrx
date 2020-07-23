@@ -1,6 +1,17 @@
 <rules>
 
   <rule weight ="1">  <!-- default -->
+  <match lemma="ekonomi" tags="n">
+    <select lemma="iqtisod" tags="n"/>
+  </match>
+  </rule>
+  <rule weight ="1">  <!-- default -->
+  <match lemma="ekonomi" tags="n.*">
+    <select lemma="iqtisod" tags="n.*"/>
+  </match>
+  </rule>
+
+  <rule weight ="1">  <!-- default -->
   <match lemma="mümkün olduğunca" tags="adv">
     <select lemma="iloji boricha" tags="adv"/>
   </match>
