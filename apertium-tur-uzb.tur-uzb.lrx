@@ -30,6 +30,12 @@
     <select lemma="tashqari" tags="n"/>
   </match>
   </rule>
+  <rule weight ="1">  <!-- default -->
+  <match lemma="dışarı" tags="n.*">
+    <select lemma="tashqari" tags="n.*"/>
+  </match>
+  </rule>
+
 
   <rule weight ="1">  <!-- default -->
   <match lemma="güzel" tags="adj">
