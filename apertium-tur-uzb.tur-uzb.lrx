@@ -1,5 +1,16 @@
 <rules>
 
+  <rule weight ="1">  <!-- default -->
+  <match lemma="yahudi" tags="n">
+    <select lemma="yahudiy" tags="n"/>
+  </match>
+  </rule>
+  <rule weight ="1">  <!-- default -->
+  <match lemma="yahudi" tags="n.*">
+    <select lemma="yahudiy" tags="n.*"/>
+  </match>
+  </rule>
+
 
   <rule weight ="1">  <!-- default -->
   <match lemma="saklan" tags="v.*">
