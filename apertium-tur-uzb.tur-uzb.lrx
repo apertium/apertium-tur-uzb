@@ -1,5 +1,40 @@
 <rules>
 
+
+  <!-- This one is Not Working-->
+  <rule weight ="2">  <!-- "neden" is "nimaga" if it comes followed by the word "bu" (Ex: "Neden bunu yapıyor?"-> "Nimaga bunday qilyapti?")-->
+    <match lemma="neden" tags="prn.itg.abl"> <!-- Is tag correct here? -->
+      <select lemma="nimaga" tags="adv.itg.dat"/>
+    </match>
+    <or>
+      <match lemma="bu" tags="adv"/>
+      <match lemma="bu" tags="adv.*"/>
+    </or>
+  </rule>
+
+  <rule weight ="1">  <!-- default -->
+    <match lemma="neden" tags="adv">
+      <select lemma="nimaga" tags="adv"/>
+    </match>
+  </rule>
+
+  <rule weight ="1">  <!-- default -->
+    <match lemma="nedeniyle" tags="cnjsub">  <!-- Is tag correct here? -->
+      <select lemma="sababli" tags="cnjsub"/>
+    </match>
+  </rule>
+
+  <rule weight ="1">  <!-- default -->
+    <match lemma="el" tags="n">
+      <select lemma="qoʻl" tags="n"/>
+    </match>
+  </rule>
+  <rule weight ="1">  <!-- default -->
+    <match lemma="el" tags="n.*">
+      <select lemma="qoʻl" tags="n.*"/>
+    </match>
+  </rule>
+
   <rule weight ="2">
     <match lemma="namaz"/> <!-- if kıl comes after namaz, it means "to pray", so the proper Uzbek translation would be "namaz o`qi" -->
     <match lemma="kıl" tags="v.*">
