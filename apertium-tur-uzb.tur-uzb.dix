@@ -235,6 +235,9 @@
 <e><p><l>bu<b/>yüzden<s n="adv"/></l><r>shuning<b/>uchun<s n="adv"/></r></p></e> <!-- Will be moved to MWE later-->
 <e><p><l>şu<b/>anda<s n="adv"/></l><r>hozir<s n="adv"/></r></p></e> <!-- Will be moved to MWE later-->
 <e><p><l>birlikte<s n="adv"/></l><r>birga<s n="adv"/></r></p></e>
+<e><p><l>mümkün<b/>olduğunca<s n="adv"/></l><r>iloji<b/>boricha<s n="adv"/></r></p></e>
+<e><p><l>mümkün<b/>olduğunca<s n="adv"/></l><r>imkoni<b/>boricha<s n="adv"/></r></p></e>
+<e><p><l>mümkün<b/>olduğunca<s n="adv"/></l><r>imkon<b/>qadar<s n="adv"/></r></p></e>
 
 
 
@@ -4297,6 +4300,7 @@
        <e><p><l>isimlendiril<s n="v"/><s n="iv"/></l><r>nomlan<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>belirlen<s n="v"/><s n="iv"/></l><r>aniqlan<s n="v"/><s n="iv"/></r></p></e>
        <e><p><l>betimlen<s n="v"/><s n="iv"/></l><r>tasvirlan<s n="v"/><s n="iv"/></r></p></e>
+       <e><p><l>sakla<s n="v"/><s n="tv"/></l><r>bekit<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>sakla<s n="v"/><s n="tv"/></l><r>saqla<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>betimle<s n="v"/><s n="tv"/></l><r>tasvirla<s n="v"/><s n="tv"/></r></p></e>
        <e><p><l>sar<s n="v"/><s n="tv"/></l><r>oʻral<s n="v"/><s n="tv"/></r></p></e>

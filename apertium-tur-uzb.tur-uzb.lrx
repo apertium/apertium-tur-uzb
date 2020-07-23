@@ -1,6 +1,12 @@
 <rules>
 
   <rule weight ="1">  <!-- default -->
+  <match lemma="mümkün olduğunca" tags="adv">
+    <select lemma="iloji boricha" tags="adv"/>
+  </match>
+  </rule>
+
+  <rule weight ="1">  <!-- default -->
   <match lemma="yahudi" tags="n">
     <select lemma="yahudiy" tags="n"/>
   </match>
@@ -17,6 +23,13 @@
     <select lemma="bekin" tags="v.*"/>
   </match>
   </rule>
+
+  
+    <rule weight ="1">  <!-- default -->
+    <match lemma="sakla" tags="v.*">
+      <select lemma="bekit" tags="v.*"/>
+    </match>
+    </rule>
 
 
   <rule weight ="1">  <!-- default -->
