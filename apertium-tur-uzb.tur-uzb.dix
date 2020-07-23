@@ -2399,6 +2399,14 @@
 <e><p><l>sekiz<s n="num"/></l><r>sakkiz<s n="num"/></r></p></e>
 <e><p><l>dokuz<s n="num"/></l><r>toʻqqiz<s n="num"/></r></p></e>
 <e><p><l>on<s n="num"/></l><r>oʻn<s n="num"/></r></p></e>
+<e><p><l>yirmi<s n="num"/></l><r>yigirma<s n="num"/></r></p></e>
+<e><p><l>otuz<s n="num"/></l><r>oʻttiz<s n="num"/></r></p></e>
+<e><p><l>kırk<s n="num"/></l><r>qirq<s n="num"/></r></p></e>
+<e><p><l>elli<s n="num"/></l><r>ellik<s n="num"/></r></p></e>
+<e><p><l>altmış<s n="num"/></l><r>oltmish<s n="num"/></r></p></e>
+<e><p><l>yetmiş<s n="num"/></l><r>yetmish<s n="num"/></r></p></e>
+<e><p><l>seksen<s n="num"/></l><r>sakson<s n="num"/></r></p></e>
+<e><p><l>doksan<s n="num"/></l><r>toʻqson<s n="num"/></r></p></e>
 <e><p><l>yüz<s n="num"/></l><r>yuz<s n="num"/></r></p></e>
 <e><p><l>bin<s n="num"/></l><r>ming<s n="num"/></r></p></e>
 <e><p><l>milyon<s n="num"/></l><r>million<s n="num"/></r></p></e>
@@ -2406,6 +2414,7 @@
 <e><p><l>bilyon<s n="num"/></l><r>billion<s n="num"/></r></p></e>
 <e><p><l>trilyon<s n="num"/></l><r>trillion<s n="num"/></r></p></e>
 <e><p><l>buçuk<s n="num"/></l><r>yarim<s n="num"/></r></p></e>
+<e><p><l>çeyrek<s n="num"/></l><r>chorak<s n="num"/></r></p></e>
 
 <e><p><l>Paşa<s n="title"/></l><r>Posho<s n="title"/></r></p></e>
 
@@ -2429,7 +2438,7 @@
 
 	<e c="  0"><p><l>o<s n="prn"/><s n="dem"/></l><r>u<s n="prn"/><s n="dem"/></r></p></e>
 <e c="  0"><p><l>o<s n="prn"/><s n="dem"/></l><r>oʻsha<s n="prn"/><s n="dem"/></r></p></e>
-<e c="  0"><p><l>iki<s n="prn"/><s n="qnt"/></l><r>ikkala<s n="prn"/><s n="qnt"/></r></p></e>
+<e c="  0"><p><l>iki<s n="prn"/><s n="qnt"/></l><r>ikki<s n="prn"/><s n="qnt"/></r></p></e>
 	<e c="  0"><p><l>kendi<s n="prn"/><s n="ref"/></l><r>oʻz<s n="prn"/><s n="ref"/></r></p></e>
 	<e c="  0"><p><l>şu<s n="prn"/><s n="dem"/></l><r>shu<s n="prn"/><s n="dem"/></r></p></e>
 	<e c="  0"><p><l>bu<s n="prn"/><s n="dem"/></l><r>bu<s n="prn"/><s n="dem"/></r></p></e>
@@ -4671,7 +4680,7 @@
        <e><p><l>Filipus<s n="np"/><s n="ant"/><s n="m"/></l><r>Filip<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>Bünyamin<s n="np"/><s n="ant"/><s n="m"/></l><r>Binyamin<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
        <e><p><l>Netanyahu<s n="np"/><s n="cog"/><s n="mf"/></l><r>Netanyahu<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-       <e><p><l>kırk<s n="num"/></l><r>qirq<s n="num"/></r></p></e>
+       <!-- <e><p><l>kırk<s n="num"/></l><r>qirq<s n="num"/></r></p></e> -->
        <e><p><l>irade<s n="n"/></l><r>iroda<s n="n"/></r></p></e>
        <e><p><l>mezhep<s n="n"/></l><r>mazhab<s n="n"/></r></p></e>
        <e><p><l>üzgünlük<s n="n"/></l><r>xafa<s n="n"/></r></p></e>
