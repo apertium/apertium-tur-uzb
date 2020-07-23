@@ -1,5 +1,12 @@
 <rules>
 
+  <rule weight ="2">
+    <match lemma="namaz"/> <!-- if kıl comes after namaz, it means "to pray", so the proper Uzbek translation would be "namaz o`qi" -->
+    <match lemma="kıl" tags="v.*">
+      <select lemma="oʻqi" tags="v.*"/>
+    </match>
+  </rule>
+
   <rule weight ="1">  <!-- default -->
   <match lemma="ekonomi" tags="n">
     <select lemma="iqtisod" tags="n"/>
