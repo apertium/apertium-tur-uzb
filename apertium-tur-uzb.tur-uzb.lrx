@@ -15,8 +15,8 @@
   </rule>
 
   <rule weight ="1">  <!-- default -->
-  <match lemma="dışarı">
-    <select lemma="tashqari"/>
+  <match lemma="dışarı" tags="n">
+    <select lemma="tashqari" tags="n"/>
   </match>
   </rule>
 
@@ -27,9 +27,14 @@
   </rule>
   <rule weight ="2">
   <match lemma="çok"/> <!-- if güzel comes after çok, it means "very good"(mostly) (Ex: Hava bugün çok güzel) -->
-  <match lemma="güzel" tags="adj">
-    <select lemma="ajoyib" tags="adj"/>
-  </match>
+  <or>
+    <match lemma="güzel" tags="adj">
+      <select lemma="ajoyib" tags="adj"/>
+    </match>
+    <match lemma="güzel" tags="adj.*">
+      <select lemma="ajoyib" tags="adj.*"/>
+    </match>
+  </or>
   </rule>
 
 
@@ -108,26 +113,11 @@
   </rule>
 
   <rule weight="1"> <!-- default -->
-  <match lemma="büyük">
-    <select lemma="katta"/>
-  </match>
-  </rule>
-
-
-  <!--
-    Example:
-    This rule chooses "energía" as the translation of "power" when it is preceded by "wind".
-    Add your own rules within <rule> here, using the resources below as a guide
-
-  Outdated:(keeping it, might come handy later)
-  <rule weight="1">
   <match lemma="büyük" tags="adj">
     <select lemma="katta" tags="adj"/>
   </match>
-  <match lemma="bir"/>
   </rule>
 
-  -->
 </rules>
 
 <!--
