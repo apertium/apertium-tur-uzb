@@ -172,7 +172,7 @@
 <e>       <p><l>var<s n="adj"/></l>                    <r>bor<s n="adj"/></r></p></e>
 <e c="  0"><p><l>yakın<s n="adj"/></l>                 <r>yaqin<s n="adj"/></r></p></e>
 <e>       <p><l>yakın<s n="adj"/></l>                  <r>yakin<s n="adj"/></r></p></e>
-<e>       <p><l>yarı<b/>iletken<s n="adj"/></l>        <r><s n="adj"/>yarimoʻtkazgich</r></p></e>
+<e>       <p><l>yarı<b/>iletken<s n="adj"/></l>        <r>yarimoʻtkazgich<s n="adj"/></r></p></e>
 <e>       <p><l>yaygın<s n="adj"/></l>                 <r>oʻzaro<s n="adj"/></r></p></e>
 <e c="  0"><p><l>yeni<s n="adj"/></l>                  <r>yangi<s n="adj"/></r></p></e>
 <e>       <p><l>yerleşik<s n="adj"/></l>               <r>oʻtroq<s n="adj"/></r></p></e>
@@ -422,7 +422,8 @@
 <e>       <p><l>Arap<s n="n"/></l>                     <r>arab<s n="n"/></r></p></e>
 <e>       <p><l>arayış<s n="n"/></l>                   <r>izlanish<s n="n"/></r></p></e>
 <e>       <p><l>araç<s n="n"/></l>                     <r>vosita<s n="n"/></r></p></e>
-<e>       <p><l>araç gereç<s n="n"/></l>               <r>jihoz<s n="n"/></r></p></e>
+<e>       <p><l>araç<b/>gereç<s n="n"/></l>            <r>jihoz<s n="n"/></r></p></e>
+<e>       <p><l>araç<b/>gereç<s n="n"/></l>            <r>asbob<s n="n"/></r></p></e>
 <e>       <p><l>araştırma<s n="n"/></l>                <r>tadqiqot<s n="n"/></r></p></e>
 <e>       <p><l>arka<s n="n"/></l>                     <r>orqa<s n="n"/></r></p></e>
 <e>       <p><l>arkadaş<s n="n"/></l>                  <r>doʻst<s n="n"/></r></p></e>
@@ -655,6 +656,7 @@
 <e>       <p><l>ekonomi<s n="n"/></l>                  <r>iqtisodiyot<s n="n"/></r></p></e>
 <e>       <p><l>ekonomi<s n="n"/></l>                  <r>xoʻjalik<s n="n"/></r></p></e>
 <e>       <p><l>el<s n="n"/></l>                       <r>qoʻl<s n="n"/></r></p></e>
+<e>       <p><l>el<s n="n"/></l>                       <r>kaft<s n="n"/></r></p></e>
 <e>       <p><l>el<s n="n"/></l>                       <r>el<s n="n"/></r></p></e>
 <e>       <p><l>elbise<s n="n"/></l>                   <r>koʻylak<s n="n"/></r></p></e>
 <e>       <p><l>elektrik<s n="n"/></l>                 <r>elektr<s n="n"/></r></p></e>
@@ -716,7 +718,6 @@
 <e>       <p><l>gece<s n="n"/></l>                     <r>kecha<s n="n"/></r></p></e>
 <e>       <p><l>gelin<s n="n"/></l>                    <r>kelin<s n="n"/></r></p></e>
 <e>       <p><l>gelişim<s n="n"/></l>                  <r>taraqqiyot<s n="n"/></r></p></e>
-<e>       <p><l>gelişim<s n="n"/></l>                  <r><s n="n"/></r></p></e>
 <e>       <p><l>gelişim<s n="n"/></l>                  <r>rivojlanish<s n="n"/></r></p></e>
 <e>       <p><l>gelişme<s n="n"/></l>                  <r>rivoj<s n="n"/></r></p></e>
 <e>       <p><l>geliştirme<s n="n"/></l>               <r>rivojlantirish<s n="n"/></r></p></e>
@@ -898,8 +899,9 @@
 <e>       <p><l>Iraklı<s n="n"/></l>                   <r>iroqlik<s n="n"/></r></p></e>
 <e>       <p><l>ırmak<s n="n"/></l>                    <r>daryo<s n="n"/></r></p></e>
 <e>       <p><l>is<s n="n"/></l>                       <r>kurum<s n="n"/></r></p></e>
-<e>       <p><l>isaret<s n="n"/></l>                   <r>belgi<s n="n"/></r></p></e>
-<e>       <p><l>isaret<s n="n"/></l>                   <r>alomat<s n="n"/></r></p></e>
+<e>       <p><l>işaret<s n="n"/></l>                   <r>belgi<s n="n"/></r></p></e>
+<e>       <p><l>işaret<s n="n"/></l>                   <r>ishora<s n="n"/></r></p></e>
+<e>       <p><l>işaret<s n="n"/></l>                   <r>alomat<s n="n"/></r></p></e>
 <e>       <p><l>isim<s n="n"/></l>                     <r>nom<s n="n"/></r></p></e>
 <e>       <p><l>isim<s n="n"/></l>                     <r>ism<s n="n"/></r></p></e>
 <e>       <p><l>ıslahat<s n="n"/></l>                  <r>islohot<s n="n"/></r></p></e>
@@ -1031,7 +1033,7 @@
 <e>       <p><l>koca<s n="n"/></l>                     <r>er<s n="n"/></r></p></e>
 <e>       <p><l>koku<s n="n"/></l>                     <r>hid<s n="n"/></r></p></e>
 <e>       <p><l>koku<s n="n"/></l>                     <r>is<s n="n"/></r></p></e>
-<e>       <p><l>kol<s n="n"/></l>                      <r>qol<s n="n"/></r></p></e>
+<e>       <p><l>kol<s n="n"/></l>                      <r>qoʻl<s n="n"/></r></p></e>
 <e>       <p><l>kolej<s n="n"/></l>                    <r>kollej<s n="n"/></r></p></e>
 <e>       <p><l>koleksiyon<s n="n"/></l>               <r>majmua<s n="n"/></r></p></e>
 <e>       <p><l>komite<s n="n"/></l>                   <r>qomita<s n="n"/></r></p></e>
@@ -1344,7 +1346,6 @@
 <e>       <p><l>sıra<s n="n"/></l>                     <r>parta<s n="n"/></r></p></e>
 <e>       <p><l>sıra<s n="n"/></l>                     <r>qator<s n="n"/></r></p></e>
 <e>       <p><l>sıra<s n="n"/></l>                     <r>sira<s n="n"/></r></p></e>
-<e>       <p><l>sirket<s n="n"/></l>                   <r>korxona<s n="n"/></r></p></e>
 <e>       <p><l>Sırp<s n="n"/></l>                     <r>serb<s n="n"/></r></p></e>
 <e>       <p><l>sistem<s n="n"/></l>                   <r>sistema<s n="n"/></r></p></e>
 <e>       <p><l>sistem<s n="n"/></l>                   <r>tizim<s n="n"/></r></p></e>
@@ -1615,6 +1616,7 @@
 <e>       <p><l>özellik<s n="n"/></l>                  <r>xossa<s n="n"/></r></p></e>
 <e>       <p><l>özgürlük<s n="n"/></l>                 <r>ozodlik<s n="n"/></r></p></e>
 <e>       <p><l>özleştirme<s n="n"/></l>               <r>oʻzlashtirish<s n="n"/></r></p></e>
+<e>       <p><l>özleştir<s n="v"/><s n="iv"/></l>      <r>oʻzlashtir<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>öğrenci<s n="n"/></l>                  <r>talaba<s n="n"/></r></p></e>
 <e>       <p><l>ülke<s n="n"/></l>                     <r>mamlakat<s n="n"/></r></p></e>
 <e>       <p><l>ülke<s n="n"/></l>                     <r>oʻlka<s n="n"/></r></p></e>
@@ -1650,6 +1652,7 @@
 <e>       <p><l>şey<s n="n"/></l>                      <r>narsa<s n="n"/></r></p></e>
 <e>       <p><l>şey<s n="n"/></l>                      <r>shay<s n="n"/></r></p></e>
 <e>       <p><l>şeytan<s n="n"/></l>                   <r>iblis<s n="n"/></r></p></e>
+<e>       <p><l>şirket<s n="n"/></l>                   <r>korxona<s n="n"/></r></p></e>
 <e>       <p><l>şirket<s n="n"/></l>                   <r>shirkat<s n="n"/></r></p></e>
 <e>       <p><l>Şubat<s n="n"/></l>                    <r>fevral<s n="n"/></r></p></e>
 <e>       <p><l>şube<s n="n"/></l>                     <r>tarmoq<s n="n"/></r></p></e>
@@ -2156,7 +2159,7 @@
 <e>       <p><l>yürü<s n="v"/><s n="iv"/></l>          <r>yur<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>yürüt<s n="v"/><s n="tv"/></l>         <r>yurit<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>yüz<s n="v"/><s n="tv"/></l>           <r>yuz<s n="v"/><s n="iv"/></r></p></e>
-<e>       <p><l>zayıfla<s n="v"/><s n="tv"/></l>       <r>oz<s n="v"/><s n="iv"/></r></p></e>
+<e>       <p><l>zayıfla<s n="v"/><s n="iv"/></l>       <r>oz<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>zehirle<s n="v"/><s n="tv"/></l>       <r>zaharla<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>zıpla<s n="v"/><s n="tv"/></l>         <r>sakra<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>zıpla<s n="v"/><s n="tv"/></l>         <r>sakra<s n="v"/><s n="tv"/></r></p></e>
@@ -3570,6 +3573,7 @@
 <e>       <p><l>patates<s n="n"/></l>                  <r>kartoshka<s n="n"/></r></p></e>
 <e>       <p><l>pay<s n="n"/></l>                      <r>surat<s n="n"/></r></p></e>
 <e>       <p><l>pay<s n="n"/></l>                      <r>ulush<s n="n"/></r></p></e>
+<e>       <p><l>pay<s n="n"/></l>                      <r>pay<s n="n"/></r></p></e>
 <e>       <p><l>pazarlık<s n="n"/></l>                 <r>savdo<s n="n"/></r></p></e>
 <e>       <p><l>pehlivan<s n="n"/></l>                 <r>alp<s n="n"/></r></p></e>
 <e>       <p><l>pencere<s n="n"/></l>                  <r>deraza<s n="n"/></r></p></e>
@@ -3946,6 +3950,7 @@
 <e>       <p><l>Loir<s n="np"/><s n="top"/></l>        <r>Loir<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Loire<s n="np"/><s n="top"/></l>       <r>Loire<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Lombardia<s n="np"/><s n="top"/></l>   <r>Lombardia<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Londra<s n="np"/><s n="top"/></l>      <r>London<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>London<s n="np"/><s n="top"/></l>      <r>London<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Lot<s n="np"/><s n="top"/></l>         <r>Lot<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Lotharingiya<s n="np"/><s n="top"/></l><r>Lotaringiya<s n="np"/><s n="top"/></r></p></e>
