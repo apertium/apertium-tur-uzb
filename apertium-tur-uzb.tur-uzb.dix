@@ -1,12 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-	Dictionary:
-	Sections: 1
-	Entries: 4006
-	Sdefs: 57
-	Last processed by: apertium-dixtools sort -alignBidix -ignorecase apertium-tur-uzb.tur-uzb.dix apertium-tur-uzb.tur-uzb.dix.sorted
 
--->
 <dictionary>
   <alphabet></alphabet>
   <sdefs>
@@ -70,16 +63,9 @@
   </sdefs>
   <section id="main" type="standard">
 
-  <!-- words from bible -->
-  <!-- wiki coverage -->
+    
+          <!-- SECTION: Abbrevations -->
 
-
-    <!-- ******************************
-          group abbr_symbol
-      ****************************** -->
-    <!-- ******************************
-          group abbr_symbol
-      ****************************** -->
 <e>       <p><l>as<s n="abbr"/></l>                    <r>as<s n="abbr"/><s n="nom"/></r></p></e>
 <e>       <p><l>Ağustos<s n="n"/><s n="nom"/></l>      <r>avg<s n="abbr"/><s n="nom"/></r></p></e>
 <e>       <p><l>Ba<s n="abbr"/></l>                    <r>ba<s n="abbr"/><s n="nom"/></r></p></e>
@@ -111,7 +97,6 @@
 <e>       <p><l>SBbc<s n="abbr"/></l>                  <r>SBbc<s n="abbr"/><s n="nom"/></r></p></e>
 <e>       <p><l>Sbc<s n="abbr"/></l>                   <r>SBc<s n="abbr"/><s n="nom"/></r></p></e>
 <e>       <p><l>Sbc<s n="abbr"/></l>                   <r>Sbc<s n="abbr"/><s n="nom"/></r></p></e>
-
 <e>       <p><l>SBs<s n="abbr"/></l>                   <r>SBs<s n="abbr"/><s n="nom"/></r></p></e>
 <e>       <p><l>Sc<s n="abbr"/></l>                    <r>Sc<s n="abbr"/><s n="nom"/></r></p></e>
 <e>       <p><l>Si<s n="abbr"/></l>                    <r>si<s n="abbr"/><s n="nom"/></r></p></e>
@@ -124,18 +109,12 @@
 <e>       <p><l>Yunanca<s n="n"/><s n="nom"/></l>      <r>yun<s n="abbr"/><s n="nom"/></r></p></e>
 <e>       <p><l>Özbekçe<s n="n"/><s n="nom"/></l>      <r>uz<s n="abbr"/><s n="nom"/></r></p></e>
   
-    <!-- ******************************
-          group adj_symbol
-      ****************************** -->
-    <!-- ******************************
-          group adj_symbol
-      ****************************** -->
+
+      <!-- SECTION: Adjectives -->
+      
 <e>       <p><l>acayip<s n="adj"/></l>                 <r>ajoyib<s n="adj"/></r></p></e>
 <e>       <p><l>adak<s n="adj"/></l>                   <r>qurbonlik<s n="adj"/></r></p></e>
 <e>       <p><l>adi<s n="adj"/></l>                    <r>oddiy<s n="adj"/></r></p></e>
-
-      <!-- SECTION: Adjectives -->
-
 <e>       <p><l>adil<s n="adj"/></l>                   <r>odil<s n="adj"/></r></p></e>
 <e>       <p><l>adlı<s n="adj"/></l>                   <r>nomli<s n="adj"/></r></p></e>
 <e>       <p><l>ahşap<s n="adj"/></l>                  <r>yogʻochsoz<s n="adj"/></r></p></e>
@@ -896,23 +875,16 @@
 <e>       <p><l>şimdi<s n="adj"/></l>                  <r>hozir<s n="adj"/></r></p></e>
 <e>       <p><l>şirin<s n="adj"/></l>                  <r>shirin<s n="adj"/></r></p></e>
 
+
           <!-- SECTION: Adverbs -->
 
-    <!-- ******************************
-          group adv_symbol
-      ****************************** -->
 <e>       <p><l>acele<s n="adv"/></l>                  <r>darrov<s n="adv"/></r></p></e>
 <e>       <p><l>akıllıca<s n="adv"/></l>               <r>aqlli<s n="adv"/></r></p></e>
 <e>       <p><l>anca<s n="adv"/></l>                   <r>uncha<s n="adv"/></r></p></e>
-
-    <!-- ******************************
-          group adv_symbol
-      ****************************** -->
 <e>       <p><l>apaçık<s n="adv"/></l>                 <r>yaqqol<s n="adv"/></r></p></e>
 <e>       <p><l>aracısız<s n="adv"/></l>               <r>bevosita<s n="adv"/></r></p></e>
 <e>       <p><l>aralıksız<s n="adv"/></l>              <r>uzluksiz<s n="adv"/></r></p></e>
 <e>       <p><l>ardından<s n="adv"/></l>               <r>axtarish<s n="adv"/></r></p></e>
-
 <e>       <p><l>artık<s n="adv"/></l>                  <r>ortiq<s n="adv"/></r></p></e>
 <e>       <p><l>artık<s n="adv"/></l>                  <r>ziyod<s n="adv"/></r></p></e>
 <e>       <p><l>aynen<s n="adv"/></l>                  <r>xuddi<s n="adv"/></r></p></e>
@@ -968,13 +940,6 @@
 <e>       <p><l>doğrudan<b/>doğruya<s n="adv"/></l>    <r>bevosita<s n="adv"/></r></p></e>
 <e>       <p><l>dün<s n="adv"/></l>                    <r>kecha<s n="adv"/></r></p></e>
 <e>       <p><l>düpedüz<s n="adv"/></l>                <r>sezilarli<s n="adv"/></r></p></e>
-
-<!-- wrong tag at least for Turkish side
-    <e><p><l>deprem<s n="adj"/></l><r>zilzila<s n="adj"/></r></p></e>
-    <e><p><l>zelzele<s n="adj"/></l><r>zilzila<s n="adj"/></r></p></e>
-    <e><p><l>bozuk<b/>para<s n="adj"/></l><r>mayda<s n="adj"/></r></p></e>
--->
-
 <e>       <p><l>elbette<s n="adv"/></l>                <r>albatta<s n="adv"/></r></p></e>
 <e>       <p><l>en<s n="adv"/></l>                     <r>eng<s n="adv"/></r></p></e>
 <e>       <p><l>en<b/>azından<s n="adv"/></l>          <r>kamida<s n="adv"/></r></p></e>   <!-- Will be moved to MWE later-->
@@ -1120,9 +1085,6 @@
     <!-- ******************************
           group cnjadv_symbol
       ****************************** -->
-    <!-- ******************************
-          group cnjadv_symbol
-      ****************************** -->
 <e>       <p><l>aksine<s n="cnjadv"/></l>              <r>aksincha<s n="cnjadv"/></r></p></e>
 <e>       <p><l>ancak<s n="cnjadv"/></l>               <r>biroq<s n="cnjadv"/></r></p></e>
 <e>       <p><l>ayrıca<s n="cnjadv"/></l>              <r>ustiga<s n="cnjadv"/></r></p></e>
@@ -1151,9 +1113,6 @@
 <e>       <p><l>tersine<s n="cnjadv"/></l>             <r>aksincha<s n="cnjadv"/></r></p></e>
 <e>       <p><l>veya<s n="cnjadv"/></l>                <r>yoki<s n="cnjadv"/></r></p></e>
 <e>       <p><l>veyahut<s n="cnjadv"/></l>             <r>yoki<s n="cnjadv"/></r></p></e>
-    <!-- ******************************
-          group cnjadv_symbol
-      ****************************** -->
 <e>       <p><l>ya<s n="cnjadv"/></l>                  <r>ya<s n="cnjadv"/></r></p></e>
 <e>       <p><l>yalnız<s n="cnjadv"/></l>              <r>faqat<s n="cnjadv"/></r></p></e>
 <e>       <p><l>yani<s n="cnjadv"/></l>                <r>yaʻni<s n="cnjadv"/></r></p></e>
@@ -1165,18 +1124,11 @@
     <!-- ******************************
           group cnjcoo_symbol
       ****************************** -->
-    <!-- ******************************
-          group cnjcoo_symbol
-      ****************************** -->
 <e>       <p><l>ama<s n="cnjcoo"/></l>                 <r>ammo<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>ancak<s n="cnjcoo"/></l>               <r>biroq<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>da<s n="cnjcoo"/></l>                  <r>ham<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>fakat<s n="cnjcoo"/></l>               <r>faqat<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>hem<s n="cnjcoo"/></l>                 <r>ham<s n="cnjcoo"/></r></p></e>
-
-    <!-- ******************************
-          group cnjcoo_symbol
-      ****************************** -->
 <e>       <p><l>hem<b/>de<s n="cnjcoo"/></l>           <r>hamda<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>ila<s n="cnjcoo"/></l>                 <r>ila<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>ile<s n="cnjcoo"/></l>                 <r>bilan<s n="cnjcoo"/></r></p></e>
@@ -1189,9 +1141,7 @@
 <e>       <p><l>veya<s n="cnjcoo"/></l>                <r>yoxud<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>veyahut<s n="cnjcoo"/></l>             <r>yoki<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>yalnız<s n="cnjadv"/></l>              <r>faqat<s n="cnjcoo"/></r></p></e>
-    <!-- ******************************
-          group cnjsub_symbol
-      ****************************** -->
+
     <!-- ******************************
           group cnjsub_symbol
       ****************************** -->
@@ -1206,9 +1156,6 @@
 
     <!-- SECTION: Determinatives -->
 
-    <!-- ******************************
-          group det_symbol
-      ****************************** -->
 <e>       <p><l>binlerce<s n="det"/><s n="qnt"/></l>   <r>minglab<s n="det"/><s n="qnt"/></r></p></e>
 <e>       <p><l>bir<s n="det"/><s n="ind"/></l>        <r>bir<s n="det"/><s n="ind"/></r></p></e>
 <e>       <p><l>birçok<s n="det"/><s n="qnt"/></l>     <r>koʻplab<s n="det"/><s n="qnt"/></r></p></e>
@@ -1217,9 +1164,6 @@
 <e>       <p><l>her<s n="det"/><s n="dem"/></l>        <r>barcha<s n="det"/><s n="dem"/></r></p></e>
 <e>       <p><l>herhangi<s n="det"/><s n="ind"/></l>   <r>har<b/>qanday<s n="det"/><s n="ind"/></r></p></e>  <!-- Will be moved to MWE later-->
 <e>       <p><l>hiçbir<s n="det"/><s n="qnt"/></l>     <r>hech<s n="det"/><s n="qnt"/></r></p></e>
-    <!-- ******************************
-          group det_symbol
-      ****************************** -->
 <e>       <p><l>kaç<s n="det"/><s n="qnt"/></l>        <r>necha<s n="det"/><s n="qnt"/></r></p></e>
 <e>       <p><l>kaç<s n="det"/><s n="qnt"/></l>        <r>nechta<s n="det"/><s n="qnt"/></r></p></e>
 <e>       <p><l>yüzlerce<s n="det"/><s n="qnt"/></l>   <r>yuzlab<s n="det"/><s n="qnt"/></r></p></e>
@@ -1227,17 +1171,8 @@
     <!-- ******************************
           group guio_symbol
       ****************************** -->
-    <!-- ******************************
-          group guio_symbol
-      ****************************** -->
 <e>       <p><l>-<s n="guio"/></l>                     <r>-<s n="guio"/></r></p></e>
 <e>       <p><l>—<s n="guio"/></l>                     <r>—<s n="guio"/></r></p></e>
-
-
-    <!-- ******************************
-          group ij_symbol
-      ****************************** -->
-<!-- these should be interjection, no? -->
 
     <!-- ******************************
           group ij_symbol
@@ -1260,25 +1195,15 @@
     <!-- ******************************
           group lpar_symbol
       ****************************** -->
-    <!-- ******************************
-          group lpar_symbol
-      ****************************** -->
 <e>       <p><l>(<s n="lpar"/></l>                     <r>(<s n="lpar"/></r></p></e>
 <e>       <p><l>[<s n="lpar"/></l>                     <r>[<s n="lpar"/></r></p></e>
 
 
     <!-- SECTION: Nouns -->
 
-    <!-- ******************************
-          group n_symbol
-      ****************************** -->
 <e>       <p><l>ad<s n="n"/></l>                       <r>ot<s n="n"/></r></p></e>
 <e>       <p><l>ada<s n="n"/></l>                      <r>oda<s n="n"/></r></p></e>
 <e>       <p><l>ada<s n="n"/></l>                      <r>orol<s n="n"/></r></p></e>
-    
-    <!-- ******************************
-          group n_symbol
-      ****************************** -->
 <e>       <p><l>adak<s n="n"/></l>                     <r>qurbonlik<s n="n"/></r></p></e>
 <e>       <p><l>aday<s n="n"/></l>                     <r>nomzod<s n="n"/></r></p></e>
 <e>       <p><l>adet<s n="n"/></l>                     <r>oʻodat<s n="n"/></r></p></e>
@@ -3334,14 +3259,7 @@
         <!-- SECTION: Proper nouns TOPONYMS -->
         <!-- SECTION: Prop - nounsNOMMASC -->
 
-    <!-- ******************************
-          group np_symbol
-      ****************************** -->
 <e>       <p><l>A<b/>Coruna<s n="np"/><s n="top"/></l> <r>a<b/>coruna<s n="np"/><s n="top"/></r></p></e>
-
-    <!-- ******************************
-          group np_symbol
-      ****************************** -->
 <e>       <p><l>ABD<s n="np"/><s n="top"/></l>         <r>AQSH<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>ABD<s n="np"/><s n="top"/></l>         <r>AQSh<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Abdullah<s n="np"/><s n="ant"/><s n="mf"/></l><r>Abdullah<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -3752,9 +3670,6 @@
 
     <!-- SECTION: Postposition -->
 
-    <!-- ******************************
-          group post_symbol
-      ****************************** -->
 <e>       <p><l>ait<s n="post"/></l>                   <r>oid<s n="post"/></r></p></e>
 <e>       <p><l>ardından<s n="post"/></l>              <r>ortidan<s n="post"/></r></p></e>
 <e>       <p><l>ardından<s n="post"/></l>              <r>orqasidan<s n="post"/></r></p></e>
@@ -3768,10 +3683,6 @@
 <e>       <p><l>dolayı<s n="post"/></l>                <r>tufayli<s n="post"/></r></p></e>
 <e>       <p><l>dolayı<s n="post"/></l>                <r>sababli<s n="post"/></r></p></e>
 <e>       <p><l>doğru<s n="post"/></l>                 <r>tomon<s n="post"/></r></p></e>
-
-    <!-- ******************************
-          group post_symbol
-      ****************************** -->
 <e>       <p><l>doğru<s n="post"/></l>                 <r>sari<s n="post"/></r></p></e>
 <e>       <p><l>gibi<s n="post"/></l>                  <r>kabi<s n="post"/></r></p></e>
 <e>       <p><l>gibi<s n="post"/></l>                  <r>singari<s n="post"/></r></p></e>
@@ -3801,12 +3712,8 @@
 <e>       <p><l>ötürü<s n="post"/></l>                 <r>sababli<s n="post"/></r></p></e>
 
 
-
     <!-- SECTION: Pronouns -->
 
-    <!-- ******************************
-          group prn_symbol
-      ****************************** -->
 <e>       <p><l>bazı<s n="prn"/><s n="qnt"/><s n="nom"/></l><r>baʻzi<s n="prn"/><s n="ind"/><s n="nom"/></r></p></e>
 <e c="  0"><p><l>ben<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/></l><r>men<s n="prn"/><s n="pers"/><s n="p1"/><s n="sg"/></r></p></e>
 <e c="  0"><p><l>biz<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/></l><r>biz<s n="prn"/><s n="pers"/><s n="p1"/><s n="pl"/></r></p></e>
@@ -3816,10 +3723,6 @@
 <e c="  0"><p><l>herhangi<s n="prn"/><s n="itg"/></l>  <r>biron<s n="prn"/><s n="itg"/></r></p></e>
 <e>       <p><l>hiçbir<b/>şey<s n="prn"/></l>          <r>hech<b/>narsa<s n="prn"/></r></p></e>  <!-- Will be moved to MWE later-->
 <e c="  0"><p><l>iki<s n="prn"/><s n="qnt"/></l>       <r>ikki<s n="prn"/><s n="qnt"/></r></p></e>
-
-    <!-- ******************************
-          group prn_symbol
-      ****************************** -->
 <e>       <p><l>işbu<s n="det"/><s n="dem"/></l>       <r>ushbu<s n="prn"/><s n="dem"/><s n="nom"/></r></p></e>
 <e>       <p><l>kaç<s n="det"/><s n="dem"/></l>        <r>qancha<s n="prn"/><s n="itg"/></r></p></e>
 <e>       <p><l>kendi<s n="prn"/><s n="ref"/></l>      <r>oʻz<s n="prn"/><s n="ref"/></r></p></e>
@@ -3839,23 +3742,13 @@
     <!-- ******************************
           group rpar_symbol
       ****************************** -->
-    <!-- ******************************
-          group rpar_symbol
-      ****************************** -->
 <e>       <p><l>)<s n="rpar"/></l>                     <r>)<s n="rpar"/></r></p></e>
 <e>       <p><l>]<s n="rpar"/></l>                     <r>]<s n="rpar"/></r></p></e>
-    <!-- ******************************
-          group v_symbol
-      ****************************** -->
-    <!-- ******************************
-          group v_symbol
-      ****************************** -->
+
+
+<!-- SECTION: Verbs -->
+
 <e>       <p><l>adım<b/>at<s n="v"/><s n="iv"/></l>    <r>qadam<b/>qo‘y<s n="v"/><s n="iv"/></r></p></e>
-
-
-
-     <!-- SECTION: Verbs -->
-
 <e>       <p><l>affet<s n="v"/><s n="tv"/></l>         <r>kechir<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>ak<s n="v"/><s n="iv"/></l>            <r>oq<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>aktar<s n="v"/><s n="tv"/></l>         <r>oʻtkaz<s n="v"/><s n="tv"/></r></p></e>
@@ -4250,14 +4143,12 @@
 
  <!-- SECTION: Punctuation -->
 
-    <!-- ******************************
-          group(s) with only one element
-      ****************************** -->
 <e>       <p><l>ʻ<s n="apos"/></l>                     <r>ʻ<s n="apos"/></r></p></e>
 <e>       <p><l>,<s n="cm"/></l>                       <r>,<s n="cm"/></r></p></e>
 <e c="  0"><p><l>i<s n="cop"/></l>                     <r>e<s n="cop"/></r></p></e>
 <e c="  0"><p><l>mı<s n="qst"/></l>                    <r>mi<s n="qst"/></r></p></e>
 <e>       <re>[.\?;:!"]+</re><p><l><s n="sent"/></l>   <r><s n="sent"/></r></p></e>
 <e>       <p><l>Paşa<s n="title"/></l>                 <r>Posho<s n="title"/></r></p></e>
+
   </section>
 </dictionary>
