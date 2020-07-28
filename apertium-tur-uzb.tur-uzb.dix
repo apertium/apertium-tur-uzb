@@ -60,6 +60,7 @@
     <sdef n="gen" 	c="Genitive"/> 
     <sdef n="caus" 	c="Causative"/> 
     <sdef n="qst" 	c="Question"/> 
+    <sdef n="web" />
   </sdefs>
   <section id="main" type="standard">
 
@@ -3745,7 +3746,6 @@
 <e>       <p><l>yüz<s n="num"/></l>                    <r>yuz<s n="num"/></r></p></e>
 <e>       <p><l>çeyrek<s n="num"/></l>                 <r>chorak<s n="num"/></r></p></e>
 <e>       <p><l>üç<s n="num"/></l>                     <r>uch<s n="num"/></r></p></e>
-<e>       <re>%?[0-9]+([.,][0-9]+)*[.,]*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
 
 
     <!-- SECTION: Postposition -->
@@ -4227,7 +4227,6 @@
 <e>       <p><l>,<s n="cm"/></l>                       <r>,<s n="cm"/></r></p></e>
 <e c="  0"><p><l>i<s n="cop"/></l>                     <r>e<s n="cop"/></r></p></e>
 <e c="  0"><p><l>mı<s n="qst"/></l>                    <r>mi<s n="qst"/></r></p></e>
-<e>       <re>[.\?;:!"]+</re><p><l><s n="sent"/></l>   <r><s n="sent"/></r></p></e>
 <e>       <p><l>Paşa<s n="title"/></l>                 <r>Posho<s n="title"/></r></p></e>
 
   </section>
@@ -4255,4 +4254,28 @@
 
       
   </section>
+
+  <section  id="regexp" type="standard">
+<!-- NUmbers: -->
+<e>       <re>%?[0-9]+([.,][0-9]+)*[.,]*</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e>
+<!-- <e>       <re>[0-9]+([.,:][0-9]+)?</re><p><l><s n="num"/></l><r><s n="num"/></r></p></e> -->
+
+<!-- Sentence borderline: -->
+<e>       <re>[.\?;:!]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+<!-- <e>       <re>[.\?;:!"]+</re><p><l><s n="sent"/></l>   <r><s n="sent"/></r></p></e> -->
+
+<!-- E-Mail: -->
+<e>       <re>[a-z.]+@[a-z.]+</re><p><l><s n="web"/></l><r><s n="web"/></r></p></e>
+
+<!-- WEB URL: -->
+<e>    <!--   <re>(www.|http://|https://|ftp://)[áéíóúàèìòùäëïöüñça-z0-9\-./]+[áéíóúàèìòùäëïöüñça-z0-9/]</re>-->
+  <re>(http://|https://|ftp://)?[áéíóúàèìòùäëïöüñça-z0-9](([\-_])?[áéíóúàèìòùäëïöüñça-z0-9])*(.[áéíóúàèìòùäëïöüñça-z0-9](([\-_])?[áéíóúàèìòùäëïöüñça-z0-9])*)*(.ac|.ad|.ae|.af|.ag|.ai|.al|.am|.ao|.aq|.ar|.as|.at|.au|.aw|.ax|.az|.ba|.bb|.bd|.be|.bf|.bg|.bh|.bi|.bj|.bm|.bn|.bo|.br|.bs|.bt|.bw|.by|.bz|.ca|.cc|.cd|.cf|.cg|.ch|.ci|.ck|.cl|.cm|.cn|.co|.cr|.cu|.cv|.cw|.cx|.cy|.cz|.de|.dj|.dk|.dm|.do|.dz|.ec|.ee|.eg|.er|.es|.et|.eu|.fi|.fj|.fk|.fm|.fo|.fr|.ga|.gd|.ge|.gf|.gg|.gh|.gi|.gl|.gm|.gn|.gp|.gq|.gr|.gs|.gt|.gu|.gw|.gy|.hk|.hm|.hn|.hr|.ht|.hu|.id|.ie|.il|.im|.in|.io|.iq|.ir|.is|.it|.je|.jm|.jo|.jp|.ke|.kg|.kh|.ki|.km|.kn|.kp|.kr|.kw|.ky|.kz|.la|.lb|.lc|.li|.lk|.lr|.ls|.lt|.lu|.lv|.ly|.ma|.mc|.md|.me|.mg|.mh|.mk|.ml|.mm|.mn|.mo|.mp|.mq|.mr|.ms|.mt|.mu|.mv|.mw|.mx|.my|.mz|.na|.nc|.ne|.nf|.ng|.ni|.nl|.no|.np|.nr|.nu|.nz|.om|.pa|.pe|.pf|.pg|.ph|.pk|.pl|.pm|.pn|.pr|.ps|.pt|.pw|.py|.qa|.re|.ro|.rs|.ru|.rw|.sa|.sb|.sc|.sd|.se|.sg|.sh|.si|.sk|.sl|.sm|.sn|.so|.sr|.ss|.st|.su|.sv|.sx|.sy|.sz|.tc|.td|.tf|.tg|.th|.tj|.tk|.tl|.tm|.tn|.to|.tr|.tt|.tv|.tw|.tz|.ua|.ug|.uk|.us|.uy|.uz|.va|.vc|.ve|.vg|.vi|.vn|.vu|.wf|.ws|.ye|.yt|.za|.zm|.zw|.aero|.asia|.biz|.cat|.com|.coop|.edu|.gov|.info|.int|.jobs|.mil|.mobi|.museum|.name|.net|.org|.pro|.tel|.travel)(/([áéíóúàèìòùäëïöüñça-z0-9\-_\?=&amp;\*,]+(.[áéíóúàèìòùäëïöüñça-z0-9\-_\?=&amp;\*,]+)*/)*([áéíóúàèìòùäëïöüñça-z0-9\-_\?=&amp;\*,]+(.[áéíóúàèìòùäëïöüñça-z0-9\-_\?=&amp;\*,]+)*)?)?</re>
+  <p><l><s n="web"/></l><r><s n="web"/></r></p>
+</e>
+
+<!-- IP Adress: -->
+<e>       <re>(25[0-5]|2[0-4][0-9]|[0-1]?[0-9]?[0-9])(.(25[0-5]|2[0-4][0-9]|[0-1]?[0-9]?[0-9]))(.(25[0-5]|2[0-4][0-9]|[0-1]?[0-9]?[0-9]))(.(25[0-5]|2[0-4][0-9]|[0-1]?[0-9]?[0-9]))</re><p><l><s n="web"/></l><r><s n="web"/></r></p></e>
+
+  </section>
+
 </dictionary>
