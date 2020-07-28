@@ -392,6 +392,8 @@
 <e>       <p><l>ikinci<s n="adj"/></l>                 <r>ikkinchi<s n="adj"/></r></p></e>
 <e>       <p><l>ilgili<s n="adj"/></l>                 <r>tegishli<s n="adj"/></r></p></e>
 <e>       <p><l>ilginç<s n="adj"/></l>                 <r>ajoyib<s n="adj"/></r></p></e>
+<e>       <p><l>ilginç<s n="adj"/></l>                 <r>qiziq<s n="adj"/></r></p></e>
+<e>       <p><l>ilginç<s n="adj"/></l>                 <r>qiziqarli<s n="adj"/></r></p></e>
 <e>       <p><l>ılımlı<s n="adj"/></l>                 <r>moʻtadil<s n="adj"/></r></p></e>
 <e>       <p><l>ilk<s n="adj"/></l>                    <r>ilk<s n="adj"/></r></p></e>
 <e>       <p><l>ilk<s n="adj"/></l>                    <r>dastlabki<s n="adj"/></r></p></e>
@@ -4248,18 +4250,31 @@
 
           <!-- SECTION: Adjectives -->
 
-    <e>       <p><l>celb<s n="adj"/></l>                   <r>jalb<s n="adj"/></r></p></e>
-    <e>       <p><l>değil<s n="adj"/></l>                  <r>emas<s n="adj"/></r></p></e>
+<!--<e>       <p><l>celb<s n="adj"/></l>                   <r>jalb<s n="adj"/></r></p></e>   -->
+    <e>       <p><l>değil<s n="adv"/></l>                  <r>emas<s n="adv"/></r></p></e>
     <e>       <p><l>dişi<s n="adj"/></l>                   <r>yumshoq<s n="adj"/></r></p></e>
     <e>       <p><l>düz<b/>yazı<s n="adj"/></l>            <r>nasriy<s n="adj"/></r></p></e>
-    <e>       <p><l>enerji<s n="adj"/></l>                 <r>energetika<s n="adj"/></r></p></e>
-    <e>       <p><l>ilgi<s n="adj"/></l>                   <r>qiziqish<s n="adj"/></r></p></e>
+<!--<e>       <p><l>enerji<s n="adj"/></l>                 <r>energetika<s n="adj"/></r></p></e>  -->
+<!--<e>       <p><l>ilgi<s n="adj"/></l>                   <r>qiziqish<s n="adj"/></r></p></e>  -->
+    <e>       <p><l>ilgi<b/>çekici<s n="adj"/></l>         <r>qiziq<s n="adj"/></r></p></e>
+    <e>       <p><l>ilgi<b/>çekici<s n="adj"/></l>         <r>qiziqarli<s n="adj"/></r></p></e>
+    <e>       <p><l>ilgi<b/>çekici<s n="adj"/></l>         <r>jozibali<s n="adj"/></r></p></e>
+    <e>       <p><l>ilgi<b/>çekici<s n="adj"/></l>         <r>jozibador<s n="adj"/></r></p></e>
+    <e>       <p><l>ilgi<b/>çekici<s n="adj"/></l>         <r>maroqli<s n="adj"/></r></p></e>
+    <e>       <p><l>enteresan<s n="adj"/></l>              <r>qiziq<s n="adj"/></r></p></e>
+    <e>       <p><l>enteresan<s n="adj"/></l>              <r>qiziqarli<s n="adj"/></r></p></e>
+    <e>       <p><l>cazibeli<s n="adj"/></l>               <r>jozibador<s n="adj"/></r></p></e>
+    <e>       <p><l>cazibeli<s n="adj"/></l>               <r>jozibali<s n="adj"/></r></p></e>
     <e>       <p><l>kabaca<s n="adj"/></l>                 <r>dagʻal<s n="adj"/></r></p></e>
-    <e>       <p><l>pedagoji<s n="adj"/></l>               <r>pedagogika<s n="adj"/></r></p></e>
+    <e>       <p><l>pedagoji<s n="n"/></l>                 <r>pedagogika<s n="n"/></r></p></e>
+    <e>       <p><l>pedagojik<s n="adj"/></l>              <r>pedagogik<s n="adj"/></r></p></e>
     <e>       <p><l>peyda<s n="adj"/></l>                  <r>barpo<s n="adj"/></r></p></e>
     <e>       <p><l>peyda<s n="adj"/></l>                  <r>paydo<s n="adj"/></r></p></e>
     <e>       <p><l>saralı<s n="adj"/></l>                 <r>sariq<s n="adj"/></r></p></e>
-    <e>       <p><l>sır<s n="adj"/></l>                    <r>yashirin<s n="adj"/></r></p></e>
+<!--<e>       <p><l>sır<s n="adj"/></l>                    <r>yashirin<s n="adj"/></r></p></e>   -->
+    <e>       <p><l>gizli<s n="adj"/></l>                  <r>yashirin<s n="adj"/></r></p></e>
+    <e>       <p><l>saklı<s n="adj"/></l>                  <r>yashirin<s n="adj"/></r></p></e>
+    <e>       <p><l>esrarlı<s n="adj"/></l>                <r>yashirin<s n="adj"/></r></p></e>
     <e>       <p><l>yamyam<s n="adj"/></l>                 <r>yovvoyi<s n="adj"/></r></p></e>
     <e>       <p><l>yanlı<s n="adj"/></l>                  <r>tomonlama<s n="adj"/></r></p></e>
     <e>       <p><l>öz<b/>be<b/>öz<s n="adj"/></l>         <r>haqiqiy<s n="adj"/></r></p></e>
