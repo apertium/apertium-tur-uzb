@@ -963,21 +963,35 @@
           <!-- SECTION: Adverbs -->
 
 <e>       <p><l>acele<s n="adv"/></l>                  <r>darrov<s n="adv"/></r></p></e>
+<e>       <p><l>acele<s n="adv"/></l>                  <r>zudlik<b/>bilan<s n="adv"/></r></p></e>
 <e>       <p><l>akıllıca<s n="adv"/></l>               <r>aqlli<s n="adv"/></r></p></e>
 <e>       <p><l>anca<s n="adv"/></l>                   <r>uncha<s n="adv"/></r></p></e>
+<e>       <p><l>anca<s n="adv"/></l>                   <r>zoʻrgʻa<s n="adv"/></r></p></e>
 <e>       <p><l>apaçık<s n="adv"/></l>                 <r>yaqqol<s n="adv"/></r></p></e>
+<e>       <p><l>apaçık<s n="adv"/></l>                 <r>ochiqcha<s n="adv"/></r></p></e>
+<e>       <p><l>apaçık<s n="adv"/></l>                 <r>ochiqchasiga<s n="adv"/></r></p></e>
 <e>       <p><l>aracısız<s n="adv"/></l>               <r>bevosita<s n="adv"/></r></p></e>
+<e>       <p><l>aracısız<s n="adv"/></l>               <r>toʻgʻridan-toʻgʻri<s n="adv"/></r></p></e>
 <e>       <p><l>aralıksız<s n="adv"/></l>              <r>uzluksiz<s n="adv"/></r></p></e>
-<e>       <p><l>ardından<s n="adv"/></l>               <r>axtarish<s n="adv"/></r></p></e>
+<e>       <p><l>aralıksız<s n="adv"/></l>              <r>toʻxtovsiz<s n="adv"/></r></p></e>
+<!-- <e>       <p><l>ardından<s n="adv"/></l>               <r>axtarish<s n="adv"/></r></p></e> -->
 <e>       <p><l>artık<s n="adv"/></l>                  <r>ortiq<s n="adv"/></r></p></e>
+<e>       <p><l>artık<s n="adv"/></l>                  <r>bundan<b/>buyon<s n="adv"/></r></p></e>
+<e>       <p><l>artık<s n="adv"/></l>                  <r>bundan<b/>keyin<s n="adv"/></r></p></e>
+<e>       <p><l>artık<s n="adv"/></l>                  <r>bundan<b/>buyogʻiga<s n="adv"/></r></p></e>
 <e>       <p><l>artık<s n="adv"/></l>                  <r>ziyod<s n="adv"/></r></p></e>
 <e>       <p><l>aynen<s n="adv"/></l>                  <r>xuddi<s n="adv"/></r></p></e>
 <e>       <p><l>aynen<s n="adv"/></l>                  <r>aynan<s n="adv"/></r></p></e>
+<e>       <p><l>aynen<s n="adv"/></l>                  <r>ayni<s n="adv"/></r></p></e>
 <e>       <p><l>azıcık<s n="adv"/></l>                 <r>biroz<s n="adv"/></r></p></e>
+<e>       <p><l>azıcık<s n="adv"/></l>                 <r>ozgina<s n="adv"/></r></p></e>
 <e>       <p><l>açıkça<s n="adv"/></l>                 <r>yaqqol<s n="adv"/></r></p></e>
+<e>       <p><l>açıkça<s n="adv"/></l>                 <r>ochiqcha<s n="adv"/></r></p></e>
+<e>       <p><l>açıkça<s n="adv"/></l>                 <r>ochiqchasiga<s n="adv"/></r></p></e>
 <e>       <p><l>aşağı<s n="adv"/></l>                  <r>past<s n="adv"/></r></p></e>
 <e>       <p><l>aşağı<b/>yukarı<s n="adv"/></l>        <r>deyarli<s n="adv"/></r></p></e>
 <e>       <p><l>aşağı<b/>yukarı<s n="adv"/></l>        <r>taxminan<s n="adv"/></r></p></e>
+<e>       <p><l>aşağı<b/>yukarı<s n="adv"/></l>        <r>ozmi-koʻpmi<s n="adv"/></r></p></e>
 <e>       <p><l>aşağıda<b/>belirtildiği<b/>gibi<s n="adv"/></l><r>quyidagicha<s n="adv"/></r></p></e>  <!-- Will be moved to MWE later-->
 <e>       <p><l>aşkın<s n="adv"/></l>                  <r>ortiq<s n="adv"/></r></p></e>
 <e>       <p><l>aşkın<s n="adv"/></l>                  <r>ziyod<s n="adv"/></r></p></e>
