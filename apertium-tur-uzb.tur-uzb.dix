@@ -4231,4 +4231,28 @@
 <e>       <p><l>Paşa<s n="title"/></l>                 <r>Posho<s n="title"/></r></p></e>
 
   </section>
+  <section id="unchecked" type="standard">
+
+          <!-- SECTION: Adjectives -->
+
+    <e>       <p><l>celb<s n="adj"/></l>                   <r>jalb<s n="adj"/></r></p></e>
+    <e>       <p><l>değil<s n="adj"/></l>                  <r>emas<s n="adj"/></r></p></e>
+    <e>       <p><l>dişi<s n="adj"/></l>                   <r>yumshoq<s n="adj"/></r></p></e>
+    <e>       <p><l>düz<b/>yazı<s n="adj"/></l>            <r>nasriy<s n="adj"/></r></p></e>
+    <e>       <p><l>enerji<s n="adj"/></l>                 <r>energetika<s n="adj"/></r></p></e>
+    <e>       <p><l>ilgi<s n="adj"/></l>                   <r>qiziqish<s n="adj"/></r></p></e>
+    <e>       <p><l>kabaca<s n="adj"/></l>                 <r>dagʻal<s n="adj"/></r></p></e>
+    <e>       <p><l>pedagoji<s n="adj"/></l>               <r>pedagogika<s n="adj"/></r></p></e>
+    <e>       <p><l>peyda<s n="adj"/></l>                  <r>barpo<s n="adj"/></r></p></e>
+    <e>       <p><l>peyda<s n="adj"/></l>                  <r>paydo<s n="adj"/></r></p></e>
+    <e>       <p><l>saralı<s n="adj"/></l>                 <r>sariq<s n="adj"/></r></p></e>
+    <e>       <p><l>sır<s n="adj"/></l>                    <r>yashirin<s n="adj"/></r></p></e>
+    <e>       <p><l>yamyam<s n="adj"/></l>                 <r>yovvoyi<s n="adj"/></r></p></e>
+    <e>       <p><l>yanlı<s n="adj"/></l>                  <r>tomonlama<s n="adj"/></r></p></e>
+    <e>       <p><l>öz<b/>be<b/>öz<s n="adj"/></l>         <r>haqiqiy<s n="adj"/></r></p></e>
+    <e>       <p><l>şaşırtıcı<s n="adj"/></l>              <r>soxta<s n="adj"/></r></p></e>
+
+
+      
+  </section>
 </dictionary>
