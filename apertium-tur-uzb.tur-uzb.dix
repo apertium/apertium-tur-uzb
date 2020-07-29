@@ -1016,12 +1016,25 @@
 <e>       <p><l>besbelli<s n="adv"/></l>               <r>aniq<s n="adv"/></r></p></e>
 <e>       <p><l>besbelli<s n="adv"/></l>               <r>ochiqcha<s n="adv"/></r></p></e>
 <e>       <p><l>besbelli<s n="adv"/></l>               <r>ochiqchasiga<s n="adv"/></r></p></e>
-<e>       <p><l>bile<b/>bile<s n="adv"/></l>           <r>maxsus<s n="adv"/></r></p></e>
+<!-- <e>       <p><l>bile<b/>bile<s n="adv"/></l>           <r>maxsus<s n="adv"/></r></p></e> -->
+<e>       <p><l>bile<b/>bile<s n="adv"/></l>           <r>bilib<b/>turib<s n="adv"/></r></p></e>
+<e>       <p><l>bile<b/>bile<s n="adv"/></l>           <r>qasddan<s n="adv"/></r></p></e>
+<e>       <p><l>bile<b/>bile<s n="adv"/></l>           <r>atayin<s n="adv"/></r></p></e>
+<e>       <p><l>kasten<s n="adv"/></l>                 <r>qasddan<s n="adv"/></r></p></e>
+<e>       <p><l>kasten<s n="adv"/></l>                 <r>ataylab<s n="adv"/></r></p></e>
+<e>       <p><l>kasten<s n="adv"/></l>                 <r>bilib<b/>turib<s n="adv"/></r></p></e>
+<e>       <p><l>kasıtlı<b/>olarak<s n="adv"/></l>      <r>qasddan<s n="adv"/></r></p></e>
+<e>       <p><l>bilmişçe<s n="adv"/></l>               <r>bilib<b/>turib<s n="adv"/></r></p></e>
 <e>       <p><l>bilfiil<s n="adv"/></l>                <r>haqiqatda<s n="adv"/></r></p></e>
 <e>       <p><l>bilhassa<s n="adv"/></l>               <r>ayniqsa<s n="adv"/></r></p></e>
 <e>       <p><l>bilhassa<s n="adv"/></l>               <r>xususan<s n="adv"/></r></p></e>
 <e>       <p><l>binaen<s n="adv"/></l>                 <r>binoan<s n="adv"/></r></p></e>
 <e>       <p><l>bir<b/>daha<s n="adv"/></l>            <r>qaytadan<s n="adv"/></r></p></e>   <!-- Will be moved to MWE later-->
+<e>       <p><l>bir<b/>daha<s n="adv"/></l>            <r>takroran<s n="adv"/></r></p></e>   <!-- Will be moved to MWE later-->
+<e>       <p><l>bir<b/>daha<s n="adv"/></l>            <r>yana<s n="adv"/></r></p></e>   <!-- Will be moved to MWE later-->
+<e>       <p><l>bir<b/>daha<s n="adv"/></l>            <r>yana<b/>bir<s n="adv"/></r></p></e>   <!-- Will be moved to MWE later-->
+<e>       <p><l>bir<b/>daha<s n="adv"/></l>            <r>yana<b/>bir<b/>marta<s n="adv"/></r></p></e>   <!-- Will be moved to MWE later-->
+<e>       <p><l>bir<b/>kez<b/>daha<s n="adv"/></l>     <r>yana<b/>bir<b/>marta<s n="adv"/></r></p></e>   <!-- Will be moved to MWE later-->
 <e>       <p><l>bir<b/>süre<s n="adv"/></l>            <r>allaqachon<s n="adv"/></r></p></e>
 <e>       <p><l>biraz<s n="adv"/></l>                  <r>birmuncha<s n="adv"/></r></p></e>
 <e>       <p><l>birkaç<s n="adv"/></l>                 <r>ancha<s n="adv"/></r></p></e>
@@ -1184,6 +1197,7 @@
 <e>       <p><l>öte<s n="adv"/></l>                    <r>boshqa<s n="adv"/></r></p></e>
 <e>       <p><l>öyle<s n="adv"/></l>                   <r>unday<s n="adv"/></r></p></e>
 <e>       <p><l>özellikle<s n="adv"/></l>              <r>xususan<s n="adv"/></r></p></e>
+<e>       <p><l>özellikle<s n="adv"/></l>              <r>ayniqsa<s n="adv"/></r></p></e>
 <e>       <p><l>üzerinde<s n="adv"/></l>               <r>boʻylab<s n="adv"/></r></p></e>
 <e>       <p><l>üzerine<s n="adv"/></l>                <r>doir<s n="adv"/></r></p></e>
 <e>       <p><l>şimdi<s n="adv"/></l>                  <r>endi<s n="adv"/></r></p></e>
