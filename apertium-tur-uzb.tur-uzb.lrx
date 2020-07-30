@@ -1,25 +1,212 @@
 <rules>
 
-<rule weight="1"> 
-    <match lemma="boyunca" tags="post">
-    <select lemma="bo'ylab" tags="post"/>
-    </match>
-</rule>
 
-<rule weight="2"> 
-    <match lemma="*" tags="num"/>
-    <match lemma="*" tags="n.*"/>
-    <match lemma="boyunca" tags="post*">
-    <select lemma="davomida" tags="post"/>
+  <!-- This one is Not Working-->
+  <rule weight ="2">  <!-- "neden" is "nimaga" if it comes followed by the word "bu" (Ex: "Neden bunu yapıyor?"-> "Nimaga bunday qilyapti?")-->
+    <match lemma="neden" tags="prn.itg.abl"> <!-- Is tag correct here? -->
+      <select lemma="nimaga" tags="adv.itg.dat"/>
     </match>
-</rule>
+    <or>
+      <match lemma="bu" tags="adv"/>
+      <match lemma="bu" tags="adv.*"/>
+    </or>
+  </rule>
+
+  <rule weight ="1">  <!-- default -->
+    <match lemma="neden" tags="adv">
+      <select lemma="nimaga" tags="adv"/>
+    </match>
+  </rule>
+
+  <rule weight ="1">  <!-- default -->
+    <match lemma="nedeniyle" tags="cnjsub">  <!-- Is tag correct here? -->
+      <select lemma="sababli" tags="cnjsub"/>
+    </match>
+  </rule>
+
+  <rule weight ="1">  <!-- default -->
+    <match lemma="el" tags="n">
+      <select lemma="qoʻl" tags="n"/>
+    </match>
+  </rule>
+  <rule weight ="1">  <!-- default -->
+    <match lemma="el" tags="n.*">
+      <select lemma="qoʻl" tags="n.*"/>
+    </match>
+  </rule>
+
+  <rule weight ="2">
+    <match lemma="namaz"/> <!-- if kıl comes after namaz, it means "to pray", so the proper Uzbek translation would be "namaz o`qi" -->
+    <match lemma="kıl" tags="v.*">
+      <select lemma="oʻqi" tags="v.*"/>
+    </match>
+  </rule>
+
+  <rule weight ="1">  <!-- default -->
+  <match lemma="ekonomi" tags="n">
+    <select lemma="iqtisod" tags="n"/>
+  </match>
+  </rule>
+  <rule weight ="1">  <!-- default -->
+  <match lemma="ekonomi" tags="n.*">
+    <select lemma="iqtisod" tags="n.*"/>
+  </match>
+  </rule>
+
+  <rule weight ="1">  <!-- default -->
+  <match lemma="mümkün olduğunca" tags="adv">
+    <select lemma="iloji boricha" tags="adv"/>
+  </match>
+  </rule>
+
+  <rule weight ="1">  <!-- default -->
+  <match lemma="yahudi" tags="n">
+    <select lemma="yahudiy" tags="n"/>
+  </match>
+  </rule>
+  <rule weight ="1">  <!-- default -->
+  <match lemma="yahudi" tags="n.*">
+    <select lemma="yahudiy" tags="n.*"/>
+  </match>
+  </rule>
+
+
+  <rule weight ="1">  <!-- default -->
+  <match lemma="saklan" tags="v.*">
+    <select lemma="bekin" tags="v.*"/>
+  </match>
+  </rule>
+
+  
+    <rule weight ="1">  <!-- default -->
+    <match lemma="sakla" tags="v.*">
+      <select lemma="bekit" tags="v.*"/>
+    </match>
+    </rule>
+
+
+  <rule weight ="1">  <!-- default -->
+  <match lemma="küçük" tags="adj">
+    <select lemma="kichik" tags="adj"/>
+  </match>
+  </rule>
+
+  <rule weight ="1">  <!-- default -->
+  <match lemma="dışarı" tags="n">
+    <select lemma="tashqari" tags="n"/>
+  </match>
+  </rule>
+  <rule weight ="1">  <!-- default -->
+  <match lemma="dışarı" tags="n.*">
+    <select lemma="tashqari" tags="n.*"/>
+  </match>
+  </rule>
+
+
+  <rule weight ="1">  <!-- default -->
+  <match lemma="güzel" tags="adj">
+    <select lemma="goʻzal" tags="adj"/>
+  </match>
+  </rule>
+  <rule weight ="2">
+  <match lemma="çok"/> <!-- if güzel comes after çok, it means "very good"(mostly) (Ex: Hava bugün çok güzel) -->
+  <or>
+    <match lemma="güzel" tags="adj">
+      <select lemma="ajoyib" tags="adj"/>
+    </match>
+    <match lemma="güzel" tags="adj.*">
+      <select lemma="ajoyib" tags="adj.*"/>
+    </match>
+  </or>
+  </rule>
+
+
+  <rule weight ="1">  <!-- default -->
+  <match lemma="boyunca" tags="post">
+    <select lemma="boʻylab" tags="post"/>
+  </match>
+  </rule>
+  <rule weight ="2"> <!-- if boyunca comes after a number followed by a noun (Ex: iki gün boyunca) --> <!-- Currently not working -->
+  <match lemma="*" tags="num" /> <!-- just any number? -->
+  <match lemma="*" tags="n.*" /> <!-- just any noun? -->
+  <match lemma="boyunca" tags="post">
+    <select lemma="davomida" tags="post"/>
+  </match>
+  </rule>
+
+
+  <rule weight ="1">  <!-- default -->
+  <match lemma="ardından" tags="post">
+    <select lemma="ortidan" tags="post"/>
+  </match>
+  </rule>
+
+
+  <rule weight ="1">  <!-- default -->
+  <match lemma="çalış" tags="v.tv.*">
+    <select lemma="ishla" tags="v.tv.*"/>
+  </match>
+  </rule>
+  <rule weight ="2">  <!-- default -->
+  <match lemma="*" tags="v.*.dat" /> <!-- if konuş comes after dative gerund (Ex: tercüme etmeye çalıştı) -->
+  <match lemma="çalış" tags="v.tv.*">
+    <select lemma="harakat qil" tags="v.tv.*"/>
+  </match>
+  </rule>
+
+
+  <rule weight ="1">  <!-- default -->
+  <match lemma="konuş" tags="v.tv">
+    <select lemma="gapir" tags="v.tv"/>
+  </match>
+  </rule>
+  <rule weight ="2">
+  <or>
+	<match lemma="*" tags="*.ins" /> <!-- if konuş comes after noun/pronoun+Instrumental(comitative) (Ex: Köpekle konuştum)  -->
+	<match lemma="ile" tags="post" /> <!-- if konuş comes after ile (Ex: Ay ile konuştum)  -->
+  </or>
+  <match lemma="konuş" tags="v.tv.*">
+    <select lemma="gaplash" tags="v.tv.*"/>
+  </match>
+  </rule>
+
+
+  <rule weight ="1">  <!-- default -->
+  <match lemma="ile" tags="post">
+    <select lemma="bilan" tags="post"/>
+  </match>
+  </rule>
+
+  <rule weight ="1">  <!-- default -->
+  <match lemma="alt" tags="n">
+    <select lemma="tag" tags="n"/>
+  </match>
+  </rule>
+
+  <rule weight ="1">  <!-- default -->
+  <match lemma="at" tags="v.tv">
+    <select lemma="ot" tags="v.tv"/>
+  </match>
+  </rule>
+
+  <rule weight ="1">  <!-- default -->
+  <match lemma="çok" tags="adj">
+    <select lemma="juda" tags="adj"/>
+  </match>
+  </rule>
+
+  <rule weight="1"> <!-- default -->
+  <match lemma="büyük" tags="adj">
+    <select lemma="katta" tags="adj"/>
+  </match>
+  </rule>
+
 </rules>
 
-<!-- 
-Resources: 
+<!--
+Resources:
     http://wiki.apertium.org/wiki/How_to_get_started_with_lexical_selection_rules
     http://wiki.apertium.org/wiki/Constraint-based_lexical_selection
     http://wiki.apertium.org/wiki/Lexical_selection
     http://wiki.apertium.org/wiki/Learning_rules_from_parallel_and_non-parallel_corpora
 -->
-
