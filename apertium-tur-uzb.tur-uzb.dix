@@ -1343,6 +1343,7 @@
 <e>       <p><l>yalnız<s n="cnjadv"/></l>              <r>faqat<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>yalnız<s n="cnjadv"/></l>              <r>yolgʻiz<s n="cnjcoo"/></r></p></e>
 
+
     <!-- ******************************
           group cnjsub_symbol
       ****************************** -->
@@ -1358,17 +1359,41 @@
 
     <!-- SECTION: Determinatives -->
 
+<e>       <p><l>onlarca<s n="det"/><s n="qnt"/></l>    <r>oʻnlab<s n="det"/><s n="qnt"/></r></p></e>
+<e>       <p><l>düzinelerce<s n="det"/><s n="qnt"/></l><r>oʻnlab<s n="det"/><s n="qnt"/></r></p></e>
+<e>       <p><l>yüzlerce<s n="det"/><s n="qnt"/></l>   <r>yuzlab<s n="det"/><s n="qnt"/></r></p></e>
 <e>       <p><l>binlerce<s n="det"/><s n="qnt"/></l>   <r>minglab<s n="det"/><s n="qnt"/></r></p></e>
-<e>       <p><l>bir<s n="det"/><s n="ind"/></l>        <r>bir<s n="det"/><s n="ind"/></r></p></e>
+<e>       <p><l>onbinlerce<s n="det"/><s n="qnt"/></l> <r>oʻnminglab<s n="det"/><s n="qnt"/></r></p></e>
+<e>       <p><l>yüzbinlerce<s n="det"/><s n="qnt"/></l><r>yuzminglab<s n="det"/><s n="qnt"/></r></p></e>
+<e>       <p><l>milyonlarca<s n="det"/><s n="qnt"/></l><r>millionlab<s n="det"/><s n="qnt"/></r></p></e>
+<e>       <p><l>milyarlarca<s n="det"/><s n="qnt"/></l><r>milliardlab<s n="det"/><s n="qnt"/></r></p></e>
 <e>       <p><l>birçok<s n="det"/><s n="qnt"/></l>     <r>koʻplab<s n="det"/><s n="qnt"/></r></p></e>
 <e>       <p><l>bütün<s n="det"/><s n="qnt"/></l>      <r>butun<s n="det"/><s n="qnt"/></r></p></e>
 <e>       <p><l>hepsi<s n="det"/><s n="qnt"/></l>      <r>hamma<s n="det"/><s n="qnt"/></r></p></e>
-<e>       <p><l>her<s n="det"/><s n="dem"/></l>        <r>barcha<s n="det"/><s n="dem"/></r></p></e>
-<e>       <p><l>herhangi<s n="det"/><s n="ind"/></l>   <r>har<b/>qanday<s n="det"/><s n="ind"/></r></p></e>  <!-- Will be moved to MWE later-->
 <e>       <p><l>hiçbir<s n="det"/><s n="qnt"/></l>     <r>hech<s n="det"/><s n="qnt"/></r></p></e>
 <e>       <p><l>kaç<s n="det"/><s n="qnt"/></l>        <r>necha<s n="det"/><s n="qnt"/></r></p></e>
 <e>       <p><l>kaç<s n="det"/><s n="qnt"/></l>        <r>nechta<s n="det"/><s n="qnt"/></r></p></e>
-<e>       <p><l>yüzlerce<s n="det"/><s n="qnt"/></l>   <r>yuzlab<s n="det"/><s n="qnt"/></r></p></e>
+<e>       <p><l>kaç<s n="det"/><s n="qnt"/></l>        <r>qancha<s n="det"/><s n="qnt"/></r></p></e>
+<e>       <p><l>her<s n="det"/><s n="dem"/></l>        <r>barcha<s n="det"/><s n="dem"/></r></p></e>
+<e>       <p><l>bu<s n="det"/><s n="dem"/></l>         <r>bu<s n="det"/><s n="dem"/></r></p></e>
+<e>       <p><l>şu<s n="det"/><s n="dem"/></l>         <r>shu<s n="det"/><s n="dem"/></r></p></e>
+<e>       <p><l>o<s n="det"/><s n="dem"/></l>          <r>u<s n="det"/><s n="dem"/></r></p></e>
+<e>       <p><l>işte<b/>bu<s n="det"/><s n="dem"/></l> <r>boʻldi<b/>shu<s n="det"/><s n="dem"/></r></p></e>
+<e>       <p><l>işte<s n="det"/><s n="dem"/></l>       <r>shu<b/>yerda<s n="det"/><s n="dem"/></r></p></e>
+<e>       <p><l>işbu<s n="det"/><s n="dem"/></l>       <r>ushbu<s n="det"/><s n="dem"/></r></p></e>
+<e>       <p><l>tüm<s n="det"/><s n="dem"/></l>        <r>butun<s n="det"/><s n="dem"/></r></p></e>
+<e>       <p><l>aynı<s n="det"/><s n="dem"/></l>       <r>ayni<s n="det"/><s n="dem"/></r></p></e>
+<e>       <p><l>aynı<s n="det"/><s n="dem"/></l>       <r>aynan<s n="det"/><s n="dem"/></r></p></e>
+<e>       <p><l>öteki<s n="det"/><s n="dem"/></l>      <r>boshqa<s n="det"/><s n="dem"/></r></p></e>
+<e>       <p><l>öbür<s n="det"/><s n="dem"/></l>       <r>boshqa<s n="det"/><s n="dem"/></r></p></e>
+<e>       <p><l>bir<s n="det"/><s n="ind"/></l>        <r>bir<s n="det"/><s n="ind"/></r></p></e>
+<e>       <p><l>herhangi<s n="det"/><s n="ind"/></l>   <r>har<b/>qanday<s n="det"/><s n="ind"/></r></p></e>  <!-- Will be moved to MWE later-->
+<e>       <p><l>başka<s n="det"/><s n="ind"/></l>      <r>boshqa<s n="det"/><s n="ind"/></r></p></e>
+<e>       <p><l>birkaç<s n="det"/><s n="ind"/></l>     <r>biroz<s n="det"/><s n="ind"/></r></p></e>
+<e>       <p><l>böyle<s n="det"/><s n="ind"/></l>      <r>boʻlib<s n="det"/><s n="ind"/></r></p></e>
+<e>       <p><l>şöyle<s n="det"/><s n="ind"/></l>      <r>shunday<s n="det"/><s n="ind"/></r></p></e>
+<e>       <p><l>öyle<s n="det"/><s n="ind"/></l>       <r>shunday<s n="det"/><s n="ind"/></r></p></e>
+<e>       <p><l>tek<s n="det"/><s n="ind"/></l>        <r>birgina<s n="det"/><s n="ind"/></r></p></e>
 
     <!-- ******************************
           group guio_symbol
