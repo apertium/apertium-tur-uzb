@@ -773,6 +773,7 @@
 <e>       <p><l>tasviri<s n="adj"/></l>                <r>tasviriy<s n="adj"/></r></p></e>
 <e>       <p><l>tatlı<s n="adj"/></l>                  <r>chuchuk<s n="adj"/></r></p></e>
 <e>       <p><l>tatlı<s n="adj"/></l>                  <r>shirin<s n="adj"/></r></p></e>
+<e>       <p><l>tatlı<s n="adj"/></l>                  <r>yoqimli<s n="adj"/></r></p></e>
 <e>       <p><l>tayin<s n="adj"/></l>                  <r>tayin<s n="adj"/></r></p></e>
 <e>       <p><l>tehlikeli<s n="adj"/></l>              <r>xavfli<s n="adj"/></r></p></e>
 <e>       <p><l>tehlikeli<s n="adj"/></l>              <r>tahlikali<s n="adj"/></r></p></e>
@@ -1397,6 +1398,9 @@
 <e>       <p><l>adet<s n="n"/></l>                     <r>oʻodat<s n="n"/></r></p></e>
 <e>       <p><l>adım<s n="n"/></l>                     <r>qadam<s n="n"/></r></p></e>
 <e>       <p><l>adım<s n="n"/></l>                     <r>bosqich<s n="n"/></r></p></e>
+<e>       <p><l>afiyet<s n="n"/></l>                   <r>sogʻlik<s n="n"/></r></p></e>
+<e>       <p><l>afiyet<s n="n"/></l>                   <r>ishtaha<s n="n"/></r></p></e>
+<e>       <p><l>afiyet<b/>olsun<s n="n"/></l>          <r>yoqimli<b/>ishtaha<s n="n"/></r></p></e>
 <e>       <p><l>Afgan<s n="n"/></l>                    <r>afgon<s n="n"/></r></p></e>
 <e>       <p><l>Afgan<s n="n"/></l>                    <r>afgʻon<s n="n"/></r></p></e>
 <e>       <p><l>Afrikalı<s n="n"/></l>                 <r>afrikalik<s n="n"/></r></p></e>
