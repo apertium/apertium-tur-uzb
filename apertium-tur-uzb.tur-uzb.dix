@@ -1275,11 +1275,13 @@
           group cnjadv_symbol
       ****************************** -->
 <e>       <p><l>aksine<s n="cnjadv"/></l>              <r>aksincha<s n="cnjadv"/></r></p></e>
+<e>       <p><l>farklı<b/>olarak<s n="cnjadv"/></l>    <r>farqli<b/>oʻlaroq<s n="cnjadv"/></r></p></e>
 <e>       <p><l>ancak<s n="cnjadv"/></l>               <r>biroq<s n="cnjadv"/></r></p></e>
 <e>       <p><l>ayrıca<s n="cnjadv"/></l>              <r>ustiga<s n="cnjadv"/></r></p></e>
 <e>       <p><l>bari<s n="cnjadv"/></l>                <r>hech boʻlmasa<s n="cnjadv"/></r></p></e>
 <e>       <p><l>belki<s n="cnjadv"/></l>               <r>balki<s n="cnjadv"/></r></p></e>
 <e>       <p><l>bilakis<s n="cnjadv"/></l>             <r>bilʻaks<s n="cnjadv"/></r></p></e>
+<e>       <p><l>bilakis<s n="cnjadv"/></l>             <r>aksincha<s n="cnjadv"/></r></p></e>
 <e>       <p><l>bile<s n="cnjadv"/></l>                <r>hatto<s n="cnjadv"/></r></p></e>
 <e>       <p><l>demek<s n="cnjadv"/></l>               <r>demak<s n="cnjadv"/></r></p></e>
 <e>       <p><l>hatta<s n="cnjadv"/></l>               <r>hattoki<s n="cnjadv"/></r></p></e>
@@ -1289,23 +1291,31 @@
 <e>       <p><l>ki<s n="cnjadv"/></l>                  <r>ki<s n="cnjadv"/></r></p></e>
 <e>       <p><l>lakin<s n="cnjadv"/></l>               <r>lekin<s n="cnjadv"/></r></p></e>
 <e>       <p><l>mesela<s n="cnjadv"/></l>              <r>masalan<s n="cnjadv"/></r></p></e>
+<e>       <p><l>mesela<s n="cnjadv"/></l>              <r>misol<b/>uchun<s n="cnjadv"/></r></p></e>
 <e>       <p><l>meğer<s n="cnjadv"/></l>               <r>magar<s n="cnjadv"/></r></p></e>
 <e>       <p><l>meğerse<s n="cnjadv"/></l>             <r>magar<s n="cnjadv"/></r></p></e>
+<e>       <p><l>meğerse<s n="cnjadv"/></l>             <r>magarki<s n="cnjadv"/></r></p></e>
 <e>       <p><l>nasılsa<s n="cnjadv"/></l>             <r>qandaydir<s n="cnjadv"/></r></p></e>
 <e>       <p><l>neyse<s n="cnjadv"/></l>               <r>mayli<s n="cnjadv"/></r></p></e>
 <e>       <p><l>nispeten<s n="cnjadv"/></l>            <r>nisbatan<s n="cnjadv"/></r></p></e>
 <e>       <p><l>olsun<s n="cnjadv"/></l>               <r>boʻlsin<s n="cnjadv"/></r></p></e>
 <e>       <p><l>oysa<s n="cnjadv"/></l>                <r>holbuki<s n="cnjadv"/></r></p></e>
 <e>       <p><l>oysaki<s n="cnjadv"/></l>              <r>holbuki<s n="cnjadv"/></r></p></e>
+<e>       <p><l>halbuki<s n="cnjadv"/></l>             <r>holbuki<s n="cnjadv"/></r></p></e>
+<e>       <p><l>mademki<s n="cnjadv"/></l>             <r>mudomiki<s n="cnjadv"/></r></p></e>
+<e>       <p><l>mademki<s n="cnjadv"/></l>             <r>madomiki<s n="cnjadv"/></r></p></e>
 <e>       <p><l>sonra<s n="cnjadv"/></l>               <r>keyin<s n="cnjadv"/></r></p></e>
 <e>       <p><l>sonra<s n="cnjadv"/></l>               <r>soʻngra<s n="cnjadv"/></r></p></e>
 <e>       <p><l>tersine<s n="cnjadv"/></l>             <r>aksincha<s n="cnjadv"/></r></p></e>
+<e>       <p><l>tersine<s n="cnjadv"/></l>             <r>teskarisiga<s n="cnjadv"/></r></p></e>
+<e>       <p><l>veya<s n="cnjadv"/></l>                <r>yoki<s n="cnjadv"/></r></p></e>
 <e>       <p><l>veya<s n="cnjadv"/></l>                <r>yoki<s n="cnjadv"/></r></p></e>
 <e>       <p><l>veyahut<s n="cnjadv"/></l>             <r>yoki<s n="cnjadv"/></r></p></e>
 <e>       <p><l>ya<s n="cnjadv"/></l>                  <r>ya<s n="cnjadv"/></r></p></e>
 <e>       <p><l>yalnız<s n="cnjadv"/></l>              <r>faqat<s n="cnjadv"/></r></p></e>
 <e>       <p><l>yani<s n="cnjadv"/></l>                <r>yaʻni<s n="cnjadv"/></r></p></e>
 <e>       <p><l>yoksa<s n="cnjadv"/></l>               <r>yoʻqsa<s n="cnjadv"/></r></p></e>
+<e>       <p><l>yahut<s n="cnjadv"/></l>               <r>yoxud<s n="cnjadv"/></r></p></e>
 <e>       <p><l>zaten<s n="cnjadv"/></l>               <r>zotan<s n="cnjadv"/></r></p></e>
 <e>       <p><l>zira<s n="cnjadv"/></l>                <r>zora<s n="cnjadv"/></r></p></e>
 <e>       <p><l>çünkü<s n="cnjadv"/></l>               <r>chunki<s n="cnjadv"/></r></p></e>
@@ -1321,6 +1331,7 @@
 <e>       <p><l>hem<b/>de<s n="cnjcoo"/></l>           <r>hamda<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>ila<s n="cnjcoo"/></l>                 <r>ila<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>ile<s n="cnjcoo"/></l>                 <r>bilan<s n="cnjcoo"/></r></p></e>
+<e>       <p><l>ile<s n="cnjcoo"/></l>                 <r>va<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>ise<s n="cnjcoo"/></l>                 <r>esa<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>kah<s n="cnjcoo"/></l>                 <r>goh<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>lakin<s n="cnjcoo"/></l>               <r>lekin<s n="cnjcoo"/></r></p></e>
@@ -1330,12 +1341,14 @@
 <e>       <p><l>veya<s n="cnjcoo"/></l>                <r>yoxud<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>veyahut<s n="cnjcoo"/></l>             <r>yoki<s n="cnjcoo"/></r></p></e>
 <e>       <p><l>yalnız<s n="cnjadv"/></l>              <r>faqat<s n="cnjcoo"/></r></p></e>
+<e>       <p><l>yalnız<s n="cnjadv"/></l>              <r>yolgʻiz<s n="cnjcoo"/></r></p></e>
 
     <!-- ******************************
           group cnjsub_symbol
       ****************************** -->
 <e>       <p><l>diye<s n="cnjsub"/></l>                <r>sababli<s n="cnjsub"/></r></p></e>
 <e>       <p><l>diye<s n="cnjsub"/></l>                <r>deb<s n="cnjsub"/></r></p></e>
+<e>       <p><l>diye<s n="cnjsub"/></l>                <r>deya<s n="cnjsub"/></r></p></e>
 <e>       <p><l>eğer<s n="cnjsub"/></l>                <r>agar<s n="cnjsub"/></r></p></e>
 <e>       <p><l>gibi<s n="cnjsub"/></l>                <r>kabi<s n="cnjsub"/></r></p></e>
 <e>       <p><l>ki<s n="cnjsub"/></l>                  <r>ki<s n="cnjsub"/></r></p></e>
