@@ -1423,7 +1423,7 @@
 <e>       <p><l>—<s n="guio"/></l>                     <r>—<s n="guio"/></r></p></e>
 
     <!-- ******************************
-          group ij_symbol
+          SECTION Interjections
       ****************************** -->
 <e>       <p><l>amin<s n="ij"/></l>                    <r>omin<s n="ij"/></r></p></e>
 <e>       <p><l>değil<b/>mi<b/>ki<s n="ij"/></l>       <r>nahotki<s n="ij"/></r></p></e>
@@ -1439,6 +1439,63 @@
 <e>       <p><l>yeter<s n="ij"/></l>                   <r>bas<s n="ij"/></r></p></e>
 <e>       <p><l>yok<s n="ij"/></l>                     <r>yoʻq<s n="ij"/></r></p></e>
 <e>       <p><l>şimdi<s n="ij"/></l>                   <r>axir<s n="ij"/></r></p></e>
+
+<e>       <p><l>acaba<s n="ij"/></l>                   <r>ajabo<s n="ij"/></r></p></e>
+<e>       <p><l>ah<s n="ij"/></l>                      <r>ah<s n="ij"/></r></p></e>
+<e>       <p><l>aleyküm<s n="ij"/></l>                 <r>aleykum<s n="ij"/></r></p></e>
+<e>       <p><l>Allahu<b/>Ekber<s n="ij"/></l>         <r>Ollohu<b/>Akbar<s n="ij"/></r></p></e>
+<e>       <p><l>âmin<s n="ij"/></l>                    <r>omin<s n="ij"/></r></p></e>
+<e>       <p><l>anladım<s n="ij"/></l>                 <r>tushundim<s n="ij"/></r></p></e>
+<e>       <p><l>bakınız<s n="ij"/></l>                 <r>qara<s n="ij"/></r></p></e>
+<e>       <p><l>bakınız<s n="ij"/></l>                 <r>qarang<s n="ij"/></r></p></e>
+<e>       <p><l>berbat<s n="ij"/></l>                  <r>badbaxt<s n="ij"/></r></p></e>
+<e>       <p><l>çip<s n="ij"/></l>                     <r>chip<s n="ij"/></r></p></e>
+<e>       <p><l>değil<b/>mi<b/>ki<s n="ij"/></l>       <r>emasmi<s n="ij"/></r></p></e>
+<e>       <p><l>e<s n="ij"/></l>                       <r>e<s n="ij"/></r></p></e>
+<e>       <p><l>en<b/>azından<s n="ij"/></l>           <r>kmaida<s n="ij"/></r></p></e>
+<e>       <p><l>enhu<s n="ij"/></l>                    <r>anavi<s n="ij"/></r></p></e>
+<e>       <p><l>esselamu<s n="ij"/></l>                <r>assalomu<s n="ij"/></r></p></e>
+<e>       <p><l>evet<s n="ij"/></l>                    <r>ha<s n="ij"/></r></p></e>
+<e>       <p><l>falan<s n="ij"/></l>                   <r>falon<s n="ij"/></r></p></e>
+<e>       <p><l>günaydın<s n="ij"/></l>                <r>hayrli<b/>tong<s n="ij"/></r></p></e>
+<e>       <p><l>günaydın<s n="ij"/></l>                <r>hayrli<b/>kun<s n="ij"/></r></p></e>
+<e>       <p><l>hadi<s n="ij"/></l>                    <r>qani<s n="ij"/></r></p></e>
+<e>       <p><l>hahaha<s n="ij"/></l>                  <r>hahaha<s n="ij"/></r></p></e>
+<e>       <p><l>hayda<s n="ij"/></l>                   <r>sur<s n="ij"/></r></p></e>
+<e>       <p><l>her<b/>neyse<s n="ij"/></l>            <r>nima<b/>boʻlganda<b/>ham<s n="ij"/></r></p></e>
+<e>       <p><l>hey<s n="ij"/></l>                     <r>hoy<s n="ij"/></r></p></e>
+<e>       <p><l>hop<s n="ij"/></l>                     <r>xoʻp<s n="ij"/></r></p></e>
+<e>       <p><l>hoş<b/>geldiniz<s n="ij"/></l>         <r>xush<b/>kelibsiz<s n="ij"/></r></p></e>
+<e>       <p><l>hu<s n="ij"/></l>                      <r>hu<s n="ij"/></r></p></e>
+<e>       <p><l>hü<s n="ij"/></l>                      <r>hu<s n="ij"/></r></p></e>
+<e>       <p><l>kısacası<s n="ij"/></l>                <r>xullas<s n="ij"/></r></p></e>
+<e>       <p><l>kısacası<s n="ij"/></l>                <r>qisqasi<s n="ij"/></r></p></e>
+<e>       <p><l>inşallah<s n="ij"/></l>                <r>inshoolloh<s n="ij"/></r></p></e>
+<e>       <p><l>inşallah<s n="ij"/></l>                <r>inshoollo<s n="ij"/></r></p></e>
+<e>       <p><l>inşallah<s n="ij"/></l>                <r>insholloh<s n="ij"/></r></p></e>
+<e>       <p><l>la<s n="ij"/></l>                      <r>la<s n="ij"/></r></p></e>
+<e>       <p><l>lütfen<s n="ij"/></l>                  <r>lutfan<s n="ij"/></r></p></e>
+<e>       <p><l>merhaba<s n="ij"/></l>                 <r>salom<s n="ij"/></r></p></e>
+<e>       <p><l>mesela<s n="ij"/></l>                  <r>masalan<s n="ij"/></r></p></e>
+<e>       <p><l>oh<s n="ij"/></l>                      <r>oh<s n="ij"/></r></p></e>
+<e>       <p><l>öh<s n="ij"/></l>                      <r>oh<s n="ij"/></r></p></e>
+<e>       <p><l>olsun<s n="ij"/></l>                   <r>oʻlsin<s n="ij"/></r></p></e>
+<e>       <p><l>peki<s n="ij"/></l>                    <r>yaxshi<s n="ij"/></r></p></e>
+<e>       <p><l>radıyallahu<b/>anh<s n="ij"/></l>      <r>roziollohu<b/>anhu<s n="ij"/></r></p></e>
+<e>       <p><l>radiyullahu<s n="ij"/></l>             <r>roziollohu<s n="ij"/></r></p></e>
+<e>       <p><l>rahmanullah<s n="ij"/></l>             <r>rahmonur<s n="ij"/></r></p></e>
+<e>       <p><l>şah<b/>mat<s n="ij"/></l>              <r>shox-mot<s n="ij"/></r></p></e>
+<e>       <p><l>sallallahu<s n="ij"/></l>              <r>sallallahu<s n="ij"/></r></p></e>
+<e>       <p><l>tabii<b/>ki<s n="ij"/></l>             <r>tabiiyki<s n="ij"/></r></p></e>
+<e>       <p><l>tamam<s n="ij"/></l>                   <r>tamom<s n="ij"/></r></p></e>
+<e>       <p><l>teşekkürler<s n="ij"/></l>             <r>rahmat<s n="ij"/></r></p></e>
+<e>       <p><l>vah<s n="ij"/></l>                     <r>vah<s n="ij"/></r></p></e>
+<e>       <p><l>var<s n="ij"/></l>                     <r>bor<s n="ij"/></r></p></e>
+<e>       <p><l>vesselam<s n="ij"/></l>                <r>bassalom<s n="ij"/></r></p></e>
+<e>       <p><l>yani<s n="ij"/></l>                    <r>yani<s n="ij"/></r></p></e>
+
+
+
 
     <!-- ******************************
           group lpar_symbol
