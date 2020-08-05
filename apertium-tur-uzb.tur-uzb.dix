@@ -107,6 +107,8 @@
 <e>       <p><l>sonra<s n="adv"/></l>                  <r>av<s n="abbr"/><s n="nom"/></r></p></e>
 <e>       <p><l>SSC<s n="abbr"/></l>                   <r>SSR<s n="abbr"/><s n="nom"/></r></p></e>
 <e>       <p><l>st<s n="abbr"/></l>                    <r>st<s n="abbr"/><s n="nom"/></r></p></e>
+<e>       <p><l>AB<s n="abbr"/></l>                    <r>AB<s n="abbr"/><s n="nom"/></r></p></e>
+<e>       <p><l>BH<s n="abbr"/></l>                    <r>BH<s n="abbr"/><s n="nom"/></r></p></e>
 <e>       <p><l>Yunanca<s n="n"/><s n="nom"/></l>      <r>yun<s n="abbr"/><s n="nom"/></r></p></e>
 <e>       <p><l>Özbekçe<s n="n"/><s n="nom"/></l>      <r>uz<s n="abbr"/><s n="nom"/></r></p></e>
   
@@ -961,6 +963,8 @@
 <e>       <p><l>şık<s n="adj"/></l>                    <r>oʻrinli<s n="adj"/></r></p></e>
 <e>       <p><l>şimdi<s n="adj"/></l>                  <r>hozir<s n="adj"/></r></p></e>
 <e>       <p><l>şirin<s n="adj"/></l>                  <r>shirin<s n="adj"/></r></p></e>
+
+<e>       <p><l>Sırp<s n="adj"/></l>                  <r>Serb<s n="adj"/></r></p></e>
 
 
           <!-- SECTION: Adverbs -->
@@ -3506,7 +3510,7 @@
         <!-- SECTION: Proper nouns TOPONYMS -->
         <!-- SECTION: Prop - nounsNOMMASC -->
 
-<e>       <p><l>A<b/>Coruna<s n="np"/><s n="top"/></l> <r>a<b/>coruna<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>A<b/>Coruna<s n="np"/><s n="top"/></l> <r>La<b/>Korunya<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>ABD<s n="np"/><s n="top"/></l>         <r>AQSH<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>ABD<s n="np"/><s n="top"/></l>         <r>AQSh<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Abdullah<s n="np"/><s n="ant"/><s n="mf"/></l><r>Abdullah<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -3878,6 +3882,17 @@
 <e>       <p><l>Özbekistan<b/>Ligi<s n="np"/><s n="al"/></l><r>OʻzR<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Şahrisabz<s n="np"/><s n="top"/></l>   <r>shahrisabz<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Şam<s n="np"/><s n="top"/></l>         <r>Shom<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Makedonya<s n="np"/><s n="top"/></l>   <r>Makedoniya<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Sırbistan<s n="np"/><s n="top"/></l>   <r>Serbiya<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Kosova<s n="np"/><s n="top"/></l>      <r>Kosova<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Hırvatistan<s n="np"/><s n="top"/></l> <r>Xorvatiya<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Belgrad<s n="np"/><s n="top"/></l>     <r>Belgrad<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Sırp<s n="n"/></l>                     <r>Serb<s n="n"/></r></p></e>
+<e>       <p><l>Arnavutluk<s n="np"/><s n="top"/></l>  <r>Albaniya<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Karadağ<s n="np"/><s n="top"/></l>     <r>Chernogoriya<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Bulgaristan<s n="np"/><s n="top"/></l> <r>Bolgariya<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Romanya<s n="np"/><s n="top"/></l>     <r>Ruminiya<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Yunanistan<s n="np"/><s n="top"/></l>  <r>Yunoniston<s n="np"/><s n="top"/></r></p></e>
 
 
           <!-- SECTION: NUMERALS -->
