@@ -107,10 +107,18 @@
 <e>       <p><l>sonra<s n="adv"/></l>                  <r>av<s n="abbr"/><s n="nom"/></r></p></e>
 <e>       <p><l>SSC<s n="abbr"/></l>                   <r>SSR<s n="abbr"/><s n="nom"/></r></p></e>
 <e>       <p><l>st<s n="abbr"/></l>                    <r>st<s n="abbr"/><s n="nom"/></r></p></e>
-<e>       <p><l>AB<s n="abbr"/></l>                    <r>AB<s n="abbr"/><s n="nom"/></r></p></e>
-<e>       <p><l>BH<s n="abbr"/></l>                    <r>BH<s n="abbr"/><s n="nom"/></r></p></e>
+<e>       <p><l>AB<s n="np"/><s n="top"/></l>          <r>AB<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>BH<s n="np"/><s n="top"/></l>          <r>BH<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>BM<s n="np"/><s n="top"/></l>          <r>BM<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Yunanca<s n="n"/><s n="nom"/></l>      <r>yun<s n="abbr"/><s n="nom"/></r></p></e>
 <e>       <p><l>Özbekçe<s n="n"/><s n="nom"/></l>      <r>uz<s n="abbr"/><s n="nom"/></r></p></e>
+<e>       <p><l>üyelik<s n="n"/></l>                   <r>a`zolik<s n="n"/></r></p></e>
+<e>       <p><l>demeç<s n="n"/></l>                    <r>bayonot<s n="n"/></r></p></e>
+<e>       <p><l>avro<s n="n"/></l>                     <r>yevro<s n="n"/></r></p></e>
+<e>       <p><l>euro<s n="n"/></l>                     <r>yevro<s n="n"/></r></p></e>
+<e>       <p><l>dolar<s n="n"/></l>                    <r>dollar<s n="n"/></r></p></e>
+<e>       <p><l>som<s n="n"/></l>                      <r>som<s n="n"/></r></p></e>
+<e>       <p><l>ruble<s n="n"/></l>                    <r>rubl<s n="n"/></r></p></e>
   
 
       <!-- SECTION: Adjectives -->
@@ -965,7 +973,8 @@
 <e>       <p><l>şimdi<s n="adj"/></l>                  <r>hozir<s n="adj"/></r></p></e>
 <e>       <p><l>şirin<s n="adj"/></l>                  <r>shirin<s n="adj"/></r></p></e>
 
-<e>       <p><l>Sırp<s n="adj"/></l>                  <r>Serb<s n="adj"/></r></p></e>
+<e>       <p><l>Sırp<s n="adj"/></l>                   <r>Serb<s n="adj"/></r></p></e>
+<e>       <p><l>yönelik<s n="adj"/></l>                <r>yoʻnaltirilgan<s n="adj"/></r></p></e>
 
 
           <!-- SECTION: Adverbs -->
@@ -3246,7 +3255,7 @@
 <e>       <p><l>tür<s n="n"/></l>                      <r>janr<s n="n"/></r></p></e>
 <e>       <p><l>tür<s n="n"/></l>                      <r>nav<s n="n"/></r></p></e>
 <e>       <p><l>tür<s n="n"/></l>                      <r>xil<s n="n"/></r></p></e>
-<e>       <p><l>Türk<s n="n"/></l>                     <r>turk<s n="n"/></r></p></e>
+<e>       <p><l>Türk<s n="n"/></l>                     <r>Turk<s n="n"/></r></p></e>
 <e>       <p><l>Türkmen<s n="n"/></l>                  <r>turkman<s n="n"/></r></p></e>
 <e>       <p><l>tütün<s n="n"/></l>                    <r>tamaki<s n="n"/></r></p></e>
 <e>       <p><l>umut<s n="n"/></l>                     <r>umid<s n="n"/></r></p></e>
@@ -3562,6 +3571,16 @@
 <e>       <p><l>şube<s n="n"/></l>                     <r>shox<s n="n"/></r></p></e>
 <e>       <p><l>şube<s n="n"/></l>                     <r>shoxobcha<s n="n"/></r></p></e>
 <e>       <p><l>şükran<s n="n"/></l>                   <r>shukrona<s n="n"/></r></p></e>
+<e>       <p><l>Pazartesi<s n="n"/></l>                <r>Dushanba<s n="n"/></r></p></e>
+<e>       <p><l>Salı<s n="n"/></l>                     <r>Seshanba<s n="n"/></r></p></e>
+<e>       <p><l>Çarşamba<s n="n"/></l>                 <r>Chorshanba<s n="n"/></r></p></e>
+<e>       <p><l>Perşembe<s n="n"/></l>                 <r>Payshanba<s n="n"/></r></p></e>
+<e>       <p><l>Cuma<s n="n"/></l>                     <r>Juma<s n="n"/></r></p></e>
+<e>       <p><l>Cumartesi<s n="n"/></l>                <r>Shanba<s n="n"/></r></p></e>
+<e>       <p><l>Pazar<s n="n"/></l>                    <r>Yakshanba<s n="n"/></r></p></e>
+<e>       <p><l>Hırvat<s n="n"/></l>                   <r>Xorvat<s n="n"/></r></p></e>
+<e>       <p><l>dışişleri<s n="n"/></l>                <r>tashqi<b/>ishlari<s n="n"/></r></p></e>
+<e>       <p><l>işbirliği<s n="n"/></l>                <r>hamkorlik<s n="n"/></r></p></e>
     
 
         <!-- SECTION: Proper nouns -->
@@ -3583,6 +3602,9 @@
 <e>       <p><l>Aisne<s n="np"/><s n="top"/></l>       <r>Aisne<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Akitanya<s n="np"/><s n="top"/></l>    <r>Akvitaniya<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>AKP<s n="np"/><s n="org"/></l>         <r>AKP<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>BM<s n="np"/><s n="org"/></l>          <r>BM<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>NATO<s n="np"/><s n="org"/></l>        <r>NATO<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>SETimes<s n="np"/><s n="org"/></l>     <r>SETimes<s n="np"/><s n="org"/></r></p></e>
 <e>       <p><l>al<s n="np"/><s n="al"/></l>           <r>al<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Alabama<s n="np"/><s n="top"/></l>     <r>Alabama<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Albert<s n="np"/><s n="ant"/><s n="m"/></l><r>Albert<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -5331,6 +5353,7 @@
 
 <!-- SECTION: Verbs -->
 
+<e>       <p><l>belirt<s n="v"/><s n="tv"/></l>        <r>bildir<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>adım<b/>at<s n="v"/><s n="iv"/></l>    <r>qadam<b/>qo‘y<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>affet<s n="v"/><s n="tv"/></l>         <r>kechir<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>ak<s n="v"/><s n="iv"/></l>            <r>oq<s n="v"/><s n="iv"/></r></p></e>
