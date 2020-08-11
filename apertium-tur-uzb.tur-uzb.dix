@@ -66,6 +66,40 @@
 
     
           <!-- SECTION: Abbrevations -->
+<e>       <p><l>A.<s n="abbr"/></l>                    <r>A.<s n="abbr"/></r></p></e>
+<e>       <p><l>Ä.<s n="abbr"/></l>                    <r>Ä.<s n="abbr"/></r></p></e>
+<e>       <p><l>B.<s n="abbr"/></l>                    <r>B.<s n="abbr"/></r></p></e>
+<e>       <p><l>C.<s n="abbr"/></l>                    <r>C.<s n="abbr"/></r></p></e>
+<e>       <p><l>Ç.<s n="abbr"/></l>                    <r>Ch.<s n="abbr"/></r></p></e>
+<e>       <p><l>cm<s n="abbr"/></l>                    <r>cm<s n="abbr"/></r></p></e>
+<e>       <p><l>D.<s n="abbr"/></l>                    <r>D.<s n="abbr"/></r></p></e>
+<e>       <p><l>Dr<s n="abbr"/></l>                    <r>Dr<s n="abbr"/></r></p></e>
+<e>       <p><l>E.<s n="abbr"/></l>                    <r>E.<s n="abbr"/></r></p></e>
+<e>       <p><l>F.<s n="abbr"/></l>                    <r>F.<s n="abbr"/></r></p></e>
+<e>       <p><l>G.<s n="abbr"/></l>                    <r>G.<s n="abbr"/></r></p></e>
+<e>       <p><l>Ğ.<s n="abbr"/></l>                    <r>Gʻ.<s n="abbr"/></r></p></e>
+<e>       <p><l>H.<s n="abbr"/></l>                    <r>H.<s n="abbr"/></r></p></e>
+<e>       <p><l>I.<s n="abbr"/></l>                    <r>I.<s n="abbr"/></r></p></e>
+<e>       <p><l>İng<s n="abbr"/></l>                   <r>Ing<s n="abbr"/></r></p></e>
+<e>       <p><l>J.<s n="abbr"/></l>                    <r>J.<s n="abbr"/></r></p></e>
+<e>       <p><l>K.<s n="abbr"/></l>                    <r>K.<s n="abbr"/></r></p></e>
+<e>       <p><l>km<s n="abbr"/></l>                    <r>km<s n="abbr"/></r></p></e>
+<e>       <p><l>L.<s n="abbr"/></l>                    <r>L.<s n="abbr"/></r></p></e>
+<e>       <p><l>M.<s n="abbr"/></l>                    <r>M.<s n="abbr"/></r></p></e>
+<e>       <p><l>N.<s n="abbr"/></l>                    <r>N.<s n="abbr"/></r></p></e>
+<e>       <p><l>O.<s n="abbr"/></l>                    <r>O.<s n="abbr"/></r></p></e>
+<e>       <p><l>P.<s n="abbr"/></l>                    <r>P.<s n="abbr"/></r></p></e>
+<e>       <p><l>Q.<s n="abbr"/></l>                    <r>Q.<s n="abbr"/></r></p></e>
+<e>       <p><l>R.<s n="abbr"/></l>                    <r>R.<s n="abbr"/></r></p></e>
+<e>       <p><l>S.<s n="abbr"/></l>                    <r>S.<s n="abbr"/></r></p></e>
+<e>       <p><l>Ş.<s n="abbr"/></l>                    <r>Sh.<s n="abbr"/></r></p></e>
+<e>       <p><l>SSR<s n="abbr"/></l>                   <r>SSR<s n="abbr"/></r></p></e>
+<e>       <p><l>T.<s n="abbr"/></l>                    <r>T.<s n="abbr"/></r></p></e>
+<e>       <p><l>U.<s n="abbr"/></l>                    <r>U.<s n="abbr"/></r></p></e>
+<e>       <p><l>Ü.<s n="abbr"/></l>                    <r>U.<s n="abbr"/></r></p></e>
+<e>       <p><l>V.<s n="abbr"/></l>                    <r>V.<s n="abbr"/></r></p></e>
+<e>       <p><l>Y.<s n="abbr"/></l>                    <r>Y.<s n="abbr"/></r></p></e>
+<e>       <p><l>Z.<s n="abbr"/></l>                    <r>Z.<s n="abbr"/></r></p></e>
 
 <e>       <p><l>as<s n="abbr"/></l>                    <r>as<s n="abbr"/><s n="nom"/></r></p></e>
 <e>       <p><l>Ağustos<s n="n"/><s n="nom"/></l>      <r>avg<s n="abbr"/><s n="nom"/></r></p></e>
