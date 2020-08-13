@@ -3661,6 +3661,7 @@
         <!-- SECTION: Proper nouns TOPONYMS -->
         <!-- SECTION: Prop - nounsNOMMASC -->
 
+
 <e>       <p><l>A2<b/>Ligi<s n="np"/><s n="org"/></l>                                  <r>A2<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
 <e>       <p><l>ABD<b/>Kolej<b/>Ligi<s n="np"/><s n="org"/></l>                        <r>ABD<b/>Kolej<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
 <e>       <p><l>ABD<b/>Profesyonel<b/>Futbol<b/>Ligi<s n="np"/><s n="org"/></l>        <r>AQSh<b/>Professional<b/>Futbol<b/>Ligasi<s n="np"/><s n="org"/></r></p></e>
@@ -3729,6 +3730,89 @@
 <e>       <p><l>Erkekler<b/>Dünya<b/>Ligi<s n="np"/><s n="org"/></l>                   <r>Jahon<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
 <e>       <p><l>Erkekler<b/>Hentbol<b/>Şampiyonlar<b/>Ligi<s n="np"/><s n="org"/></l>  <r>Gandbol<b/>bo'yicha<b/>erkaklar<b/>chempionlari<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
 <e>       <p><l>Erkekler<b/>Hentbol<b/>Süper<b/>Ligi<s n="np"/><s n="org"/></l>        <r>Gandbol<b/>bo'yicha<b/>erkaklar<b/>Superligasi<s n="np"/><s n="org"/></r></p></e>
+
+<e>       <p><l>Evertonda<b/>Şampiyonlar<b/>Ligi<s n="np"/><s n="org"/></l>            <r>EvertonM<b/>Chempionlar<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Faroe<b/>Adaları<b/>Premier<b/>Ligi<s n="np"/><s n="org"/></l>         <r>Farer<b/>orollari<b/>Premer%-ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Fransa<b/>İkinci<b/>Ligi<s n="np"/><s n="org"/></l>                    <r>Fransiya<b/>Ikkinchi<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Fransa<b/>Ligi<s n="np"/><s n="org"/></l>                              <r>Fransiya<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Futbola<b/>Muğla<b/>Amatör<b/>Ligi<s n="np"/><s n="org"/></l>          <r>Futbol<b/>Mugla<b/>havaskorlar<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Futbol<b/>Ligi<s n="np"/><s n="org"/></l>                              <r>Futbol<b/>Ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Genç<b/>Erkekler<b/>Voleybol<b/>Ligi<s n="np"/><s n="org"/></l>        <r>Yoshlar<b/>voleybol<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Gençler<b/>Ligi<s n="np"/><s n="org"/></l>                             <r>Yoshlar<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Gist<b/>Rusya<b/>Ligi<s n="np"/><s n="org"/></l>                       <r>Gist<b/>Rossiya<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Güney<b/>Futbol<b/>Ligi<s n="np"/><s n="org"/></l>                     <r>Janubiy<b/>futbol<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Halk<b/>Kültürü<b/>Ligi<s n="np"/><s n="org"/></l>                     <r>Xalq<b/>madaniyati<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Hırvatistan<b/>Basketbol<b/>Ligi<s n="np"/><s n="org"/></l>            <r>Xorvatiya<b/>basketbol<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Hırvatistan<b/>Ligi<s n="np"/><s n="org"/></l>                         <r>Xorvatiya<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Hollanda<b/>Ligi<s n="np"/><s n="org"/></l>                            <r>Gollandiya<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Hristiyan<b/>Ligi<s n="np"/><s n="org"/></l>                           <r>Xristian<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İkinci<b/>Beyzbol<b/>Ligi<s n="np"/><s n="org"/></l>                   <r>Ikkinchi<b/>Basketbol<b/>Ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İkinci<b/>Futbol<b/>Ligi<s n="np"/><s n="org"/></l>                    <r>Ikkinchi<b/>Futbol<b/>Ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İkinci<b/>Ligi<s n="np"/><s n="org"/></l>                              <r>Ikkinchi<b/>liga<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İlk<b/>UEFA<b/>Şampiyonlar<b/>Ligi<s n="np"/><s n="org"/></l>          <r>Birinchi<b/>UEFA<b/>Chempionlar<b/>Ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İlleri<b/>Doğu<b/>Futbol<b/>Ligi<s n="np"/><s n="org"/></l>            <r>Sharqiy<b/>futbol<b/>ligasining<b/>viloyatlari<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Indigo<b/>Ligi<s n="np"/><s n="org"/></l>                              <r>Indigo<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İngiliz<b/>Futbol<b/>Ligi<s n="np"/><s n="org"/></l>                   <r>Angliya<b/>futbol<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İngiltere<b/>Basketbol<b/>Ligi<s n="np"/><s n="org"/></l>              <r>Angliya<b/>basketbol<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İngiltere<b/>Futbol<b/>Ligi<s n="np"/><s n="org"/></l>                 <r>Angliya<b/>futbol<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İngiltere<b/>Premier<b/>Ligi<s n="np"/><s n="org"/></l>                <r>Angliya<b/>Premer%-ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İskoçya<b/>Premier<b/>Ligi<s n="np"/><s n="org"/></l>                  <r>Shotlandiya<b/>Premer%-ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İspanya<b/>Basketbol<b/>Ligi<s n="np"/><s n="org"/></l>                <r>Ispaniya<b/>basketbol<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İspanya<b/>Ligi<s n="np"/><s n="org"/></l>                             <r>Ispaniya<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İspanya<b/>Süper<b/>Ligi<s n="np"/><s n="org"/></l>                    <r>Ispaniya<b/>Superligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İspanya<b/>Üçüncü<b/>Ligi<s n="np"/><s n="org"/></l>                   <r>Ispaniya<b/>Uchinchi<b/>Ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İsrail<b/>Basketbol<b/>Ligi<s n="np"/><s n="org"/></l>                 <r>Isroil<b/>basketbol<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İsrail<b/>Ligi<s n="np"/><s n="org"/></l>                              <r>Isroil<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İsrail<b/>Süper<b/>Ligi<s n="np"/><s n="org"/></l>                     <r>Isroil<b/>Superligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İstanbul<b/>Amatör<b/>Futbol<b/>Ligi<s n="np"/><s n="org"/></l>        <r>Istanbul<b/>havaskor<b/>futbol<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İstanbul<b/>Basketbol<b/>Kızlar<b/>Ligi<s n="np"/><s n="org"/></l>     <r>Istanbul<b/>Basketbol<b/>Qizlar<b/>Ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İstanbul<b/>Birinci<b/>Amatör<b/>Ligi<s n="np"/><s n="org"/></l>       <r>Istanbul<b/>Birinchi<b/>Havaskorlar<b/>Ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İstanbul<b/>Genç<b/>Kızlar<b/>Ligi<s n="np"/><s n="org"/></l>          <r>Istanbul<b/>yosh<b/>qizlar<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İstanbul<b/>Gençler<b/>Ligi<s n="np"/><s n="org"/></l>                 <r>Istanbul<b/>Yoshlar<b/>Ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İstanbul<b/>İkinci<b/>Amatör<b/>Ligi<s n="np"/><s n="org"/></l>        <r>Istanbul<b/>Ikkinchi<b/>Havaskorlar<b/>Ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İstanbul<b/>İkinci<b/>Basketbol<b/>Ligi<s n="np"/><s n="org"/></l>     <r>Istanbul<b/>Ikkinchi<b/>Basketbol<b/>Ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İstanbul<b/>Kadınlar<b/>Basketbol<b/>Ligi<s n="np"/><s n="org"/></l>   <r>Istanbul<b/>ayollar<b/>basketbol<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İstanbul<b/>Kadınlar<b/>Voleybol<b/>Ligi<s n="np"/><s n="org"/></l>    <r>Istanbul<b/>ayollar<b/>voleybol<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İstanbul<b/>Ligi<s n="np"/><s n="org"/></l>                            <r>Istanbul<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İstanbul<b/>Pazar<b/>Ligi<s n="np"/><s n="org"/></l>                   <r>Istanbul<b/>yakshanba<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İstanbul<b/>Profesyonel<b/>Futbol<b/>Ligi<s n="np"/><s n="org"/></l>   <r>Istanbul<b/>Professional<b/>Futbol<b/>Ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İstanbul<b/>Profesyonel<b/>Ligi<s n="np"/><s n="org"/></l>             <r>Istanbul<b/>Professional<b/>Ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İsveç<b/>Ligi<s n="np"/><s n="org"/></l>                               <r>Shved<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İsviçre<b/>Basketbol<b/>Ligi<s n="np"/><s n="org"/></l>                <r>Shveytsariya<b/>basketbol<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İsviçre<b/>Ligi<s n="np"/><s n="org"/></l>                             <r>Shveytsariya<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İtalya<b/>Basketbol<b/>Ligi<s n="np"/><s n="org"/></l>                 <r>Italiya<b/>basketbol<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İtalya<b/>Birinci<b/>Ligi<s n="np"/><s n="org"/></l>                   <r>Italiya<b/>Birinchi<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İtalya<b/>Ligi<s n="np"/><s n="org"/></l>                              <r>Italiya<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İtalyan<b/>Ligi<s n="np"/><s n="org"/></l>                             <r>Italiya<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İzmir<b/>Futbol<b/>Ligi<s n="np"/><s n="org"/></l>                     <r>Izmir<b/>futbol<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İzmir<b/>Ligi<s n="np"/><s n="org"/></l>                               <r>Izmir<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İzmir<b/>Mahalli<b/>Ligi<s n="np"/><s n="org"/></l>                    <r>Izmir<b/>Mahalliy<b/>Ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İzmir<b/>Profesyonel<b/>Ligi<s n="np"/><s n="org"/></l>                <r>Izmir<b/>Professional<b/>Ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>İzmir<b/>Süper<b/>Amatör<b/>Ligi<s n="np"/><s n="org"/></l>            <r>Izmir<b/>Super<b/>Havaskorlar<b/>Ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Japonya<b/>Ligi<s n="np"/><s n="org"/></l>                             <r>Yaponiya<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Kadınlar<b/>Ligi<s n="np"/><s n="org"/></l>                            <r>Ayollar<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Kalküta<b/>Futbol<b/>Ligi<s n="np"/><s n="org"/></l>                   <r>Kolkata<b/>futbol<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Kapanış<b/>Ligi<s n="np"/><s n="org"/></l>                             <r>Yopilish<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Karadağ<b/>Birinci<b/>Ligi<s n="np"/><s n="org"/></l>                  <r>Chernogoriya<b/>Birinchi<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Karadağ<b/>İkinci<b/>Ligi<s n="np"/><s n="org"/></l>                   <r>Chernogoriya<b/>Ikkinchi<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Karadağ<b/>Üçüncü<b/>Ligi<s n="np"/><s n="org"/></l>                   <r>Chernogoriya<b/>Uchinchi<b/>Ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Kariyerine<b/>Finlandiya<b/>Ligi<s n="np"/><s n="org"/></l>            <r>Finlyandiya<b/>ligasidagi<b/>karerasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Katalan<b/>Basketbol<b/>Ligi<s n="np"/><s n="org"/></l>                <r>Kataloniya<b/>basketbol<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Katar<b/>Ligi<s n="np"/><s n="org"/></l>                               <r>Qatar<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Kazakistan<b/>Süper<b/>Ligi<s n="np"/><s n="org"/></l>                 <r>Qozog'iston<b/>Super<b/>Ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Kıbrıs<b/>Birinci<b/>Ligi<s n="np"/><s n="org"/></l>                   <r>Kipr<b/>Birinchi<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Kıbrıs<b/>İkinci<b/>Ligi<s n="np"/><s n="org"/></l>                    <r>Kipr<b/>Ikkinchi<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Kıbrıs<b/>Üçüncü<b/>Ligi<s n="np"/><s n="org"/></l>                    <r>Kipr<b/>Uchinchi<b/>Ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Kızlar<b/>Ligi<s n="np"/><s n="org"/></l>                              <r>Qizlar<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>KKTC<b/>İkinci<b/>Futbol<b/>Ligi<s n="np"/><s n="org"/></l>            <r>Shimoliy<b/>Kipr<b/>Ikkinchi<b/>Futbol<b/>Ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Klasman<b/>Ligi<s n="np"/><s n="org"/></l>                             <r>Liga<b/>Ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Kolej<b/>Ligi<s n="np"/><s n="org"/></l>                               <r>Liga<b/>kolleji<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Körfez<b/>Şampiyonlar<b/>Ligi<s n="np"/><s n="org"/></l>               <r>Ko'rfaz<b/>chempionlar<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Kulüp<b/>Almanya<b/>Ligi<s n="np"/><s n="org"/></l>                    <r>Germaniya<b/>Klublar<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Kuzey<b/>Amerika<b/>Futbol<b/>Ligi<s n="np"/><s n="org"/></l>          <r>Shimoliy<b/>Amerika<b/>futbol<b/>ligasi<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>Kuzey<b/>Ligi<s n="np"/><s n="org"/></l>                               <r>Shimoliy<b/>liga<s n="np"/><s n="org"/></r></p></e>
+
+
 				
 <e>       <p><l>ABC<s n="np"/><s n="org"/></l>                                     <r>ABC<s n="np"/><s n="org"/></r></p></e>
 <e>       <p><l>Adana<b/>Demirspor<s n="np"/><s n="org"/></l>                      <r>Adana<b/>Demirspor<s n="np"/><s n="org"/></r></p></e>
