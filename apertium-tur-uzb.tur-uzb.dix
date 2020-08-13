@@ -114,6 +114,11 @@
 <e>       <p><l>HES<s n="abbr"/></l>                   <r>GES<s n="abbr"/><s n="nom"/></r></p></e>
 <e>       <p><l>IC<s n="abbr"/></l>                    <r>IC<s n="abbr"/><s n="nom"/></r></p></e>
 <e>       <p><l>toplam<s n="adj"/></l>                 <r>jami<s n="abbr"/><s n="nom"/></r></p></e>
+<e>       <p><l>çözüm<s n="n"/></l>                    <r>qaror<s n="n"/></r></p></e>
+<e>       <p><l>karar<s n="n"/></l>                    <r>qaror<s n="n"/></r></p></e>
+<e>       <p><l>çözüm<s n="n"/></l>                    <r>eritma<s n="n"/></r></p></e>
+<e>       <p><l>çözelti<s n="n"/></l>                  <r>eritma<s n="n"/></r></p></e>
+<e>       <p><l>solüsyon<s n="n"/></l>                 <r>eritma<s n="n"/></r></p></e>
 <e>       <p><l>toplam<s n="n"/></l>                   <r>umumiy<s n="n"/></r></p></e>
 <e>       <p><l>kariyer<s n="n"/></l>                  <r>karyera<s n="n"/></r></p></e>
 <e>       <p><l>lig<s n="n"/></l>                      <r>liga<s n="n"/></r></p></e>
@@ -126,6 +131,7 @@
 <e>       <p><l>inşaat<s n="n"/></l>                   <r>bino<s n="n"/></r></p></e>
 <e>       <p><l>bina<s n="n"/></l>                     <r>bino<s n="n"/></r></p></e>
 <e>       <p><l>gol<s n="n"/></l>                      <r>gol<s n="n"/></r></p></e>
+<e>       <p><l>bakanlık<s n="n"/></l>                 <r>vazirlik<s n="n"/></r></p></e>
 <e>       <p><l>Rus<s n="adj"/></l>                    <r>Rus<s n="adj"/></r></p></e>
 <e>       <p><l>Rus<s n="n"/></l>                      <r>Rus<s n="n"/></r></p></e>
 <e>       <p><l>transfer<s n="n"/></l>                 <r>transfer<s n="n"/></r></p></e>
@@ -181,13 +187,17 @@
 <e>       <p><l>üyelik<s n="n"/></l>                   <r>a`zolik<s n="n"/></r></p></e>
 <e>       <p><l>demeç<s n="n"/></l>                    <r>bayonot<s n="n"/></r></p></e>
 <e>       <p><l>avro<s n="n"/></l>                     <r>yevro<s n="n"/></r></p></e>
+<e>       <p><l>avroluk<s n="n"/></l>                  <r>yevrolik<s n="n"/></r></p></e>
 <e>       <p><l>euro<s n="n"/></l>                     <r>yevro<s n="n"/></r></p></e>
 <e>       <p><l>dolar<s n="n"/></l>                    <r>dollar<s n="n"/></r></p></e>
-<e>       <p><l>som<s n="n"/></l>                      <r>som<s n="n"/></r></p></e>
+<e>       <p><l>dolarlık<s n="n"/></l>                 <r>dollarlik<s n="n"/></r></p></e>
+<e>       <p><l>somlık<s n="n"/></l>                   <r>somlik<s n="n"/></r></p></e>
 <e>       <p><l>ruble<s n="n"/></l>                    <r>rubl<s n="n"/></r></p></e>
+<e>       <p><l>rublelık<s n="n"/></l>                 <r>rubllik<s n="n"/></r></p></e>
+<e>       <p><l>kapsam<s n="n"/></l>                   <r>soha<s n="n"/></r></p></e>
 <e>       <p><l>mücadele<s n="n"/></l>                 <r>kurash<s n="n"/></r></p></e>
-<e>       <p><l>konseyi<s n="n"/></l>                 <r>konsul<s n="n"/></r></p></e>
-<e>       <p><l>yatırım<s n="n"/></l>                 <r>sarmoya<s n="n"/></r></p></e>
+<e>       <p><l>konseyi<s n="n"/></l>                  <r>konsul<s n="n"/></r></p></e>
+<e>       <p><l>yatırım<s n="n"/></l>                  <r>sarmoya<s n="n"/></r></p></e>
   
 
       <!-- SECTION: Adjectives -->
@@ -1363,6 +1373,7 @@
     <!-- ******************************
           group cnjadv_symbol
       ****************************** -->
+<e>       <p><l>günkü<s n="cnjadv"/></l>               <r>kungi<s n="cnjadv"/></r></p></e>
 <e>       <p><l>aksine<s n="cnjadv"/></l>              <r>aksincha<s n="cnjadv"/></r></p></e>
 <e>       <p><l>farklı<b/>olarak<s n="cnjadv"/></l>    <r>farqli<b/>oʻlaroq<s n="cnjadv"/></r></p></e>
 <e>       <p><l>ancak<s n="cnjadv"/></l>               <r>biroq<s n="cnjadv"/></r></p></e>
@@ -2156,6 +2167,7 @@
 <e>       <p><l>genişlik<s n="n"/></l>                 <r>kenglik<s n="n"/></r></p></e>
 <e>       <p><l>genişlik<s n="n"/></l>                 <r>en<s n="n"/></r></p></e>
 <e>       <p><l>gerek<s n="n"/></l>                    <r>kerak<s n="n"/></r></p></e>
+<e>       <p><l>gerek<s n="v"/><s n="iv"/></l>         <r>kerak<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>gerginlik<s n="n"/></l>                <r>keskinlik<s n="n"/></r></p></e>
 <e>       <p><l>gerileme<s n="n"/></l>                 <r>inqiroz<s n="n"/></r></p></e>
 <e>       <p><l>gerçek<s n="n"/></l>                   <r>haqiqat<s n="n"/></r></p></e>
@@ -5226,6 +5238,7 @@
 <e>       <p><l>ABD<s n="np"/><s n="top"/></l>         <r>AQSh<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Abdullah<s n="np"/><s n="ant"/><s n="mf"/></l><r>Abdullah<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Abdullah<s n="np"/><s n="ant"/><s n="m"/></l><r>Abdulla<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e>       <p><l>Tadiç<s n="np"/><s n="ant"/><s n="m"/></l><r>Tadiç<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Abruzzo<s n="np"/><s n="top"/></l>     <r>Abruzzo<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>ad<s n="np"/><s n="al"/></l>           <r>ad<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Afganistan<s n="np"/><s n="top"/></l>  <r>Afgʻoniston<s n="np"/><s n="top"/></r></p></e>
@@ -5269,21 +5282,23 @@
 <e>       <p><l>Ankara<s n="np"/><s n="top"/></l>      <r>Anqara<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Ankara<s n="np"/><s n="top"/></l>      <r>Ankara<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Antant<s n="np"/><s n="top"/></l>      <r>Antanta<s n="np"/><s n="top"/></r></p></e>
-<e>       <p><l>Aragon<s n="np"/><s n="top"/></l>      <r>Aragón<s n="np"/><s n="top"/></r></p></e>
-<e>       <p><l>Ardèche<s n="np"/><s n="top"/></l>     <r>Ardèche<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Aragon<s n="np"/><s n="top"/></l>      <r>Aragon<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Ardèche<s n="np"/><s n="top"/></l>     <r>Ardeche<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Argentan<s n="np"/><s n="top"/></l>    <r>argentan<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Arkansas<s n="np"/><s n="top"/></l>    <r>Arkansas<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Arslan<s n="np"/><s n="ant"/><s n="m"/></l><r>Arslon<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Asya<s n="np"/><s n="top"/></l>        <r>Osiyo<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Atatürk<s n="np"/><s n="cog"/><s n="mf"/></l><r>Otaturk<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Atina<s n="np"/><s n="top"/></l>       <r>afina<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Erdoğan<s n="np"/><s n="cog"/><s n="mf"/></l><r>Erdoʻgʻan<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Mladich<s n="np"/><s n="cog"/><s n="mf"/></l><r>Mladich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Atina<s n="np"/><s n="top"/></l>       <r>Afina<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Atlantik<s n="np"/><s n="top"/></l>    <r>Atlantika<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Atlantiques<s n="np"/><s n="top"/></l> <r>Atlantiques<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Auvergne<s n="np"/><s n="top"/></l>    <r>Auvergne<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Avrupa<s n="np"/><s n="top"/></l>      <r>Yevropa<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Avustralya<s n="np"/><s n="top"/></l>  <r>Avstraliya<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Avusturya<s n="np"/><s n="top"/></l>   <r>Avstriya<s n="np"/><s n="top"/></r></p></e>
-<e>       <p><l>Azerbaycan<s n="np"/><s n="top"/></l>  <r>ozarbayjon<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Azerbaycan<s n="np"/><s n="top"/></l>  <r>Ozarbayjon<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Azerbaycan<s n="np"/><s n="top"/></l>  <r>Ozarbayjon<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Babür<s n="np"/><s n="ant"/></l>       <r>Bobur<s n="np"/><s n="ant"/></r></p></e>
 <e>       <p><l>Bad<s n="np"/><s n="top"/></l>         <r>Bad<s n="np"/><s n="top"/></r></p></e>
@@ -5295,7 +5310,7 @@
 <e>       <p><l>Barselona<s n="np"/><s n="top"/></l>   <r>Barselona<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Bas<s n="np"/><s n="top"/></l>         <r>Bas<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Bavyera<s n="np"/><s n="top"/></l>     <r>Bavariya<s n="np"/><s n="top"/></r></p></e>
-<e>       <p><l>Beauvais<s n="np"/><s n="top"/></l>    <r>beauvais<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Beauvais<s n="np"/><s n="top"/></l>    <r>Beauvais<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>bei<s n="np"/><s n="al"/></l>          <r>bei<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Berdimuhammedov<s n="np"/><s n="cog"/><s n="mf"/></l><r>Berdimuhammedov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Beruniy<s n="np"/><s n="top"/></l>     <r>Beruniy<s n="np"/><s n="top"/></r></p></e>
@@ -5323,16 +5338,17 @@
 <e>       <p><l>Cizzak<s n="np"/><s n="top"/></l>      <r>Jizzax<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Como<s n="np"/><s n="top"/></l>        <r>Como<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Comte<s n="np"/><s n="cog"/><s n="mf"/></l><r>Comté<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Corrèze<s n="np"/><s n="top"/></l>     <r>Corrèze<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Tadiç<s n="np"/><s n="cog"/><s n="mf"/></l><r>Tadich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Corrèze<s n="np"/><s n="top"/></l>     <r>Correze<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>County<s n="np"/><s n="al"/></l>       <r>County<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Côte<s n="np"/><s n="top"/></l>        <r>Côte<s n="np"/><s n="top"/></r></p></e>
-<e>       <p><l>Côtes<s n="np"/><s n="top"/></l>       <r>Côtes<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Côte<s n="np"/><s n="top"/></l>        <r>Kote<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Côtes<s n="np"/><s n="top"/></l>       <r>Kotes<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Dakota<s n="np"/><s n="top"/></l>      <r>Dakota<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Davut<s n="np"/><s n="ant"/><s n="m"/></l><r>Dovud<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Dordogne<s n="np"/><s n="top"/></l>    <r>Dordogne<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Doubs<s n="np"/><s n="top"/></l>       <r>Doubs<s n="np"/><s n="top"/></r></p></e>
-<e>       <p><l>Drôme<s n="np"/><s n="top"/></l>       <r>Drôme<s n="np"/><s n="top"/></r></p></e>
-<e>       <p><l>Dôme<s n="np"/><s n="top"/></l>        <r>Dôme<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Drôme<s n="np"/><s n="top"/></l>       <r>Drome<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Dôme<s n="np"/><s n="top"/></l>        <r>Dome<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>East<s n="np"/><s n="top"/></l>        <r>East<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Ebu<s n="np"/><s n="ant"/><s n="m"/></l><r>Abu<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Edouard<s n="np"/><s n="ant"/><s n="m"/></l><r>Edouard<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -7404,6 +7420,7 @@
           <!-- SECTION: Adjectives -->
 
 <!--<e>       <p><l>celb<s n="adj"/></l>                   <r>jalb<s n="adj"/></r></p></e>   -->
+    <e>       <p><l>çoğu<s n="adv"/></l>                  <r>eng<s n="adv"/></r></p></e>
     <e>       <p><l>değil<s n="adv"/></l>                  <r>emas<s n="adv"/></r></p></e>
     <e>       <p><l>dişi<s n="adj"/></l>                   <r>yumshoq<s n="adj"/></r></p></e>
     <e>       <p><l>düz<b/>yazı<s n="adj"/></l>            <r>nasriy<s n="adj"/></r></p></e>
