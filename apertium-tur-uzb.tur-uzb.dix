@@ -145,11 +145,17 @@
 <e>       <p><l>milli<s n="adj"/></l>                  <r>milliy<s n="adj"/></r></p></e>
 <e>       <p><l>ulusal<s n="adj"/></l>                 <r>milliy<s n="adj"/></r></p></e>
 <e>       <p><l>ciddi<s n="adj"/></l>                  <r>jiddiy<s n="adj"/></r></p></e>
+<e>       <p><l>günlük<s n="adj"/></l>                 <r>kundalik<s n="adj"/></r></p></e>
 <e>       <p><l>Amerikan<s n="n"/></l>                 <r>Amerikalik<s n="n"/></r></p></e>
 <e>       <p><l>kupası<s n="n"/></l>                   <r>kubok<s n="n"/></r></p></e>
 <e>       <p><l>uzaklık<s n="n"/></l>                  <r>masofa<s n="n"/></r></p></e>
 <e>       <p><l>İngiliz<s n="n"/></l>                  <r>Ingliz<s n="n"/></r></p></e>
 <e>       <p><l>basın<s n="n"/></l>                    <r>matbuot<s n="n"/></r></p></e>
+<e>       <p><l>iddia<s n="n"/></l>                    <r>iddao<s n="n"/></r></p></e>
+<e>       <p><l>iddia<s n="n"/></l>                    <r>davo<s n="n"/></r></p></e>
+<e>       <p><l>dava<s n="n"/></l>                     <r>davo<s n="n"/></r></p></e>
+<e>       <p><l>savunma<s n="n"/></l>                  <r>himoya<s n="n"/></r></p></e>
+<e>       <p><l>savunma<s n="n"/></l>                  <r>mudofaa<s n="n"/></r></p></e>
 
 
 <e>       <p><l>kg<s n="abbr"/></l>                    <r>kg<s n="abbr"/><s n="nom"/></r></p></e>
@@ -2342,6 +2348,11 @@
 <e>       <p><l>hücum<s n="n"/></l>                    <r>hujum<s n="n"/></r></p></e>
 <e>       <p><l>hüda<s n="n"/></l>                     <r>xudo<s n="n"/></r></p></e>
 <e>       <p><l>hüküm<s n="n"/></l>                    <r>hukm<s n="n"/></r></p></e>
+<e>       <p><l>yargı<s n="n"/></l>                    <r>hukm<s n="n"/></r></p></e>
+<e>       <p><l>yargı<s n="n"/></l>                    <r>qaror<s n="n"/></r></p></e>
+<e>       <p><l>karar<s n="n"/></l>                    <r>qaror<s n="n"/></r></p></e>
+<e>       <p><l>sorumlu<s n="n"/></l>                  <r>javobgar<s n="n"/></r></p></e>
+<e>       <p><l>sorumlu<s n="adj"/></l>                <r>javobgar<s n="adj"/></r></p></e>
 <e>       <p><l>hüküm<s n="n"/></l>                    <r>hokimlik<s n="n"/></r></p></e>
 <e>       <p><l>hükümdar<s n="n"/></l>                 <r>hukmdor<s n="n"/></r></p></e>
 <e>       <p><l>hükümet<s n="n"/></l>                  <r>hukumat<s n="n"/></r></p></e>
@@ -3050,7 +3061,10 @@
 <e>       <p><l>riya<s n="n"/></l>                     <r>rioya<s n="n"/></r></p></e>
 <e>       <p><l>roket<s n="n"/></l>                    <r>raketa<s n="n"/></r></p></e>
 <e>       <p><l>rol<s n="n"/></l>                      <r>rol<s n="n"/></r></p></e>
+<e>       <p><l>roman<s n="adj"/></l>                  <r>roman<s n="adj"/></r></p></e>
+<e>       <p><l>Roman<s n="adj"/></l>                  <r>Roman<s n="adj"/></r></p></e>
 <e>       <p><l>roman<s n="n"/></l>                    <r>roman<s n="n"/></r></p></e>
+<e>       <p><l>Roman<s n="n"/></l>                    <r>Roman<s n="n"/></r></p></e>
 <e>       <p><l>Romanyalı<s n="n"/></l>                <r>rumin<s n="n"/></r></p></e>
 <e>       <p><l>Romen<s n="n"/></l>                    <r>rimlik<s n="n"/></r></p></e>
 <e>       <p><l>ruh<s n="n"/></l>                      <r>ruh<s n="n"/></r></p></e>
@@ -5239,6 +5253,7 @@
 <e>       <p><l>Abdullah<s n="np"/><s n="ant"/><s n="mf"/></l><r>Abdullah<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Abdullah<s n="np"/><s n="ant"/><s n="m"/></l><r>Abdulla<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Tadiç<s n="np"/><s n="ant"/><s n="m"/></l><r>Tadiç<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
+<e>       <p><l>Boris<s n="np"/><s n="ant"/><s n="m"/></l><r>Boris<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Abruzzo<s n="np"/><s n="top"/></l>     <r>Abruzzo<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>ad<s n="np"/><s n="al"/></l>           <r>ad<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Eurovision<s n="np"/><s n="al"/></l>   <r>Eurovision<s n="np"/><s n="al"/></r></p></e>
@@ -5291,7 +5306,8 @@
 <e>       <p><l>Asya<s n="np"/><s n="top"/></l>        <r>Osiyo<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Atatürk<s n="np"/><s n="cog"/><s n="mf"/></l><r>Otaturk<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Erdoğan<s n="np"/><s n="cog"/><s n="mf"/></l><r>Erdoʻgʻan<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>Mladich<s n="np"/><s n="cog"/><s n="mf"/></l><r>Mladich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Mladiç<s n="np"/><s n="cog"/><s n="mf"/></l><r>Mladich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Johnson<s n="np"/><s n="cog"/><s n="mf"/></l><r>Jonson<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Atina<s n="np"/><s n="top"/></l>       <r>Afina<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Atlantik<s n="np"/><s n="top"/></l>    <r>Atlantika<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Atlantiques<s n="np"/><s n="top"/></l> <r>Atlantiques<s n="np"/><s n="top"/></r></p></e>
@@ -7000,6 +7016,7 @@
 <e>       <p><l>yoluyla<s n="post"/></l>               <r>orqali<s n="post"/></r></p></e>
 <e>       <p><l>önce<s n="post"/></l>                  <r>avval<s n="post"/></r></p></e>
 <e>       <p><l>ötürü<s n="post"/></l>                 <r>sababli<s n="post"/></r></p></e>
+<e>       <p><l>takdirde<s n="post"/></l>              <r>taqdirda<s n="post"/></r></p></e>
 
 
     <!-- SECTION: Pronouns -->
