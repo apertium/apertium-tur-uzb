@@ -6181,6 +6181,8 @@
 <e>       <p><l>Arkansas<s n="np"/><s n="top"/></l>    <r>Arkansas<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Arslan<s n="np"/><s n="ant"/><s n="m"/></l><r>Arslon<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Asya<s n="np"/><s n="top"/></l>        <r>Osiyo<s n="np"/><s n="top"/></r></p></e>
+<e>       <p><l>Kostunica<s n="np"/><s n="cog"/><s n="mf"/></l><r>Kostunika<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Rehn<s n="np"/><s n="cog"/><s n="mf"/></l><r>Rehn<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Atatürk<s n="np"/><s n="cog"/><s n="mf"/></l><r>Otaturk<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Erdoğan<s n="np"/><s n="cog"/><s n="mf"/></l><r>Erdoʻgʻan<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Mladiç<s n="np"/><s n="cog"/><s n="mf"/></l><r>Mladich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -6411,6 +6413,7 @@
 <e>       <p><l>Pikardiya<s n="np"/><s n="top"/></l>   <r>Pikardiya<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Pilatus<s n="np"/><s n="ant"/><s n="m"/></l><r>Pilat<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>PKK<s n="np"/><s n="org"/></l>         <r>PKK<s n="np"/><s n="org"/></r></p></e>
+<e>       <p><l>B92<s n="np"/><s n="org"/></l>         <r>B92<s n="np"/><s n="org"/></r></p></e>
 <e>       <p><l>Polonya<s n="np"/><s n="top"/></l>     <r>Polsha<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Puy<s n="np"/><s n="top"/></l>         <r>Puy<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Pyrenees<s n="np"/><s n="top"/></l>    <r>Pyrénées<s n="np"/><s n="top"/></r></p></e>
