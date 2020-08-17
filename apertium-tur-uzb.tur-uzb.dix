@@ -49,18 +49,18 @@
     <sdef n="pl" 	c="plural"/> 
     <sdef n="pers" 	c="persona"/> 
     <sdef n="p1" 	c="first person"/> 
-    <sdef n="p2" 	c="pronoun"/> 
-    <sdef n="p3" 	c="pronoun"/> 
+    <sdef n="p2" 	c="second person"/> 
+    <sdef n="p3" 	c="third person"/> 
     <sdef n="px3sp" 	c="third person possessive"/> 
-    <sdef n="lquot" 	c=""/> 
-    <sdef n="quot" 	c=""/> 
-    <sdef n="rquot" 	c=""/> 
+    <sdef n="lquot" 	c="Left quote"/> 
+    <sdef n="quot" 	c="Quote"/> 
+    <sdef n="rquot" 	c="Right quote"/> 
     <sdef n="ij" 	c="Interjection"/> 
     <sdef n="abbr" 	c="Abbreviation"/> 
     <sdef n="gen" 	c="Genitive"/> 
     <sdef n="caus" 	c="Causative"/> 
     <sdef n="qst" 	c="Question"/> 
-    <sdef n="web" />
+    <sdef n="web" c="Web link or an email"/>
   </sdefs>
   <section id="main" type="standard">
 
@@ -8584,6 +8584,251 @@
 <e>       <p><l>ücretlendir<s n="v"/><s n="tv"/></l>   <r>zaryadlan<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>üret<s n="v"/><s n="tv"/></l>          <r>ishlab<b/>chiqar<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>şekillen<s n="v"/><s n="iv"/></l>      <r>shakllan<s n="v"/><s n="iv"/></r></p></e>
+
+<e>       <p><l>Aartsen<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Aartsen<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abazoviç<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Abazovich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abbas<s n="np"/><s n="cog"/><s n="mf"/></l>                    <r>Abbos<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abdulayev<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Abdulayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abdulayeva<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Abdulayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abdulganiyev<s n="np"/><s n="cog"/><s n="mf"/></l>             <r>Abdulganiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abdulğaniyev<s n="np"/><s n="cog"/><s n="mf"/></l>             <r>Abdulgʻaniyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abdulganiyeva<s n="np"/><s n="cog"/><s n="mf"/></l>            <r>Abdulganiyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abdulğaniyeva<s n="np"/><s n="cog"/><s n="mf"/></l>            <r>Abdulgʻaniyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abdurahmanov<s n="np"/><s n="cog"/><s n="mf"/></l>             <r>Abdurahmanov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abdurahmanova<s n="np"/><s n="cog"/><s n="mf"/></l>            <r>Abdurahmanova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abduraimov<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Abduraimov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abduraimova<s n="np"/><s n="cog"/><s n="mf"/></l>              <r>Abduraimova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abe<s n="np"/><s n="cog"/><s n="mf"/></l>                      <r>Abe<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abibullayev<s n="np"/><s n="cog"/><s n="mf"/></l>              <r>Abibullayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abibullayeva<s n="np"/><s n="cog"/><s n="mf"/></l>             <r>Abibullayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abilov<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Abilov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abilova<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Abilova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abisov<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Abisov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abisova<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Abisova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abişoviç<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Abisovich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abiyev<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Abiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abiyeva<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Abiyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abızov<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Abizov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abızova<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Abizova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abkadırov<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Abkadirov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abkadırova<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Abkadirova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ablalimov<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Ablalimov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ablalimova<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Ablalimova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ablamitov<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Ablamitov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ablamitova<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Ablamitova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ablatipov<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Ablatipov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ablatipova<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Ablatipova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ablayev<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Ablayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ablazov<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Ablazov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ablazova<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Ablazova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ablet<s n="np"/><s n="cog"/><s n="mf"/></l>                    <r>Ablet<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ablezgov<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Ablezgov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ablezgova<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Ablezgova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ablimit<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Ablimit<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abliz<s n="np"/><s n="cog"/><s n="mf"/></l>                    <r>Abliz<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abramoviç<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Abramovich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abraseviç<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Abrasevich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Absalamov<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Absalamov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Absalamova<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Absalamova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abselamov<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Abselamov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Abselamova<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Abselamova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Acimambetov<s n="np"/><s n="cog"/><s n="mf"/></l>              <r>Acimambetov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Acimambetova<s n="np"/><s n="cog"/><s n="mf"/></l>             <r>Acimambetova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Acimoviç<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Acimovich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Adagamov<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Adagamov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Adagamova<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Adagamova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Adamoviç<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Adamovich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Adilov<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Adilov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Adilova<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Adilova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Adlesiç<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Adlesich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Adziç<s n="np"/><s n="cog"/><s n="mf"/></l>                    <r>Adzich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Afanasyev<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Afanasyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Afanasyeva<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Afanasyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Agapov<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Agapov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Agapova<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Agapova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ageyev<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Ageyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ageyeva<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Ageyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aggelopoulos<s n="np"/><s n="cog"/><s n="mf"/></l>             <r>Aggelopoulos<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Agotiç<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Agotich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ahmetagiç<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Ahmetagich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ahmetgaliyev<s n="np"/><s n="cog"/><s n="mf"/></l>             <r>Ahmetgaliyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ahmetgaliyeva<s n="np"/><s n="cog"/><s n="mf"/></l>            <r>Ahmetgaliyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ahmetşayev<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Ahmetshayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ahmetşayeva<s n="np"/><s n="cog"/><s n="mf"/></l>              <r>Ahmetshayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ahtemov<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Ahtemov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ahtemova<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Ahtemova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ahtisaari<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Ahtisaari<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ajanoviç<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Ajanovich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ajanovski<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Ajanovski<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ajdukoviç<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Ajdukovich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Akar<s n="np"/><s n="cog"/><s n="mf"/></l>                     <r>Akar<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Akayev<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Akayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Akayeva<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Akayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Akimoviç<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Akimovich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Akiyev<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Akiyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Akiyeva<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Akiyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Akmataliyev<s n="np"/><s n="cog"/><s n="mf"/></l>              <r>Akmataliyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Akönov<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Akoʻnov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Akönova<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Akoʻnova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aksakov<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Aksakov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aksakova<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Aksakova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aksenenko<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Aksenenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aksövnov<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Aksoʻvnov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aksövnova<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Aksoʻvnova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Akulov<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Akulov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Akulova<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Akulova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aladinov<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Aladinov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aladinova<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Aladinova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Alagiç<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Alagich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Alautdinov<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Alautdinov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Alautdinova<s n="np"/><s n="cog"/><s n="mf"/></l>              <r>Alautdinova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Al-Basri<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Al-Basri<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Albijaniç<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Albijanich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Albom<s n="np"/><s n="cog"/><s n="mf"/></l>                    <r>Albom<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aleksandrovna<s n="np"/><s n="cog"/><s n="mf"/></l>            <r>Aleksandrovna<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aleksiç<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Aleksich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aleksovski<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Aleksovski<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Alençikov<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Alenchikov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Alençikova<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Alenchikova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Alibasiç<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Alibasich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aliç<s n="np"/><s n="cog"/><s n="mf"/></l>                     <r>Alich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aligrudiç<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Aligrudich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Alimpiç<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Alimpich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Alispahiç<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Alispahich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aliyev<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Aliyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Allahyar<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Allahyar<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Alminskaya<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Alminskaya<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Alminski<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Alminski<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Amirov<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Amirov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Amirova<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Amirova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ampilogov<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Ampilogov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ampilogova<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Ampilogova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Anagnostopoulos<s n="np"/><s n="cog"/><s n="mf"/></l>          <r>Anagnostopoulos<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Anastasiyeviç<s n="np"/><s n="cog"/><s n="mf"/></l>            <r>Anastasiyevich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Anastopoulos<s n="np"/><s n="cog"/><s n="mf"/></l>             <r>Anastopoulos<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ancelkoviç<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Ancelkovich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Anciç<s n="np"/><s n="cog"/><s n="mf"/></l>                    <r>Ancich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Andersen<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Andersen<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Anderson<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Anderson<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Andersson<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Andersson<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Andjelkoviç<s n="np"/><s n="cog"/><s n="mf"/></l>              <r>Andjelkovich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Andonovski<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Andonovski<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Andreescu<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Andreesku<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Andriç<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Andrich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Andronescu<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Andronescu<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Andropov<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Andropov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Andropova<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Andropova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Andyeliç<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Andyelich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Angelopoulos<s n="np"/><s n="cog"/><s n="mf"/></l>             <r>Angelopoulos<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aniç<s n="np"/><s n="cog"/><s n="mf"/></l>                     <r>Anich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Annan<s n="np"/><s n="cog"/><s n="mf"/></l>                    <r>Annan<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Annenkov<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Annenkov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Annenkova<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Annenkova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Anşakov<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Anshakov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Anşakova<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Anshakova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Antiç<s n="np"/><s n="cog"/><s n="mf"/></l>                    <r>Antich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Anticaviç<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Antikavich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Anticeviç<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Antikevich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Antiçeviç<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Antichevich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Antonakopoulos<s n="np"/><s n="cog"/><s n="mf"/></l>           <r>Antonakopoulos<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Antonenkov<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Antonenkov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Antonenkova<s n="np"/><s n="cog"/><s n="mf"/></l>              <r>Antonenkova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Antonescu<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Antonescu<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Antoniç<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Antonich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Antonovski<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Antonovski<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Antoviç<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Antovich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Antsiferov<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Antsiferov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Antsiferova<s n="np"/><s n="cog"/><s n="mf"/></l>              <r>Antsiferova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Antunoviç<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Antunovich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Anufriyev<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Anufriyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Anufriyeva<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Anufriyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Anusiç<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Anusich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Apanasenko<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Apanasenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Apkerimov<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Apkerimov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Apkerimova<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Apkerimova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Apselamov<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Apselamov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Apselamova<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Apselamova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Arabaev<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Arabaev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Arambasiç<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Arambasich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Arapoviç<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Arapovich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Arbuzov<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Arbuzov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Arbuzova<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Arbuzova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Archer<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Archer<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Arestarhov<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Arestarhov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Arestarhova<s n="np"/><s n="cog"/><s n="mf"/></l>              <r>Arestarhova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Arifcanov<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Arifjonov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Arifcanova<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Arifjonova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Arislanov<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Arislanov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Arislanova<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Arislanova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aristoteles<s n="np"/><s n="cog"/><s n="mf"/></l>              <r>Aristoteles<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Arkanov<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Arkanov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Arkanova<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Arkanova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Arneriç<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Arnerich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aronov<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Aronov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aronova<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Aronova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Arsen<s n="np"/><s n="cog"/><s n="mf"/></l>                    <r>Arsen<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Arsenijeviç<s n="np"/><s n="cog"/><s n="mf"/></l>              <r>Arseniyevich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Arsenoviç<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Arsenovich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Arsiç<s n="np"/><s n="cog"/><s n="mf"/></l>                    <r>Arsich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Arsoviç<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Arsovich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Arsovski<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Arsovski<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Artamonov<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Artamonov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Artamonova<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Artamonova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Artemenko<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Artemenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Artmambetov<s n="np"/><s n="cog"/><s n="mf"/></l>              <r>Artmambetov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Artmambetova<s n="np"/><s n="cog"/><s n="mf"/></l>             <r>Artmambetova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Artopolescu<s n="np"/><s n="cog"/><s n="mf"/></l>              <r>Artopolesku<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aryev<s n="np"/><s n="cog"/><s n="mf"/></l>                    <r>Aryev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aryeva<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Aryeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aseyev<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Aseyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aseyeva<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Aseyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ashdown<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Ashdovn<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ashton<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Ashton<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aşimov<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Ashimov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aşimova<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Ashimova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aşirov<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Ashirov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aşırov<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Ashirov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aşirova<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Ashirova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aşırova<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Ashirova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Assen<s n="np"/><s n="cog"/><s n="mf"/></l>                    <r>Assen<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Astafyev<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Astafyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Astafyeva<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Astafyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Astahov<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Astahov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Astahova<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Astahova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aşumov<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Ashumov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aşumova<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Ashumova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Atanackoviç<s n="np"/><s n="cog"/><s n="mf"/></l>              <r>Atanackovich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Atanasiyeviç<s n="np"/><s n="cog"/><s n="mf"/></l>             <r>Atanasiyevich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Atoyev<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Atoyev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Atoyeva<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Atoyeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Atroşenko<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Atroshenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aurescu<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Auresku<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Avakov<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Avakov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Avakova<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Avakova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Avasov<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Avasov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Avasova<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Avasova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Avdiç<s n="np"/><s n="cog"/><s n="mf"/></l>                    <r>Avdich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Averçenko<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Averchenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Avramenko<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Avramenko<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Avramoviç<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Avramovich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Avramovski<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Avramovski<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Avtayev<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Avtayev<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Avtayeva<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Avtayeva<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ayanoviç<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Ayanovich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aydın<s n="np"/><s n="cog"/><s n="mf"/></l>                    <r>Aydin<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aynaciç<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Aynacich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ayvanoviç<s n="np"/><s n="cog"/><s n="mf"/></l>                <r>Ayvanovich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ayvazovskaya<s n="np"/><s n="cog"/><s n="mf"/></l>             <r>Ayvazovskaya<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Ayvazovski<s n="np"/><s n="cog"/><s n="mf"/></l>               <r>Ayvazovski<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Azarov<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Azarov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Azarova<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Azarova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Aziroviç<s n="np"/><s n="cog"/><s n="mf"/></l>                 <r>Azirovich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Azizov<s n="np"/><s n="cog"/><s n="mf"/></l>                   <r>Azizov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Azizova<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Azizova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Azov<s n="np"/><s n="cog"/><s n="mf"/></l>                     <r>Azov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+<e>       <p><l>Azova<s n="np"/><s n="cog"/><s n="mf"/></l>                    <r>Azova<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
+
+
 
 
  <!-- SECTION: Punctuation -->
