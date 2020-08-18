@@ -8673,6 +8673,7 @@
 <e>       <p><l>öğren<s n="v"/><s n="tv"/></l>         <r>oʻrgan<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>ücretlendir<s n="v"/><s n="tv"/></l>   <r>zaryadlan<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>üret<s n="v"/><s n="tv"/></l>          <r>ishlab<b/>chiqar<s n="v"/><s n="tv"/></r></p></e>
+<e>       <p><l>organize<b/>et<s n="v"/><s n="tv"/></l><r>uyushtir<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>şekillen<s n="v"/><s n="iv"/></l>      <r>shakllan<s n="v"/><s n="iv"/></r></p></e>
 
 <e>       <p><l>Aartsen<s n="np"/><s n="cog"/><s n="mf"/></l>                  <r>Aartsen<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
@@ -13069,6 +13070,7 @@
     <e>       <p><l>yanlı<s n="adj"/></l>                  <r>tomonlama<s n="adj"/></r></p></e>
     <e>       <p><l>öz<b/>be<b/>öz<s n="adj"/></l>         <r>haqiqiy<s n="adj"/></r></p></e>
     <e>       <p><l>şaşırtıcı<s n="adj"/></l>              <r>soxta<s n="adj"/></r></p></e>
+    <e>       <p><l>organize<s n="adj"/></l>               <r>uyushgan<s n="adj"/></r></p></e>
 
 
           <!-- SECTION: Adverbs -->
