@@ -3062,6 +3062,9 @@
 <e>       <p><l>riya<s n="n"/></l>                     <r>rioya<s n="n"/></r></p></e>
 <e>       <p><l>roket<s n="n"/></l>                    <r>raketa<s n="n"/></r></p></e>
 <e>       <p><l>rol<s n="n"/></l>                      <r>rol<s n="n"/></r></p></e>
+<e>       <p><l>vize<s n="n"/></l>                     <r>viza<s n="n"/></r></p></e>
+<e>       <p><l>erken<s n="adj"/></l>                  <r>erkin<s n="adj"/></r></p></e>
+<e>       <p><l>erken<s n="adv"/></l>                  <r>erkin<s n="adv"/></r></p></e>
 <e>       <p><l>roman<s n="adj"/></l>                  <r>roman<s n="adj"/></r></p></e>
 <e>       <p><l>Roman<s n="adj"/></l>                  <r>Roman<s n="adj"/></r></p></e>
 <e>       <p><l>roman<s n="n"/></l>                    <r>roman<s n="n"/></r></p></e>
@@ -3684,6 +3687,7 @@
 <e>       <p><l>işbirliği<s n="n"/></l>                <r>hamkorlik<s n="n"/></r></p></e>
 
 <e>       <p><l>organize<b/>suç<s n="n"/></l>          <r>uyushgan<b/>jinoyatchilik<s n="n"/></r></p></e>
+<e>       <p><l>kürt<s n="n"/></l>                     <r>kurt<s n="n"/></r></p></e>
     
 
         <!-- SECTION: Proper nouns -->
@@ -4283,6 +4287,7 @@
 <e>       <p><l>Zonguldakspor<s n="np"/><s n="org"/></l>                           <r>Zonguldakspor<s n="np"/><s n="org"/></r></p></e>
 
 
+<e>       <p><l>Yugoslav<s n="np"/><s n="top"/></l>            <r>Yugoslaviya<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Abay<s n="np"/><s n="top"/></l>                <r>Abay<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Abhaziya<s n="np"/><s n="top"/></l>            <r>Abxaziya<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Ades<s n="np"/><s n="top"/></l>                <r>Ades<s n="np"/><s n="top"/></r></p></e>
@@ -6612,6 +6617,9 @@
 <e>       <p><l>Hırvatistan<s n="np"/><s n="top"/></l> <r>Xorvatiya<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Belgrad<s n="np"/><s n="top"/></l>     <r>Belgrad<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Sırp<s n="n"/></l>                     <r>Serb<s n="n"/></r></p></e>
+<e>       <p><l>enstitü<s n="n"/></l>                  <r>institut<s n="n"/></r></p></e>
+<e>       <p><l>İstikrar<s n="n"/></l>                 <r>barqarorlik<s n="n"/></r></p></e>
+<e>       <p><l>turizm<s n="n"/></l>                   <r>turizm<s n="n"/></r></p></e>
 <e>       <p><l>Arnavutluk<s n="np"/><s n="top"/></l>  <r>Albaniya<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Karadağ<s n="np"/><s n="top"/></l>     <r>Chernogoriya<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Bulgaristan<s n="np"/><s n="top"/></l> <r>Bolgariya<s n="np"/><s n="top"/></r></p></e>
