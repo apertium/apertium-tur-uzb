@@ -28,6 +28,7 @@
     <sdef n="sent" 	c="Sentence marker"/> 
     <sdef n="ant" 	c="Anthroponym"/> 
     <sdef n="cog" 	c="Cognomen"/> 
+    <sdef n="pat" 	c="Patronym"/> 
     <sdef n="m" 	c="Masculine"/> 
     <sdef n="f" 	c="Feminine"/> 
     <sdef n="mf" 	c="Masculine / feminine"/> 
