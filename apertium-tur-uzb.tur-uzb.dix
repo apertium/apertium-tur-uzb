@@ -137,9 +137,22 @@
 <e>       <p><l>Rus<s n="n"/></l>                      <r>Rus<s n="n"/></r></p></e>
 <e>       <p><l>transfer<s n="n"/></l>                 <r>transfer<s n="n"/></r></p></e>
 <e>       <p><l>temsil<s n="n"/></l>                   <r>timsol<s n="n"/></r></p></e>
+<e>       <p><l>bütçe<s n="n"/></l>                    <r>byudjet<s n="n"/></r></p></e>
+<e>       <p><l>şiddet<s n="n"/></l>                   <r>zoʻravonlik<s n="n"/></r></p></e>
+<e>       <p><l>şiddet<s n="n"/></l>                   <r>shiddat<s n="n"/></r></p></e>
+<e>       <p><l>çağrı<s n="n"/></l>                    <r>murojaat<s n="n"/></r></p></e>
+<e>       <p><l>çağrı<s n="n"/></l>                    <r>qoʻngʻiroq<s n="n"/></r></p></e>
+<e>       <p><l>çağrı<s n="n"/></l>                    <r>chaqiriq<s n="n"/></r></p></e>
+<e>       <p><l>parlamento<s n="n"/></l>               <r>parlament<s n="n"/></r></p></e>
 <e>       <p><l>mahalle<s n="n"/></l>                  <r>mahalla<s n="n"/></r></p></e>
-<e>       <p><l>sonraki<s n="n"/></l>                  <r>keyingi<s n="n"/></r></p></e>
-<e>       <p><l>sonraki<s n="n"/></l>                  <r>soʻngra<s n="n"/></r></p></e>
+<e>       <p><l>cumhurbaşkanlığı<s n="n"/></l>         <r>prezidentlik<s n="n"/></r></p></e>
+<e>       <p><l>başkanlık<s n="n"/></l>                <r>prezidentlik<s n="n"/></r></p></e>
+<e>       <p><l>politika<s n="n"/></l>                 <r>siyosat<s n="n"/></r></p></e>
+<e>       <p><l>statü<s n="n"/></l>                    <r>status<s n="n"/></r></p></e>
+<e>       <p><l>statü<s n="n"/></l>                    <r>holat<s n="n"/></r></p></e>
+<e>       <p><l>statü<s n="n"/></l>                    <r>haykal<s n="n"/></r></p></e>
+<e>       <p><l>sonraki<s n="adj"/></l>                <r>keyingi<s n="adj"/></r></p></e>
+<e>       <p><l>sonra<s n="adv"/></l>                  <r>soʻngra<s n="adv"/></r></p></e>
 <e>       <p><l>burada<s n="adv"/></l>                 <r>bu<b/>yerda<s n="adv"/></r></p></e>
 <e>       <p><l>kadim<s n="adj"/></l>                  <r>qadimiy<s n="abbr"/><s n="nom"/></r></p></e>
 <e>       <p><l>millî<s n="adj"/></l>                  <r>milliy<s n="adj"/></r></p></e>
@@ -6620,6 +6633,25 @@
 <e>       <p><l>enstitü<s n="n"/></l>                  <r>institut<s n="n"/></r></p></e>
 <e>       <p><l>İstikrar<s n="n"/></l>                 <r>barqarorlik<s n="n"/></r></p></e>
 <e>       <p><l>turizm<s n="n"/></l>                   <r>turizm<s n="n"/></r></p></e>
+<e>       <p><l>müzakere<s n="n"/></l>                 <r>muzokara<s n="n"/></r></p></e>
+<e>       <p><l>uzlaşma<s n="n"/></l>                  <r>kelishuv<s n="n"/></r></p></e>
+<e>       <p><l>talep<s n="n"/></l>                    <r>talab<s n="n"/></r></p></e>
+<e>       <p><l>istikrar<s n="n"/></l>                 <r>barqarorlik<s n="n"/></r></p></e>
+<e>       <p><l>azınlık<s n="n"/></l>                  <r>ozchilik<s n="n"/></r></p></e>
+<e>       <p><l>iktidar<s n="n"/></l>                  <r>iqtidor<s n="n"/></r></p></e>
+<e>       <p><l>teşvik<s n="n"/></l>                   <r>tashviqot<s n="n"/></r></p></e>
+<e>       <p><l>kriz<s n="n"/></l>                     <r>krizis<s n="n"/></r></p></e>
+<e>       <p><l>gümrük<s n="n"/></l>                   <r>bojxona<s n="n"/></r></p></e>
+<e>       <p><l>elçi<s n="n"/></l>                     <r>elchi<s n="n"/></r></p></e>
+<e>       <p><l>soruşturma<s n="n"/></l>               <r>tergov<s n="n"/></r></p></e>
+<e>       <p><l>yasadışı<s n="adj"/></l>               <r>noqonuniy<s n="adj"/></r></p></e>
+<e>       <p><l>aşırı<s n="adj"/></l>                  <r>haddan<b/>tashqari<s n="adj"/></r></p></e>
+<e>       <p><l>olası<s n="adj"/></l>                  <r>mumkin<s n="adj"/></r></p></e>
+<e>       <p><l>orta<s n="adj"/></l>                  <r>oʻrta<s n="adj"/></r></p></e>
+<e>       <p><l>nükleer<s n="adj"/></l>                <r>yadroviy<s n="adj"/></r></p></e>
+<e>       <p><l>memnuniyet<s n="n"/></l>               <r>mamnuniyat<s n="n"/></r></p></e>
+<e>       <p><l>memnuniyetle<s n="adv"/></l>           <r>mamnuniyat<b/>ila<s n="adv"/></r></p></e>
+<e>       <p><l>memnuniyetle<s n="adv"/></l>           <r>mamnuniyat<b/>bilan<s n="adv"/></r></p></e>
 <e>       <p><l>Arnavutluk<s n="np"/><s n="top"/></l>  <r>Albaniya<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Karadağ<s n="np"/><s n="top"/></l>     <r>Chernogoriya<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Bulgaristan<s n="np"/><s n="top"/></l> <r>Bolgariya<s n="np"/><s n="top"/></r></p></e>
@@ -8275,6 +8307,7 @@
 <e c="  0"><p><l>o<s n="prn"/><s n="dem"/></l>         <r>u<s n="prn"/><s n="dem"/></r></p></e>
 <e c="  0"><p><l>o<s n="prn"/><s n="dem"/></l>         <r>oʻsha<s n="prn"/><s n="dem"/></r></p></e>
 <e c="  0"><p><l>o<s n="prn"/><s n="dem"/></l>         <r>o<s n="prn"/><s n="dem"/></r></p></e>
+<e c="  0"><p><l>yetkililer<s n="n"/></l>              <r>amaldor<s n="n"/><s n="pl"/></r></p></e>
 <e c="  0"><p><l>onlar<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></l><r>ular<s n="prn"/><s n="pers"/><s n="p3"/><s n="pl"/></r></p></e>
 <e c="  0"><p><l>sen<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/></l><r>sen<s n="prn"/><s n="pers"/><s n="p2"/><s n="sg"/></r></p></e>
 <e c="  0"><p><l>siz<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/></l><r>sizlar<s n="prn"/><s n="pers"/><s n="p2"/><s n="pl"/></r></p></e>
@@ -8290,6 +8323,13 @@
 
 <!-- SECTION: Verbs -->
 
+<e>       <p><l>üzerindeki<s n="adv"/></l>             <r>ortiq<s n="adv"/></r></p></e>
+<e>       <p><l>sekreter<s n="n"/></l>                 <r>kotib<s n="n"/></r></p></e>
+<e>       <p><l>sekreter<s n="n"/></l>                 <r>kotiba<s n="n"/></r></p></e>
+<e>       <p><l>toplantı<s n="n"/></l>                 <r>yigʻilish<s n="n"/></r></p></e>
+<e>       <p><l>yetkili<s n="adj"/></l>                <r>vakolatli<s n="adj"/></r></p></e>
+<e>       <p><l>duyur<s n="v"/><s n="tv"/></l>         <r>e’lon<b/>qil<s n="v"/><s n="tv"/></r></p></e>
+<e>       <p><l>kaydet<s n="v"/><s n="tv"/></l>        <r>qayd<b/>qil<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>belirt<s n="v"/><s n="tv"/></l>        <r>bildir<s n="v"/><s n="tv"/></r></p></e>
 <e>       <p><l>adım<b/>at<s n="v"/><s n="iv"/></l>    <r>qadam<b/>qo‘y<s n="v"/><s n="iv"/></r></p></e>
 <e>       <p><l>affet<s n="v"/><s n="tv"/></l>         <r>kechir<s n="v"/><s n="tv"/></r></p></e>
@@ -13066,6 +13106,10 @@
     <e>       <p><l>cazibeli<s n="adj"/></l>               <r>jozibali<s n="adj"/></r></p></e>
     <e>       <p><l>kabaca<s n="adj"/></l>                 <r>dagʻal<s n="adj"/></r></p></e>
     <e>       <p><l>pedagoji<s n="n"/></l>                 <r>pedagogika<s n="n"/></r></p></e>
+    <e>       <p><l>yolsuzluk<s n="n"/></l>                <r>buzuqilik<s n="n"/></r></p></e>
+    <e>       <p><l>mevkidaş<s n="n"/></l>                 <r>hamkasaba<s n="n"/></r></p></e>
+    <e>       <p><l>mevkidaş<s n="n"/></l>                 <r>hamkasb<s n="n"/></r></p></e>
+    <e>       <p><l>yolsuzluk<s n="n"/></l>                <r>buzuqlik<s n="n"/></r></p></e>
     <e>       <p><l>pedagojik<s n="adj"/></l>              <r>pedagogik<s n="adj"/></r></p></e>
     <e>       <p><l>peyda<s n="adj"/></l>                  <r>barpo<s n="adj"/></r></p></e>
     <e>       <p><l>peyda<s n="adj"/></l>                  <r>paydo<s n="adj"/></r></p></e>
