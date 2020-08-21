@@ -18,7 +18,7 @@ export TMPDIR
 # Testvoc will finish in a reasonable time if we comment out the line
 # with numerals regex in bidix:
 cd ../../
-sed -i 's_<e> *<re>\[№.*$_<!--&-->_' apertium-uzb-kaa.uzb-kaa.dix
+sed -i 's_<e> *<re>\[№.*$_<!--&-->_' apertium-tur-uzb.tur-uzb.dix
 make
 cd testvoc/standard/
 
@@ -28,13 +28,13 @@ function expand_monodix {
 }
 
 #-------------------------------------------------------------------------------
-# Uzbek->Karakalpak testvoc
+# Turkish->Uzbek testvoc
 #-------------------------------------------------------------------------------
 
-MONODIX=../../.deps/uzb-kaa.automorf.trimmed
+MONODIX=../../.deps/tur-uzb.automorf.trimmed
 
-echo "==Uzbek->Karakalpak==========================="
+echo "== Turkish -> Uzbek ==========================="
 
 expand_monodix |
-bash inconsistency.sh uzb-kaa > $TMPDIR/uzb-kaa.testvoc
-bash inconsistency-summary.sh $TMPDIR/uzb-kaa.testvoc uzb-kaa
+bash inconsistency.sh tur-uzb > $TMPDIR/tur-uzb.testvoc
+bash inconsistency-summary.sh $TMPDIR/tur-uzb.testvoc tur-uzb

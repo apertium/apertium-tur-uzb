@@ -3,8 +3,8 @@
 # A script to run the "lite" ("one-word-per-each-paradigm-") testvoc.
 #
 # Assumes the pair is compiled.
-# Extracts lexical units from compressed text files in languages/apertium-uzb/
-# tests/morphotactics/ and languages/apertium-kaa/tests/morphotactics
+# Extracts lexical units from compressed text files in languages/apertium-tur/
+# tests/morphotactics/ and languages/apertium-uzb/tests/morphotactics
 # and passes them through the translator (=INCONSISTENCY script).
 # Produces 'testvoc-summary' files using the INCONSISTENCY_SUMMARY script.
 #
@@ -27,24 +27,24 @@ function extract_lexical_units {
 }
 
 #-------------------------------------------------------------------------------
-# Uzbek->Karakalpak testvoc
+# Turkish->Uzbek testvoc
 #-------------------------------------------------------------------------------
 
-PARDEF_FILES=../../../../languages/apertium-uzb/tests/morphotactics/*.txt.gz
+PARDEF_FILES=../../../apertium-tur/tests/morphotactics/*.txt.gz
 
-echo "==Uzbek->Karakalpak==========================="
+echo "==Turkish->Uzbek==========================="
 
-echo "" > $TMPDIR/uzb-kaa.testvoc
+echo "" > $TMPDIR/tur-uzb.testvoc
 
 for file in $PARDEF_FILES; do
     zcat $file | extract_lexical_units |
-    $INCONSISTENCY uzb-kaa >> $TMPDIR/uzb-kaa.testvoc
+    $INCONSISTENCY tur-uzb >> $TMPDIR/tur-uzb.testvoc
 done
 
-$INCONSISTENCY_SUMMARY $TMPDIR/uzb-kaa.testvoc uzb-kaa
+$INCONSISTENCY_SUMMARY $TMPDIR/tur-uzb.testvoc tur-uzb
 
 #-------------------------------------------------------------------------------
-# Karakalpak->Uzbek testvoc
+# Uzbek->Turkish testvoc
 #-------------------------------------------------------------------------------
 
 # TODO

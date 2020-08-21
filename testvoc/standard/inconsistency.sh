@@ -19,15 +19,15 @@ GENOUT=$TMPDIR/testvoc_genout.txt
 
 DIR=$1
 
-if [[ $DIR = "uzb-kaa" ]]; then
+if [[ $DIR = "tur-uzb" ]]; then
 
     PRETRANSFER="apertium-pretransfer"
-    LEXTRANSFER="lt-proc -b ../../uzb-kaa.autobil.bin"
-    LEXSELECTION="lrx-proc -m ../../uzb-kaa.autolex.bin"
-    TRANSFER="rtx-proc ../../uzb-kaa.rtx.bin"
-    #TRANSFER_1="apertium-transfer -b ../../apertium-uzb-kaa.uzb-kaa.t1x ../../uzb-kaa.rtx.bin"
-    #TRANSFER_2="apertium-transfer -n ../../apertium-uzb-kaa.uzb-kaa.t2x ../../uzb-kaa.rlx.bin"
-    GENERATOR="lt-proc -d ../../uzb-kaa.autogen.bin"
+    LEXTRANSFER="lt-proc -b ../../tur-uzb.autobil.bin"
+    LEXSELECTION="lrx-proc -m ../../tur-uzb.autolex.bin"
+    TRANSFER="rtx-proc ../../tur-uzb.rtx.bin"
+    #TRANSFER_1="apertium-transfer -b ../../apertium-tur-uzb.tur-uzb.t1x ../../tur-uzb.rtx.bin"
+    #TRANSFER_2="apertium-transfer -n ../../apertium-tur-uzb.tur-uzb.t2x ../../tur-uzb.rlx.bin"
+    GENERATOR="lt-proc -d ../../tur-uzb.autogen.bin"
 
     tee $INPUT |
     $PRETRANSFER | $LEXTRANSFER | $LEXSELECTION |
