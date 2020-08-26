@@ -1091,7 +1091,7 @@
 <e>       <p><l>apaçık<s n="adv"/></l>                 <r>ochiqchasiga<s n="adv"/></r></p></e>
 <e>       <p><l>aracısız<s n="adv"/></l>               <r>bevosita<s n="adv"/></r></p></e>
 <e>       <p><l>aracısız<s n="adv"/></l>               <r>toʻgʻridan-toʻgʻri<s n="adv"/></r></p></e>
-<e>       <p><l>aralıksız<s n="adv"/></l>              <r>uzluksiz<s n="adv"/></r></p></e>
+<e>       <p><l>aralıksız<s n="adv"/></l>              <r>uzluksiz<s n="adj"/><s n="advl"/></r></p></e>
 <e>       <p><l>aralıksız<s n="adv"/></l>              <r>toʻxtovsiz<s n="adv"/></r></p></e>
 <e>       <p><l>artık<s n="adv"/></l>                  <r>ortiq<s n="adv"/></r></p></e>
 <e>       <p><l>artık<s n="adv"/></l>                  <r>bundan<b/>buyon<s n="adv"/></r></p></e>
@@ -1106,7 +1106,7 @@
 <e>       <p><l>açıkça<s n="adv"/></l>                 <r>yaqqol<s n="adv"/></r></p></e>
 <e>       <p><l>açıkça<s n="adv"/></l>                 <r>ochiqcha<s n="adv"/></r></p></e>
 <e>       <p><l>açıkça<s n="adv"/></l>                 <r>ochiqchasiga<s n="adv"/></r></p></e>
-<e>       <p><l>aşağı<s n="adv"/></l>                  <r>past<s n="adv"/></r></p></e>
+<e>       <p><l>aşağı<s n="adv"/></l>                  <r>past<s n="adj"/><s n="advl"/></r></p></e>
 <e>       <p><l>aşağı<b/>yukarı<s n="adv"/></l>        <r>deyarli<s n="adv"/></r></p></e>
 <e>       <p><l>aşağı<b/>yukarı<s n="adv"/></l>        <r>taxminan<s n="adv"/></r></p></e>
 <e>       <p><l>aşağı<b/>yukarı<s n="adv"/></l>        <r>ozmi-koʻpmi<s n="adv"/></r></p></e>
@@ -3077,7 +3077,7 @@
 <e>       <p><l>rol<s n="n"/></l>                      <r>rol<s n="n"/></r></p></e>
 <e>       <p><l>vize<s n="n"/></l>                     <r>viza<s n="n"/></r></p></e>
 <e>       <p><l>erken<s n="adj"/></l>                  <r>erkin<s n="adj"/></r></p></e>
-<e>       <p><l>erken<s n="adv"/></l>                  <r>erkin<s n="adv"/></r></p></e>
+<e>       <p><l>erken<s n="adv"/></l>                  <r>erkin<s n="adj"/><s n="advl"/></r></p></e>
 <e>       <p><l>roman<s n="adj"/></l>                  <r>roman<s n="adj"/></r></p></e>
 <e>       <p><l>Roman<s n="adj"/></l>                  <r>Roman<s n="adj"/></r></p></e>
 <e>       <p><l>roman<s n="n"/></l>                    <r>roman<s n="n"/></r></p></e>
@@ -13261,7 +13261,7 @@
 <!-- <e>       <p><l>ardından<s n="adv"/></l>               <r>axtarish<s n="adv"/></r></p></e> -->
 <!-- <e>       <p><l>bile<b/>bile<s n="adv"/></l>           <r>maxsus<s n="adv"/></r></p></e> -->
 <!-- <e>       <p><l>bir<b/>süre<s n="adv"/></l>            <r>allaqachon<s n="adv"/></r></p></e> -->
-<e>       <p><l>biteviye<s n="adv"/></l>               <r>uyluksiz<s n="adv"/></r></p></e>
+<e>       <p><l>biteviye<s n="adv"/></l>               <r>uzluksiz<s n="adj"/><s n="advl"/></r></p></e>
 <e>       <p><l>bura<s n="adv"/></l>                   <r>bu<b/>yer<s n="adv"/></r></p></e>
 <e>       <p><l>ciddi<s n="adv"/></l>                  <r>jiddiy<s n="adv"/></r></p></e>
 <e>       <p><l>daha<s n="adv"/></l>                   <r>badtar<s n="adv"/></r></p></e>
@@ -13278,8 +13278,8 @@
 <!--<e>       <p><l>gıyaben<s n="adv"/></l>                <r>yoqligida<s n="adv"/></r></p></e> -->
 <e>       <p><l>günümüze<s n="adv"/></l>               <r>kunimizgacha<s n="adv"/></r></p></e>
 <e>       <p><l>hala<s n="adv"/></l>                   <r>hali<s n="adv"/></r></p></e>
-<e c="  0"><p><l>hür<s n="adv"/></l>                   <r>erkin<s n="adv"/></r></p></e>
-<e c="  0"><p><l>hür<s n="adv"/></l>                   <r>hur<s n="adv"/></r></p></e>
+<e c="  0"><p><l>hür<s n="adv"/></l>                   <r>erkin<s n="adj"/><s n="advl"/></r></p></e>
+<e c="  0"><p><l>hür<s n="adv"/></l>                   <r>hur<s n="adj"/><s n="advl"/></r></p></e>
 <e>       <p><l>illa<s n="adv"/></l>                   <r>albatta<s n="adv"/></r></p></e>
 <e>       <p><l>ille<s n="adv"/></l>                   <r>albatta<s n="adv"/></r></p></e>
 <e>       <p><l>illâ<s n="adv"/></l>                   <r>albatta<s n="adv"/></r></p></e>
