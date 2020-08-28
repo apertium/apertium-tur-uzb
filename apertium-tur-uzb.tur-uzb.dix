@@ -6232,8 +6232,6 @@
 <e>       <p><l>Tadiç<s n="np"/><s n="ant"/><s n="m"/></l><r>Tadiç<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Boris<s n="np"/><s n="ant"/><s n="m"/></l><r>Boris<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Abruzzo<s n="np"/><s n="top"/></l>     <r>Abruzzo<s n="np"/><s n="top"/></r></p></e>
-<e>       <p><l>ad<s n="np"/><s n="al"/></l>           <r>ad<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Eurovision<s n="np"/><s n="al"/></l>   <r>Eurovision<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Afganistan<s n="np"/><s n="top"/></l>  <r>Afgʻoniston<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Afrika<s n="np"/><s n="top"/></l>      <r>Afrika<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Ahmed<s n="np"/><s n="ant"/><s n="m"/></l><r>Ahmad<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -6258,8 +6256,6 @@
 
 <e>       <p><l>AFP<s n="np"/><s n="org"/></l>         <r>AFP<s n="np"/><s n="org"/></r></p></e>
 <e>       <p><l>AP<s n="np"/><s n="org"/></l>          <r>AP<s n="np"/><s n="org"/></r></p></e>
-<e>       <p><l>al<s n="np"/><s n="al"/></l>           <r>al<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>NGC<s n="np"/><s n="al"/></l>          <r>NGC<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Alabama<s n="np"/><s n="top"/></l>     <r>Alabama<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Albert<s n="np"/><s n="ant"/><s n="m"/></l><r>Albert<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Aleksandr<s n="np"/><s n="ant"/><s n="m"/></l><r>Aleksandr<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -6271,7 +6267,6 @@
 <e>       <p><l>Almanya<s n="np"/><s n="top"/></l>     <r>Germaniya<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Alp<s n="np"/><s n="top"/></l>         <r>Alpes<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Altay<s n="np"/><s n="top"/></l>       <r>Oltoy<s n="np"/><s n="top"/></r></p></e>
-<e>       <p><l>am<s n="np"/><s n="al"/></l>           <r>am<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Amerika<s n="np"/><s n="top"/></l>     <r>Amerika<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Amuderya<s n="np"/><s n="top"/></l>    <r>Amudaryo<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Anadolu<s n="np"/><s n="top"/></l>     <r>Anado’lu<s n="np"/><s n="top"/></r></p></e>
@@ -6315,7 +6310,6 @@
 <e>       <p><l>Bas<s n="np"/><s n="top"/></l>         <r>Bas<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Bavyera<s n="np"/><s n="top"/></l>     <r>Bavariya<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Beauvais<s n="np"/><s n="top"/></l>    <r>Beauvais<s n="np"/><s n="top"/></r></p></e>
-<e>       <p><l>bei<s n="np"/><s n="al"/></l>          <r>bei<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Berdimuhammedov<s n="np"/><s n="cog"/><s n="mf"/></l><r>Berdimuhammedov<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Beruniy<s n="np"/><s n="top"/></l>     <r>Beruniy<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Bourg-en-Bresse<s n="np"/><s n="top"/></l><r>Bourg-en-Bresse<s n="np"/><s n="top"/></r></p></e>
@@ -6334,17 +6328,14 @@
 <e>       <p><l>Castellon<s n="np"/><s n="top"/></l>   <r>castellon<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Castilla<s n="np"/><s n="top"/></l>    <r>Castilla<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Celalabad<s n="np"/><s n="top"/></l>   <r>Jalolobod<s n="np"/><s n="top"/></r></p></e>
-<e>       <p><l>Centre<s n="np"/><s n="al"/></l>       <r>Centre<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Cher<s n="np"/><s n="top"/></l>        <r>Cher<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Chuy<s n="np"/><s n="top"/></l>        <r>Chuy<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Château<s n="np"/><s n="top"/></l>     <r>Château<s n="np"/><s n="top"/></r></p></e>
-<e>       <p><l>City<s n="np"/><s n="al"/></l>         <r>City<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Cizzak<s n="np"/><s n="top"/></l>      <r>Jizzax<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Como<s n="np"/><s n="top"/></l>        <r>Como<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Comte<s n="np"/><s n="cog"/><s n="mf"/></l><r>Comté<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Tadiç<s n="np"/><s n="cog"/><s n="mf"/></l><r>Tadich<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Corrèze<s n="np"/><s n="top"/></l>     <r>Correze<s n="np"/><s n="top"/></r></p></e>
-<e>       <p><l>County<s n="np"/><s n="al"/></l>       <r>County<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Côte<s n="np"/><s n="top"/></l>        <r>Kote<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Côtes<s n="np"/><s n="top"/></l>       <r>Kotes<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Dakota<s n="np"/><s n="top"/></l>      <r>Dakota<s n="np"/><s n="top"/></r></p></e>
@@ -6394,11 +6385,9 @@
 <e>       <p><l>Holstein<s n="np"/><s n="top"/></l>    <r>Holstein<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Hunsrück<s n="np"/><s n="top"/></l>    <r>hunsrück<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Hüseyin<s n="np"/><s n="ant"/><s n="m"/></l><r>Husayn<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-<e>       <p><l>ibn<s n="np"/><s n="al"/></l>          <r>ibn<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>İbrahim<s n="np"/><s n="ant"/><s n="m"/></l><r>Ibrohim<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Illinois<s n="np"/><s n="top"/></l>    <r>Illinois<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>İlyas<s n="np"/><s n="ant"/><s n="m"/></l><r>Ilyos<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-<e>       <p><l>İncil<s n="np"/><s n="al"/></l>        <r>Injil<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Indiana<s n="np"/><s n="top"/></l>     <r>Indiana<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Indre<s n="np"/><s n="top"/></l>       <r>Indre<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>İngiltere<s n="np"/><s n="top"/></l>   <r>Angliya<s n="np"/><s n="top"/></r></p></e>
@@ -6438,18 +6427,12 @@
 <e>       <p><l>Kolarado<s n="np"/><s n="top"/></l>    <r>Colarado<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Kore<s n="np"/><s n="top"/></l>        <r>Kore<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Kore<s n="np"/><s n="top"/></l>        <r>Koreya<s n="np"/><s n="top"/></r></p></e>
-<e>       <p><l>Korintliler<s n="np"/><s n="al"/></l>  <r>Corinthians<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Kreis<s n="np"/><s n="cog"/><s n="mf"/></l><r>Kreis<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Kurbankuli<s n="np"/><s n="ant"/><s n="m"/></l><r>Kurbankuli<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-<e>       <p><l>la<s n="np"/><s n="al"/></l>           <r>la<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>La<s n="np"/><s n="al"/></l>           <r>La<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Lake<s n="np"/><s n="top"/></l>        <r>Lake<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Land<s n="np"/><s n="cog"/><s n="mf"/></l><r>Land<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
 <e>       <p><l>Landes<s n="np"/><s n="top"/></l>      <r>Landes<s n="np"/><s n="top"/></r></p></e>
-<e>       <p><l>le<s n="np"/><s n="al"/></l>           <r>le<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Le<s n="np"/><s n="al"/></l>           <r>Le<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Leon<s n="np"/><s n="top"/></l>        <r>León<s n="np"/><s n="top"/></r></p></e>
-<e>       <p><l>les<s n="np"/><s n="al"/></l>          <r>les<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Lewis<s n="np"/><s n="ant"/><s n="m"/></l><r>Lewis<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Limousin<s n="np"/><s n="top"/></l>    <r>Limuzen<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Lisieux<s n="np"/><s n="top"/></l>     <r>lisieux<s n="np"/><s n="top"/></r></p></e>
@@ -6463,8 +6446,6 @@
 <e>       <p><l>Lot<s n="np"/><s n="top"/></l>         <r>Lot<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Lotharingiya<s n="np"/><s n="top"/></l><r>Lotaringiya<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Luka<s n="np"/><s n="ant"/><s n="m"/></l><r>Luke<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-<e>       <p><l>lès<s n="np"/><s n="al"/></l>          <r>lès<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Mac<s n="np"/><s n="al"/></l>          <r>Mac<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Madrid<s n="np"/><s n="top"/></l>      <r>Madrid<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Mahmud<s n="np"/><s n="ant"/><s n="m"/></l><r>Mahmud<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Manche<s n="np"/><s n="top"/></l>      <r>Manche<s n="np"/><s n="top"/></r></p></e>
@@ -6497,9 +6478,6 @@
 <e>       <p><l>Navarra<s n="np"/><s n="top"/></l>     <r>Navarra<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Nebraska<s n="np"/><s n="top"/></l>    <r>Nebraska<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Netanyahu<s n="np"/><s n="cog"/><s n="mf"/></l><r>Netanyahu<s n="np"/><s n="cog"/><s n="mf"/></r></p></e>
-<e>       <p><l>New<s n="np"/><s n="al"/></l>          <r>New<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>New<s n="np"/><s n="al"/></l>          <r>Nyu<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Nobel<s n="np"/><s n="al"/></l>        <r>Nobel<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Normandiya<s n="np"/><s n="top"/></l>  <r>Normandiya<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Nurota<s n="np"/><s n="top"/></l>      <r>Nurota<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Ohio<s n="np"/><s n="top"/></l>        <r>Ohio<s n="np"/><s n="top"/></r></p></e>
@@ -6513,7 +6491,6 @@
 <e>       <p><l>Paul<s n="np"/><s n="ant"/><s n="m"/></l><r>Pavlus<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Pegas<s n="np"/><s n="top"/></l>       <r>Pegas<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Penisilvanya<s n="np"/><s n="top"/></l><r>Pennsylvania<s n="np"/><s n="top"/></r></p></e>
-<e>       <p><l>Pesah<s n="np"/><s n="al"/></l>        <r>Fisih<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Peterburg<s n="np"/><s n="top"/></l>   <r>Peterburg<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Petrus<s n="np"/><s n="ant"/><s n="m"/></l><r>Butrus<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Pfalz<s n="np"/><s n="top"/></l>       <r>Pfalz<s n="np"/><s n="top"/></r></p></e>
@@ -6536,14 +6513,10 @@
 <e>       <p><l>Rumeli<s n="np"/><s n="top"/></l>      <r>Rumeli<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Rusya<s n="np"/><s n="top"/></l>       <r>Rossiya<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Saale<s n="np"/><s n="top"/></l>       <r>saale<s n="np"/><s n="top"/></r></p></e>
-<e>       <p><l>Saint<s n="np"/><s n="al"/></l>        <r>Saint<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Saint<b/>Etienne<s n="np"/><s n="top"/></l><r>saint<b/>etienne<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Sainte<s n="np"/><s n="top"/></l>      <r>Sainte<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Sakarya<s n="np"/><s n="top"/></l>     <r>Sakariyo<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Saksonya<s n="np"/><s n="top"/></l>    <r>Saksoniya<s n="np"/><s n="top"/></r></p></e>
-<e>       <p><l>San<s n="np"/><s n="al"/></l>          <r>San<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Sankt<s n="np"/><s n="al"/></l>        <r>Sankt<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Santa<s n="np"/><s n="al"/></l>        <r>Santa<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Sardinya<s n="np"/><s n="top"/></l>    <r>Sardiniya<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Saunier<s n="np"/><s n="top"/></l>     <r>Saunier<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>SaunierLons<s n="np"/><s n="top"/></l> <r>SaunierLons<s n="np"/><s n="top"/></r></p></e>
@@ -6561,7 +6534,6 @@
 <e>       <p><l>Sivas<s n="np"/><s n="top"/></l>       <r>Sivas<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Somme<s n="np"/><s n="top"/></l>       <r>Somme<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>SSCB<s n="np"/><s n="top"/></l>        <r>SSSR<s n="np"/><s n="top"/></r></p></e>
-<e>       <p><l>St<s n="np"/><s n="al"/></l>           <r>St<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Steiermark<s n="np"/><s n="top"/></l>  <r>Shtiriya<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Stephan<s n="np"/><s n="ant"/><s n="m"/></l><r>Stephan<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Surhanderya<s n="np"/><s n="top"/></l> <r>Surxondarryo<s n="np"/><s n="top"/></r></p></e>
@@ -6573,7 +6545,6 @@
 <e>       <p><l>Talas<s n="np"/><s n="top"/></l>       <r>talas<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Taşkent<s n="np"/><s n="top"/></l>     <r>Toshkent<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Tennessee<s n="np"/><s n="top"/></l>   <r>Tennessee<s n="np"/><s n="top"/></r></p></e>
-<e>       <p><l>Tevrat<s n="np"/><s n="al"/></l>       <r>Tavrot<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Texas<s n="np"/><s n="top"/></l>       <r>Texas<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Thuringia<s n="np"/><s n="top"/></l>   <r>Turingiya<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Timoteos<s n="np"/><s n="ant"/><s n="m"/></l><r>Timo<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
@@ -6599,7 +6570,6 @@
 <e>       <p><l>Villeneuve<s n="np"/><s n="top"/></l>  <r>villeneuve<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Villers<s n="np"/><s n="top"/></l>     <r>villers<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Virginia<s n="np"/><s n="top"/></l>    <r>Virginia<s n="np"/><s n="top"/></r></p></e>
-<e>       <p><l>Virgo<s n="np"/><s n="al"/></l>        <r>Sunbula<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Viyana<s n="np"/><s n="top"/></l>      <r>vena<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Vorpommern<s n="np"/><s n="top"/></l>  <r>Vorpommern<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Vosges<s n="np"/><s n="top"/></l>      <r>Vosges<s n="np"/><s n="top"/></r></p></e>
@@ -6616,13 +6586,10 @@
 <e>       <p><l>York<s n="np"/><s n="top"/></l>        <r>York<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Yuhanna<s n="np"/><s n="ant"/><s n="m"/></l><r>Yuhanno<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
 <e>       <p><l>Yusuf<s n="np"/><s n="ant"/><s n="m"/></l><r>Yusuf<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
-<e>       <p><l>Zebur<s n="np"/><s n="al"/></l>        <r>Zabur<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Zerefsan<s n="np"/><s n="top"/></l>    <r>Zarafshon<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Çin<s n="np"/><s n="top"/></l>         <r>Xitoy<s n="np"/><s n="top"/></r></p></e>
-<e>       <p><l>Çoban<s n="np"/><s n="al"/></l>        <r>Choʻpon<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Èpinal<s n="np"/><s n="top"/></l>      <r>Èpinal<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Özbekistan<s n="np"/><s n="top"/></l>  <r>Oʻzbekiston<s n="np"/><s n="top"/></r></p></e>
-<e>       <p><l>Özbekistan<b/>Ligi<s n="np"/><s n="al"/></l><r>OʻzR<s n="np"/><s n="al"/></r></p></e>
 <e>       <p><l>Şahrisabz<s n="np"/><s n="top"/></l>   <r>shahrisabz<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Şam<s n="np"/><s n="top"/></l>         <r>Shom<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Makedonya<s n="np"/><s n="top"/></l>   <r>Makedoniya<s n="np"/><s n="top"/></r></p></e>
@@ -6659,135 +6626,6 @@
 <e>       <p><l>Romanya<s n="np"/><s n="top"/></l>     <r>Ruminiya<s n="np"/><s n="top"/></r></p></e>
 <e>       <p><l>Yunanistan<s n="np"/><s n="top"/></l>  <r>Yunoniston<s n="np"/><s n="top"/></r></p></e>
 
-<e>       <p><l>AIDS<s n="np"/><s n="al"/></l>                        <r>OITS<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>AP<s n="np"/><s n="al"/></l>                          <r>AP<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Atabetül<b/>Hakayık<s n="np"/><s n="al"/></l>         <r>Atabetul<b/>Hakayik<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>ATO<s n="np"/><s n="al"/></l>                         <r>ATO<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>ATR<s n="np"/><s n="al"/></l>                         <r>ATR<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>B92<s n="np"/><s n="al"/></l>                         <r>B92<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>BBC<s n="np"/><s n="al"/></l>                         <r>BBC<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Belediyespor<s n="np"/><s n="al"/></l>                <r>Belediyespor<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Big<s n="np"/><s n="al"/></l>                         <r>Big<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Boeing<s n="np"/><s n="al"/></l>                      <r>Boeing<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>BSE<s n="np"/><s n="al"/></l>                         <r>BSE<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>BTR<s n="np"/><s n="al"/></l>                         <r>BTR<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Bülüğ'ul<b/>Meram<s n="np"/><s n="al"/></l>           <r>Bulugʻ'ul<b/>Meram<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>CEFTA<s n="np"/><s n="al"/></l>                       <r>CEFTA<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Çernomorneftegaz<s n="np"/><s n="al"/></l>            <r>Chernomorneftegaz<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Charlie<b/>Hebdo<s n="np"/><s n="al"/></l>            <r>Charlie<b/>Hebdo<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Club<s n="np"/><s n="al"/></l>                        <r>Club<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Cup<s n="np"/><s n="al"/></l>                         <r>Cup<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Deadpool<s n="np"/><s n="al"/></l>                    <r>Dedpul<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Death<s n="np"/><s n="al"/></l>                       <r>Death<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Divan-ı<b/>Lügatit<b/>Türk<s n="np"/><s n="al"/></l>  <r>Devoni<b/>Lugʻatit<b/>Turk<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Dnevnik<s n="np"/><s n="al"/></l>                     <r>Dnevnik<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Drakula<s n="np"/><s n="al"/></l>                     <r>Drakula<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Dünya<b/>Şampiyonası<s n="np"/><s n="al"/></l>        <r>Jahon<b/>Chempionati<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>EUCOM<s n="np"/><s n="al"/></l>                       <r>EUCOM<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>EUobserver<s n="np"/><s n="al"/></l>                  <r>EUobserver<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>EUpolitix<s n="np"/><s n="al"/></l>                   <r>EUpolitix<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>EurActiv<s n="np"/><s n="al"/></l>                    <r>EurActiv<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Europe<s n="np"/><s n="al"/></l>                      <r>Europe<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Facebook<s n="np"/><s n="al"/></l>                    <r>Facebook<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>FC<s n="np"/><s n="al"/></l>                          <r>FC<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>FM<s n="np"/><s n="al"/></l>                          <r>FM<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Football<s n="np"/><s n="al"/></l>                    <r>Futbol<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Formula<b/>1<s n="np"/><s n="al"/></l>                <r>Formula<b/>1<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>FSB<s n="np"/><s n="al"/></l>                         <r>FSB<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>G17<s n="np"/><s n="al"/></l>                         <r>G17<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>G17<b/>Plus<s n="np"/><s n="al"/></l>                 <r>G17<b/>Plus<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Gazela<s n="np"/><s n="al"/></l>                      <r>Gazela<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Gazprom<s n="np"/><s n="al"/></l>                     <r>Gazprom<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>GERB<s n="np"/><s n="al"/></l>                        <r>GERB<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Golos<s n="np"/><s n="al"/></l>                       <r>Golos<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Grammy<s n="np"/><s n="al"/></l>                      <r>Grammy<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Group<s n="np"/><s n="al"/></l>                       <r>Group<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>HIV<s n="np"/><s n="al"/></l>                         <r>OIV<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>http<s n="np"/><s n="al"/></l>                        <r>http<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>ICAO<s n="np"/><s n="al"/></l>                        <r>ICAO<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>İnterfaks<s n="np"/><s n="al"/></l>                   <r>Interfaks<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>International<s n="np"/><s n="al"/></l>               <r>Interneyshnl<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>iOS<s n="np"/><s n="al"/></l>                         <r>iOS<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Islander<s n="np"/><s n="al"/></l>                    <r>Islander<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>ISO<s n="np"/><s n="al"/></l>                         <r>ISO<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>iTunes<s n="np"/><s n="al"/></l>                      <r>iTunes<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Kazakhmys<s n="np"/><s n="al"/></l>                   <r>Kazakhmys<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>KDV<s n="np"/><s n="al"/></l>                         <r>KDV<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>KGB<s n="np"/><s n="al"/></l>                         <r>KGB<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Kırgızmambas<s n="np"/><s n="al"/></l>                <r>Kirgizmambas<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Krımenergo<s n="np"/><s n="al"/></l>                  <r>Krimenergo<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Krıminform<s n="np"/><s n="al"/></l>                  <r>Kriminform<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>KrımSOS<s n="np"/><s n="al"/></l>                     <r>KrimSOS<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Kurultay<s n="np"/><s n="al"/></l>                    <r>Qurultoy<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Kutadgu<b/>Bilig<s n="np"/><s n="al"/></l>            <r>Kutadgʻu<b/>Bilig<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Kutadgu<b/>Bilik<s n="np"/><s n="al"/></l>            <r>Kutadgʻu<b/>Bilig<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>League<s n="np"/><s n="al"/></l>                      <r>Liga<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>LHC<s n="np"/><s n="al"/></l>                         <r>LHC<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Ligue<s n="np"/><s n="al"/></l>                       <r>Liga<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Linux<s n="np"/><s n="al"/></l>                       <r>Linuks<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Live<s n="np"/><s n="al"/></l>                        <r>Live<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Maracana<s n="np"/><s n="al"/></l>                    <r>Marakana<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Mezmurlar<s n="np"/><s n="al"/></l>                   <r>Mezmurlar<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Mişkatül<b/>Mesabih<s n="np"/><s n="al"/></l>         <r>Mishkatul<b/>Mesabih<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>MPA<s n="np"/><s n="al"/></l>                         <r>MPA<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>MS<s n="np"/><s n="al"/></l>                          <r>MS<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>MSK<s n="np"/><s n="al"/></l>                         <r>MSK<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>MTS<s n="np"/><s n="al"/></l>                         <r>MTS<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Muhakemetul<b/>Lugateyn<s n="np"/><s n="al"/></l>     <r>Muhokamatul<b/>Lugʻatayn<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Muhakemetül<b/>Lugateyn<s n="np"/><s n="al"/></l>     <r>Muhakamatul<b/>Lugʻatayn<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Nabucco<s n="np"/><s n="al"/></l>                     <r>Nabukko<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Naftogaz<s n="np"/><s n="al"/></l>                    <r>Naftogaz<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>News<s n="np"/><s n="al"/></l>                        <r>Nevs<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>NTV<s n="np"/><s n="al"/></l>                         <r>NTV<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>OS<s n="np"/><s n="al"/></l>                          <r>OS<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Oscar<s n="np"/><s n="al"/></l>                       <r>Oscar<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>OSCE<s n="np"/><s n="al"/></l>                        <r>OSCE<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Otkrıtaya<s n="np"/><s n="al"/></l>                   <r>Otkritaya<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Otkrıtaya<b/>Rossiya<s n="np"/><s n="al"/></l>        <r>Ochiq<b/>Rossiya<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>PA<s n="np"/><s n="al"/></l>                          <r>PA<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>PACE<s n="np"/><s n="al"/></l>                        <r>PACE<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>PEN<s n="np"/><s n="al"/></l>                         <r>PEN<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Pirrol<s n="np"/><s n="al"/></l>                      <r>Pirrol<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Play<s n="np"/><s n="al"/></l>                        <r>Play<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Premier<s n="np"/><s n="al"/></l>                     <r>Premier<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>PrivatBank<s n="np"/><s n="al"/></l>                  <r>PrivatBank<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Radio<b/>Foniki<s n="np"/><s n="al"/></l>             <r>Radio<b/>Foniki<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Raw<s n="np"/><s n="al"/></l>                         <r>Rav<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Records<s n="np"/><s n="al"/></l>                     <r>Records<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Red<s n="np"/><s n="al"/></l>                         <r>Red<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>River<s n="np"/><s n="al"/></l>                       <r>River<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Roskomnadzor<s n="np"/><s n="al"/></l>                <r>Roskomnadzor<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Rospotrebnadzor<s n="np"/><s n="al"/></l>             <r>Rospotrebnadzor<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Rosselhoznadzor<s n="np"/><s n="al"/></l>             <r>Rosselhoznadzor<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Rossiya<b/>segodnya<s n="np"/><s n="al"/></l>         <r>Rossiya<b/>segodnya<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>SAA<s n="np"/><s n="al"/></l>                         <r>SAA<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Sahihül<b/>Buhari<s n="np"/><s n="al"/></l>           <r>Saxixul<b/>Buxoriy<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Serie<b/>A<s n="np"/><s n="al"/></l>                  <r>A<b/>Seriyasi<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Servet-i<b/>Fünun<s n="np"/><s n="al"/></l>           <r>Servet-i<b/>Funun<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Simferopol<s n="np"/><s n="al"/></l>                  <r>Simferopol<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>SOS<s n="np"/><s n="al"/></l>                         <r>SOS<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Spravedlivaya<b/>Rossiya<s n="np"/><s n="al"/></l>    <r>Spravedlivaya<b/>Rossiya<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>SSC<s n="np"/><s n="al"/></l>                         <r>SSC<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Super<b/>G4<s n="np"/><s n="al"/></l>                 <r>Super<b/>G4<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Svoboda<s n="np"/><s n="al"/></l>                     <r>Svoboda<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Terciman<s n="np"/><s n="al"/></l>                    <r>Tarjimon<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>The<b/>New<b/>Press<s n="np"/><s n="al"/></l>         <r>The<b/>New<b/>Press<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Tribune<s n="np"/><s n="al"/></l>                     <r>Tribuna<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>TSK<s n="np"/><s n="al"/></l>                         <r>TSK<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>TV<s n="np"/><s n="al"/></l>                          <r>TV<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Twitter<s n="np"/><s n="al"/></l>                     <r>Twitter<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Ukrenergo<s n="np"/><s n="al"/></l>                   <r>Ukrenergo<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Ukrinform<s n="np"/><s n="al"/></l>                   <r>Ukrinform<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Ukrtelekom<s n="np"/><s n="al"/></l>                  <r>Ukrtelekom<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>UNESCO<s n="np"/><s n="al"/></l>                      <r>UNESKO<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>United<s n="np"/><s n="al"/></l>                      <r>Yunayted<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Vikipedi<s n="np"/><s n="al"/></l>                    <r>Vikipediya<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Vikipediya<s n="np"/><s n="al"/></l>                  <r>Vikipediya<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>World<s n="np"/><s n="al"/></l>                       <r>World<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>www<s n="np"/><s n="al"/></l>                         <r>www<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Yedinaya<b/>Rossiya<s n="np"/><s n="al"/></l>         <r>Yedinaya<b/>Rossiya<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>YouTube<s n="np"/><s n="al"/></l>                     <r>YouTube<s n="np"/><s n="al"/></r></p></e>
-<e>       <p><l>Zıncırlı<s n="np"/><s n="al"/></l>                    <r>Zanjirli<s n="np"/><s n="al"/></r></p></e>
 
 
 <e>       <p><l>Abay<s n="np"/><s n="ant"/><s n="m"/></l>         <r>Abay<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
