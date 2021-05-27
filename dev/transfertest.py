@@ -35,8 +35,8 @@ def run_tests(url, fname):
 if __name__ == "__main__":
     fname = "/tmp/" + str(random.randint(100000,999999)) + ".txt"
     dirs = {"uzb":"uzb-tur", "tur":"tur-uzb"}
-    regression = "http://wiki.apertium.org/w/index.php?title=Apertium-tur-uzb/Regression_tests&action=edit"
-    pending = "http://wiki.apertium.org/w/index.php?title=Apertium-tur-uzb/Pending_tests&action=edit"
+    regression = "https://wiki.apertium.org/w/index.php?title=Apertium-tur-uzb/Regression_tests&action=edit"
+    pending = "https://wiki.apertium.org/w/index.php?title=Apertium-tur-uzb/Pending_tests&action=edit"
     print("*** PENDING ***")
     run_tests(pending, fname)
     print("*** REGRESSION ***")
