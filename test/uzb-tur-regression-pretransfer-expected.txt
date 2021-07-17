@@ -1,0 +1,70 @@
+[5xDF1zGb9IRm#0] ^Oʻrtacha<n><nom>$ ^yillik<adj>$ ^yogʻin<n><nom>$ ^800<num>$–^1200<num>$ ^mm<abbr><nom>$^.<sent>$
+[/5xDF1zGb9IRm]
+[8Ynmn3T1VoJj#0] ^Eron<np><top><nom>$ ^Amerika<np><top><nom>$ ^fuqaro<n><px3pl><gen>$ ^Eron<np><top><dat>$ ^kir<v><iv><ger_abst><px3sp><acc>$ ^man<adj><advl>$ ^et<v><tv><gpr_fut_plan>$^.<sent>$
+[/8Ynmn3T1VoJj]
+[D7ikQUJaTIOU#0] ^Nodon<adj><subst><pl><nom>$ ^kabi<post>$ ^emas<adv>$^,<cm>$ ^dono<adj>$ ^kishi<n><pl><nom>$ ^kabi<post>$ ^kun<n><nom>$ ^kechir<v><tv><imp><p2><pl>$^.<sent>$
+[/D7ikQUJaTIOU]
+[E23A5sajphmI#0] ^Ey<ij>$ ^dilbar<n><px1sg><nom>$^,<cm>$ ^dil<n><loc>$ ^kadar<n><nom>$^,<cm>$ ^ket<v><iv><prog_inf><p1><sg>$^.<sent>$
+[/E23A5sajphmI]
+[F0IrkCNoXNdr#0] ^Isroil<np><top><nom>$ ^bosh vazir<n><px3sp><nom>$ ^Binyamin<np><ant><m><nom>$ ^Netanyahu<np><cog><mf><nom>$ ^Eron<np><top><acc>$ ^tahdid<n><nom>$ ^qil<v><tv><ifi><p3><sg>$^.<sent>$
+[/F0IrkCNoXNdr]
+[GSwsBGGMknuD#0] ^Qoʻl<n><px2pl><nom>$ ^dard<n><nom>$ ^koʻr<v><tv><neg><opt><p3><sg>$^.<sent>$
+[/GSwsBGGMknuD]
+[HCkLrb_G72rA#0] ^Ushbu<det><dem>$ ^mahsulot<n><pl><gen>$ ^eksport<n><nom>$ ^daromad<n><px3pl><nom>$ ^qariyb<adv>$ ^2,2<num>$ ^milliard<num>$ ^dollar<n><nom>$ ^boʻl<v><iv><ifi><p3><pl>$^.<sent>$
+[/HCkLrb_G72rA]
+[HTouz6I71uS-#0] ^Vafo<n><nom>$ ^qil<v><tv><gna_cond><p3><pl>$ ^shu<prn><dem><nom>$ ^goʻzal<adj>$ ^men<prn><pers><p1><sg><nom>$ ^zotan<cnjadv>$ ^vafo<n><nom>$ ^*qilarman$^.<sent>$
+[/HTouz6I71uS-]
+[Jp0zD9O7T6HB#0] ^Terrorizm<n><dat>$ ^qarshi<post>$ ^kurash<n><nom>$ ^davo<n><px1sg><nom>$ ^et<v><tv><prog_inf><p3><pl>$^.<sent>$
+[/Jp0zD9O7T6HB]
+[JvL4fxidYBL_#0] ^Ibodat<n><nom>$ ^e<cop><aor><p3><pl>$ ^qil<v><tv><ger_abst><nom>$ ^uchun<cnjcoo>$ ^*uzak$ ^shahar<n><dat>$ ^ket<v><iv><prog_fut><p1><sg>$^.<sent>$
+[/JvL4fxidYBL_]
+[NavSwO_n1RxG#0] ^Ovqat<n><nom>$ ^juda<adv>$ ^mazali<adj>$ ^boʻl<v><iv><past><evid><p3><sg>$^!<sent>$
+[/NavSwO_n1RxG]
+[R06NUPcYj-tz#0] ^Hindiston<np><top><nom>$ ^va<cnjcoo>$ ^Pokiston<np><top><nom>$ ^oʻrta<n><px3sp><loc><attr>$ ^keskinlik<n><nom>$ ^davo<n><px1sg><nom>$ ^et<v><tv><prog_inf><p3><pl>$^.<sent>$
+[/R06NUPcYj-tz]
+[RmCNd9ANeRTx#0] ^AKP<np><org><gen>$ ^bal<n><px3sp><nom>$ ^9<num>$ ^foiz<n><nom>$ ^ort<v><iv><ifi><p3><pl>$^.<sent>$
+[/RmCNd9ANeRTx]
+[SDnGE9Jkc7VP#0] ^Kim<prn><itg><nom>$ ^bir<det><ind>$ ^ayol<n><dat>$ ^shahvat<n><nom>$ ^bilan<cnjcoo>$ ^qara<v><iv><gna_cond><p3><pl>$^,<cm>$ ^*ko$^ʻ<apos>$^*nglida$ ^u<det><dem>$ ^bilan<cnjcoo>$ ^zino<n><nom>$ ^qil<v><tv><gpr_rsub>$ ^boʻl<v><iv><aor><p3><sg>$^.<sent>$
+[/SDnGE9Jkc7VP]
+[VTdvgo0i04ec#0] ^Hamdard<adj><subst><px2sg><nom>$ ^boʻl<v><iv><opt><p1><sg>$^,<cm>$ ^hamdard<adj><subst><px1sg><nom>$ ^boʻl<v><iv><imp><p2><sg>$^.<sent>$
+[/VTdvgo0i04ec]
+[WEvz3xoeB_xO#0] ^Turkiya<np><top><loc>$ ^xorijlik<n><pl><dat>$ ^turar-joy<n><nom>$ ^e<cop><aor><p3><pl>$ ^sot<v><tv><ger_abst><nom>$ ^nisbat<n><px3sp><loc>$ ^ort<v><iv><ger_abst><nom>$ ^kuzat<v><tv><pass><ifi><p3><pl>$^.<sent>$
+[/WEvz3xoeB_xO]
+[Z9adUw5CLuqS#0] ^Agar<cnjcoo>$ ^siz<prn><pers><p2><pl><nom>$ ^boshqa<adv><subst><pl><gen>$ ^ayb<n><nom>$^-<guio>$^gunoh<n><px3pl><acc>$ ^kechir<v><tv><gna_cond><p2><pl>$^,<cm>$ ^samoviy<adj>$ ^Ota<n><px2pl><nom>$ ^ham<cnjcoo>$ ^siz<prn><pers><p2><pl><acc>$ ^kechir<v><tv><aor><p3><sg>$^.<sent>$
+[/Z9adUw5CLuqS]
+[abZKioMFE3BD#0] ^Kel<v><iv><imp><p2><sg>$ ^de<v><tv><ger_past><loc>$ ^noz<n><nom>$ ^*qilmasdan$ ^kel<v><iv><gna_cond><p2><sg>$^,<cm>$ ^gul<n><nom>$ ^ber<v><tv><ger_past><loc>$ ^*qayirmasdan$ ^ol<v><tv><gna_cond><p2><sg>$^.<sent>$
+[/abZKioMFE3BD]
+[apkVM8PfUDcs#0] ^Kun<n><nom>$ ^oʻt<v><tv><gpr_rsub>$ ^sari<post>$ ^inson<n><pl><nom>$ ^oʻzgar<v><iv><ifi><p3><pl>$^.<sent>$
+[/apkVM8PfUDcs]
+[cuLORgzXGwCr#0] ^Mana<cnjadv>$ ^Usmoniy<adj>$ ^oshxona<n><px3sp><abl>$ ^kunimizgacha<adv>$ ^kel<v><iv><gpr_rsub>$ ^revani<n><nom>$ ^shirinlik<n><px3sp><nom>$ ^ham<cnjcoo>$ ^tayyor<adj><advl>$ ^boʻl<v><iv><ifi><p3><pl>$^.<sent>$
+[/cuLORgzXGwCr]
+[ex75kQ5p49Y3#0] ^Sohibqiron<adj>$ ^askar<n><px3pl><nom>$ ^fil<n><pl><dat>$ ^nayza<n><nom>$ ^sanch<v><tv><ifi><p3><sg>$^.<sent>$
+[/ex75kQ5p49Y3]
+[g98WJZ1gqoo3#0] ^Til<n><px3sp><nom>$ ^e<cop><aor><p1><pl>$ ^bilan<cnjcoo>$ ^Rabb<n><px3sp><nom>$ ^e<cop><aor><p1><pl>$ ^va<cnjcoo>$ ^Ota<n><px1pl><acc>$ ^maqta<v><tv><aor><p1><pl>$^,<cm>$ ^til<n><px3sp><nom>$ ^e<cop><aor><p1><pl>$ ^bilan<cnjcoo>$ ^Xudo<n><gen>$ ^surat<n><px3sp><loc>$ ^yarat<v><tv><pass><gpr_rsub>$ ^inson<n><pl><dat>$ ^la<np><al><nom>$^ʻ<apos>$^*nat$ ^oʻqi<v><tv><aor><p1><pl>$^.<sent>$
+[/g98WJZ1gqoo3]
+[h3Fu_n6fN5rh#0] ^Aholi<n><gen>$ ^koʻpchilik<n><nom>$ ^qism<n><px3sp><nom>$ ^Islom<np><ant><m><nom>$ ^din<n><px3sp><gen>$ ^Hanafiya<n><nom>$ ^mazhab<n><px3sp><loc><attr>$ ^musulmon<n><pl><nom>$ ^e<cop><aor><p3><frm><pl>$^.<sent>$
+[/h3Fu_n6fN5rh]
+[ig9_Mc55MIFE#0] ^PKK<np><org><gen>$ ^14<num>$ ^nafar<n><nom>$ ^terrorist<n><px3sp><nom>$ ^yoʻq<ij>$ ^qil<v><tv><pass><ifi><p3><pl>$^.<sent>$
+[/ig9_Mc55MIFE]
+[k9w2lT-8o0xV#0] ^Oʻzbek<n><nom>$ ^til<n><px3sp><acc>$ ^qachon<adv><itg><abl>$ ^beri<post>$ ^oʻrgan<v><tv><prog><p2><frm><sg>$^?<sent>$
+[/k9w2lT-8o0xV]
+[nA4v7vu4__h5#0] ^Gunoh<n><abl>$ ^tavba<n><nom>$ ^*qilgach$ ^nima<prn><itg><nom>$ ^boʻl<v><iv><aor><p3><sg>$^?<sent>$
+[/nA4v7vu4__h5]
+[noYV95eT0O-O#0] ^Fransuz<n><pl><nom>$ ^qirollik<n><dat>$ ^qarshi<post>$ ^isyon<n><nom>$ ^koʻtar<v><tv><ifi><p3><sg>$^.<sent>$
+[/noYV95eT0O-O]
+[oHUrtT8qs2Rq#0] ^Musulmon<n><nom>$ ^olam<n><px3sp><loc>$ ^mazhab<n><nom>$ ^urush<n><px3sp><nom>$ ^bor<ij>$ ^mi<qst>$^?<sent>$
+[/oHUrtT8qs2Rq]
+[rBAZ2anJ1EHI#0] ^Oʻyla<v><tv><aor><p1><sg>$ ^ki<cnjadv>$ ^siz<prn><pers><p2><pl><nom>$ ^men<prn><pers><p1><sg><dat>$ ^yordam ber<v><iv><aor><p2><frm><sg>$^.<sent>$
+[/rBAZ2anJ1EHI]
+[rZ3y4ZIxvV5S#0] ^Men<np><top><nom>$^,<cm>$ ^Yuhanno<np><ant><m><nom>$^,<cm>$ ^bu<prn><dem><pl><acc>$ ^koʻr<v><tv><ifi><p1><sg>$ ^va<cnjcoo>$ ^eshit<v><tv><ifi><p1><sg>$^.<sent>$
+[/rZ3y4ZIxvV5S]
+[sP3Dxv2qlYNR#0] ^Rossiya<np><top><nom>$ ^ba<abbr><nom>$^ʻ<apos>$^*zi$ ^davlat<n><pl><acc>$ ^jazolantir<v><tv><gpr_fut_plan>$…
+[/sP3Dxv2qlYNR]
+[t6SWBoLX9Cnx#0] ^Tuya<n><gen>$ ^dum<n><px3sp><nom>$ ^yer<n><dat>$ ^tek<v><iv><ger_past><loc>$^.<sent>$
+[/t6SWBoLX9Cnx]
+[uIGENxSUYYom#0] ^Ingliz<n><nom>$ ^va<cnjcoo>$ ^*grek$ ^bosqinchi<n><px3pl><dat>$ ^qarshi<post>$ ^kurash<n><loc>$ ^*turk$ ^armiya<n><px3sp><gen>$ ^qoʻmondon<n><px3sp><nom>$^.<sent>$
+[/uIGENxSUYYom]
+[v8m3p7KAF-Jz#0] ^Men<np><top><nom>$ ^oʻz<prn><ref><px1sg><acc>$ ^bil<v><tv><aor><p1><sg>$^.<sent>$
+[/v8m3p7KAF-Jz]
+[wbdH8h36upD6#0] ^Majnun<n><nom>$ ^boʻl<v><iv><past><evid><p1><sg>$ ^ishq<n><px2sg><abl>$^.<sent>$
+[/wbdH8h36upD6]

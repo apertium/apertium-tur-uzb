@@ -1,0 +1,70 @@
+[5xDF1zGb9IRm#0] ^Oʻrtacha/Oʻrtacha<adv><subst><nom>/Oʻrtacha<adj>/Oʻrtacha<adj><subst><nom>/Oʻrta<adj><subst><nom>+cha<post>/Oʻrta<adj><advl>+cha<post>/Oʻrta<n><nom>+cha<post>/Oʻrta<adj>+cha<post>/Oʻrtacha<adj><advl>/Oʻrtacha<n><nom>/Oʻrtacha<adv>$ ^yillik/yillik<adj>/yillik<adj><subst><nom>$ ^yogʻin/yogʻin<n><nom>/yogʻin<n><attr>$ ^800/800<num>/800<num><subst>/800<num><subst><nom>$–^1200/1200<num>/1200<num><subst>/1200<num><subst><nom>$ ^mm/mm<abbr><nom>/mm<abbr><nom>+e<cop><aor><p3><pl>/mm<abbr><nom>+e<cop><aor><p3><sg>$^./.<sent>$
+[/5xDF1zGb9IRm]
+[8Ynmn3T1VoJj#0] ^Eron/Eron<np><top><nom>$ ^Amerika/Amerika<np><top><nom>$ ^fuqarolarining/fuqaro<n><px3pl><gen>/fuqaro<n><pl><px3sp><gen>$ ^Eronga/Eron<np><top><dat>$ ^kirishini/kir<v><iv><ger_abst><px3sp><acc>/kir<v><tv><ger_abst><px3sp><acc>$ ^man/man<adj><advl>$ ^etmoqchi/et<v><tv><gpr_fut_plan>/et<v><tv><fut_plan><p3><pl>/et<v><tv><fut_plan><p3><sg>$^./.<sent>$
+[/8Ynmn3T1VoJj]
+[D7ikQUJaTIOU#0] ^Nodonlar/Nodon<adj><subst><pl><nom>$ ^kabi/kabi<post>/kabi<cnjsub>$ ^emas/emas<adv>$^,/,<cm>$ ^dono/dono<adj>/dono<adj><subst><nom>$ ^kishilar/kishi<n><pl><nom>$ ^kabi/kabi<post>/kabi<cnjsub>$ ^kun/kun<n><nom>$ ^kechiringlar/kechir<v><tv><imp><p2><pl>$^./.<sent>$
+[/D7ikQUJaTIOU]
+[E23A5sajphmI#0] ^Ey/Ey<ij>$ ^dilbarim/dilbar<n><px1sg><nom>$^,/,<cm>$ ^dilda/dil<n><loc>$ ^kadar/kadar<n><nom>$^,/,<cm>$ ^ketmoqdaman/ket<v><iv><prog_inf><p1><sg>$^./.<sent>$
+[/E23A5sajphmI]
+[F0IrkCNoXNdr#0] ^Isroil/Isroil<np><top><nom>$ ^bosh vaziri/bosh vazir<n><px3sp><nom>$ ^Binyamin/Binyamin<np><ant><m><nom>$ ^Netanyahu/Netanyahu<np><cog><mf><nom>$ ^Eronni/Eron<np><top><acc>$ ^tahdid/tahdid<n><nom>$ ^qildi/qil<v><tv><ifi><p3><pl>/qil<v><tv><ifi><p3><sg>$^./.<sent>$
+[/F0IrkCNoXNdr]
+[GSwsBGGMknuD#0] ^Qo’lingiz/Qoʻl<n><px2pl><nom>$ ^dard/dard<n><nom>$ ^ko’rmasin/koʻr<v><tv><neg><opt><p3><sg>/koʻr<v><tv><neg><opt><p3><pl>$^./.<sent>$
+[/GSwsBGGMknuD]
+[HCkLrb_G72rA#0] ^Ushbu/Ushbu<det><dem>/Ushbu<prn><dem><nom>$ ^mahsulotlarning/mahsulot<n><pl><gen>$ ^eksport/eksport<n><nom>/eksport<n><attr>$ ^daromadlari/daromad<n><px3pl><nom>/daromad<n><pl><px3sp><nom>$ ^qariyb/qariyb<adv>/qariyb<adv><attr>/qariyb<adv><subst><nom>$ ^2,2/2,2<num>/2,2<num><subst>/2,2<num><subst><nom>$ ^milliard/milliard<num>/milliard<num><subst><nom>$ ^dollar/dollar<n><nom>$ ^boʻldi/boʻl<v><iv><ifi><p3><pl>/boʻl<v><iv><ifi><p3><sg>$^./.<sent>$
+[/HCkLrb_G72rA]
+[HTouz6I71uS-#0] ^Vafo/Vafo<n><nom>/Vafo<np><org><nom>$ ^qilsa/qil<v><tv><gna_cond><p3><pl>/qil<v><tv><gna_cond><p3><sg>$ ^shu/shu<prn><dem><nom>$ ^goʻzal/goʻzal<adj>/goʻzal<adj><advl>/goʻzal<adj><subst><nom>$ ^men/men<prn><pers><p1><sg><nom>$ ^zotan/zotan<cnjadv>$ ^vafo/vafo<n><nom>$ ^qilarman/*qilarman$^./.<sent>$
+[/HTouz6I71uS-]
+[Jp0zD9O7T6HB#0] ^Terrorizmga/Terrorizm<n><dat>$ ^qarshi/qarshi<post>$ ^kurash/kurash<n><nom>/kurash<n><attr>$ ^davom/davo<n><px1sg><nom>/davom<n><nom>$ ^etmoqda/et<v><tv><prog_inf><p3><pl>/et<v><tv><prog_inf><p3><sg>$^./.<sent>$
+[/Jp0zD9O7T6HB]
+[JvL4fxidYBL_#0] ^Ibodat/Ibodat<n><nom>+e<cop><aor><p3><pl>/Ibodat<n><nom>+e<cop><aor><p3><sg>$ ^qilish/qil<v><tv><ger_abst><nom>$ ^uchun/uchun<cnjcoo>/uchun<post>$ ^uzak/*uzak$ ^shaharga/shahar<n><dat>$ ^ketayatirman/ket<v><iv><prog_fut><p1><sg>$^./.<sent>$
+[/JvL4fxidYBL_]
+[NavSwO_n1RxG#0] ^Ovqat/Ovqat<n><nom>$ ^juda/juda<adj>/juda<adv>/juda<adj><advl>/juda<adj><subst><nom>$ ^mazali/mazali<adj>/mazali<adj><subst><nom>$ ^bo’libdi/boʻl<v><iv><past><evid><p3><sg>/boʻl<v><iv><past><evid><p3><pl>$^!/!<sent>$
+[/NavSwO_n1RxG]
+[R06NUPcYj-tz#0] ^Hindiston/Hindiston<np><top><nom>$ ^va/va<cnjcoo>$ ^Pokiston/Pokiston<np><top><nom>$ ^o’rtasidagi/oʻrta<n><px3sp><loc><attr>$ ^keskinlik/keskinlik<n><nom>/keskinlik<n><attr>$ ^davom/davo<n><px1sg><nom>/davom<n><nom>$ ^etmoqda/et<v><tv><prog_inf><p3><pl>/et<v><tv><prog_inf><p3><sg>$^./.<sent>$
+[/R06NUPcYj-tz]
+[RmCNd9ANeRTx#0] ^AKPning/AKP<np><org><gen>$ ^bali/bal<n><px3sp><nom>$ ^9/9<num>/9<num><subst>/9<num><subst><nom>$ ^foiz/foiz<n><nom>$ ^ortdi/ort<v><iv><ifi><p3><pl>/ort<v><iv><ifi><p3><sg>$^./.<sent>$
+[/RmCNd9ANeRTx]
+[SDnGE9Jkc7VP#0] ^Kim/Ki<np><top><px1sg><nom>/Ki<np><cog><mf><px1sg><nom>/Kim<prn><itg><nom>/Kim<np><ant><m><nom>$ ^bir/bir<num>/bir<det><ind>/bir<num><subst><nom>$ ^ayolga/ayol<n><dat>$ ^shahvat/shahvat<n><nom>$ ^bilan/bilan<cnjcoo>/bilan<post>$ ^qarasa/qara<v><iv><gna_cond><p3><pl>/qara<v><iv><gna_cond><p3><sg>$^,/,<cm>$ ^ko/*ko$^‘/ʻ<apos>$^nglida/*nglida$ ^u/u<det><dem>$ ^bilan/bilan<cnjcoo>/bilan<post>$ ^zino/zino<n><nom>$ ^qilgan/qil<v><tv><gpr_rsub>/qil<v><tv><ger_past><nom>$ ^bo‘ladi/boʻl<v><iv><aor><p3><sg>/boʻl<v><iv><aor><p3><pl>$^./.<sent>$
+[/SDnGE9Jkc7VP]
+[VTdvgo0i04ec#0] ^Hamdarding/Hamdard<adj><subst><px2sg><nom>$ ^boʻlayin/boʻl<v><iv><opt><p1><sg>$^,/,<cm>$ ^hamdardim/hamdard<adj><subst><px1sg><nom>$ ^boʻlgin/boʻl<v><iv><imp><p2><sg>$^./.<sent>$
+[/VTdvgo0i04ec]
+[WEvz3xoeB_xO#0] ^Turkiyada/Turkiya<np><top><loc>$ ^xorijliklarga/xorijlik<n><pl><dat>$ ^turar-joy/turar-joy<n><nom>+e<cop><aor><p3><pl>/turar-joy<n><nom>+e<cop><aor><p3><sg>$ ^sotish/sot<v><tv><ger_abst><nom>$ ^nisbatida/nisbat<n><px3sp><loc>$ ^ortish/ort<v><iv><ger_abst><nom>$ ^kuzatildi/kuzat<v><tv><pass><ifi><p3><pl>/kuzat<v><tv><pass><ifi><p3><sg>$^./.<sent>$
+[/WEvz3xoeB_xO]
+[Z9adUw5CLuqS#0] ^Agar/Agar<cnjcoo>/Agar<cnjsub>$ ^siz/siz<prn><pers><p2><pl><nom>$ ^boshqalarning/boshqa<adv><subst><pl><gen>$ ^ayb/ayb<n><nom>/ayb<n><attr>$^-/-<guio>$^gunohlarini/gunoh<n><px3pl><acc>/gunoh<n><pl><px3sp><acc>$ ^kechirsangizlar/kechir<v><tv><gna_cond><p2><pl>$^,/,<cm>$ ^samoviy/samoviy<adj>/samoviy<adj><advl>/samoviy<adj><subst><nom>$ ^Otangiz/Ota<n><px2pl><nom>$ ^ham/ham<cnjcoo>$ ^sizni/siz<prn><pers><p2><pl><acc>$ ^kechiradi/kechir<v><tv><aor><p3><sg>/kechir<v><tv><aor><p3><pl>$^./.<sent>$
+[/Z9adUw5CLuqS]
+[abZKioMFE3BD#0] ^Kel/Kel<v><iv><imp><p2><sg>$ ^deganda/de<v><tv><ger_past><loc>$ ^noz/noz<n><nom>$ ^qilmasdan/*qilmasdan$ ^kelsang/kel<v><iv><gna_cond><p2><sg>$^,/,<cm>$ ^gul/gul<n><nom>$ ^berganda/ber<v><tv><ger_past><loc>$ ^qayirmasdan/*qayirmasdan$ ^olsang/ol<v><tv><gna_cond><p2><sg>$^./.<sent>$
+[/abZKioMFE3BD]
+[apkVM8PfUDcs#0] ^Kun/Kun<n><nom>$ ^oʻtgan/oʻt<v><tv><gpr_rsub>/oʻt<v><tv><ger_past><nom>$ ^sari/sari<post>$ ^insonlar/inson<n><pl><nom>$ ^oʻzgardi/oʻzgar<v><iv><ifi><p3><pl>/oʻzgar<v><iv><ifi><p3><sg>$^./.<sent>$
+[/apkVM8PfUDcs]
+[cuLORgzXGwCr#0] ^Mana/Mana<cnjadv>$ ^Usmoniy/Usmoniy<adj>/Usmoniy<adj><advl>/Usmoniy<adj><subst><nom>$ ^oshxonasidan/oshxona<n><px3sp><abl>$ ^kunimizgacha/kunimizgacha<adv>$ ^kelgan/kel<v><iv><gpr_rsub>/kel<v><iv><ger_past><nom>$ ^revani/revani<n><nom>/revani<n><attr>$ ^shirinligi/shirinlik<n><px3sp><nom>$ ^ham/ham<cnjcoo>$ ^tayyor/tayyor<adj><advl>$ ^bo’ldi/boʻl<v><iv><ifi><p3><pl>/boʻl<v><iv><ifi><p3><sg>$^./.<sent>$
+[/cuLORgzXGwCr]
+[ex75kQ5p49Y3#0] ^Sohibqiron/Sohibqiron<adj>/Sohibqiron<adj><subst><nom>$ ^askarlari/askar<n><px3pl><nom>/askar<n><pl><px3sp><nom>$ ^fillarga/fil<n><pl><dat>$ ^nayza/nayza<n><nom>$ ^sanchdi/sanch<v><tv><ifi><p3><pl>/sanch<v><tv><ifi><p3><sg>$^./.<sent>$
+[/ex75kQ5p49Y3]
+[g98WJZ1gqoo3#0] ^Tilimiz/Til<n><px3sp><nom>+e<cop><aor><p1><pl>/Til<n><px1pl><nom>$ ^bilan/bilan<cnjcoo>/bilan<post>$ ^Rabbimiz/Rabb<n><px3sp><nom>+e<cop><aor><p1><pl>/Rabb<n><px1pl><nom>$ ^va/va<cnjcoo>$ ^Otamizni/Ota<n><px1pl><acc>$ ^maqtaymiz/maqta<v><tv><aor><p1><pl>$^,/,<cm>$ ^tilimiz/til<n><px3sp><nom>+e<cop><aor><p1><pl>/til<n><px1pl><nom>$ ^bilan/bilan<cnjcoo>/bilan<post>$ ^Xudoning/Xudo<n><gen>$ ^suratida/surat<n><px3sp><loc>$ ^yaratilgan/yarat<v><tv><pass><gpr_rsub>$ ^insonlarga/inson<n><pl><dat>$ ^la/la<np><al><nom>$^’/ʻ<apos>$^nat/*nat$ ^o‘qiymiz/oʻqi<v><tv><aor><p1><pl>$^./.<sent>$
+[/g98WJZ1gqoo3]
+[h3Fu_n6fN5rh#0] ^Aholining/Aholi<n><gen>$ ^koʻpchilik/koʻpchilik<n><nom>$ ^qismi/qism<n><px3sp><nom>$ ^Islom/Islom<np><ant><m><nom>$ ^dinining/din<n><px3sp><gen>$ ^Hanafiya/Hanafiya<n><nom>/Hanafiya<n><attr>$ ^mazhabidagi/mazhab<n><px3sp><loc><attr>$ ^musulmonlardir/musulmon<n><pl><nom>+e<cop><aor><p3><frm><pl>/musulmon<n><pl><nom>+e<cop><aor><p3><frm><sg>$^./.<sent>$
+[/h3Fu_n6fN5rh]
+[ig9_Mc55MIFE#0] ^PKKning/PKK<np><org><gen>$ ^14/14<num>/14<num><subst>/14<num><subst><nom>$ ^nafar/nafar<n><nom>/nafar<n><attr>$ ^terroristi/terrorist<n><px3sp><nom>$ ^yo’q/yoʻq<ij>$ ^qilindi/qil<v><tv><pass><ifi><p3><pl>/qil<v><tv><pass><ifi><p3><sg>$^./.<sent>$
+[/ig9_Mc55MIFE]
+[k9w2lT-8o0xV#0] ^O’zbek/Oʻzbek<n><nom>/Oʻzbek<n><attr>$ ^tilini/til<n><px3sp><acc>$ ^qachondan/qachon<adv><itg><abl>$ ^beri/beri<post>$ ^o’rganyapsiz/oʻrgan<v><tv><prog><p2><frm><sg>$^?/?<sent>$
+[/k9w2lT-8o0xV]
+[nA4v7vu4__h5#0] ^Gunohdan/Gunoh<n><abl>$ ^tavba/tavba<n><nom>$ ^qilgach/*qilgach$ ^nima/nima<prn><itg><nom>$ ^boʻladi/boʻl<v><iv><aor><p3><sg>/boʻl<v><iv><aor><p3><pl>$^?/?<sent>$
+[/nA4v7vu4__h5]
+[noYV95eT0O-O#0] ^Fransuzlar/Fransuz<n><pl><nom>/Fransuz<np><top><pl><nom>$ ^qirollikka/qirollik<n><dat>$ ^qarshi/qarshi<post>$ ^isyon/isyon<n><nom>$ ^koʻtardi/koʻtar<v><tv><ifi><p3><pl>/koʻtar<v><tv><ifi><p3><sg>$^./.<sent>$
+[/noYV95eT0O-O]
+[oHUrtT8qs2Rq#0] ^Musulmon/Musulmon<n><nom>/Musulmon<n><attr>$ ^olamida/olam<n><px3sp><loc>$ ^mazhab/mazhab<n><nom>/mazhab<n><attr>$ ^urushi/urush<n><px3sp><nom>$ ^bor/bor<ij>$ ^mi/mi<qst>$^?/?<sent>$
+[/oHUrtT8qs2Rq]
+[rBAZ2anJ1EHI#0] ^O’ylaymanki/Oʻyla<v><tv><aor><p1><sg>+ki<cnjadv>$ ^siz/siz<prn><pers><p2><pl><nom>$ ^menga/men<prn><pers><p1><sg><dat>$ ^yordam berasiz/yordam ber<v><iv><aor><p2><frm><sg>$^./.<sent>$
+[/rBAZ2anJ1EHI]
+[rZ3y4ZIxvV5S#0] ^Men/Men<np><top><nom>$^,/,<cm>$ ^Yuhanno/Yuhanno<np><ant><m><nom>$^,/,<cm>$ ^bularni/bu<prn><dem><pl><acc>$ ^ko‘rdim/koʻr<v><tv><ifi><p1><sg>$ ^va/va<cnjcoo>$ ^eshitdim/eshit<v><tv><ifi><p1><sg>$^./.<sent>$
+[/rZ3y4ZIxvV5S]
+[sP3Dxv2qlYNR#0] ^Rossiya/Rossiya<np><top><nom>$ ^ba/ba<abbr><nom>$^’/ʻ<apos>$^zi/*zi$ ^davlatlarni/davlat<n><pl><acc>$ ^jazolantirmoqchi/jazolantir<v><tv><gpr_fut_plan>$…
+[/sP3Dxv2qlYNR]
+[t6SWBoLX9Cnx#0] ^Tuyaning/Tuya<n><gen>$ ^dumi/dum<n><px3sp><nom>$ ^yerga/yer<n><dat>$ ^tekkanda/tek<v><iv><ger_past><loc>$^./.<sent>$
+[/t6SWBoLX9Cnx]
+[uIGENxSUYYom#0] ^Ingliz/Ingliz<n><nom>/Ingliz<n><nom>$ ^va/va<cnjcoo>$ ^grek/*grek$ ^bosqinchilariga/bosqinchi<n><px3pl><dat>/bosqinchi<n><pl><px3sp><dat>$ ^qarshi/qarshi<post>$ ^kurashda/kurash<n><loc>$ ^turk/*turk$ ^armiyasining/armiya<n><px3sp><gen>$ ^qoʻmondoni/qoʻmondon<n><px3sp><nom>$^./.<sent>$
+[/uIGENxSUYYom]
+[v8m3p7KAF-Jz#0] ^Men/Men<np><top><nom>$ ^o’zimni/oʻz<prn><ref><px1sg><acc>$ ^bilaman/bil<v><tv><aor><p1><sg>$^./.<sent>$
+[/v8m3p7KAF-Jz]
+[wbdH8h36upD6#0] ^Majnun/Majnun<n><nom>$ ^boʻlmishman/boʻl<v><iv><past><evid><p1><sg>$ ^ishqingdan/ishq<n><px2sg><abl>/ishq<n><px2sg><abl>+e<cop><aor><p3><pl>/ishq<n><px2sg><abl>+e<cop><aor><p3><sg>$^./.<sent>$
+[/wbdH8h36upD6]

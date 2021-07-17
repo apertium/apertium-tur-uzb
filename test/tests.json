@@ -1,0 +1,6 @@
+{
+    "uzb-tur-regression": {
+        "input": "uzb-tur-regression-input.txt",
+        "mode": "uzb-tur"
+    }
+}
